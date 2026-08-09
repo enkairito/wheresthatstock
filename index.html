@@ -159,11 +159,20 @@
     font-size: 0.9rem;
   }
 
+  .filter-group { margin-bottom: 18px; }
+  .filter-label {
+    display: block;
+    font-size: 0.72rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--muted);
+    margin-bottom: 8px;
+  }
   .filter-row {
     display: flex;
     gap: 8px;
     flex-wrap: wrap;
-    margin-bottom: 18px;
   }
   .filter-chip {
     font-family: inherit;
@@ -289,10 +298,13 @@
       <input type="text" id="search" placeholder="Buscar producto..." autocomplete="off">
     </div>
   </div>
-  <div class="filter-row" id="filters">
-    <button class="filter-chip" data-status="compra_directa" aria-pressed="true">🛒 Cómpralo ya</button>
-    <button class="filter-chip" data-status="invitacion" aria-pressed="true">🎟️ Con invitación</button>
-    <button class="filter-chip" data-status="no_disponible" aria-pressed="true">⚪ No disponible</button>
+  <div class="filter-group">
+    <span class="filter-label">Disponibilidad</span>
+    <div class="filter-row" id="filters">
+      <button class="filter-chip" data-status="compra_directa" aria-pressed="true">🛒 Cómpralo ya</button>
+      <button class="filter-chip" data-status="invitacion" aria-pressed="true">🎟️ Con invitación</button>
+      <button class="filter-chip" data-status="no_disponible" aria-pressed="true">⚪ No disponible</button>
+    </div>
   </div>
   <div class="count" id="count"></div>
   <div class="grid" id="grid"></div>
