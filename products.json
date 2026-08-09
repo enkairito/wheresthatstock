@@ -1,4 +1,315 @@
 {
-  "updated_at": null,
-  "products": []
+  "updated_at": "2026-08-09T21:43:01.416472+00:00",
+  "products": [
+    {
+      "asin": "B0H3LQY1Q7",
+      "name": "Pokémon: Colección prémium Mega-Greninja ex (1 Carta holográfica de promoción, 1 Carta de promoción de Gran tamaño con Efecto 3D y 8 Sobres de Mejora)",
+      "image": "https://m.media-amazon.com/images/I/91GiddbZAiL._AC_UL320_.jpg",
+      "price": "46,99 €",
+      "original_price": null,
+      "status": "invitacion",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0H3LQY1Q7?tag=enkairito-21"
+    },
+    {
+      "asin": "B0GZL7PBX1",
+      "name": "Pokémon: Blíster de 3 Sobres de Mejora de Megaevolución-Oscuridad Absoluta (1 Carta holográfica de promoción y 3 Sobres de Mejora)",
+      "image": "https://m.media-amazon.com/images/I/91H1dBWZTIL._AC_UL320_.jpg",
+      "price": "15,99 €",
+      "original_price": null,
+      "status": "invitacion",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GZL7PBX1?tag=enkairito-21"
+    },
+    {
+      "asin": "B0GZL2WPMF",
+      "name": "Pokémon: Lote de Sobres de Mejora de Megaevolución-Oscuridad Absoluta (6 Sobres de Mejora)",
+      "image": "https://m.media-amazon.com/images/I/81LmiHJbKpL._AC_UL320_.jpg",
+      "price": "29,94 €",
+      "original_price": null,
+      "status": "invitacion",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GZL2WPMF?tag=enkairito-21"
+    },
+    {
+      "asin": "B0GZL8WKB6",
+      "name": "Pokémon: Expositor de Sobres de Mejora de Megaevolución-Oscuridad Absoluta (18 Sobres de Mejora)",
+      "image": "https://m.media-amazon.com/images/I/81Z9k9SQ1qL._AC_UL320_.jpg",
+      "price": "89,82 €",
+      "original_price": null,
+      "status": "invitacion",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GZL8WKB6?tag=enkairito-21"
+    },
+    {
+      "asin": "B0GZKZ1FL9",
+      "name": "Pokémon: Caja de Entrenador Élite de Megaevolución-Oscuridad Absoluta (1 Carta de promoción con ilustración expandida, 9 Sobres de Mejora y Accesorios prémium)",
+      "image": "https://m.media-amazon.com/images/I/817ADC+IgxL._AC_UL320_.jpg",
+      "price": "52,99 €",
+      "original_price": null,
+      "status": "invitacion",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GZKZ1FL9?tag=enkairito-21"
+    },
+    {
+      "asin": "B0H1HDKXGH",
+      "name": "Pokémon: Lata Megaluz Lunar: Mega-Clefable ex de JCC Pokémon (4 Sobres de Mejora y 1 Carta holográfica de promoción)",
+      "image": "https://m.media-amazon.com/images/I/71dXIf3XEdL._AC_UL320_.jpg",
+      "price": "24,99 €",
+      "original_price": null,
+      "status": "invitacion",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0H1HDKXGH?tag=enkairito-21"
+    },
+    {
+      "asin": "B0H1HJGYVV",
+      "name": "Pokémon: Colección Ilustración Primer Compañero de JCC Pokémon (Serie 2) (3 Cartas de promoción, 2 Sobres de Mejora y 1 Hoja con Pegatinas)",
+      "image": "https://m.media-amazon.com/images/I/81FbnvRuO2L._AC_UL320_.jpg",
+      "price": "17,99 €",
+      "original_price": null,
+      "status": "invitacion",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0H1HJGYVV?tag=enkairito-21"
+    },
+    {
+      "asin": "B0GWDS3WTY",
+      "name": "Pokémon: Colección prémium Mega-Zygarde ex (1 Carta de promoción, 1 Carta de Gran tamaño con Efecto 3D, 1 Pegatina Especial y 8 Sobres de Mejora)",
+      "image": "https://m.media-amazon.com/images/I/919J8y6V7tL._AC_UL320_.jpg",
+      "price": "46,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GWDS3WTY?tag=enkairito-21"
+    },
+    {
+      "asin": "B0GVKFS7KT",
+      "name": "Pokémon: Baraja Combate de Liga de Mega-Lucario ex de JCC Pokémon (1 baraja de 60 Cartas Lista para Jugar con Mega-Lucario ex)",
+      "image": "https://m.media-amazon.com/images/I/91FkiInwP8L._AC_UL320_.jpg",
+      "price": "34,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GVKFS7KT?tag=enkairito-21"
+    },
+    {
+      "asin": "B0FXTY9D99",
+      "name": "Pokémon: Blíster de 3 Sobres de Mejora de Megaevolución-Caos Creciente (1 Carta holográfica de promoción y 3 Sobres de Mejora)",
+      "image": "https://m.media-amazon.com/images/I/91W3mb5XG7L._AC_UL320_.jpg",
+      "price": null,
+      "original_price": null,
+      "status": "no_disponible",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FXTY9D99?tag=enkairito-21"
+    },
+    {
+      "asin": "B0GSSR9ZNS",
+      "name": "Pokémon: Caja de Entrenador Élite de Megaevolución-Caos Creciente (1 Carta de promoción con ilustración expandida, 9 Sobres de Mejora y Accesorios prémium)",
+      "image": "https://m.media-amazon.com/images/I/81GaBBRUP9L._AC_UL320_.jpg",
+      "price": "52,99 €",
+      "original_price": null,
+      "status": "invitacion",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GSSR9ZNS?tag=enkairito-21"
+    },
+    {
+      "asin": "B0GSSQYPK3",
+      "name": "Pokémon: Lote de Sobres de Mejora de Megaevolución-Caos Creciente (6 Sobres de Mejora)",
+      "image": "https://m.media-amazon.com/images/I/81BZ1qYT8CL._AC_UL320_.jpg",
+      "price": "29,94 €",
+      "original_price": null,
+      "status": "invitacion",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GSSQYPK3?tag=enkairito-21"
+    },
+    {
+      "asin": "B0GSSJ9RB1",
+      "name": "Pokémon: Expositor de Sobres de Mejora de Megaevolución-Caos Creciente (18 Sobres de Mejora)",
+      "image": "https://m.media-amazon.com/images/I/81PT7Xgq3gL._AC_UL320_.jpg",
+      "price": null,
+      "original_price": null,
+      "status": "no_disponible",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GSSJ9RB1?tag=enkairito-21"
+    },
+    {
+      "asin": "B0GYSJDWDS",
+      "name": "Pokémon: Minilata Ciudad Luminalia: Salamence y Litleo de JCC Pokémon (2 Sobres de Mejora, 1 Tarjeta ilustrada y 1 Pegatina)",
+      "image": "https://m.media-amazon.com/images/I/71vnL1rFskL._AC_UL320_.jpg",
+      "price": "10,99 €",
+      "original_price": null,
+      "status": "invitacion",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GYSJDWDS?tag=enkairito-21"
+    },
+    {
+      "asin": "B0GYSKSSTH",
+      "name": "Pokémon: Minilata Ciudad Luminalia: Meganium y Meowstic de JCC Pokémon (2 Sobres de Mejora, 1 Tarjeta ilustrada y 1 Pegatina)",
+      "image": "https://m.media-amazon.com/images/I/71vEyJFZ5dL._AC_UL320_.jpg",
+      "price": "10,99 €",
+      "original_price": null,
+      "status": "invitacion",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GYSKSSTH?tag=enkairito-21"
+    },
+    {
+      "asin": "B0GYSDGPBH",
+      "name": "Pokémon: Minilata Ciudad Luminalia: Emboar e Inkay de JCC Pokémon (2 Sobres de Mejora, 1 Tarjeta ilustrada y 1 Pegatina)",
+      "image": "https://m.media-amazon.com/images/I/717zyt41kgL._AC_UL320_.jpg",
+      "price": "10,99 €",
+      "original_price": null,
+      "status": "invitacion",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GYSDGPBH?tag=enkairito-21"
+    },
+    {
+      "asin": "B0GYSKFHBY",
+      "name": "Pokémon: Minilata Ciudad Luminalia: Feraligatr y Budew de JCC Pokémon (2 Sobres de Mejora, 1 Tarjeta ilustrada y 1 Pegatina)",
+      "image": "https://m.media-amazon.com/images/I/71HUTp5EwfL._AC_UL320_.jpg",
+      "price": "10,99 €",
+      "original_price": null,
+      "status": "invitacion",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GYSKFHBY?tag=enkairito-21"
+    },
+    {
+      "asin": "B0GYSGQ9R8",
+      "name": "Pokémon: Minilata Ciudad Luminalia: Gallade y Goomy de JCC Pokémon (2 Sobres de Mejora, 1 Tarjeta ilustrada y 1 Pegatina)",
+      "image": "https://m.media-amazon.com/images/I/71fpBFK2PBL._AC_UL320_.jpg",
+      "price": "10,99 €",
+      "original_price": null,
+      "status": "invitacion",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GYSGQ9R8?tag=enkairito-21"
+    },
+    {
+      "asin": "B0G4NVYMTH",
+      "name": "Pokémon: Lote de Sobres de Mejora de Megaevolución-Héroes Ascendentes (6 Sobres de Mejora)",
+      "image": "https://m.media-amazon.com/images/I/81nL3rPlPYL._AC_UL320_.jpg",
+      "price": null,
+      "original_price": null,
+      "status": "no_disponible",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0G4NVYMTH?tag=enkairito-21"
+    },
+    {
+      "asin": "B0G7JDFL9J",
+      "name": "Pokémon: Colección Mega-Emboar ex de Megaevolución-Héroes Ascendentes (1 Carta holográfica de promoción, 1 Carta de Gran tamaño con Efecto 3D y 4 Sobres de Mejora)",
+      "image": "https://m.media-amazon.com/images/I/91IsZX7TQGL._AC_UL320_.jpg",
+      "price": null,
+      "original_price": null,
+      "status": "no_disponible",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0G7JDFL9J?tag=enkairito-21"
+    },
+    {
+      "asin": "B0G7HYD9WC",
+      "name": "Pokémon: Colección Mega-Feraligatr ex de Megaevolución-Héroes Ascendentes (1 Carta holográfica de promoción, 1 Carta de Gran tamaño con Efecto 3D y 4 Sobres de Mejora)",
+      "image": "https://m.media-amazon.com/images/I/91gEje03TJL._AC_UL320_.jpg",
+      "price": "24,99 €",
+      "original_price": null,
+      "status": "invitacion",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0G7HYD9WC?tag=enkairito-21"
+    },
+    {
+      "asin": "B0GMR6QZV6",
+      "name": "Pokémon: Colección Ilustración Primer Compañero de JCC Pokémon (Serie 1) (3 Cartas de promoción, 2 Sobres de Mejora y 1 Hoja con Pegatinas)",
+      "image": "https://m.media-amazon.com/images/I/81TJqNiZJmL._AC_UL320_.jpg",
+      "price": null,
+      "original_price": null,
+      "status": "no_disponible",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GMR6QZV6?tag=enkairito-21"
+    },
+    {
+      "asin": "B0CT5T766W",
+      "name": "Pokémon: Cofre de Coleccionista - 2022",
+      "image": "https://m.media-amazon.com/images/I/71k+ET8c4PL._AC_UL320_.jpg",
+      "price": null,
+      "original_price": null,
+      "status": "no_disponible",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CT5T766W?tag=enkairito-21"
+    },
+    {
+      "asin": "B0C64LR9BS",
+      "name": "Pokémon: Estadio Combina y Combate de Escarlata y Púrpura-Evoluciones en Paldea (2 Barajas, 11 Paquetes de Mejora y más)",
+      "image": "https://m.media-amazon.com/images/I/81x2M0okWML._AC_UL320_.jpg",
+      "price": "69,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0C64LR9BS?tag=enkairito-21"
+    },
+    {
+      "asin": "B0GGJ1QQNZ",
+      "name": "Pokémon: Lote de latas Poké Ball de JCC Pokémon: Poké, Honor y Acopio (9 Sobres de Mejora de JCC Pokémon y 6 Hojas con Pegatinas)",
+      "image": "https://m.media-amazon.com/images/I/81vXrsY4quL._AC_UL320_.jpg",
+      "price": null,
+      "original_price": null,
+      "status": "no_disponible",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GGJ1QQNZ?tag=enkairito-21"
+    },
+    {
+      "asin": "B0D6WJH3SN",
+      "name": "Pokémon Academia de Combate del Juego de Cartas Coleccionables Pokémon de JCC Pokémon 2024 (Pikachu, Armarouge y Darkrai)",
+      "image": "https://m.media-amazon.com/images/I/91MfUFbcvPL._AC_UL320_.jpg",
+      "price": "29,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0D6WJH3SN?tag=enkairito-21"
+    },
+    {
+      "asin": "B0CJYK29Y9",
+      "name": "Pokémon: Baraja Combate de Liga de Miraidon ex",
+      "image": "https://m.media-amazon.com/images/I/91WNfuBv63L._AC_UL320_.jpg",
+      "price": "34,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CJYK29Y9?tag=enkairito-21"
+    },
+    {
+      "asin": "B0C64J197W",
+      "name": "Pokémon: Herramientas de Entrenador de 2023 (más de 150 valiosas Cartas, 4 Paquetes de Mejora y más)",
+      "image": "https://m.media-amazon.com/images/I/612jFfQ-IdL._AC_UL320_.jpg",
+      "price": "34,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0C64J197W?tag=enkairito-21"
+    },
+    {
+      "asin": "B0BMGR3QZW",
+      "name": "Pokémon: Baraja Combate De Liga De Mew VMAX (1 baraja de 60 Cartas Completa, 6 2 Cartas holográficas)",
+      "image": "https://m.media-amazon.com/images/I/81Iapnfdd5L._AC_UL320_.jpg",
+      "price": "34,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0BMGR3QZW?tag=enkairito-21"
+    },
+    {
+      "asin": "B0DT7D5K1X",
+      "name": "Pokémon Colección prémium Bellibolt ex de e-Nigma de JCC Pokémon (1 Carta holográfica con ilustración expandida, 6 Sobres de Mejora y Figuras acrílicas)",
+      "image": "https://m.media-amazon.com/images/I/81rIqLmegfL._AC_UL320_.jpg",
+      "price": null,
+      "original_price": null,
+      "status": "no_disponible",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DT7D5K1X?tag=enkairito-21"
+    },
+    {
+      "asin": "B0C4V8F77B",
+      "name": "Pokémon: Estadio Combina y Combate de Escarlata y Púrpura (2 Barajas, 11 Paquetes de Mejora y más)",
+      "image": "https://m.media-amazon.com/images/I/81eF8wu4I1L._AC_UL320_.jpg",
+      "price": "69,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0C4V8F77B?tag=enkairito-21"
+    }
+  ]
 }
