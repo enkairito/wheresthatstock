@@ -159,40 +159,63 @@
     font-size: 0.9rem;
   }
 
-  .filter-group { margin-bottom: 18px; }
-  .filter-label {
-    display: block;
-    font-size: 0.72rem;
-    font-weight: 800;
-    text-transform: uppercase;
-    letter-spacing: 0.04em;
-    color: var(--muted);
-    margin-bottom: 8px;
-  }
-  .filter-row {
+  .filter-row { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 18px; }
+
+  .filter-group { position: relative; }
+  .filter-toggle {
     display: flex;
+    align-items: center;
     gap: 8px;
-    flex-wrap: wrap;
-  }
-  .filter-chip {
     font-family: inherit;
-    font-size: 0.8rem;
+    font-size: 0.85rem;
     font-weight: 800;
-    padding: 7px 14px;
-    border-radius: 999px;
+    padding: 10px 14px;
+    border-radius: 12px;
     border: 1.5px solid var(--border);
     background: var(--card-bg);
-    color: var(--muted);
-    cursor: pointer;
-    transition: background 0.15s, color 0.15s, border-color 0.15s;
-  }
-  .filter-chip[aria-pressed="true"] {
     color: var(--fg);
-    border-color: var(--fg);
+    cursor: pointer;
   }
-  .filter-chip[data-status="compra_directa"][aria-pressed="true"] { background: var(--available-bg); color: var(--available); border-color: var(--available); }
-  .filter-chip[data-status="invitacion"][aria-pressed="true"] { background: var(--invitation-bg); color: var(--invitation); border-color: var(--invitation); }
-  .filter-chip[data-status="no_disponible"][aria-pressed="true"] { background: var(--unavailable-bg); color: var(--unavailable); border-color: var(--unavailable); }
+  .filter-toggle .chevron { color: var(--muted); font-size: 0.7rem; transition: transform 0.15s; }
+  .filter-toggle[aria-expanded="true"] .chevron { transform: rotate(180deg); }
+  .filter-toggle .active-count {
+    background: var(--fg);
+    color: var(--bg);
+    font-size: 0.68rem;
+    font-weight: 800;
+    padding: 1px 7px;
+    border-radius: 999px;
+  }
+
+  .filter-panel {
+    position: absolute;
+    top: calc(100% + 6px);
+    left: 0;
+    z-index: 10;
+    display: flex;
+    flex-direction: column;
+    min-width: 200px;
+    background: var(--card-bg);
+    border: 1.5px solid var(--border);
+    border-radius: 12px;
+    padding: 6px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+  }
+  .filter-panel[hidden] { display: none; }
+
+  .filter-option {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 9px 10px;
+    border-radius: 8px;
+    font-size: 0.88rem;
+    font-weight: 700;
+    color: var(--fg);
+    cursor: pointer;
+  }
+  .filter-option:hover { background: var(--bg); }
+  .filter-option input { width: 16px; height: 16px; accent-color: var(--fg); cursor: pointer; }
 
   .count { color: var(--muted); font-weight: 700; font-size: 0.85rem; margin-bottom: 16px; }
 
@@ -298,12 +321,27 @@
       <input type="text" id="search" placeholder="Buscar producto..." autocomplete="off">
     </div>
   </div>
-  <div class="filter-group">
-    <span class="filter-label">Disponibilidad</span>
-    <div class="filter-row" id="filters">
-      <button class="filter-chip" data-status="compra_directa" aria-pressed="true">🛒 Cómpralo ya</button>
-      <button class="filter-chip" data-status="invitacion" aria-pressed="true">🎟️ Con invitación</button>
-      <button class="filter-chip" data-status="no_disponible" aria-pressed="true">⚪ No disponible</button>
+  <div class="filter-row">
+    <div class="filter-group">
+      <button class="filter-toggle" id="availability-toggle" aria-expanded="false">
+        <span>Disponibilidad</span>
+        <span class="active-count" id="availability-count">3</span>
+        <span class="chevron">▾</span>
+      </button>
+      <div class="filter-panel" id="filters" hidden>
+        <label class="filter-option">
+          <input type="checkbox" data-status="compra_directa" checked>
+          <span>🛒 Cómpralo ya</span>
+        </label>
+        <label class="filter-option">
+          <input type="checkbox" data-status="invitacion" checked>
+          <span>🎟️ Con invitación</span>
+        </label>
+        <label class="filter-option">
+          <input type="checkbox" data-status="no_disponible" checked>
+          <span>⚪ No disponible</span>
+        </label>
+      </div>
     </div>
   </div>
   <div class="count" id="count"></div>
@@ -398,17 +436,33 @@ function applyFilter() {
 
 document.getElementById("search").addEventListener("input", applyFilter);
 
-document.getElementById("filters").addEventListener("click", (e) => {
-  const chip = e.target.closest(".filter-chip");
-  if (!chip) return;
-  const status = chip.dataset.status;
-  const nowActive = chip.getAttribute("aria-pressed") !== "true";
-  chip.setAttribute("aria-pressed", String(nowActive));
-  if (nowActive) {
+const availabilityToggle = document.getElementById("availability-toggle");
+const availabilityPanel = document.getElementById("filters");
+const availabilityCount = document.getElementById("availability-count");
+
+availabilityToggle.addEventListener("click", () => {
+  const isOpen = availabilityToggle.getAttribute("aria-expanded") === "true";
+  availabilityToggle.setAttribute("aria-expanded", String(!isOpen));
+  availabilityPanel.hidden = isOpen;
+});
+
+document.addEventListener("click", (e) => {
+  if (!e.target.closest(".filter-group")) {
+    availabilityToggle.setAttribute("aria-expanded", "false");
+    availabilityPanel.hidden = true;
+  }
+});
+
+availabilityPanel.addEventListener("change", (e) => {
+  const checkbox = e.target.closest("input[data-status]");
+  if (!checkbox) return;
+  const status = checkbox.dataset.status;
+  if (checkbox.checked) {
     activeStatuses.add(status);
   } else {
     activeStatuses.delete(status);
   }
+  availabilityCount.textContent = String(activeStatuses.size);
   applyFilter();
 });
 
