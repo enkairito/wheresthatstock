@@ -64,6 +64,26 @@
     border-bottom: 1px solid var(--border);
   }
 
+  .avatar {
+    width: 76px;
+    height: 76px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid var(--border);
+    display: block;
+    margin: 0 auto 10px;
+  }
+
+  .handle {
+    display: block;
+    color: var(--muted);
+    font-weight: 700;
+    font-size: 0.85rem;
+    text-decoration: none;
+    margin-bottom: 4px;
+  }
+  .handle:hover { color: var(--fg); }
+
   .logo {
     font-family: 'Poppins', sans-serif;
     font-weight: 900;
@@ -138,6 +158,32 @@
     transform: translateY(-50%);
     font-size: 0.9rem;
   }
+
+  .filter-row {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-bottom: 18px;
+  }
+  .filter-chip {
+    font-family: inherit;
+    font-size: 0.8rem;
+    font-weight: 800;
+    padding: 7px 14px;
+    border-radius: 999px;
+    border: 1.5px solid var(--border);
+    background: var(--card-bg);
+    color: var(--muted);
+    cursor: pointer;
+    transition: background 0.15s, color 0.15s, border-color 0.15s;
+  }
+  .filter-chip[aria-pressed="true"] {
+    color: var(--fg);
+    border-color: var(--fg);
+  }
+  .filter-chip[data-status="compra_directa"][aria-pressed="true"] { background: var(--available-bg); color: var(--available); border-color: var(--available); }
+  .filter-chip[data-status="invitacion"][aria-pressed="true"] { background: var(--invitation-bg); color: var(--invitation); border-color: var(--invitation); }
+  .filter-chip[data-status="no_disponible"][aria-pressed="true"] { background: var(--unavailable-bg); color: var(--unavailable); border-color: var(--unavailable); }
 
   .count { color: var(--muted); font-weight: 700; font-size: 0.85rem; margin-bottom: 16px; }
 
@@ -230,6 +276,8 @@
 <body>
 
 <header>
+  <img class="avatar" src="assets/logo.jpg" alt="Where's That Shiny">
+  <a class="handle" href="https://www.instagram.com/wheresthatshiny/" target="_blank" rel="noopener">@wheresthatshiny</a>
   <h1 class="logo">Where's That <span>Stock</span></h1>
   <p class="tagline">Restocks de Pokémon TCG, al minuto</p>
   <div class="live"><span class="dot"></span><span id="live-text">Cargando...</span></div>
@@ -240,6 +288,11 @@
     <div class="search-box">
       <input type="text" id="search" placeholder="Buscar producto..." autocomplete="off">
     </div>
+  </div>
+  <div class="filter-row" id="filters">
+    <button class="filter-chip" data-status="compra_directa" aria-pressed="true">🛒 Cómpralo ya</button>
+    <button class="filter-chip" data-status="invitacion" aria-pressed="true">🎟️ Con invitación</button>
+    <button class="filter-chip" data-status="no_disponible" aria-pressed="true">⚪ No disponible</button>
   </div>
   <div class="count" id="count"></div>
   <div class="grid" id="grid"></div>
@@ -319,13 +372,33 @@ function render(products) {
   grid.innerHTML = products.map(cardHtml).join("");
 }
 
+let activeStatuses = new Set(["compra_directa", "invitacion", "no_disponible"]);
+
 function applyFilter() {
   const q = document.getElementById("search").value.trim().toLowerCase();
-  const filtered = q ? allProducts.filter(p => (p.name || "").toLowerCase().includes(q)) : allProducts;
+  const filtered = allProducts.filter(p => {
+    const matchesStatus = activeStatuses.has(p.status);
+    const matchesSearch = !q || (p.name || "").toLowerCase().includes(q);
+    return matchesStatus && matchesSearch;
+  });
   render(filtered);
 }
 
 document.getElementById("search").addEventListener("input", applyFilter);
+
+document.getElementById("filters").addEventListener("click", (e) => {
+  const chip = e.target.closest(".filter-chip");
+  if (!chip) return;
+  const status = chip.dataset.status;
+  const nowActive = chip.getAttribute("aria-pressed") !== "true";
+  chip.setAttribute("aria-pressed", String(nowActive));
+  if (nowActive) {
+    activeStatuses.add(status);
+  } else {
+    activeStatuses.delete(status);
+  }
+  applyFilter();
+});
 
 fetch("products.json?t=" + Date.now())
   .then(r => r.json())
