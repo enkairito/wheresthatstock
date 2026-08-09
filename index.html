@@ -246,12 +246,13 @@
 
   .card-corner {
     position: absolute;
-    top: 8px;
-    left: 8px;
+    top: 6px;
+    left: 6px;
     z-index: 2;
     display: flex;
     align-items: center;
-    gap: 6px;
+    gap: 5px;
+    flex-wrap: wrap;
   }
   .corner-avatar {
     width: 22px;
@@ -269,6 +270,7 @@
     background: rgba(255,255,255,0.92);
     box-shadow: 0 1px 4px rgba(0,0,0,0.25);
   }
+  .card-corner .badge { box-shadow: 0 1px 4px rgba(0,0,0,0.2); }
   .card-body { padding: 12px 14px 16px; display: flex; flex-direction: column; gap: 8px; flex: 1; }
   .card-name {
     font-size: 0.88rem;
@@ -279,7 +281,6 @@
     -webkit-box-orient: vertical;
     overflow: hidden;
   }
-  .badge-row { display: flex; gap: 6px; flex-wrap: wrap; }
   .badge {
     font-size: 0.72rem;
     font-weight: 800;
@@ -441,12 +442,10 @@ function cardHtml(p) {
         <div class="card-corner" title="${storeLabel}">
           <img class="corner-avatar" src="assets/logo.jpg" alt="">
           ${p.flag ? `<span class="corner-flag">${p.flag}</span>` : ""}
+          <span class="badge status ${statusInfo.cls}">${statusInfo.text}</span>
         </div>
       </div>
       <div class="card-body">
-        <div class="badge-row">
-          <span class="badge status ${statusInfo.cls}">${statusInfo.text}</span>
-        </div>
         <div class="card-name">${p.name || ""}</div>
         ${priceRow}
         ${stockNote}
