@@ -343,6 +343,23 @@
         </label>
       </div>
     </div>
+    <div class="filter-group">
+      <button class="filter-toggle" id="store-toggle" aria-expanded="false">
+        <span>Tienda</span>
+        <span class="active-count" id="store-count">2</span>
+        <span class="chevron">▾</span>
+      </button>
+      <div class="filter-panel" id="store-filters" hidden>
+        <label class="filter-option">
+          <input type="checkbox" data-marketplace="ES" checked>
+          <span>🇪🇸 Amazon ES</span>
+        </label>
+        <label class="filter-option">
+          <input type="checkbox" data-marketplace="UK" checked>
+          <span>🇬🇧 Amazon UK</span>
+        </label>
+      </div>
+    </div>
   </div>
   <div class="count" id="count"></div>
   <div class="grid" id="grid"></div>
@@ -424,47 +441,60 @@ function render(products) {
 }
 
 let activeStatuses = new Set(["compra_directa", "invitacion", "no_disponible"]);
+let activeMarketplaces = new Set(["ES", "UK"]);
 
 function applyFilter() {
   const q = document.getElementById("search").value.trim().toLowerCase();
   const filtered = allProducts.filter(p => {
     const matchesStatus = activeStatuses.has(p.status);
+    const matchesMarketplace = activeMarketplaces.has(p.marketplace);
     const matchesSearch = !q || (p.name || "").toLowerCase().includes(q);
-    return matchesStatus && matchesSearch;
+    return matchesStatus && matchesMarketplace && matchesSearch;
   });
   render(filtered);
 }
 
 document.getElementById("search").addEventListener("input", applyFilter);
 
-const availabilityToggle = document.getElementById("availability-toggle");
-const availabilityPanel = document.getElementById("filters");
-const availabilityCount = document.getElementById("availability-count");
+function setupFilterGroup(toggleId, panelId, countId, dataAttr, activeSet) {
+  const toggle = document.getElementById(toggleId);
+  const panel = document.getElementById(panelId);
+  const count = document.getElementById(countId);
 
-availabilityToggle.addEventListener("click", () => {
-  const isOpen = availabilityToggle.getAttribute("aria-expanded") === "true";
-  availabilityToggle.setAttribute("aria-expanded", String(!isOpen));
-  availabilityPanel.hidden = isOpen;
-});
+  toggle.addEventListener("click", () => {
+    const isOpen = toggle.getAttribute("aria-expanded") === "true";
+    toggle.setAttribute("aria-expanded", String(!isOpen));
+    panel.hidden = isOpen;
+  });
+
+  panel.addEventListener("change", (e) => {
+    const checkbox = e.target.closest(`input[data-${dataAttr}]`);
+    if (!checkbox) return;
+    const value = checkbox.dataset[dataAttr];
+    if (checkbox.checked) {
+      activeSet.add(value);
+    } else {
+      activeSet.delete(value);
+    }
+    count.textContent = String(activeSet.size);
+    applyFilter();
+  });
+
+  return { toggle, panel };
+}
+
+const filterGroups = [
+  setupFilterGroup("availability-toggle", "filters", "availability-count", "status", activeStatuses),
+  setupFilterGroup("store-toggle", "store-filters", "store-count", "marketplace", activeMarketplaces),
+];
 
 document.addEventListener("click", (e) => {
   if (!e.target.closest(".filter-group")) {
-    availabilityToggle.setAttribute("aria-expanded", "false");
-    availabilityPanel.hidden = true;
+    filterGroups.forEach(({ toggle, panel }) => {
+      toggle.setAttribute("aria-expanded", "false");
+      panel.hidden = true;
+    });
   }
-});
-
-availabilityPanel.addEventListener("change", (e) => {
-  const checkbox = e.target.closest("input[data-status]");
-  if (!checkbox) return;
-  const status = checkbox.dataset.status;
-  if (checkbox.checked) {
-    activeStatuses.add(status);
-  } else {
-    activeStatuses.delete(status);
-  }
-  availabilityCount.textContent = String(activeStatuses.size);
-  applyFilter();
 });
 
 fetch("products.json?t=" + Date.now())
