@@ -234,6 +234,7 @@
     flex-direction: column;
   }
   .card-img {
+    position: relative;
     aspect-ratio: 1 / 1;
     background: #fff;
     display: flex;
@@ -242,6 +243,32 @@
     padding: 14px;
   }
   .card-img img { max-width: 100%; max-height: 100%; object-fit: contain; }
+
+  .card-corner {
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    z-index: 2;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .corner-avatar {
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 1.5px solid #fff;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.35);
+  }
+  .corner-flag {
+    font-size: 1.1rem;
+    line-height: 1;
+    padding: 3px 6px;
+    border-radius: 999px;
+    background: rgba(255,255,255,0.92);
+    box-shadow: 0 1px 4px rgba(0,0,0,0.25);
+  }
   .card-body { padding: 12px 14px 16px; display: flex; flex-direction: column; gap: 8px; flex: 1; }
   .card-name {
     font-size: 0.88rem;
@@ -260,7 +287,6 @@
     border-radius: 999px;
     white-space: nowrap;
   }
-  .badge.store { background: var(--unavailable-bg); color: var(--fg); }
   .badge.status.available { background: var(--available-bg); color: var(--available); }
   .badge.status.invitation { background: var(--invitation-bg); color: var(--invitation); }
   .badge.status.unavailable { background: var(--unavailable-bg); color: var(--unavailable); }
@@ -410,10 +436,15 @@ function cardHtml(p) {
 
   return `
     <div class="card" data-name="${(p.name || "").toLowerCase()}">
-      <div class="card-img">${p.image ? `<img src="${p.image}" alt="${p.name}" loading="lazy">` : ""}</div>
+      <div class="card-img">
+        ${p.image ? `<img src="${p.image}" alt="${p.name}" loading="lazy">` : ""}
+        <div class="card-corner" title="${storeLabel}">
+          <img class="corner-avatar" src="assets/logo.jpg" alt="">
+          ${p.flag ? `<span class="corner-flag">${p.flag}</span>` : ""}
+        </div>
+      </div>
       <div class="card-body">
         <div class="badge-row">
-          <span class="badge store">${storeLabel}</span>
           <span class="badge status ${statusInfo.cls}">${statusInfo.text}</span>
         </div>
         <div class="card-name">${p.name || ""}</div>
