@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Where's That Stock — Avisos de restock TCG</title>
+<meta name="description" content="Consulta en directo el stock de productos de Pokémon TCG en Amazon España.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@800;900&family=Montserrat:wght@700;900&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #ffffff;
+    --fg: #0a0a0a;
+    --muted: #6b6b6b;
+    --border: #e5e5e5;
+    --card-bg: #fafafa;
+    --accent: #ffcb05;
+    --accent-fg: #0a0a0a;
+    --available: #1a9e4a;
+    --available-bg: #e7f7ee;
+    --invitation: #a9720a;
+    --invitation-bg: #fdf3e0;
+    --unavailable: #8a8a8a;
+    --unavailable-bg: #f0f0f0;
+    --live-dot: #1a9e4a;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #0e0e0e;
+      --fg: #f5f5f5;
+      --muted: #a3a3a3;
+      --border: #262626;
+      --card-bg: #171717;
+      --available-bg: #10321f;
+      --invitation-bg: #33240a;
+      --unavailable-bg: #232323;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #0e0e0e;
+    --fg: #f5f5f5;
+    --muted: #a3a3a3;
+    --border: #262626;
+    --card-bg: #171717;
+    --available-bg: #10321f;
+    --invitation-bg: #33240a;
+    --unavailable-bg: #232323;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--fg);
+    font-family: 'Montserrat', system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  header {
+    padding: 28px 20px 20px;
+    text-align: center;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .logo {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    font-size: clamp(1.8rem, 5vw, 2.6rem);
+    letter-spacing: -0.02em;
+    margin: 0;
+  }
+  .logo span { color: var(--accent); -webkit-text-stroke: 1px var(--fg); }
+
+  .tagline {
+    color: var(--muted);
+    font-weight: 700;
+    font-size: 0.95rem;
+    margin: 6px 0 18px;
+  }
+
+  .live {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: var(--muted);
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 6px 14px;
+  }
+  .live .dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--live-dot);
+    box-shadow: 0 0 0 0 rgba(26,158,74,0.6);
+    animation: pulse 2s infinite;
+  }
+  @keyframes pulse {
+    0% { box-shadow: 0 0 0 0 rgba(26,158,74,0.55); }
+    70% { box-shadow: 0 0 0 8px rgba(26,158,74,0); }
+    100% { box-shadow: 0 0 0 0 rgba(26,158,74,0); }
+  }
+
+  main { max-width: 1100px; margin: 0 auto; padding: 24px 20px 60px; }
+
+  .search-row {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+  }
+  .search-box {
+    flex: 1 1 260px;
+    position: relative;
+  }
+  .search-box input {
+    width: 100%;
+    padding: 13px 16px 13px 40px;
+    border-radius: 12px;
+    border: 1.5px solid var(--border);
+    background: var(--card-bg);
+    color: var(--fg);
+    font-family: inherit;
+    font-weight: 600;
+    font-size: 0.95rem;
+  }
+  .search-box input:focus { outline: 2px solid var(--accent); outline-offset: -1px; }
+  .search-box::before {
+    content: "🔍";
+    position: absolute;
+    left: 14px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 0.9rem;
+  }
+
+  .count { color: var(--muted); font-weight: 700; font-size: 0.85rem; margin-bottom: 16px; }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 16px;
+  }
+
+  .card {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+  }
+  .card-img {
+    aspect-ratio: 1 / 1;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 14px;
+  }
+  .card-img img { max-width: 100%; max-height: 100%; object-fit: contain; }
+  .card-body { padding: 12px 14px 16px; display: flex; flex-direction: column; gap: 8px; flex: 1; }
+  .card-name {
+    font-size: 0.88rem;
+    font-weight: 700;
+    line-height: 1.3;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .badge-row { display: flex; gap: 6px; flex-wrap: wrap; }
+  .badge {
+    font-size: 0.72rem;
+    font-weight: 800;
+    padding: 3px 9px;
+    border-radius: 999px;
+    white-space: nowrap;
+  }
+  .badge.store { background: var(--unavailable-bg); color: var(--fg); }
+  .badge.status.available { background: var(--available-bg); color: var(--available); }
+  .badge.status.invitation { background: var(--invitation-bg); color: var(--invitation); }
+  .badge.status.unavailable { background: var(--unavailable-bg); color: var(--unavailable); }
+
+  .price-row { display: flex; align-items: baseline; gap: 8px; margin-top: auto; }
+  .price { font-family: 'Poppins', sans-serif; font-weight: 900; font-size: 1.05rem; }
+  .price-original { color: var(--muted); text-decoration: line-through; font-size: 0.82rem; font-weight: 700; }
+  .stock-note { font-size: 0.72rem; font-weight: 800; color: var(--invitation); }
+
+  .buy-btn {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    background: var(--fg);
+    color: var(--bg);
+    font-weight: 800;
+    font-size: 0.85rem;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 4px;
+  }
+  .buy-btn.disabled {
+    background: var(--unavailable-bg);
+    color: var(--muted);
+    pointer-events: none;
+  }
+
+  .empty {
+    text-align: center;
+    color: var(--muted);
+    font-weight: 700;
+    padding: 60px 20px;
+  }
+
+  footer {
+    text-align: center;
+    color: var(--muted);
+    font-size: 0.8rem;
+    font-weight: 600;
+    padding: 30px 20px;
+  }
+  footer a { color: inherit; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1 class="logo">Where's That <span>Stock</span></h1>
+  <p class="tagline">Restocks de Pokémon TCG, al minuto</p>
+  <div class="live"><span class="dot"></span><span id="live-text">Cargando...</span></div>
+</header>
+
+<main>
+  <div class="search-row">
+    <div class="search-box">
+      <input type="text" id="search" placeholder="Buscar producto..." autocomplete="off">
+    </div>
+  </div>
+  <div class="count" id="count"></div>
+  <div class="grid" id="grid"></div>
+  <div class="empty" id="empty" style="display:none;">No se encontraron productos.</div>
+</main>
+
+<footer>
+  Where's That Stock · Enlaces de afiliado de Amazon ·
+  <a href="https://t.me/PokeStockTCG" target="_blank" rel="noopener">Telegram</a> ·
+  <a href="https://www.instagram.com/wheresthatshiny/" target="_blank" rel="noopener">Instagram</a> ·
+  <a href="https://www.tiktok.com/@wheresthatshiny" target="_blank" rel="noopener">TikTok</a>
+</footer>
+
+<script>
+const STATUS_LABEL = {
+  compra_directa: { text: "Disponible", cls: "available" },
+  invitacion: { text: "Invitación", cls: "invitation" },
+  no_disponible: { text: "Agotado", cls: "unavailable" },
+};
+
+let allProducts = [];
+
+function timeAgo(iso) {
+  if (!iso) return "sin datos";
+  const diffMs = Date.now() - new Date(iso).getTime();
+  const mins = Math.floor(diffMs / 60000);
+  if (mins < 1) return "hace instantes";
+  if (mins < 60) return `hace ${mins} min`;
+  const hours = Math.floor(mins / 60);
+  if (hours < 24) return `hace ${hours} h`;
+  return `hace ${Math.floor(hours / 24)} d`;
+}
+
+function cardHtml(p) {
+  const statusInfo = STATUS_LABEL[p.status] || STATUS_LABEL.no_disponible;
+  const priceRow = p.price
+    ? `<div class="price-row">
+        ${p.original_price && p.original_price !== p.price ? `<span class="price-original">${p.original_price}</span>` : ""}
+        <span class="price">${p.price}</span>
+       </div>`
+    : "";
+  const stockNote = p.stock ? `<div class="stock-note">Solo queda(n) ${p.stock} en stock</div>` : "";
+  const available = p.status === "compra_directa" || p.status === "invitacion";
+  const btnLabel = p.status === "invitacion" ? "Solicitar invitación" : (available ? "Comprar en Amazon" : "Agotado");
+  const btnHref = available ? p.link : "#";
+  const btnClass = available ? "buy-btn" : "buy-btn disabled";
+
+  return `
+    <div class="card" data-name="${(p.name || "").toLowerCase()}">
+      <div class="card-img">${p.image ? `<img src="${p.image}" alt="${p.name}" loading="lazy">` : ""}</div>
+      <div class="card-body">
+        <div class="badge-row">
+          <span class="badge store">Amazon ES 🇪🇸</span>
+          <span class="badge status ${statusInfo.cls}">${statusInfo.text}</span>
+        </div>
+        <div class="card-name">${p.name || ""}</div>
+        ${priceRow}
+        ${stockNote}
+        <a class="${btnClass}" href="${btnHref}" target="_blank" rel="noopener">${btnLabel}</a>
+      </div>
+    </div>
+  `;
+}
+
+function render(products) {
+  const grid = document.getElementById("grid");
+  const empty = document.getElementById("empty");
+  const count = document.getElementById("count");
+  if (!products.length) {
+    grid.innerHTML = "";
+    empty.style.display = "block";
+    count.textContent = "";
+    return;
+  }
+  empty.style.display = "none";
+  count.textContent = `${products.length} producto${products.length === 1 ? "" : "s"}`;
+  grid.innerHTML = products.map(cardHtml).join("");
+}
+
+function applyFilter() {
+  const q = document.getElementById("search").value.trim().toLowerCase();
+  const filtered = q ? allProducts.filter(p => (p.name || "").toLowerCase().includes(q)) : allProducts;
+  render(filtered);
+}
+
+document.getElementById("search").addEventListener("input", applyFilter);
+
+fetch("products.json?t=" + Date.now())
+  .then(r => r.json())
+  .then(data => {
+    allProducts = data.products || [];
+    document.getElementById("live-text").textContent = "Actualizado " + timeAgo(data.updated_at);
+    render(allProducts);
+  })
+  .catch(() => {
+    document.getElementById("live-text").textContent = "No se pudo cargar el stock";
+    document.getElementById("empty").style.display = "block";
+    document.getElementById("empty").textContent = "No se pudo cargar el listado de productos.";
+  });
+</script>
+
+</body>
+</html>
