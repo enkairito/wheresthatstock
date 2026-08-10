@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T22:36:33.865132+00:00",
+  "updated_at": "2026-08-10T23:34:22.998951+00:00",
   "products": [
     {
       "asin": "B0H3LQY1Q7",
@@ -470,19 +470,6 @@
       "link": "https://www.amazon.com/dp/B0G3CV6Z9D?tag=wtsus-20"
     },
     {
-      "asin": "B0DYR8D7YC",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Colección Súper Premium de Evoluciones Prismáticas Escarlata y Violeta",
-      "image": "https://m.media-amazon.com/images/I/811hyPaG+OL._AC_UL320_.jpg",
-      "price": "EUR 259.82",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0DYR8D7YC?tag=wtsus-20"
-    },
-    {
       "asin": "B0GG11K25W",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -494,6 +481,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0GG11K25W?tag=wtsus-20"
+    },
+    {
+      "asin": "B0DYR8D7YC",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Colección Súper Premium de Evoluciones Prismáticas Escarlata y Violeta",
+      "image": "https://m.media-amazon.com/images/I/811hyPaG+OL._AC_UL320_.jpg",
+      "price": "EUR 259.82",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0DYR8D7YC?tag=wtsus-20"
     },
     {
       "asin": "B0GW2DK37Q",
@@ -528,7 +528,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Greninja ex Colección Premium",
       "image": "https://m.media-amazon.com/images/I/91E+9GLiyyL._AC_UL320_.jpg",
-      "price": "EUR 41.52",
+      "price": "EUR 54.51",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -554,24 +554,11 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolution: caja de presentación de refuerzo de pedido perfecto",
       "image": "https://m.media-amazon.com/images/I/81-GOqEy8rL._AC_UL320_.jpg",
-      "price": "EUR 181.00",
+      "price": "EUR 177.53",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0GG16Q4X1?tag=wtsus-20"
-    },
-    {
-      "asin": "B09YS3LL3N",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: 3 paquetes de refuerzo y 1 lámina aleatoria | Incluye 3 paquetes blíster de cartas aleatorias y 1 tarjeta promocional holofoil empaquetada individualmente, 097712556710",
-      "image": "https://m.media-amazon.com/images/I/81lYlP-nzFL._AC_UL320_.jpg",
-      "price": "EUR 21.56",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B09YS3LL3N?tag=wtsus-20"
     },
     {
       "asin": "B0DN98RVZM",
@@ -585,6 +572,32 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0DN98RVZM?tag=wtsus-20"
+    },
+    {
+      "asin": "B0GFZV1ZVV",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Caja de Entrenador Élite de Mega Evolución—Orden Perfecta",
+      "image": "https://m.media-amazon.com/images/I/813BmMbm-YL._AC_UL320_.jpg",
+      "price": "EUR 77.88",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0GFZV1ZVV?tag=wtsus-20"
+    },
+    {
+      "asin": "B09YS3LL3N",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: 3 paquetes de refuerzo y 1 lámina aleatoria | Incluye 3 paquetes blíster de cartas aleatorias y 1 tarjeta promocional holofoil empaquetada individualmente, 097712556710",
+      "image": "https://m.media-amazon.com/images/I/81lYlP-nzFL._AC_UL320_.jpg",
+      "price": "EUR 21.56",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B09YS3LL3N?tag=wtsus-20"
     },
     {
       "asin": "B001DIJ48C",
@@ -626,19 +639,6 @@
       "link": "https://www.amazon.com/dp/B0FQP3YQ47?tag=wtsus-20"
     },
     {
-      "asin": "B0GFZV1ZVV",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Caja de Entrenador Élite de Mega Evolución—Orden Perfecta",
-      "image": "https://m.media-amazon.com/images/I/813BmMbm-YL._AC_UL320_.jpg",
-      "price": "EUR 77.88",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0GFZV1ZVV?tag=wtsus-20"
-    },
-    {
       "asin": "B0DDYZX1TB",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -652,19 +652,6 @@
       "link": "https://www.amazon.com/dp/B0DDYZX1TB?tag=wtsus-20"
     },
     {
-      "asin": "B0C6B6V2VK",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Paquete Potenciador Sellado de Fábrica Auténtico (¡Incluye Paquete de Tarjetas Misterio - V/VMAX 1 en 3 - ¡Soporte de Tarjeta Protector Gratis como Bonificación!)",
-      "image": "https://m.media-amazon.com/images/I/61kCpCJbRPL._AC_UL320_.jpg",
-      "price": "EUR 8.56",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0C6B6V2VK?tag=wtsus-20"
-    },
-    {
       "asin": "B0FLCWJ1VK",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -676,6 +663,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0FLCWJ1VK?tag=wtsus-20"
+    },
+    {
+      "asin": "B0C6B6V2VK",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Paquete Potenciador Sellado de Fábrica Auténtico (¡Incluye Paquete de Tarjetas Misterio - V/VMAX 1 en 3 - ¡Soporte de Tarjeta Protector Gratis como Bonificación!)",
+      "image": "https://m.media-amazon.com/images/I/61kCpCJbRPL._AC_UL320_.jpg",
+      "price": "EUR 11.08",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0C6B6V2VK?tag=wtsus-20"
     },
     {
       "asin": "B0F2GZJ3TZ",
@@ -697,7 +697,7 @@
       "flag": "🇺🇸",
       "name": "Colección de más de 50 cartas oficiales de Pokémon con 5 holográficas en cualquier combinación y al menos 1 carta rara, GX, EX, FA, Tag Team o Secret Rare",
       "image": "https://m.media-amazon.com/images/I/71p-47sRv9L._AC_UL320_.jpg",
-      "price": "EUR 7.15",
+      "price": "EUR 6.49",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -723,7 +723,7 @@
       "flag": "🇺🇸",
       "name": "Pokemon TCG: Mega Zygarde ex colección Premium con 8 paquetes de refuerzo | 8 paquetes de refuerzo",
       "image": "https://m.media-amazon.com/images/I/81K1PWw7QeL._AC_UL320_.jpg",
-      "price": "EUR 51.69",
+      "price": "EUR 51.75",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
