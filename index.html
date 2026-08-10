@@ -365,7 +365,7 @@
     <div class="filter-group">
       <button class="filter-toggle" id="store-toggle" aria-expanded="false">
         <span>Tienda</span>
-        <span class="active-count" id="store-count">2</span>
+        <span class="active-count" id="store-count">3</span>
         <span class="chevron">▾</span>
       </button>
       <div class="filter-panel" id="store-filters" hidden>
@@ -376,6 +376,10 @@
         <label class="filter-option">
           <input type="checkbox" data-marketplace="UK" checked>
           <span>🇬🇧 Amazon UK</span>
+        </label>
+        <label class="filter-option">
+          <input type="checkbox" data-marketplace="US" checked>
+          <span>🇺🇸 Amazon USA</span>
         </label>
       </div>
     </div>
@@ -462,7 +466,7 @@ function render(products) {
 }
 
 let activeStatuses = new Set(["compra_directa", "invitacion", "no_disponible"]);
-let activeMarketplaces = new Set(["ES", "UK"]);
+let activeMarketplaces = new Set(["ES", "UK", "US"]);
 
 function applyFilter() {
   const q = document.getElementById("search").value.trim().toLowerCase();
