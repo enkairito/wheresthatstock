@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T10:00:08.415141+00:00",
+  "updated_at": "2026-08-11T10:58:48.694196+00:00",
   "products": [
     {
       "asin": "B0H3LQY1Q7",
@@ -379,6 +379,19 @@
       "link": "https://www.amazon.com/dp/B0GYTRYV7P?tag=wtsus-20"
     },
     {
+      "asin": "B0F2GZJ3TZ",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokemon TCG: Scarlet & Violet - Destined Rivals Caja Expositora de Sobres - 36 Paquetes",
+      "image": "https://m.media-amazon.com/images/I/81qEBWUk7hL._AC_UL320_.jpg",
+      "price": "EUR 554.26",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0F2GZJ3TZ?tag=wtsus-20"
+    },
+    {
       "asin": "B0DYR8D7YC",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -411,7 +424,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Caja de entrenamiento de élite Mega Evolution—Chaos Rising",
       "image": "https://m.media-amazon.com/images/I/81EPbaDcgQL._AC_UL320_.jpg",
-      "price": "EUR 73.50",
+      "price": "EUR 73.16",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -429,19 +442,6 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0GG11K25W?tag=wtsus-20"
-    },
-    {
-      "asin": "B0F2GZJ3TZ",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokemon TCG: Scarlet & Violet - Destined Rivals Caja Expositora de Sobres - 36 Paquetes",
-      "image": "https://m.media-amazon.com/images/I/81qEBWUk7hL._AC_UL320_.jpg",
-      "price": "EUR 554.26",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0F2GZJ3TZ?tag=wtsus-20"
     },
     {
       "asin": "B0GXJ8CSTY",
@@ -476,7 +476,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Lata Mega Moonlit",
       "image": "https://m.media-amazon.com/images/I/81mm4CJGgFL._AC_UL320_.jpg",
-      "price": "EUR 32.82",
+      "price": "EUR 30.61",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -684,7 +684,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Caja de entrenador élite de escarlata y violeta Paradox Rift",
       "image": "https://m.media-amazon.com/images/I/81nXG9v8mPL._AC_UL320_.jpg",
-      "price": "EUR 171.00",
+      "price": "EUR 173.21",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -717,17 +717,17 @@
       "link": "https://www.amazon.com/dp/B0BCN6HZR3?tag=wtsus-20"
     },
     {
-      "asin": "B0DFBGYFD3",
+      "asin": "B0BSNXK3H7",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
-      "name": "Pokémon TCG: Escarlata y Violeta - Caja de Exhibición de Booster Surging Sparks",
-      "image": "https://m.media-amazon.com/images/I/81gt-LWXszL._AC_UL320_.jpg",
-      "price": "EUR 280.60",
+      "name": "Pokémon TCG: Estuche de Entrenador Élite Scarlet & Violet (Miraidon Púrpura o Koraidon Rojo, Color Aleatorio)",
+      "image": "https://m.media-amazon.com/images/I/81kFKYGRq7L._AC_UL320_.jpg",
+      "price": "EUR 170.24",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.com/dp/B0DFBGYFD3?tag=wtsus-20"
+      "link": "https://www.amazon.com/dp/B0BSNXK3H7?tag=wtsus-20"
     },
     {
       "asin": "B09CLGX546",
@@ -743,17 +743,17 @@
       "link": "https://www.amazon.com/dp/B09CLGX546?tag=wtsus-20"
     },
     {
-      "asin": "B0BSNXK3H7",
+      "asin": "B0DFBGYFD3",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
-      "name": "Pokémon TCG: Estuche de Entrenador Élite Scarlet & Violet (Miraidon Púrpura o Koraidon Rojo, Color Aleatorio)",
-      "image": "https://m.media-amazon.com/images/I/81kFKYGRq7L._AC_UL320_.jpg",
-      "price": "EUR 170.24",
+      "name": "Pokémon TCG: Escarlata y Violeta - Caja de Exhibición de Booster Surging Sparks",
+      "image": "https://m.media-amazon.com/images/I/81gt-LWXszL._AC_UL320_.jpg",
+      "price": "EUR 280.60",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.com/dp/B0BSNXK3H7?tag=wtsus-20"
+      "link": "https://www.amazon.com/dp/B0DFBGYFD3?tag=wtsus-20"
     },
     {
       "asin": "B09PQBM615",
@@ -788,7 +788,7 @@
       "flag": "🇺🇸",
       "name": "Pokemon TCG: Caja Entrenador Élite Camino de Campeones, multicolor",
       "image": "https://m.media-amazon.com/images/I/61wlL9CPqyL._AC_UL320_.jpg",
-      "price": "EUR 246.82",
+      "price": "EUR 247.60",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
