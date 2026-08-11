@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T16:00:34.723388+00:00",
+  "updated_at": "2026-08-11T17:07:21.506321+00:00",
   "products": [
     {
       "asin": "B0H3LQY1Q7",
@@ -255,10 +255,10 @@
       "flag": "🇪🇸",
       "name": "Pokémon: Lote de latas Poké Ball de JCC Pokémon: Poké, Honor y Acopio (9 Sobres de Mejora de JCC Pokémon y 6 Hojas con Pegatinas)",
       "image": "https://m.media-amazon.com/images/I/81vXrsY4quL._AC_UL320_.jpg",
-      "price": "47,99 €",
+      "price": null,
       "original_price": null,
-      "status": "compra_directa",
-      "stock": "1",
+      "status": "no_disponible",
+      "stock": null,
       "link": "https://www.amazon.es/dp/B0GGJ1QQNZ?tag=enkairito-21"
     },
     {
@@ -353,32 +353,6 @@
       "link": "https://www.amazon.co.uk/dp/B0GRCDKMSW?tag=wtsuk-21"
     },
     {
-      "asin": "B0G72PSB7D",
-      "marketplace": "UK",
-      "store_label": "Amazon UK",
-      "flag": "🇬🇧",
-      "name": "Pokémon TCG, Mega Evolution, Ascended Heroes Feraligatr ex Box, 1 Foil Promo Card, 1 Oversize Lenticular Card and 4 Booster Packs",
-      "image": "https://m.media-amazon.com/images/I/91KHF4XawRL._AC_UL320_.jpg",
-      "price": "EUR 43.32",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.co.uk/dp/B0G72PSB7D?tag=wtsuk-21"
-    },
-    {
-      "asin": "B0G72QBTBJ",
-      "marketplace": "UK",
-      "store_label": "Amazon UK",
-      "flag": "🇬🇧",
-      "name": "Pokémon TCG, Mega Evolution, Ascended Heroes Emboar ex Box, 1 Foil Promo Card, 1 Oversize Lenticular Card and 4 Booster Packs",
-      "image": "https://m.media-amazon.com/images/I/91tnj2G0NxL._AC_UL320_.jpg",
-      "price": "EUR 43.32",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.co.uk/dp/B0G72QBTBJ?tag=wtsuk-21"
-    },
-    {
       "asin": "B0GR6Q72ND",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -405,13 +379,26 @@
       "link": "https://www.amazon.com/dp/B0GYTRYV7P?tag=wtsus-20"
     },
     {
+      "asin": "B0F2GZJ3TZ",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokemon TCG: Scarlet & Violet - Destined Rivals Caja Expositora de Sobres - 36 Paquetes",
+      "image": "https://m.media-amazon.com/images/I/81qEBWUk7hL._AC_UL320_.jpg",
+      "price": "EUR 554.48",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0F2GZJ3TZ?tag=wtsus-20"
+    },
+    {
       "asin": "B0G3CV6Z9D",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolución: Paquete de refuerzo de héroes ascendidos",
       "image": "https://m.media-amazon.com/images/I/81sZheTQIhL._AC_UL320_.jpg",
-      "price": "EUR 79.92",
+      "price": "EUR 77.92",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -431,26 +418,13 @@
       "link": "https://www.amazon.com/dp/B0DYR8D7YC?tag=wtsus-20"
     },
     {
-      "asin": "B0F2GZJ3TZ",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokemon TCG: Scarlet & Violet - Destined Rivals Caja Expositora de Sobres - 36 Paquetes",
-      "image": "https://m.media-amazon.com/images/I/81qEBWUk7hL._AC_UL320_.jpg",
-      "price": "EUR 554.48",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0F2GZJ3TZ?tag=wtsus-20"
-    },
-    {
       "asin": "B0GW2DK37Q",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Colección de Ilustraciones de Primera Partner —Serie 2",
       "image": "https://m.media-amazon.com/images/I/81ve1KtO-pL._AC_UL320_.jpg",
-      "price": "EUR 40.27",
+      "price": "EUR 40.26",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -489,7 +463,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Lata Mega Moonlit",
       "image": "https://m.media-amazon.com/images/I/81mm4CJGgFL._AC_UL320_.jpg",
-      "price": "EUR 32.91",
+      "price": "EUR 30.91",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -528,7 +502,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolution: caja de presentación de refuerzo de pedido perfecto",
       "image": "https://m.media-amazon.com/images/I/81-GOqEy8rL._AC_UL320_.jpg",
-      "price": "EUR 174.10",
+      "price": "EUR 168.94",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -639,19 +613,6 @@
       "link": "https://www.amazon.com/dp/B0FLCWJ1VK?tag=wtsus-20"
     },
     {
-      "asin": "B0GNCGT9KK",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokemon TCG: Mega Zygarde ex colección Premium con 8 paquetes de refuerzo | 8 paquetes de refuerzo",
-      "image": "https://m.media-amazon.com/images/I/81K1PWw7QeL._AC_UL320_.jpg",
-      "price": "EUR 53.61",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0GNCGT9KK?tag=wtsus-20"
-    },
-    {
       "asin": "B0GRCDKMSW",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -665,13 +626,26 @@
       "link": "https://www.amazon.com/dp/B0GRCDKMSW?tag=wtsus-20"
     },
     {
+      "asin": "B0GNCGT9KK",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokemon TCG: Mega Zygarde ex colección Premium con 8 paquetes de refuerzo | 8 paquetes de refuerzo",
+      "image": "https://m.media-amazon.com/images/I/81K1PWw7QeL._AC_UL320_.jpg",
+      "price": "EUR 53.61",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0GNCGT9KK?tag=wtsus-20"
+    },
+    {
       "asin": "B0829FT44S",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
       "name": "Colección de más de 50 cartas oficiales de Pokémon con 5 holográficas en cualquier combinación y al menos 1 carta rara, GX, EX, FA, Tag Team o Secret Rare",
       "image": "https://m.media-amazon.com/images/I/71p-47sRv9L._AC_UL320_.jpg",
-      "price": "EUR 7.16",
+      "price": "EUR 7.32",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
