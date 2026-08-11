@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T13:00:38.077564+00:00",
+  "updated_at": "2026-08-11T14:24:27.007709+00:00",
   "products": [
     {
       "asin": "B0H3LQY1Q7",
@@ -255,10 +255,10 @@
       "flag": "🇪🇸",
       "name": "Pokémon: Lote de latas Poké Ball de JCC Pokémon: Poké, Honor y Acopio (9 Sobres de Mejora de JCC Pokémon y 6 Hojas con Pegatinas)",
       "image": "https://m.media-amazon.com/images/I/81vXrsY4quL._AC_UL320_.jpg",
-      "price": null,
+      "price": "47,99 €",
       "original_price": null,
-      "status": "no_disponible",
-      "stock": null,
+      "status": "compra_directa",
+      "stock": "1",
       "link": "https://www.amazon.es/dp/B0GGJ1QQNZ?tag=enkairito-21"
     },
     {
@@ -346,10 +346,10 @@
       "flag": "🇬🇧",
       "name": "Pokémon TCG: Mega Lucario ex League Battle Deck (1 Ready-to-Play 60-Card Deck Including Mega Lucario ex)",
       "image": "https://m.media-amazon.com/images/I/918tqXfPc9L._AC_UL320_.jpg",
-      "price": "EUR 32.18",
+      "price": "EUR 32.73",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "1",
+      "stock": null,
       "link": "https://www.amazon.co.uk/dp/B0GRCDKMSW?tag=wtsuk-21"
     },
     {
@@ -379,19 +379,6 @@
       "link": "https://www.amazon.com/dp/B0GYTRYV7P?tag=wtsus-20"
     },
     {
-      "asin": "B0F2GZJ3TZ",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokemon TCG: Scarlet & Violet - Destined Rivals Caja Expositora de Sobres - 36 Paquetes",
-      "image": "https://m.media-amazon.com/images/I/81qEBWUk7hL._AC_UL320_.jpg",
-      "price": "EUR 554.26",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0F2GZJ3TZ?tag=wtsus-20"
-    },
-    {
       "asin": "B0DYR8D7YC",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -403,6 +390,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0DYR8D7YC?tag=wtsus-20"
+    },
+    {
+      "asin": "B0F2GZJ3TZ",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokemon TCG: Scarlet & Violet - Destined Rivals Caja Expositora de Sobres - 36 Paquetes",
+      "image": "https://m.media-amazon.com/images/I/81qEBWUk7hL._AC_UL320_.jpg",
+      "price": "EUR 554.26",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0F2GZJ3TZ?tag=wtsus-20"
     },
     {
       "asin": "B0GW2DK37Q",
@@ -424,7 +424,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Caja de entrenamiento de élite Mega Evolution—Chaos Rising",
       "image": "https://m.media-amazon.com/images/I/81EPbaDcgQL._AC_UL320_.jpg",
-      "price": "EUR 76.11",
+      "price": "EUR 73.16",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -444,6 +444,19 @@
       "link": "https://www.amazon.com/dp/B0GG11K25W?tag=wtsus-20"
     },
     {
+      "asin": "B0GV6WRPRV",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Lata Mega Moonlit",
+      "image": "https://m.media-amazon.com/images/I/81mm4CJGgFL._AC_UL320_.jpg",
+      "price": "EUR 32.90",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0GV6WRPRV?tag=wtsus-20"
+    },
+    {
       "asin": "B0GXJ8CSTY",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -455,19 +468,6 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0GXJ8CSTY?tag=wtsus-20"
-    },
-    {
-      "asin": "B0GV6WRPRV",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Lata Mega Moonlit",
-      "image": "https://m.media-amazon.com/images/I/81mm4CJGgFL._AC_UL320_.jpg",
-      "price": "EUR 30.61",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0GV6WRPRV?tag=wtsus-20"
     },
     {
       "asin": "B0F2BDXW4J",
@@ -489,7 +489,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolution: caja de presentación de refuerzo de pedido perfecto",
       "image": "https://m.media-amazon.com/images/I/81-GOqEy8rL._AC_UL320_.jpg",
-      "price": "EUR 181.00",
+      "price": "EUR 174.03",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -502,7 +502,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Escarlata y Violeta - Paquete de Refuerzo de Prismatic Evolutions",
       "image": "https://m.media-amazon.com/images/I/8191EvbngyL._AC_UL320_.jpg",
-      "price": "EUR 96.99",
+      "price": "EUR 97.76",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -548,19 +548,6 @@
       "link": "https://www.amazon.com/dp/B0BKGX74WP?tag=wtsus-20"
     },
     {
-      "asin": "B0GFZV1ZVV",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Caja de Entrenador Élite de Mega Evolución—Orden Perfecta",
-      "image": "https://m.media-amazon.com/images/I/813BmMbm-YL._AC_UL320_.jpg",
-      "price": "EUR 77.88",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0GFZV1ZVV?tag=wtsus-20"
-    },
-    {
       "asin": "B0C6B6V2VK",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -572,6 +559,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0C6B6V2VK?tag=wtsus-20"
+    },
+    {
+      "asin": "B0GFZV1ZVV",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Caja de Entrenador Élite de Mega Evolución—Orden Perfecta",
+      "image": "https://m.media-amazon.com/images/I/813BmMbm-YL._AC_UL320_.jpg",
+      "price": "EUR 77.88",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0GFZV1ZVV?tag=wtsus-20"
     },
     {
       "asin": "B0DDYZX1TB",
@@ -632,7 +632,7 @@
       "flag": "🇺🇸",
       "name": "Colección de más de 50 cartas oficiales de Pokémon con 5 holográficas en cualquier combinación y al menos 1 carta rara, GX, EX, FA, Tag Team o Secret Rare",
       "image": "https://m.media-amazon.com/images/I/71p-47sRv9L._AC_UL320_.jpg",
-      "price": "EUR 6.49",
+      "price": "EUR 7.15",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -650,19 +650,6 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0F2BCG1Y5?tag=wtsus-20"
-    },
-    {
-      "asin": "B0H2N248WM",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokemon TCG: Mega Evolution Chaos Rising Pokemon Center Elite Trainer Box | CR PKC ETB | Promo exclusivo de Fennekin | 11 paquetes de refuerzo",
-      "image": "https://m.media-amazon.com/images/I/71Dtzhp8caL._AC_UL320_.jpg",
-      "price": "EUR 167.14",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0H2N248WM?tag=wtsus-20"
     },
     {
       "asin": "B0FH6KRSX8",
@@ -689,6 +676,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0CGCVT5RR?tag=wtsus-20"
+    },
+    {
+      "asin": "B0H2N248WM",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokemon TCG: Mega Evolution Chaos Rising Pokemon Center Elite Trainer Box | CR PKC ETB | Promo exclusivo de Fennekin | 11 paquetes de refuerzo",
+      "image": "https://m.media-amazon.com/images/I/71Dtzhp8caL._AC_UL320_.jpg",
+      "price": "EUR 167.14",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0H2N248WM?tag=wtsus-20"
     },
     {
       "asin": "B0DSLY7DZZ",
