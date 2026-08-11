@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T08:53:47.880148+00:00",
+  "updated_at": "2026-08-11T10:00:08.415141+00:00",
   "products": [
     {
       "asin": "B0H3LQY1Q7",
@@ -372,7 +372,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolution—Paquete de refuerzo de tono negro",
       "image": "https://m.media-amazon.com/images/I/81ANtTqGJVL._AC_UL320_.jpg",
-      "price": "EUR 38.58",
+      "price": "EUR 43.22",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -411,7 +411,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Caja de entrenamiento de élite Mega Evolution—Chaos Rising",
       "image": "https://m.media-amazon.com/images/I/81EPbaDcgQL._AC_UL320_.jpg",
-      "price": "EUR 73.36",
+      "price": "EUR 73.50",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -424,7 +424,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolution—Perfect Order Booster Bundle",
       "image": "https://m.media-amazon.com/images/I/81oqIqpLjrL._AC_UL320_.jpg",
-      "price": "EUR 43.26",
+      "price": "EUR 43.29",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -444,19 +444,6 @@
       "link": "https://www.amazon.com/dp/B0F2GZJ3TZ?tag=wtsus-20"
     },
     {
-      "asin": "B0F2BDXW4J",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokemon TCG: Scarlet & Violet - Caja de Entrenador Élite Destined Rivals - 9 Paquetes, Accesorios, Promo",
-      "image": "https://m.media-amazon.com/images/I/814hNCBQClL._AC_UL320_.jpg",
-      "price": "EUR 129.43",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0F2BDXW4J?tag=wtsus-20"
-    },
-    {
       "asin": "B0GXJ8CSTY",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -468,6 +455,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0GXJ8CSTY?tag=wtsus-20"
+    },
+    {
+      "asin": "B0F2BDXW4J",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokemon TCG: Scarlet & Violet - Caja de Entrenador Élite Destined Rivals - 9 Paquetes, Accesorios, Promo",
+      "image": "https://m.media-amazon.com/images/I/814hNCBQClL._AC_UL320_.jpg",
+      "price": "EUR 129.43",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0F2BDXW4J?tag=wtsus-20"
     },
     {
       "asin": "B0GV6WRPRV",
@@ -613,17 +613,17 @@
       "link": "https://www.amazon.com/dp/B0FLCWJ1VK?tag=wtsus-20"
     },
     {
-      "asin": "B0DLPL7LC5",
+      "asin": "B0GNCGT9KK",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
-      "name": "Pokemon TCG: Caja de entrenador élite de evoluciones prismáticas escarlata y violeta",
-      "image": "https://m.media-amazon.com/images/I/81qfGweCdDL._AC_UL320_.jpg",
-      "price": "EUR 172.24",
+      "name": "Pokemon TCG: Mega Zygarde ex colección Premium con 8 paquetes de refuerzo | 8 paquetes de refuerzo",
+      "image": "https://m.media-amazon.com/images/I/81K1PWw7QeL._AC_UL320_.jpg",
+      "price": "EUR 53.59",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.com/dp/B0DLPL7LC5?tag=wtsus-20"
+      "link": "https://www.amazon.com/dp/B0GNCGT9KK?tag=wtsus-20"
     },
     {
       "asin": "B0829FT44S",
@@ -637,19 +637,6 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0829FT44S?tag=wtsus-20"
-    },
-    {
-      "asin": "B0GNCGT9KK",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokemon TCG: Mega Zygarde ex colección Premium con 8 paquetes de refuerzo | 8 paquetes de refuerzo",
-      "image": "https://m.media-amazon.com/images/I/81K1PWw7QeL._AC_UL320_.jpg",
-      "price": "EUR 53.59",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0GNCGT9KK?tag=wtsus-20"
     },
     {
       "asin": "B0GRCDKMSW",
