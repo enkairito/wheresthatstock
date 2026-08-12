@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T08:17:05.585572+00:00",
+  "updated_at": "2026-08-12T10:03:42.881881+00:00",
   "products": [
     {
       "asin": "B0H3LQY1Q7",
@@ -372,24 +372,11 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolución — Paquete de refuerzo del aumento del caos",
       "image": "https://m.media-amazon.com/images/I/81pdaHp6Q1L._AC_UL320_.jpg",
-      "price": "EUR 43.29",
+      "price": "EUR 36.35",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0GR6Q72ND?tag=wtsus-20"
-    },
-    {
-      "asin": "B0DYR8D7YC",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Colección Súper Premium de Evoluciones Prismáticas Escarlata y Violeta",
-      "image": "https://m.media-amazon.com/images/I/811hyPaG+OL._AC_UL320_.jpg",
-      "price": "EUR 259.92",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0DYR8D7YC?tag=wtsus-20"
     },
     {
       "asin": "B0GYVHLP4L",
@@ -405,6 +392,19 @@
       "link": "https://www.amazon.com/dp/B0GYVHLP4L?tag=wtsus-20"
     },
     {
+      "asin": "B0DYR8D7YC",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Colección Súper Premium de Evoluciones Prismáticas Escarlata y Violeta",
+      "image": "https://m.media-amazon.com/images/I/811hyPaG+OL._AC_UL320_.jpg",
+      "price": "EUR 259.92",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0DYR8D7YC?tag=wtsus-20"
+    },
+    {
       "asin": "B0F2GZJ3TZ",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -416,19 +416,6 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0F2GZJ3TZ?tag=wtsus-20"
-    },
-    {
-      "asin": "B0G3CV6Z9D",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Mega Evolución: Paquete de refuerzo de héroes ascendidos",
-      "image": "https://m.media-amazon.com/images/I/81sZheTQIhL._AC_UL320_.jpg",
-      "price": "EUR 77.92",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0G3CV6Z9D?tag=wtsus-20"
     },
     {
       "asin": "B0H2JVZYZZ",
@@ -444,19 +431,6 @@
       "link": "https://www.amazon.com/dp/B0H2JVZYZZ?tag=wtsus-20"
     },
     {
-      "asin": "B0GW2DK37Q",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Colección de Ilustraciones de Primera Partner —Serie 2",
-      "image": "https://m.media-amazon.com/images/I/81ve1KtO-pL._AC_UL320_.jpg",
-      "price": "EUR 38.98",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0GW2DK37Q?tag=wtsus-20"
-    },
-    {
       "asin": "B0GR6N18F6",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -470,6 +444,19 @@
       "link": "https://www.amazon.com/dp/B0GR6N18F6?tag=wtsus-20"
     },
     {
+      "asin": "B0GW2DK37Q",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Colección de Ilustraciones de Primera Partner —Serie 2",
+      "image": "https://m.media-amazon.com/images/I/81ve1KtO-pL._AC_UL320_.jpg",
+      "price": "EUR 38.98",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0GW2DK37Q?tag=wtsus-20"
+    },
+    {
       "asin": "B0GG11K25W",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -481,6 +468,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0GG11K25W?tag=wtsus-20"
+    },
+    {
+      "asin": "B0GXJ8CSTY",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Mega Greninja ex Colección Premium",
+      "image": "https://m.media-amazon.com/images/I/91E+9GLiyyL._AC_UL320_.jpg",
+      "price": "EUR 54.53",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0GXJ8CSTY?tag=wtsus-20"
     },
     {
       "asin": "B0F2BDXW4J",
@@ -507,19 +507,6 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0GV6WRPRV?tag=wtsus-20"
-    },
-    {
-      "asin": "B0GXJ8CSTY",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Mega Greninja ex Colección Premium",
-      "image": "https://m.media-amazon.com/images/I/91E+9GLiyyL._AC_UL320_.jpg",
-      "price": "EUR 54.53",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0GXJ8CSTY?tag=wtsus-20"
     },
     {
       "asin": "B0GG16Q4X1",
@@ -580,7 +567,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Latas de Bola de Poké Q4",
       "image": "https://m.media-amazon.com/images/I/712OrW9EjzL._AC_UL320_.jpg",
-      "price": "EUR 28.58",
+      "price": "EUR 27.68",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -598,19 +585,6 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0DDYZX1TB?tag=wtsus-20"
-    },
-    {
-      "asin": "B0F2BCG1Y5",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Scarlet & Violet - Paquete de refuerzo Destined Rivals - 6 paquetes",
-      "image": "https://m.media-amazon.com/images/I/81tegATYQrL._AC_UL320_.jpg",
-      "price": "EUR 75.27",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0F2BCG1Y5?tag=wtsus-20"
     },
     {
       "asin": "B0GFZV1ZVV",
@@ -639,6 +613,45 @@
       "link": "https://www.amazon.com/dp/B0BKGX74WP?tag=wtsus-20"
     },
     {
+      "asin": "B001DIJ48C",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG 3 paquetes de refuerzo, 30 cartas en total, 100% auténticas, raras aleatorias y holofoils, 3 paquetes de ampollas",
+      "image": "https://m.media-amazon.com/images/I/71UYZOVLiuL._AC_UL320_.jpg",
+      "price": "EUR 22.43",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B001DIJ48C?tag=wtsus-20"
+    },
+    {
+      "asin": "B0FLCWJ1VK",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Juego de cartas Pokemon MEGA High Class Pack Mega Dream ex Box",
+      "image": "https://m.media-amazon.com/images/I/81DEmHWTf2L._AC_UL320_.jpg",
+      "price": "EUR 127.35",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0FLCWJ1VK?tag=wtsus-20"
+    },
+    {
+      "asin": "B0G78HDPPR",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Mega Evolución: Héroes Ascendidos Mega Meganio/Emboar/Feraligatr ex Box",
+      "image": "https://m.media-amazon.com/images/I/91hWD1tF0KL._AC_UL320_.jpg",
+      "price": "EUR 60.60",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0G78HDPPR?tag=wtsus-20"
+    },
+    {
       "asin": "B0C6B6V2VK",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -652,17 +665,17 @@
       "link": "https://www.amazon.com/dp/B0C6B6V2VK?tag=wtsus-20"
     },
     {
-      "asin": "B001DIJ48C",
+      "asin": "B0DLQJ613B",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
-      "name": "Tarjetas Pokémon - 3 paquetes de refuerzo (paquetes aleatorios)",
-      "image": "https://m.media-amazon.com/images/I/71UYZOVLiuL._AC_UL320_.jpg",
-      "price": "EUR 22.43",
+      "name": "Pokémon TCG: Scarlet & Violet—Colección de Pósters de Prismatic Evolutions",
+      "image": "https://m.media-amazon.com/images/I/81ulz0V0WcL._AC_UL320_.jpg",
+      "price": "EUR 47.63",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.com/dp/B001DIJ48C?tag=wtsus-20"
+      "link": "https://www.amazon.com/dp/B0DLQJ613B?tag=wtsus-20"
     },
     {
       "asin": "B0G3CY83L5",
@@ -671,7 +684,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Caja de entrenamiento de élite de héroes ascendidos de Mega Evolution",
       "image": "https://m.media-amazon.com/images/I/817IjH3kGvL._AC_UL320_.jpg",
-      "price": "EUR 172.28",
+      "price": "EUR 167.21",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
