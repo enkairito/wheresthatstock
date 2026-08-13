@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T21:43:32.544179+00:00",
+  "updated_at": "2026-08-13T22:40:40.653562+00:00",
   "products": [
     {
       "asin": "B0H3LQY1Q7",
@@ -626,26 +626,13 @@
       "link": "https://www.amazon.com/dp/B0GR6Q72ND?tag=wtsus-20"
     },
     {
-      "asin": "B0G3CV6Z9D",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Mega Evolución: Paquete de refuerzo de héroes ascendidos",
-      "image": "https://m.media-amazon.com/images/I/81sZheTQIhL._AC_UL320_.jpg",
-      "price": "EUR 77.93",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0G3CV6Z9D?tag=wtsus-20"
-    },
-    {
       "asin": "B0DYR8D7YC",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Colección Súper Premium de Evoluciones Prismáticas Escarlata y Violeta",
       "image": "https://m.media-amazon.com/images/I/811hyPaG+OL._AC_UL320_.jpg",
-      "price": "EUR 255.75",
+      "price": "EUR 255.78",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -730,19 +717,6 @@
       "link": "https://www.amazon.com/dp/B0F2BDXW4J?tag=wtsus-20"
     },
     {
-      "asin": "B001DIJ48C",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG 3 paquetes de refuerzo, 30 cartas en total, 100% auténticas, raras aleatorias y holofoils, 3 paquetes de ampollas",
-      "image": "https://m.media-amazon.com/images/I/71UYZOVLiuL._AC_UL320_.jpg",
-      "price": "EUR 22.43",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B001DIJ48C?tag=wtsus-20"
-    },
-    {
       "asin": "B0DN98RVZM",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -754,32 +728,6 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0DN98RVZM?tag=wtsus-20"
-    },
-    {
-      "asin": "B0FQP3YQ47",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Latas de Bola de Poké Q4",
-      "image": "https://m.media-amazon.com/images/I/712OrW9EjzL._AC_UL320_.jpg",
-      "price": "EUR 27.68",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0FQP3YQ47?tag=wtsus-20"
-    },
-    {
-      "asin": "B0GGCCLCJM",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokemon TCG: Mega Evolutions - Blister de 3 Paquetes Orden Perfecta (Chikorita)",
-      "image": "https://m.media-amazon.com/images/I/91vaIBXmuZL._AC_UL320_.jpg",
-      "price": "EUR 20.79",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0GGCCLCJM?tag=wtsus-20"
     },
     {
       "asin": "B0GG16Q4X1",
@@ -795,6 +743,32 @@
       "link": "https://www.amazon.com/dp/B0GG16Q4X1?tag=wtsus-20"
     },
     {
+      "asin": "B001DIJ48C",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG 3 paquetes de refuerzo, 30 cartas en total, 100% auténticas, raras aleatorias y holofoils, 3 paquetes de ampollas",
+      "image": "https://m.media-amazon.com/images/I/71UYZOVLiuL._AC_UL320_.jpg",
+      "price": "EUR 22.43",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B001DIJ48C?tag=wtsus-20"
+    },
+    {
+      "asin": "B0FQP3YQ47",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Latas de Bola de Poké Q4",
+      "image": "https://m.media-amazon.com/images/I/712OrW9EjzL._AC_UL320_.jpg",
+      "price": "EUR 28.75",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0FQP3YQ47?tag=wtsus-20"
+    },
+    {
       "asin": "B09YS3LL3N",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -806,6 +780,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B09YS3LL3N?tag=wtsus-20"
+    },
+    {
+      "asin": "B0GGCCLCJM",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokemon TCG: Mega Evolutions - Blister de 3 Paquetes Orden Perfecta (Chikorita)",
+      "image": "https://m.media-amazon.com/images/I/91vaIBXmuZL._AC_UL320_.jpg",
+      "price": "EUR 20.79",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0GGCCLCJM?tag=wtsus-20"
     },
     {
       "asin": "B0DDYZX1TB",
@@ -821,19 +808,6 @@
       "link": "https://www.amazon.com/dp/B0DDYZX1TB?tag=wtsus-20"
     },
     {
-      "asin": "B0FLCWJ1VK",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Juego de cartas Pokemon MEGA High Class Pack Mega Dream ex Box",
-      "image": "https://m.media-amazon.com/images/I/81DEmHWTf2L._AC_UL320_.jpg",
-      "price": "EUR 120.68",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0FLCWJ1VK?tag=wtsus-20"
-    },
-    {
       "asin": "B0GFZV1ZVV",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -845,19 +819,6 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0GFZV1ZVV?tag=wtsus-20"
-    },
-    {
-      "asin": "B0F2BCG1Y5",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Scarlet & Violet - Paquete de refuerzo Destined Rivals - 6 paquetes",
-      "image": "https://m.media-amazon.com/images/I/81tegATYQrL._AC_UL320_.jpg",
-      "price": "EUR 75.28",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0F2BCG1Y5?tag=wtsus-20"
     },
     {
       "asin": "B0DLQJ613B",
@@ -873,6 +834,19 @@
       "link": "https://www.amazon.com/dp/B0DLQJ613B?tag=wtsus-20"
     },
     {
+      "asin": "B0FLCWJ1VK",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Juego de cartas Pokemon MEGA High Class Pack Mega Dream ex Box",
+      "image": "https://m.media-amazon.com/images/I/81DEmHWTf2L._AC_UL320_.jpg",
+      "price": "EUR 118.94",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0FLCWJ1VK?tag=wtsus-20"
+    },
+    {
       "asin": "B0BKGX74WP",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -884,6 +858,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0BKGX74WP?tag=wtsus-20"
+    },
+    {
+      "asin": "B0GRCDKMSW",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: MegaLucario ex League Battle Deck",
+      "image": "https://m.media-amazon.com/images/I/918tqXfPc9L._AC_UL320_.jpg",
+      "price": "EUR 19.49",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0GRCDKMSW?tag=wtsus-20"
     },
     {
       "asin": "B0FH6KRSX8",
