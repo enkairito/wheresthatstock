@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T20:40:50.911681+00:00",
+  "updated_at": "2026-08-13T21:43:32.544179+00:00",
   "products": [
     {
       "asin": "B0H3LQY1Q7",
@@ -645,7 +645,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Colección Súper Premium de Evoluciones Prismáticas Escarlata y Violeta",
       "image": "https://m.media-amazon.com/images/I/811hyPaG+OL._AC_UL320_.jpg",
-      "price": "EUR 255.71",
+      "price": "EUR 255.75",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -762,7 +762,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Latas de Bola de Poké Q4",
       "image": "https://m.media-amazon.com/images/I/712OrW9EjzL._AC_UL320_.jpg",
-      "price": "EUR 28.75",
+      "price": "EUR 27.68",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -788,7 +788,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolution: caja de presentación de refuerzo de pedido perfecto",
       "image": "https://m.media-amazon.com/images/I/81-GOqEy8rL._AC_UL320_.jpg",
-      "price": "EUR 173.24",
+      "price": "EUR 181.08",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -821,6 +821,19 @@
       "link": "https://www.amazon.com/dp/B0DDYZX1TB?tag=wtsus-20"
     },
     {
+      "asin": "B0FLCWJ1VK",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Juego de cartas Pokemon MEGA High Class Pack Mega Dream ex Box",
+      "image": "https://m.media-amazon.com/images/I/81DEmHWTf2L._AC_UL320_.jpg",
+      "price": "EUR 120.68",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0FLCWJ1VK?tag=wtsus-20"
+    },
+    {
       "asin": "B0GFZV1ZVV",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -832,19 +845,6 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0GFZV1ZVV?tag=wtsus-20"
-    },
-    {
-      "asin": "B0FLCWJ1VK",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Juego de cartas Pokemon MEGA High Class Pack Mega Dream ex Box",
-      "image": "https://m.media-amazon.com/images/I/81DEmHWTf2L._AC_UL320_.jpg",
-      "price": "EUR 122.41",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0FLCWJ1VK?tag=wtsus-20"
     },
     {
       "asin": "B0F2BCG1Y5",
@@ -860,19 +860,6 @@
       "link": "https://www.amazon.com/dp/B0F2BCG1Y5?tag=wtsus-20"
     },
     {
-      "asin": "B0BKGX74WP",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Juego de cartas coleccionables Pokemon sellado aleatorio, 3 paquetes de refuerzo 100% auténticos",
-      "image": "https://m.media-amazon.com/images/I/8131Hx1S82L._AC_UL320_.jpg",
-      "price": "EUR 20.52",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0BKGX74WP?tag=wtsus-20"
-    },
-    {
       "asin": "B0DLQJ613B",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -884,6 +871,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0DLQJ613B?tag=wtsus-20"
+    },
+    {
+      "asin": "B0BKGX74WP",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Juego de cartas coleccionables Pokemon sellado aleatorio, 3 paquetes de refuerzo 100% auténticos",
+      "image": "https://m.media-amazon.com/images/I/8131Hx1S82L._AC_UL320_.jpg",
+      "price": "EUR 20.52",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0BKGX74WP?tag=wtsus-20"
     },
     {
       "asin": "B0FH6KRSX8",
