@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T04:12:02.114984+00:00",
+  "updated_at": "2026-08-13T06:16:26.674011+00:00",
   "products": [
     {
       "asin": "B0H3LQY1Q7",
@@ -340,19 +340,6 @@
       "link": "https://www.amazon.es/dp/B0C4V8F77B?tag=enkairito-21"
     },
     {
-      "asin": "B0GZL89K79",
-      "marketplace": "UK",
-      "store_label": "Amazon UK",
-      "flag": "🇬🇧",
-      "name": "Pokémon TCG: Mega Evolution—Pitch Black Booster Display (18 Booster Packs)",
-      "image": "https://m.media-amazon.com/images/I/81HQfo6TSKL._AC_UL320_.jpg",
-      "price": "EUR 175.67",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "3",
-      "link": "https://www.amazon.co.uk/dp/B0GZL89K79?tag=wtsuk-21"
-    },
-    {
       "asin": "B0GRCDKMSW",
       "marketplace": "UK",
       "store_label": "Amazon UK",
@@ -385,7 +372,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolution—Caja de entrenador Elite Pitch Black",
       "image": "https://m.media-amazon.com/images/I/81nYHGhNIOL._AC_UL320_.jpg",
-      "price": "EUR 73.19",
+      "price": "EUR 71.73",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -403,6 +390,32 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0GR6Q72ND?tag=wtsus-20"
+    },
+    {
+      "asin": "B0G3CV6Z9D",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Mega Evolución: Paquete de refuerzo de héroes ascendidos",
+      "image": "https://m.media-amazon.com/images/I/81sZheTQIhL._AC_UL320_.jpg",
+      "price": "EUR 77.81",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0G3CV6Z9D?tag=wtsus-20"
+    },
+    {
+      "asin": "B0H2JVZYZZ",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Colección de Ilustraciones para el Primer Partner — Serie 3",
+      "image": "https://m.media-amazon.com/images/I/81LQc5zS0+L._AC_UL320_.jpg",
+      "price": "EUR 34.13",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0H2JVZYZZ?tag=wtsus-20"
     },
     {
       "asin": "B0F2GZJ3TZ",
@@ -424,7 +437,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Colección de Ilustraciones de Primera Partner —Serie 2",
       "image": "https://m.media-amazon.com/images/I/81ve1KtO-pL._AC_UL320_.jpg",
-      "price": "EUR 38.92",
+      "price": "EUR 38.93",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -567,7 +580,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: 3 paquetes de refuerzo y 1 lámina aleatoria | Incluye 3 paquetes blíster de cartas aleatorias y 1 tarjeta promocional holofoil empaquetada individualmente, 097712556710",
       "image": "https://m.media-amazon.com/images/I/81lYlP-nzFL._AC_UL320_.jpg",
-      "price": "EUR 21.53",
+      "price": "EUR 21.61",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -663,32 +676,6 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0DLPL7LC5?tag=wtsus-20"
-    },
-    {
-      "asin": "B0DLQJ613B",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Scarlet & Violet—Colección de Pósters de Prismatic Evolutions",
-      "image": "https://m.media-amazon.com/images/I/81ulz0V0WcL._AC_UL320_.jpg",
-      "price": "EUR 47.57",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0DLQJ613B?tag=wtsus-20"
-    },
-    {
-      "asin": "B0GRCDKMSW",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: MegaLucario ex League Battle Deck",
-      "image": "https://m.media-amazon.com/images/I/918tqXfPc9L._AC_UL320_.jpg",
-      "price": "EUR 19.46",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0GRCDKMSW?tag=wtsus-20"
     },
     {
       "asin": "B0FH6KRSX8",
@@ -827,7 +814,7 @@
       "flag": "🇺🇸",
       "name": "Pokemon TCG: Caja Entrenador Élite Camino de Campeones, multicolor",
       "image": "https://m.media-amazon.com/images/I/61wlL9CPqyL._AC_UL320_.jpg",
-      "price": "EUR 247.34",
+      "price": "EUR 246.56",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
