@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T10:00:17.472731+00:00",
+  "updated_at": "2026-08-14T11:04:44.735550+00:00",
   "products": [
     {
       "asin": "B0H3LQY1Q7",
@@ -522,19 +522,6 @@
       "link": "https://www.amazon.com/dp/B0GR6Q72ND?tag=wtsus-20"
     },
     {
-      "asin": "B0DYR8D7YC",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Colección Súper Premium de Evoluciones Prismáticas Escarlata y Violeta",
-      "image": "https://m.media-amazon.com/images/I/811hyPaG+OL._AC_UL320_.jpg",
-      "price": "EUR 254.77",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0DYR8D7YC?tag=wtsus-20"
-    },
-    {
       "asin": "B0H2JVZYZZ",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -546,6 +533,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0H2JVZYZZ?tag=wtsus-20"
+    },
+    {
+      "asin": "B0DYR8D7YC",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Colección Súper Premium de Evoluciones Prismáticas Escarlata y Violeta",
+      "image": "https://m.media-amazon.com/images/I/811hyPaG+OL._AC_UL320_.jpg",
+      "price": "EUR 254.78",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0DYR8D7YC?tag=wtsus-20"
     },
     {
       "asin": "B0GW2DK37Q",
@@ -697,7 +697,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Escarlata y Violeta - Paquete de Refuerzo de Prismatic Evolutions",
       "image": "https://m.media-amazon.com/images/I/8191EvbngyL._AC_UL320_.jpg",
-      "price": "EUR 97.03",
+      "price": "EUR 94.62",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -769,30 +769,30 @@
       "link": "https://www.amazon.com/dp/B0GFZV1ZVV?tag=wtsus-20"
     },
     {
-      "asin": "B0DLPL7LC5",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokemon TCG: Caja de entrenador élite de evoluciones prismáticas escarlata y violeta",
-      "image": "https://m.media-amazon.com/images/I/81qfGweCdDL._AC_UL320_.jpg",
-      "price": "EUR 172.32",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0DLPL7LC5?tag=wtsus-20"
-    },
-    {
       "asin": "B0GSJMQ3QQ",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolución — Pantalla de refuerzo de aumento del caos",
       "image": "https://m.media-amazon.com/images/I/71P7kd2+9AL._AC_UL320_.jpg",
-      "price": "EUR 189.93",
+      "price": "EUR 189.91",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0GSJMQ3QQ?tag=wtsus-20"
+    },
+    {
+      "asin": "B0F2BCG1Y5",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Scarlet & Violet - Paquete de refuerzo Destined Rivals - 6 paquetes",
+      "image": "https://m.media-amazon.com/images/I/81tegATYQrL._AC_UL320_.jpg",
+      "price": "EUR 75.28",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0F2BCG1Y5?tag=wtsus-20"
     },
     {
       "asin": "B0G3CY83L5",
@@ -834,19 +834,6 @@
       "link": "https://www.amazon.com/dp/B0FH6KRSX8?tag=wtsus-20"
     },
     {
-      "asin": "B0CGCVT5RR",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Caja de entrenador élite de escarlata y violeta Paradox Rift",
-      "image": "https://m.media-amazon.com/images/I/81nXG9v8mPL._AC_UL320_.jpg",
-      "price": "EUR 171.09",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0CGCVT5RR?tag=wtsus-20"
-    },
-    {
       "asin": "B0H2N248WM",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -858,6 +845,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0H2N248WM?tag=wtsus-20"
+    },
+    {
+      "asin": "B0CGCVT5RR",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Caja de entrenador élite de escarlata y violeta Paradox Rift",
+      "image": "https://m.media-amazon.com/images/I/81nXG9v8mPL._AC_UL320_.jpg",
+      "price": "EUR 173.29",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0CGCVT5RR?tag=wtsus-20"
     },
     {
       "asin": "B0BCN6HZR3",
@@ -886,17 +886,17 @@
       "link": "https://www.amazon.com/dp/B0DFBGYFD3?tag=wtsus-20"
     },
     {
-      "asin": "B0CNFSY3Y3",
+      "asin": "B0BSNXK3H7",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
-      "name": "POKEMON TCG: ESCARLATA Y VIOLETA: DESTINOS PALDEOS: CAJA DE ENTRENADOR DE ÉLITE",
-      "image": "https://m.media-amazon.com/images/I/81EE94CCiIL._AC_UL320_.jpg",
-      "price": "EUR 493.14",
+      "name": "Pokémon TCG: Estuche de Entrenador Élite Scarlet & Violet (Miraidon Púrpura o Koraidon Rojo, Color Aleatorio)",
+      "image": "https://m.media-amazon.com/images/I/81kFKYGRq7L._AC_UL320_.jpg",
+      "price": "EUR 170.32",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.com/dp/B0CNFSY3Y3?tag=wtsus-20"
+      "link": "https://www.amazon.com/dp/B0BSNXK3H7?tag=wtsus-20"
     },
     {
       "asin": "B09CLGX546",
@@ -910,19 +910,6 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B09CLGX546?tag=wtsus-20"
-    },
-    {
-      "asin": "B0BSNXK3H7",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Estuche de Entrenador Élite Scarlet & Violet (Miraidon Púrpura o Koraidon Rojo, Color Aleatorio)",
-      "image": "https://m.media-amazon.com/images/I/81kFKYGRq7L._AC_UL320_.jpg",
-      "price": "EUR 170.32",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0BSNXK3H7?tag=wtsus-20"
     },
     {
       "asin": "B09PQBM615",
