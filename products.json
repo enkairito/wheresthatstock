@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T02:51:09.438108+00:00",
+  "updated_at": "2026-08-15T03:37:57.756075+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -502,7 +502,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Colección de Ilustraciones de Primera Partner —Serie 2",
       "image": "https://m.media-amazon.com/images/I/81ve1KtO-pL._AC_UL320_.jpg",
-      "price": "EUR 38.90",
+      "price": "EUR 38.91",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -587,19 +587,6 @@
       "link": "https://www.amazon.com/dp/B0FQP3YQ47?tag=wtsus-20"
     },
     {
-      "asin": "B0GSJMQ3QQ",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Mega Evolución — Pantalla de refuerzo de aumento del caos",
-      "image": "https://m.media-amazon.com/images/I/71P7kd2+9AL._AC_UL320_.jpg",
-      "price": "EUR 189.76",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0GSJMQ3QQ?tag=wtsus-20"
-    },
-    {
       "asin": "B001DIJ48C",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -611,19 +598,6 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B001DIJ48C?tag=wtsus-20"
-    },
-    {
-      "asin": "B09YS3LL3N",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: 3 paquetes de refuerzo y 1 lámina aleatoria | Incluye 3 paquetes blíster de cartas aleatorias y 1 tarjeta promocional holofoil empaquetada individualmente, 097712556710",
-      "image": "https://m.media-amazon.com/images/I/81lYlP-nzFL._AC_UL320_.jpg",
-      "price": "EUR 20.74",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B09YS3LL3N?tag=wtsus-20"
     },
     {
       "asin": "B0G3CY83L5",
@@ -639,17 +613,30 @@
       "link": "https://www.amazon.com/dp/B0G3CY83L5?tag=wtsus-20"
     },
     {
-      "asin": "B0DN98RVZM",
+      "asin": "B0GSJMQ3QQ",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
-      "name": "Pokémon TCG: Escarlata y Violeta - Paquete de Refuerzo de Prismatic Evolutions",
-      "image": "https://m.media-amazon.com/images/I/8191EvbngyL._AC_UL320_.jpg",
-      "price": "EUR 97.61",
+      "name": "Pokémon TCG: Mega Evolución — Pantalla de refuerzo de aumento del caos",
+      "image": "https://m.media-amazon.com/images/I/71P7kd2+9AL._AC_UL320_.jpg",
+      "price": "EUR 189.76",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.com/dp/B0DN98RVZM?tag=wtsus-20"
+      "link": "https://www.amazon.com/dp/B0GSJMQ3QQ?tag=wtsus-20"
+    },
+    {
+      "asin": "B09YS3LL3N",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: 3 paquetes de refuerzo y 1 lámina aleatoria | Incluye 3 paquetes blíster de cartas aleatorias y 1 tarjeta promocional holofoil empaquetada individualmente, 097712556710",
+      "image": "https://m.media-amazon.com/images/I/81lYlP-nzFL._AC_UL320_.jpg",
+      "price": "EUR 20.74",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B09YS3LL3N?tag=wtsus-20"
     },
     {
       "asin": "B0DDYZX1TB",
@@ -663,6 +650,32 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0DDYZX1TB?tag=wtsus-20"
+    },
+    {
+      "asin": "B0DN98RVZM",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Escarlata y Violeta - Paquete de Refuerzo de Prismatic Evolutions",
+      "image": "https://m.media-amazon.com/images/I/8191EvbngyL._AC_UL320_.jpg",
+      "price": "EUR 94.45",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0DN98RVZM?tag=wtsus-20"
+    },
+    {
+      "asin": "B0F2BCG1Y5",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Scarlet & Violet - Paquete de refuerzo Destined Rivals - 6 paquetes",
+      "image": "https://m.media-amazon.com/images/I/81tegATYQrL._AC_UL320_.jpg",
+      "price": "EUR 75.13",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0F2BCG1Y5?tag=wtsus-20"
     },
     {
       "asin": "B0GFZV1ZVV",
@@ -684,7 +697,7 @@
       "flag": "🇺🇸",
       "name": "Lote de 3 paquetes de refuerzo japoneses de Pokémon aleatorios",
       "image": "https://m.media-amazon.com/images/I/61So4wJYKGL._AC_UL320_.jpg",
-      "price": "EUR 11.66",
+      "price": "EUR 11.57",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -697,24 +710,11 @@
       "flag": "🇺🇸",
       "name": "Juego de cartas coleccionables Pokemon sellado aleatorio, 3 paquetes de refuerzo 100% auténticos",
       "image": "https://m.media-amazon.com/images/I/8131Hx1S82L._AC_UL320_.jpg",
-      "price": "EUR 20.48",
+      "price": "EUR 20.31",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0BKGX74WP?tag=wtsus-20"
-    },
-    {
-      "asin": "B0F2BCG1Y5",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Scarlet & Violet - Paquete de refuerzo Destined Rivals - 6 paquetes",
-      "image": "https://m.media-amazon.com/images/I/81tegATYQrL._AC_UL320_.jpg",
-      "price": "EUR 75.13",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0F2BCG1Y5?tag=wtsus-20"
     },
     {
       "asin": "B0FLCWJ1VK",
@@ -730,19 +730,6 @@
       "link": "https://www.amazon.com/dp/B0FLCWJ1VK?tag=wtsus-20"
     },
     {
-      "asin": "B0GNCGT9KK",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokemon TCG: Mega Zygarde ex colección Premium con 8 paquetes de refuerzo | 8 paquetes de refuerzo",
-      "image": "https://m.media-amazon.com/images/I/81K1PWw7QeL._AC_UL320_.jpg",
-      "price": "EUR 53.14",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0GNCGT9KK?tag=wtsus-20"
-    },
-    {
       "asin": "B0DLPL7LC5",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -754,6 +741,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0DLPL7LC5?tag=wtsus-20"
+    },
+    {
+      "asin": "B0GNCGT9KK",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokemon TCG: Mega Zygarde ex colección Premium con 8 paquetes de refuerzo | 8 paquetes de refuerzo",
+      "image": "https://m.media-amazon.com/images/I/81K1PWw7QeL._AC_UL320_.jpg",
+      "price": "EUR 53.11",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0GNCGT9KK?tag=wtsus-20"
     },
     {
       "asin": "B0DSLY7DZZ",
