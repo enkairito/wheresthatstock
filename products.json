@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T17:19:52.865176+00:00",
+  "updated_at": "2026-08-15T18:27:17.833183+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -502,7 +502,7 @@
       "flag": "🇺🇸",
       "name": "Pokemon TCG: Scarlet & Violet - Caja de Entrenador Élite Destined Rivals - 9 Paquetes, Accesorios, Promo",
       "image": "https://m.media-amazon.com/images/I/814hNCBQClL._AC_UL320_.jpg",
-      "price": "EUR 121.03",
+      "price": "EUR 128.80",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -515,7 +515,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolución — Pantalla de refuerzo de aumento del caos",
       "image": "https://m.media-amazon.com/images/I/71P7kd2+9AL._AC_UL320_.jpg",
-      "price": "EUR 189.71",
+      "price": "EUR 164.21",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -561,19 +561,6 @@
       "link": "https://www.amazon.com/dp/B09YS3LL3N?tag=wtsus-20"
     },
     {
-      "asin": "B0GG16Q4X1",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Mega Evolution: caja de presentación de refuerzo de pedido perfecto",
-      "image": "https://m.media-amazon.com/images/I/81-GOqEy8rL._AC_UL320_.jpg",
-      "price": "EUR 180.67",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0GG16Q4X1?tag=wtsus-20"
-    },
-    {
       "asin": "B0DN98RVZM",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -585,6 +572,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0DN98RVZM?tag=wtsus-20"
+    },
+    {
+      "asin": "B0GG16Q4X1",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Mega Evolution: caja de presentación de refuerzo de pedido perfecto",
+      "image": "https://m.media-amazon.com/images/I/81-GOqEy8rL._AC_UL320_.jpg",
+      "price": "EUR 180.67",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0GG16Q4X1?tag=wtsus-20"
     },
     {
       "asin": "B0DDYZX1TB",
@@ -639,6 +639,19 @@
       "link": "https://www.amazon.com/dp/B0F2BCG1Y5?tag=wtsus-20"
     },
     {
+      "asin": "B0BKGX74WP",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Juego de cartas coleccionables Pokemon sellado aleatorio, 3 paquetes de refuerzo 100% auténticos",
+      "image": "https://m.media-amazon.com/images/I/8131Hx1S82L._AC_UL320_.jpg",
+      "price": "EUR 20.47",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0BKGX74WP?tag=wtsus-20"
+    },
+    {
       "asin": "B0FLCWJ1VK",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -650,19 +663,6 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0FLCWJ1VK?tag=wtsus-20"
-    },
-    {
-      "asin": "B0BKGX74WP",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Juego de cartas coleccionables Pokemon sellado aleatorio, 3 paquetes de refuerzo 100% auténticos",
-      "image": "https://m.media-amazon.com/images/I/8131Hx1S82L._AC_UL320_.jpg",
-      "price": "EUR 20.31",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0BKGX74WP?tag=wtsus-20"
     },
     {
       "asin": "B0FH6KRSX8",
