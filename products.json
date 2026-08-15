@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T15:19:29.574971+00:00",
+  "updated_at": "2026-08-15T16:22:40.190747+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -437,7 +437,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Colección de Ilustraciones de Primera Partner —Serie 2",
       "image": "https://m.media-amazon.com/images/I/81ve1KtO-pL._AC_UL320_.jpg",
-      "price": "EUR 38.86",
+      "price": "EUR 34.54",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -502,7 +502,7 @@
       "flag": "🇺🇸",
       "name": "Pokemon TCG: Scarlet & Violet - Caja de Entrenador Élite Destined Rivals - 9 Paquetes, Accesorios, Promo",
       "image": "https://m.media-amazon.com/images/I/814hNCBQClL._AC_UL320_.jpg",
-      "price": "EUR 128.80",
+      "price": "EUR 121.03",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -528,7 +528,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Latas de Bola de Poké Q4",
       "image": "https://m.media-amazon.com/images/I/712OrW9EjzL._AC_UL320_.jpg",
-      "price": "EUR 28.52",
+      "price": "EUR 28.68",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -574,6 +574,19 @@
       "link": "https://www.amazon.com/dp/B0DN98RVZM?tag=wtsus-20"
     },
     {
+      "asin": "B0GG16Q4X1",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Mega Evolution: caja de presentación de refuerzo de pedido perfecto",
+      "image": "https://m.media-amazon.com/images/I/81-GOqEy8rL._AC_UL320_.jpg",
+      "price": "EUR 180.67",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0GG16Q4X1?tag=wtsus-20"
+    },
+    {
       "asin": "B0DDYZX1TB",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -585,32 +598,6 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0DDYZX1TB?tag=wtsus-20"
-    },
-    {
-      "asin": "B0F2BCG1Y5",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Scarlet & Violet - Paquete de refuerzo Destined Rivals - 6 paquetes",
-      "image": "https://m.media-amazon.com/images/I/81tegATYQrL._AC_UL320_.jpg",
-      "price": "EUR 75.11",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0F2BCG1Y5?tag=wtsus-20"
-    },
-    {
-      "asin": "B0F5YRVNZX",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Lote de 3 paquetes de refuerzo japoneses de Pokémon aleatorios",
-      "image": "https://m.media-amazon.com/images/I/61So4wJYKGL._AC_UL320_.jpg",
-      "price": "EUR 11.65",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0F5YRVNZX?tag=wtsus-20"
     },
     {
       "asin": "B0GFZV1ZVV",
@@ -626,17 +613,30 @@
       "link": "https://www.amazon.com/dp/B0GFZV1ZVV?tag=wtsus-20"
     },
     {
-      "asin": "B0BKGX74WP",
+      "asin": "B0F5YRVNZX",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
-      "name": "Juego de cartas coleccionables Pokemon sellado aleatorio, 3 paquetes de refuerzo 100% auténticos",
-      "image": "https://m.media-amazon.com/images/I/8131Hx1S82L._AC_UL320_.jpg",
-      "price": "EUR 20.31",
+      "name": "Lote de 3 paquetes de refuerzo japoneses de Pokémon aleatorios",
+      "image": "https://m.media-amazon.com/images/I/61So4wJYKGL._AC_UL320_.jpg",
+      "price": "EUR 11.65",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.com/dp/B0BKGX74WP?tag=wtsus-20"
+      "link": "https://www.amazon.com/dp/B0F5YRVNZX?tag=wtsus-20"
+    },
+    {
+      "asin": "B0F2BCG1Y5",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Scarlet & Violet - Paquete de refuerzo Destined Rivals - 6 paquetes",
+      "image": "https://m.media-amazon.com/images/I/81tegATYQrL._AC_UL320_.jpg",
+      "price": "EUR 75.11",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0F2BCG1Y5?tag=wtsus-20"
     },
     {
       "asin": "B0FLCWJ1VK",
@@ -652,17 +652,17 @@
       "link": "https://www.amazon.com/dp/B0FLCWJ1VK?tag=wtsus-20"
     },
     {
-      "asin": "B0DLPL7LC5",
+      "asin": "B0BKGX74WP",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
-      "name": "Pokemon TCG: Caja de entrenador élite de evoluciones prismáticas escarlata y violeta",
-      "image": "https://m.media-amazon.com/images/I/81qfGweCdDL._AC_UL320_.jpg",
-      "price": "EUR 171.93",
+      "name": "Juego de cartas coleccionables Pokemon sellado aleatorio, 3 paquetes de refuerzo 100% auténticos",
+      "image": "https://m.media-amazon.com/images/I/8131Hx1S82L._AC_UL320_.jpg",
+      "price": "EUR 20.31",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.com/dp/B0DLPL7LC5?tag=wtsus-20"
+      "link": "https://www.amazon.com/dp/B0BKGX74WP?tag=wtsus-20"
     },
     {
       "asin": "B0FH6KRSX8",
@@ -730,6 +730,19 @@
       "link": "https://www.amazon.com/dp/B0DFBGYFD3?tag=wtsus-20"
     },
     {
+      "asin": "B0BSNXK3H7",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Estuche de Entrenador Élite Scarlet & Violet (Miraidon Púrpura o Koraidon Rojo, Color Aleatorio)",
+      "image": "https://m.media-amazon.com/images/I/81kFKYGRq7L._AC_UL320_.jpg",
+      "price": "EUR 169.94",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0BSNXK3H7?tag=wtsus-20"
+    },
+    {
       "asin": "B0C6D9LWCQ",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -754,19 +767,6 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B09CLGX546?tag=wtsus-20"
-    },
-    {
-      "asin": "B0BSNXK3H7",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Estuche de Entrenador Élite Scarlet & Violet (Miraidon Púrpura o Koraidon Rojo, Color Aleatorio)",
-      "image": "https://m.media-amazon.com/images/I/81kFKYGRq7L._AC_UL320_.jpg",
-      "price": "EUR 169.94",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0BSNXK3H7?tag=wtsus-20"
     },
     {
       "asin": "B09PQBM615",
