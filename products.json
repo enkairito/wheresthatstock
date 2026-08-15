@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T03:37:57.756075+00:00",
+  "updated_at": "2026-08-15T04:29:26.361039+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -600,19 +600,6 @@
       "link": "https://www.amazon.com/dp/B001DIJ48C?tag=wtsus-20"
     },
     {
-      "asin": "B0G3CY83L5",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Caja de entrenamiento de élite de héroes ascendidos de Mega Evolution",
-      "image": "https://m.media-amazon.com/images/I/817IjH3kGvL._AC_UL320_.jpg",
-      "price": "EUR 171.98",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0G3CY83L5?tag=wtsus-20"
-    },
-    {
       "asin": "B0GSJMQ3QQ",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -624,6 +611,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0GSJMQ3QQ?tag=wtsus-20"
+    },
+    {
+      "asin": "B0G3CY83L5",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Caja de entrenamiento de élite de héroes ascendidos de Mega Evolution",
+      "image": "https://m.media-amazon.com/images/I/817IjH3kGvL._AC_UL320_.jpg",
+      "price": "EUR 171.98",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0G3CY83L5?tag=wtsus-20"
     },
     {
       "asin": "B09YS3LL3N",
@@ -658,7 +658,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Escarlata y Violeta - Paquete de Refuerzo de Prismatic Evolutions",
       "image": "https://m.media-amazon.com/images/I/8191EvbngyL._AC_UL320_.jpg",
-      "price": "EUR 94.45",
+      "price": "EUR 94.50",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -678,6 +678,19 @@
       "link": "https://www.amazon.com/dp/B0F2BCG1Y5?tag=wtsus-20"
     },
     {
+      "asin": "B0F5YRVNZX",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Lote de 3 paquetes de refuerzo japoneses de Pokémon aleatorios",
+      "image": "https://m.media-amazon.com/images/I/61So4wJYKGL._AC_UL320_.jpg",
+      "price": "EUR 11.66",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0F5YRVNZX?tag=wtsus-20"
+    },
+    {
       "asin": "B0GFZV1ZVV",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -689,19 +702,6 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0GFZV1ZVV?tag=wtsus-20"
-    },
-    {
-      "asin": "B0F5YRVNZX",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Lote de 3 paquetes de refuerzo japoneses de Pokémon aleatorios",
-      "image": "https://m.media-amazon.com/images/I/61So4wJYKGL._AC_UL320_.jpg",
-      "price": "EUR 11.57",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0F5YRVNZX?tag=wtsus-20"
     },
     {
       "asin": "B0BKGX74WP",
@@ -749,7 +749,7 @@
       "flag": "🇺🇸",
       "name": "Pokemon TCG: Mega Zygarde ex colección Premium con 8 paquetes de refuerzo | 8 paquetes de refuerzo",
       "image": "https://m.media-amazon.com/images/I/81K1PWw7QeL._AC_UL320_.jpg",
-      "price": "EUR 53.11",
+      "price": "EUR 53.09",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
