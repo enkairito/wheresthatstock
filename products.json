@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T21:19:09.087907+00:00",
+  "updated_at": "2026-08-16T22:20:00.495279+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -437,7 +437,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Colección de Ilustraciones de Primera Partner —Serie 2",
       "image": "https://m.media-amazon.com/images/I/81ve1KtO-pL._AC_UL320_.jpg",
-      "price": "EUR 38.89",
+      "price": "EUR 38.86",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -476,7 +476,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Caja de entrenamiento de élite Mega Evolution—Chaos Rising",
       "image": "https://m.media-amazon.com/images/I/81EPbaDcgQL._AC_UL320_.jpg",
-      "price": "EUR 76.03",
+      "price": "EUR 75.97",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -489,7 +489,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolution—Perfect Order Booster Bundle",
       "image": "https://m.media-amazon.com/images/I/81oqIqpLjrL._AC_UL320_.jpg",
-      "price": "EUR 43.22",
+      "price": "EUR 43.17",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -587,19 +587,6 @@
       "link": "https://www.amazon.com/dp/B001DIJ48C?tag=wtsus-20"
     },
     {
-      "asin": "B0DDYZX1TB",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Escarlata y Violeta - Paquete de refuerzo de Surging Sparks",
-      "image": "https://m.media-amazon.com/images/I/817ZQoBRA3L._AC_UL320_.jpg",
-      "price": "EUR 77.72",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0DDYZX1TB?tag=wtsus-20"
-    },
-    {
       "asin": "B09YS3LL3N",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -611,6 +598,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B09YS3LL3N?tag=wtsus-20"
+    },
+    {
+      "asin": "B0DDYZX1TB",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Escarlata y Violeta - Paquete de refuerzo de Surging Sparks",
+      "image": "https://m.media-amazon.com/images/I/817ZQoBRA3L._AC_UL320_.jpg",
+      "price": "EUR 77.72",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0DDYZX1TB?tag=wtsus-20"
     },
     {
       "asin": "B0DLPL7LC5",
@@ -652,6 +652,19 @@
       "link": "https://www.amazon.com/dp/B0F2BCG1Y5?tag=wtsus-20"
     },
     {
+      "asin": "B0DLQJ613B",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Scarlet & Violet—Colección de Pósters de Prismatic Evolutions",
+      "image": "https://m.media-amazon.com/images/I/81ulz0V0WcL._AC_UL320_.jpg",
+      "price": "EUR 47.53",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0DLQJ613B?tag=wtsus-20"
+    },
+    {
       "asin": "B0BKGX74WP",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -665,19 +678,6 @@
       "link": "https://www.amazon.com/dp/B0BKGX74WP?tag=wtsus-20"
     },
     {
-      "asin": "B0DLQJ613B",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Scarlet & Violet—Colección de Pósters de Prismatic Evolutions",
-      "image": "https://m.media-amazon.com/images/I/81ulz0V0WcL._AC_UL320_.jpg",
-      "price": "EUR 42.60",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0DLQJ613B?tag=wtsus-20"
-    },
-    {
       "asin": "B0FLCWJ1VK",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -689,6 +689,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0FLCWJ1VK?tag=wtsus-20"
+    },
+    {
+      "asin": "B0H2JVZYZZ",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Colección de Ilustraciones para el Primer Partner — Serie 3",
+      "image": "https://m.media-amazon.com/images/I/81LQc5zS0+L._AC_UL320_.jpg",
+      "price": "EUR 43.18",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0H2JVZYZZ?tag=wtsus-20"
     },
     {
       "asin": "B0FH6KRSX8",
@@ -743,19 +756,6 @@
       "link": "https://www.amazon.com/dp/B0BCN6HZR3?tag=wtsus-20"
     },
     {
-      "asin": "B0BSNXK3H7",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Estuche de Entrenador Élite Scarlet & Violet (Miraidon Púrpura o Koraidon Rojo, Color Aleatorio)",
-      "image": "https://m.media-amazon.com/images/I/81kFKYGRq7L._AC_UL320_.jpg",
-      "price": "EUR 169.94",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0BSNXK3H7?tag=wtsus-20"
-    },
-    {
       "asin": "B0DFBGYFD3",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -767,6 +767,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0DFBGYFD3?tag=wtsus-20"
+    },
+    {
+      "asin": "B0BSNXK3H7",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Estuche de Entrenador Élite Scarlet & Violet (Miraidon Púrpura o Koraidon Rojo, Color Aleatorio)",
+      "image": "https://m.media-amazon.com/images/I/81kFKYGRq7L._AC_UL320_.jpg",
+      "price": "EUR 169.94",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0BSNXK3H7?tag=wtsus-20"
     },
     {
       "asin": "B0C6D9LWCQ",
