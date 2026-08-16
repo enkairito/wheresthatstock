@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T04:34:43.167197+00:00",
+  "updated_at": "2026-08-16T05:27:27.610571+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -483,6 +483,19 @@
       "link": "https://www.amazon.com/dp/B0GG11K25W?tag=wtsus-20"
     },
     {
+      "asin": "B0GSJMQ3QQ",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Mega Evolución — Pantalla de refuerzo de aumento del caos",
+      "image": "https://m.media-amazon.com/images/I/71P7kd2+9AL._AC_UL320_.jpg",
+      "price": "EUR 189.71",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0GSJMQ3QQ?tag=wtsus-20"
+    },
+    {
       "asin": "B0F2GZJ3TZ",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -502,7 +515,7 @@
       "flag": "🇺🇸",
       "name": "Pokemon TCG: Scarlet & Violet - Caja de Entrenador Élite Destined Rivals - 9 Paquetes, Accesorios, Promo",
       "image": "https://m.media-amazon.com/images/I/814hNCBQClL._AC_UL320_.jpg",
-      "price": "EUR 121.03",
+      "price": "EUR 128.80",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -520,19 +533,6 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0FQP3YQ47?tag=wtsus-20"
-    },
-    {
-      "asin": "B0GSJMQ3QQ",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Mega Evolución — Pantalla de refuerzo de aumento del caos",
-      "image": "https://m.media-amazon.com/images/I/71P7kd2+9AL._AC_UL320_.jpg",
-      "price": "EUR 189.71",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0GSJMQ3QQ?tag=wtsus-20"
     },
     {
       "asin": "B0DN98RVZM",
@@ -600,19 +600,6 @@
       "link": "https://www.amazon.com/dp/B0DDYZX1TB?tag=wtsus-20"
     },
     {
-      "asin": "B0DLPL7LC5",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokemon TCG: Caja de entrenador élite de evoluciones prismáticas escarlata y violeta",
-      "image": "https://m.media-amazon.com/images/I/81qfGweCdDL._AC_UL320_.jpg",
-      "price": "EUR 171.93",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0DLPL7LC5?tag=wtsus-20"
-    },
-    {
       "asin": "B0GFZV1ZVV",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -637,6 +624,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0F2BCG1Y5?tag=wtsus-20"
+    },
+    {
+      "asin": "B0DLPL7LC5",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokemon TCG: Caja de entrenador élite de evoluciones prismáticas escarlata y violeta",
+      "image": "https://m.media-amazon.com/images/I/81qfGweCdDL._AC_UL320_.jpg",
+      "price": "EUR 171.93",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0DLPL7LC5?tag=wtsus-20"
     },
     {
       "asin": "B0GG16Q4X1",
@@ -665,17 +665,17 @@
       "link": "https://www.amazon.com/dp/B0BKGX74WP?tag=wtsus-20"
     },
     {
-      "asin": "B0FLCWJ1VK",
+      "asin": "B0DLQJ613B",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
-      "name": "Juego de cartas Pokemon MEGA High Class Pack Mega Dream ex Box",
-      "image": "https://m.media-amazon.com/images/I/81DEmHWTf2L._AC_UL320_.jpg",
-      "price": "EUR 126.98",
+      "name": "Pokémon TCG: Scarlet & Violet—Colección de Pósters de Prismatic Evolutions",
+      "image": "https://m.media-amazon.com/images/I/81ulz0V0WcL._AC_UL320_.jpg",
+      "price": "EUR 42.60",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.com/dp/B0FLCWJ1VK?tag=wtsus-20"
+      "link": "https://www.amazon.com/dp/B0DLQJ613B?tag=wtsus-20"
     },
     {
       "asin": "B0FH6KRSX8",
@@ -697,7 +697,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Caja de entrenador élite de escarlata y violeta Paradox Rift",
       "image": "https://m.media-amazon.com/images/I/81nXG9v8mPL._AC_UL320_.jpg",
-      "price": "EUR 170.72",
+      "price": "EUR 169.50",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
