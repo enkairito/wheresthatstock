@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T08:41:50.989558+00:00",
+  "updated_at": "2026-08-17T09:40:22.011486+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -600,19 +600,6 @@
       "link": "https://www.amazon.com/dp/B0DN98RVZM?tag=wtsus-20"
     },
     {
-      "asin": "B0DLPL7LC5",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokemon TCG: Caja de entrenador élite de evoluciones prismáticas escarlata y violeta",
-      "image": "https://m.media-amazon.com/images/I/81qfGweCdDL._AC_UL320_.jpg",
-      "price": "EUR 171.93",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0DLPL7LC5?tag=wtsus-20"
-    },
-    {
       "asin": "B0DDYZX1TB",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -624,6 +611,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0DDYZX1TB?tag=wtsus-20"
+    },
+    {
+      "asin": "B0DLPL7LC5",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokemon TCG: Caja de entrenador élite de evoluciones prismáticas escarlata y violeta",
+      "image": "https://m.media-amazon.com/images/I/81qfGweCdDL._AC_UL320_.jpg",
+      "price": "EUR 171.93",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0DLPL7LC5?tag=wtsus-20"
     },
     {
       "asin": "B001DIJ48C",
@@ -827,7 +827,7 @@
       "flag": "🇺🇸",
       "name": "Una tarjeta de Pokémon encapsulada y autenticada con calificación PSA al azar (perfecta para exhibición)",
       "image": "https://m.media-amazon.com/images/I/81SUwheDmXL._AC_UL320_.jpg",
-      "price": "EUR 24.09",
+      "price": "EUR 24.10",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
