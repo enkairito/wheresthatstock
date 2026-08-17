@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T23:14:01.467177+00:00",
+  "updated_at": "2026-08-17T23:21:42.846435+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -424,7 +424,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolución — Paquete de refuerzo del aumento del caos",
       "image": "https://m.media-amazon.com/images/I/81pdaHp6Q1L._AC_UL320_.jpg",
-      "price": "EUR 36.18",
+      "price": "EUR 36.10",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -444,19 +444,6 @@
       "link": "https://www.amazon.com/dp/B0GG11K25W?tag=wtsus-20"
     },
     {
-      "asin": "B0GW2DK37Q",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Colección de Ilustraciones de Primera Partner —Serie 2",
-      "image": "https://m.media-amazon.com/images/I/81ve1KtO-pL._AC_UL320_.jpg",
-      "price": "EUR 38.77",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0GW2DK37Q?tag=wtsus-20"
-    },
-    {
       "asin": "B0G3CV6Z9D",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -468,6 +455,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0G3CV6Z9D?tag=wtsus-20"
+    },
+    {
+      "asin": "B0GW2DK37Q",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Colección de Ilustraciones de Primera Partner —Serie 2",
+      "image": "https://m.media-amazon.com/images/I/81ve1KtO-pL._AC_UL320_.jpg",
+      "price": "EUR 38.77",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0GW2DK37Q?tag=wtsus-20"
     },
     {
       "asin": "B0DYR8D7YC",
