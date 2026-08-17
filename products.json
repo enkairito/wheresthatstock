@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T02:59:04.429737+00:00",
+  "updated_at": "2026-08-17T03:54:54.102062+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -437,7 +437,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Colección de Ilustraciones de Primera Partner —Serie 2",
       "image": "https://m.media-amazon.com/images/I/81ve1KtO-pL._AC_UL320_.jpg",
-      "price": "EUR 38.89",
+      "price": "EUR 34.54",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -450,7 +450,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolución: Paquete de refuerzo de héroes ascendidos",
       "image": "https://m.media-amazon.com/images/I/81sZheTQIhL._AC_UL320_.jpg",
-      "price": "EUR 84.93",
+      "price": "EUR 80.35",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -470,26 +470,13 @@
       "link": "https://www.amazon.com/dp/B0DYR8D7YC?tag=wtsus-20"
     },
     {
-      "asin": "B0GR6N18F6",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Caja de entrenamiento de élite Mega Evolution—Chaos Rising",
-      "image": "https://m.media-amazon.com/images/I/81EPbaDcgQL._AC_UL320_.jpg",
-      "price": "EUR 76.03",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0GR6N18F6?tag=wtsus-20"
-    },
-    {
       "asin": "B0H2JVZYZZ",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Colección de Ilustraciones para el Primer Partner — Serie 3",
       "image": "https://m.media-amazon.com/images/I/81LQc5zS0+L._AC_UL320_.jpg",
-      "price": "EUR 43.18",
+      "price": "EUR 37.53",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -507,6 +494,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0GG11K25W?tag=wtsus-20"
+    },
+    {
+      "asin": "B0GR6N18F6",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Caja de entrenamiento de élite Mega Evolution—Chaos Rising",
+      "image": "https://m.media-amazon.com/images/I/81EPbaDcgQL._AC_UL320_.jpg",
+      "price": "EUR 76.03",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0GR6N18F6?tag=wtsus-20"
     },
     {
       "asin": "B0F2BDXW4J",
@@ -587,19 +587,6 @@
       "link": "https://www.amazon.com/dp/B09YS3LL3N?tag=wtsus-20"
     },
     {
-      "asin": "B001DIJ48C",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG 3 paquetes de refuerzo, 30 cartas en total, 100% auténticas, raras aleatorias y holofoils, 3 paquetes de ampollas",
-      "image": "https://m.media-amazon.com/images/I/71UYZOVLiuL._AC_UL320_.jpg",
-      "price": "EUR 22.34",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B001DIJ48C?tag=wtsus-20"
-    },
-    {
       "asin": "B0DLPL7LC5",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -613,19 +600,6 @@
       "link": "https://www.amazon.com/dp/B0DLPL7LC5?tag=wtsus-20"
     },
     {
-      "asin": "B0DN98RVZM",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Escarlata y Violeta - Paquete de Refuerzo de Prismatic Evolutions",
-      "image": "https://m.media-amazon.com/images/I/8191EvbngyL._AC_UL320_.jpg",
-      "price": "EUR 97.59",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0DN98RVZM?tag=wtsus-20"
-    },
-    {
       "asin": "B0DDYZX1TB",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -637,6 +611,32 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0DDYZX1TB?tag=wtsus-20"
+    },
+    {
+      "asin": "B001DIJ48C",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG 3 paquetes de refuerzo, 30 cartas en total, 100% auténticas, raras aleatorias y holofoils, 3 paquetes de ampollas",
+      "image": "https://m.media-amazon.com/images/I/71UYZOVLiuL._AC_UL320_.jpg",
+      "price": "EUR 22.34",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B001DIJ48C?tag=wtsus-20"
+    },
+    {
+      "asin": "B0DN98RVZM",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Escarlata y Violeta - Paquete de Refuerzo de Prismatic Evolutions",
+      "image": "https://m.media-amazon.com/images/I/8191EvbngyL._AC_UL320_.jpg",
+      "price": "EUR 97.59",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0DN98RVZM?tag=wtsus-20"
     },
     {
       "asin": "B0GFZV1ZVV",
@@ -671,7 +671,7 @@
       "flag": "🇺🇸",
       "name": "Juego de cartas coleccionables Pokemon sellado aleatorio, 3 paquetes de refuerzo 100% auténticos",
       "image": "https://m.media-amazon.com/images/I/8131Hx1S82L._AC_UL320_.jpg",
-      "price": "EUR 19.88",
+      "price": "EUR 20.47",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -704,19 +704,6 @@
       "link": "https://www.amazon.com/dp/B0FLCWJ1VK?tag=wtsus-20"
     },
     {
-      "asin": "B0GGCCLCJM",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokemon TCG: Mega Evolutions - Blister de 3 Paquetes Orden Perfecta (Chikorita)",
-      "image": "https://m.media-amazon.com/images/I/91vaIBXmuZL._AC_UL320_.jpg",
-      "price": "EUR 22.47",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0GGCCLCJM?tag=wtsus-20"
-    },
-    {
       "asin": "B0FH6KRSX8",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -736,7 +723,7 @@
       "flag": "🇺🇸",
       "name": "Pokemon TCG: Mega Evolution Chaos Rising Pokemon Center Elite Trainer Box | CR PKC ETB | Promo exclusivo de Fennekin | 11 paquetes de refuerzo",
       "image": "https://m.media-amazon.com/images/I/71Dtzhp8caL._AC_UL320_.jpg",
-      "price": "EUR 154.63",
+      "price": "EUR 151.19",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
