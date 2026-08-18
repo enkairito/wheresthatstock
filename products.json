@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T03:44:00.276709+00:00",
+  "updated_at": "2026-08-18T04:35:06.402686+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -450,7 +450,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolución: Paquete de refuerzo de héroes ascendidos",
       "image": "https://m.media-amazon.com/images/I/81sZheTQIhL._AC_UL320_.jpg",
-      "price": "EUR 84.73",
+      "price": "EUR 81.03",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -489,11 +489,24 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Colección de Ilustraciones para el Primer Partner — Serie 3",
       "image": "https://m.media-amazon.com/images/I/81LQc5zS0+L._AC_UL320_.jpg",
-      "price": "EUR 43.08",
+      "price": "EUR 34.03",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0H2JVZYZZ?tag=wtsus-20"
+    },
+    {
+      "asin": "B0GR6N18F6",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Caja de entrenamiento de élite Mega Evolution—Chaos Rising",
+      "image": "https://m.media-amazon.com/images/I/81EPbaDcgQL._AC_UL320_.jpg",
+      "price": "EUR 64.46",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0GR6N18F6?tag=wtsus-20"
     },
     {
       "asin": "B0F2BDXW4J",
@@ -574,19 +587,6 @@
       "link": "https://www.amazon.com/dp/B0DLPL7LC5?tag=wtsus-20"
     },
     {
-      "asin": "B001DIJ48C",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG 3 paquetes de refuerzo, 30 cartas en total, 100% auténticas, raras aleatorias y holofoils, 3 paquetes de ampollas",
-      "image": "https://m.media-amazon.com/images/I/71UYZOVLiuL._AC_UL320_.jpg",
-      "price": "EUR 22.29",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B001DIJ48C?tag=wtsus-20"
-    },
-    {
       "asin": "B09YS3LL3N",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -611,6 +611,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0DDYZX1TB?tag=wtsus-20"
+    },
+    {
+      "asin": "B001DIJ48C",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG 3 paquetes de refuerzo, 30 cartas en total, 100% auténticas, raras aleatorias y holofoils, 3 paquetes de ampollas",
+      "image": "https://m.media-amazon.com/images/I/71UYZOVLiuL._AC_UL320_.jpg",
+      "price": "EUR 22.29",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B001DIJ48C?tag=wtsus-20"
     },
     {
       "asin": "B0GFZV1ZVV",
@@ -689,19 +702,6 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0FH6KRSX8?tag=wtsus-20"
-    },
-    {
-      "asin": "B0DSLY7DZZ",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokemon TCG: Caja de entrenador de élite Viaje Juntos Escarlata y Violeta",
-      "image": "https://m.media-amazon.com/images/I/817Nd3hqAVL._AC_UL320_.jpg",
-      "price": "EUR 140.57",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0DSLY7DZZ?tag=wtsus-20"
     },
     {
       "asin": "B0CGCVT5RR",
