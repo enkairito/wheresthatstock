@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T03:00:01.799863+00:00",
+  "updated_at": "2026-08-19T04:36:57.175449+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -89,7 +89,7 @@
       "price": "46,99 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": null,
+      "stock": "5",
       "link": "https://www.amazon.es/dp/B0GWDS3WTY?tag=enkairito-21"
     },
     {
@@ -411,7 +411,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolution—Paquete de refuerzo de tono negro",
       "image": "https://m.media-amazon.com/images/I/81ANtTqGJVL._AC_UL320_.jpg",
-      "price": "EUR 40.60",
+      "price": "EUR 38.39",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -450,7 +450,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolution—Perfect Order Booster Bundle",
       "image": "https://m.media-amazon.com/images/I/81oqIqpLjrL._AC_UL320_.jpg",
-      "price": "EUR 43.15",
+      "price": "EUR 43.19",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -489,7 +489,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Caja de entrenamiento de élite Mega Evolution—Chaos Rising",
       "image": "https://m.media-amazon.com/images/I/81EPbaDcgQL._AC_UL320_.jpg",
-      "price": "EUR 75.93",
+      "price": "EUR 75.99",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -502,7 +502,7 @@
       "flag": "🇺🇸",
       "name": "Pokemon TCG: Scarlet & Violet - Caja de Entrenador Élite Destined Rivals - 9 Paquetes, Accesorios, Promo",
       "image": "https://m.media-amazon.com/images/I/814hNCBQClL._AC_UL320_.jpg",
-      "price": "EUR 119.49",
+      "price": "EUR 125.17",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -554,7 +554,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Escarlata y Violeta - Paquete de Refuerzo de Prismatic Evolutions",
       "image": "https://m.media-amazon.com/images/I/8191EvbngyL._AC_UL320_.jpg",
-      "price": "EUR 97.54",
+      "price": "EUR 97.53",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -613,6 +613,19 @@
       "link": "https://www.amazon.com/dp/B001DIJ48C?tag=wtsus-20"
     },
     {
+      "asin": "B09YS3LL3N",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: 3 paquetes de refuerzo y 1 lámina aleatoria | Incluye 3 paquetes blíster de cartas aleatorias y 1 tarjeta promocional holofoil empaquetada individualmente, 097712556710",
+      "image": "https://m.media-amazon.com/images/I/81lYlP-nzFL._AC_UL320_.jpg",
+      "price": "EUR 22.01",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B09YS3LL3N?tag=wtsus-20"
+    },
+    {
       "asin": "B0DDYZX1TB",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -639,19 +652,6 @@
       "link": "https://www.amazon.com/dp/B0GFZV1ZVV?tag=wtsus-20"
     },
     {
-      "asin": "B09YS3LL3N",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: 3 paquetes de refuerzo y 1 lámina aleatoria | Incluye 3 paquetes blíster de cartas aleatorias y 1 tarjeta promocional holofoil empaquetada individualmente, 097712556710",
-      "image": "https://m.media-amazon.com/images/I/81lYlP-nzFL._AC_UL320_.jpg",
-      "price": "EUR 22.01",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B09YS3LL3N?tag=wtsus-20"
-    },
-    {
       "asin": "B0G78HDPPR",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -665,17 +665,30 @@
       "link": "https://www.amazon.com/dp/B0G78HDPPR?tag=wtsus-20"
     },
     {
-      "asin": "B0G3CY83L5",
+      "asin": "B0F2BCG1Y5",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
-      "name": "Pokémon TCG: Caja de entrenamiento de élite de héroes ascendidos de Mega Evolution",
-      "image": "https://m.media-amazon.com/images/I/817IjH3kGvL._AC_UL320_.jpg",
-      "price": "EUR 171.08",
+      "name": "Pokémon TCG: Scarlet & Violet - Paquete de refuerzo Destined Rivals - 6 paquetes",
+      "image": "https://m.media-amazon.com/images/I/81tegATYQrL._AC_UL320_.jpg",
+      "price": "EUR 75.07",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.com/dp/B0G3CY83L5?tag=wtsus-20"
+      "link": "https://www.amazon.com/dp/B0F2BCG1Y5?tag=wtsus-20"
+    },
+    {
+      "asin": "B0BKGX74WP",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Juego de cartas coleccionables Pokemon sellado aleatorio, 3 paquetes de refuerzo 100% auténticos",
+      "image": "https://m.media-amazon.com/images/I/8131Hx1S82L._AC_UL320_.jpg",
+      "price": "EUR 20.46",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0BKGX74WP?tag=wtsus-20"
     },
     {
       "asin": "B0FH6KRSX8",
@@ -814,7 +827,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Estuche de Entrenador Élite Scarlet & Violet (Miraidon Púrpura o Koraidon Rojo, Color Aleatorio)",
       "image": "https://m.media-amazon.com/images/I/81kFKYGRq7L._AC_UL320_.jpg",
-      "price": "EUR 172.81",
+      "price": "EUR 165.15",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
