@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T10:27:48.600266+00:00",
+  "updated_at": "2026-08-19T11:30:18.754085+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -89,7 +89,7 @@
       "price": "46,99 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": null,
+      "stock": "3",
       "link": "https://www.amazon.es/dp/B0GWDS3WTY?tag=enkairito-21"
     },
     {
@@ -450,7 +450,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolution—Perfect Order Booster Bundle",
       "image": "https://m.media-amazon.com/images/I/81oqIqpLjrL._AC_UL320_.jpg",
-      "price": "EUR 43.15",
+      "price": "EUR 43.19",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -502,7 +502,7 @@
       "flag": "🇺🇸",
       "name": "Pokemon TCG: Scarlet & Violet - Caja de Entrenador Élite Destined Rivals - 9 Paquetes, Accesorios, Promo",
       "image": "https://m.media-amazon.com/images/I/814hNCBQClL._AC_UL320_.jpg",
-      "price": "EUR 119.46",
+      "price": "EUR 125.19",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -678,17 +678,17 @@
       "link": "https://www.amazon.com/dp/B0F2BCG1Y5?tag=wtsus-20"
     },
     {
-      "asin": "B0GRCDKMSW",
+      "asin": "B0BKGX74WP",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
-      "name": "Pokémon TCG: MegaLucario ex League Battle Deck",
-      "image": "https://m.media-amazon.com/images/I/918tqXfPc9L._AC_UL320_.jpg",
-      "price": "EUR 19.39",
+      "name": "Juego de cartas coleccionables Pokemon sellado aleatorio, 3 paquetes de refuerzo 100% auténticos",
+      "image": "https://m.media-amazon.com/images/I/8131Hx1S82L._AC_UL320_.jpg",
+      "price": "EUR 20.46",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.com/dp/B0GRCDKMSW?tag=wtsus-20"
+      "link": "https://www.amazon.com/dp/B0BKGX74WP?tag=wtsus-20"
     },
     {
       "asin": "B0FH6KRSX8",
@@ -756,19 +756,6 @@
       "link": "https://www.amazon.com/dp/B0BCN6HZR3?tag=wtsus-20"
     },
     {
-      "asin": "B0DFBGYFD3",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Escarlata y Violeta - Caja de Exhibición de Booster Surging Sparks",
-      "image": "https://m.media-amazon.com/images/I/81gt-LWXszL._AC_UL320_.jpg",
-      "price": "EUR 279.96",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0DFBGYFD3?tag=wtsus-20"
-    },
-    {
       "asin": "B0C6D9LWCQ",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -801,11 +788,24 @@
       "flag": "🇺🇸",
       "name": "Juego de cartas coleccionables de Pokémon: SAS8- Caja para entrenador élite Golpe Fusión",
       "image": "https://m.media-amazon.com/images/I/61HM1MrazbL._AC_UL320_.jpg",
-      "price": "EUR 316.24",
+      "price": "EUR 319.60",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B09CLGX546?tag=wtsus-20"
+    },
+    {
+      "asin": "B0DFBGYFD3",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Escarlata y Violeta - Caja de Exhibición de Booster Surging Sparks",
+      "image": "https://m.media-amazon.com/images/I/81gt-LWXszL._AC_UL320_.jpg",
+      "price": "EUR 279.96",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0DFBGYFD3?tag=wtsus-20"
     },
     {
       "asin": "B0BSNXK3H7",
@@ -840,7 +840,7 @@
       "flag": "🇺🇸",
       "name": "Pokemon TCG: Caja Entrenador Élite Camino de Campeones, multicolor",
       "image": "https://m.media-amazon.com/images/I/61wlL9CPqyL._AC_UL320_.jpg",
-      "price": "EUR 246.25",
+      "price": "EUR 247.03",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
