@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T01:08:10.586998+00:00",
+  "updated_at": "2026-08-20T02:56:26.791582+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -89,7 +89,7 @@
       "price": "38,83 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "2",
+      "stock": null,
       "link": "https://www.amazon.es/dp/B0GWDS3WTY?tag=enkairito-21"
     },
     {
@@ -450,7 +450,7 @@
       "flag": "🇺🇸",
       "name": "Pokemon TCG: Scarlet & Violet - Caja de Entrenador Élite Destined Rivals - 9 Paquetes, Accesorios, Promo",
       "image": "https://m.media-amazon.com/images/I/814hNCBQClL._AC_UL320_.jpg",
-      "price": "EUR 123.72",
+      "price": "EUR 120.32",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -476,7 +476,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Colección Súper Premium de Evoluciones Prismáticas Escarlata y Violeta",
       "image": "https://m.media-amazon.com/images/I/811hyPaG+OL._AC_UL320_.jpg",
-      "price": "EUR 252.58",
+      "price": "EUR 251.80",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -489,7 +489,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolution—Perfect Order Booster Bundle",
       "image": "https://m.media-amazon.com/images/I/81oqIqpLjrL._AC_UL320_.jpg",
-      "price": "EUR 42.92",
+      "price": "EUR 33.47",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -528,7 +528,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Greninja ex Colección Premium",
       "image": "https://m.media-amazon.com/images/I/91E+9GLiyyL._AC_UL320_.jpg",
-      "price": "EUR 54.09",
+      "price": "EUR 55.82",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -567,7 +567,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Colección del Día de Pokémon 2026",
       "image": "https://m.media-amazon.com/images/I/91YHLxggDmL._AC_UL320_.jpg",
-      "price": "EUR 46.32",
+      "price": "EUR 46.40",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -593,7 +593,7 @@
       "flag": "🇺🇸",
       "name": "Lote de 3 paquetes de refuerzo japoneses de Pokémon aleatorios",
       "image": "https://m.media-amazon.com/images/I/61So4wJYKGL._AC_UL320_.jpg",
-      "price": "EUR 10.56",
+      "price": "EUR 10.30",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -671,7 +671,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Scarlet & Violet - Paquete de refuerzo Destined Rivals - 6 paquetes",
       "image": "https://m.media-amazon.com/images/I/81tegATYQrL._AC_UL320_.jpg",
-      "price": "EUR 74.66",
+      "price": "EUR 77.34",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -691,6 +691,19 @@
       "link": "https://www.amazon.com/dp/B0BKGX74WP?tag=wtsus-20"
     },
     {
+      "asin": "B0GRCDKMSW",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: MegaLucario ex League Battle Deck",
+      "image": "https://m.media-amazon.com/images/I/918tqXfPc9L._AC_UL320_.jpg",
+      "price": "EUR 18.43",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0GRCDKMSW?tag=wtsus-20"
+    },
+    {
       "asin": "B0GGCCLCJM",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -702,19 +715,6 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0GGCCLCJM?tag=wtsus-20"
-    },
-    {
-      "asin": "B0GRCDKMSW",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: MegaLucario ex League Battle Deck",
-      "image": "https://m.media-amazon.com/images/I/918tqXfPc9L._AC_UL320_.jpg",
-      "price": "EUR 19.33",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0GRCDKMSW?tag=wtsus-20"
     },
     {
       "asin": "B0FH6KRSX8",
