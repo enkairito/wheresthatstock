@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T05:29:39.236585+00:00",
+  "updated_at": "2026-08-20T06:42:47.204422+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -431,6 +431,19 @@
       "link": "https://www.amazon.com/dp/B0GR6Q72ND?tag=wtsus-20"
     },
     {
+      "asin": "B0G3CV6Z9D",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Mega Evolución: Paquete de refuerzo de héroes ascendidos",
+      "image": "https://m.media-amazon.com/images/I/81sZheTQIhL._AC_UL320_.jpg",
+      "price": "EUR 74.65",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0G3CV6Z9D?tag=wtsus-20"
+    },
+    {
       "asin": "B0GW2DK37Q",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -515,7 +528,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Greninja ex Colección Premium",
       "image": "https://m.media-amazon.com/images/I/91E+9GLiyyL._AC_UL320_.jpg",
-      "price": "EUR 54.17",
+      "price": "EUR 54.09",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -554,7 +567,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Escarlata y Violeta - Paquete de Refuerzo de Prismatic Evolutions",
       "image": "https://m.media-amazon.com/images/I/8191EvbngyL._AC_UL320_.jpg",
-      "price": "EUR 97.01",
+      "price": "EUR 96.24",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -567,7 +580,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Colección del Día de Pokémon 2026",
       "image": "https://m.media-amazon.com/images/I/91YHLxggDmL._AC_UL320_.jpg",
-      "price": "EUR 46.40",
+      "price": "EUR 45.55",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -580,7 +593,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Lata Mega Moonlit",
       "image": "https://m.media-amazon.com/images/I/81mm4CJGgFL._AC_UL320_.jpg",
-      "price": "EUR 34.37",
+      "price": "EUR 31.24",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -645,7 +658,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: 3 paquetes de refuerzo y 1 lámina aleatoria | Incluye 3 paquetes blíster de cartas aleatorias y 1 tarjeta promocional holofoil empaquetada individualmente, 097712556710",
       "image": "https://m.media-amazon.com/images/I/81lYlP-nzFL._AC_UL320_.jpg",
-      "price": "EUR 20.58",
+      "price": "EUR 21.89",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -697,24 +710,11 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: MegaLucario ex League Battle Deck",
       "image": "https://m.media-amazon.com/images/I/918tqXfPc9L._AC_UL320_.jpg",
-      "price": "EUR 19.33",
+      "price": "EUR 18.43",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0GRCDKMSW?tag=wtsus-20"
-    },
-    {
-      "asin": "B0GGCCLCJM",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokemon TCG: Mega Evolutions - Blister de 3 Paquetes Orden Perfecta (Chikorita)",
-      "image": "https://m.media-amazon.com/images/I/91vaIBXmuZL._AC_UL320_.jpg",
-      "price": "EUR 22.34",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0GGCCLCJM?tag=wtsus-20"
     },
     {
       "asin": "B0FH6KRSX8",
@@ -780,6 +780,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0BCN6HZR3?tag=wtsus-20"
+    },
+    {
+      "asin": "B0GV1JQFWC",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokemon TCG: Mega Evolución-Pedido Perfecto Pokemon Center Elite Trainer Box | PO PKC ETB | Promo exclusivo de Tyrunt | 11 paquetes de refuerzo",
+      "image": "https://m.media-amazon.com/images/I/71SSzoANfpL._AC_UL320_.jpg",
+      "price": "EUR 120.31",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0GV1JQFWC?tag=wtsus-20"
     },
     {
       "asin": "B0C6D9LWCQ",
