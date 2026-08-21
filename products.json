@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T15:32:10.147861+00:00",
+  "updated_at": "2026-08-21T16:32:53.869126+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -73,9 +73,9 @@
       "flag": "🇪🇸",
       "name": "Pokémon: Colección prémium Mega-Zygarde ex (1 Carta de promoción, 1 Carta de Gran tamaño con Efecto 3D, 1 Pegatina Especial y 8 Sobres de Mejora)",
       "image": "https://m.media-amazon.com/images/I/919J8y6V7tL._AC_UL320_.jpg",
-      "price": "38,83 €",
+      "price": null,
       "original_price": null,
-      "status": "compra_directa",
+      "status": "no_disponible",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0GWDS3WTY?tag=enkairito-21"
     },
@@ -652,19 +652,6 @@
       "link": "https://www.amazon.com/dp/B0F2GZJ3TZ?tag=wtsus-20"
     },
     {
-      "asin": "B0GV6WRPRV",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Lata Mega Moonlit",
-      "image": "https://m.media-amazon.com/images/I/81mm4CJGgFL._AC_UL320_.jpg",
-      "price": "EUR 31.39",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0GV6WRPRV?tag=wtsus-20"
-    },
-    {
       "asin": "B001DIJ48C",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -684,7 +671,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Escarlata y Violeta - Paquete de Refuerzo de Prismatic Evolutions",
       "image": "https://m.media-amazon.com/images/I/8191EvbngyL._AC_UL320_.jpg",
-      "price": "EUR 93.47",
+      "price": "EUR 94.96",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -704,6 +691,19 @@
       "link": "https://www.amazon.com/dp/B0GG16Q4X1?tag=wtsus-20"
     },
     {
+      "asin": "B0GV6WRPRV",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Lata Mega Moonlit",
+      "image": "https://m.media-amazon.com/images/I/81mm4CJGgFL._AC_UL320_.jpg",
+      "price": "EUR 31.39",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0GV6WRPRV?tag=wtsus-20"
+    },
+    {
       "asin": "B0F5YRVNZX",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -715,19 +715,6 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0F5YRVNZX?tag=wtsus-20"
-    },
-    {
-      "asin": "B0G78HDPPR",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Mega Evolución: Héroes Ascendidos Mega Meganio/Emboar/Feraligatr ex Box",
-      "image": "https://m.media-amazon.com/images/I/91hWD1tF0KL._AC_UL320_.jpg",
-      "price": "EUR 59.80",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0G78HDPPR?tag=wtsus-20"
     },
     {
       "asin": "B09YS3LL3N",
@@ -754,6 +741,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0DLPL7LC5?tag=wtsus-20"
+    },
+    {
+      "asin": "B0G78HDPPR",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Mega Evolución: Héroes Ascendidos Mega Meganio/Emboar/Feraligatr ex Box",
+      "image": "https://m.media-amazon.com/images/I/91hWD1tF0KL._AC_UL320_.jpg",
+      "price": "EUR 59.80",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0G78HDPPR?tag=wtsus-20"
     },
     {
       "asin": "B0F2BCG1Y5",
@@ -808,13 +808,26 @@
       "link": "https://www.amazon.com/dp/B0DDYZX1TB?tag=wtsus-20"
     },
     {
+      "asin": "B0GFZV1ZVV",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Caja de Entrenador Élite de Mega Evolución—Orden Perfecta",
+      "image": "https://m.media-amazon.com/images/I/813BmMbm-YL._AC_UL320_.jpg",
+      "price": "EUR 77.63",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0GFZV1ZVV?tag=wtsus-20"
+    },
+    {
       "asin": "B0G3CY83L5",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Caja de entrenamiento de élite de héroes ascendidos de Mega Evolution",
       "image": "https://m.media-amazon.com/images/I/817IjH3kGvL._AC_UL320_.jpg",
-      "price": "EUR 169.37",
+      "price": "EUR 169.34",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -918,7 +931,7 @@
       "flag": "🇺🇸",
       "name": "Pokemon TCG Mega Evolutions 1 Caja de Entrenador Élite",
       "image": "https://m.media-amazon.com/images/I/81HduOvXc-L._AC_UL320_.jpg",
-      "price": "EUR 117.52",
+      "price": "EUR 117.48",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
