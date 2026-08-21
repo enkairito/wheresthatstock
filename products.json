@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T04:36:56.381684+00:00",
+  "updated_at": "2026-08-21T05:31:55.874274+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -437,7 +437,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Colección Súper Premium de Evoluciones Prismáticas Escarlata y Violeta",
       "image": "https://m.media-amazon.com/images/I/811hyPaG+OL._AC_UL320_.jpg",
-      "price": "EUR 243.83",
+      "price": "EUR 250.68",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -463,7 +463,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Colección de Ilustraciones para el Primer Partner — Serie 3",
       "image": "https://m.media-amazon.com/images/I/81LQc5zS0+L._AC_UL320_.jpg",
-      "price": "EUR 42.73",
+      "price": "EUR 40.11",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -489,24 +489,11 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Caja de entrenamiento de élite Mega Evolution—Chaos Rising",
       "image": "https://m.media-amazon.com/images/I/81EPbaDcgQL._AC_UL320_.jpg",
-      "price": "EUR 75.24",
+      "price": "EUR 75.19",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0GR6N18F6?tag=wtsus-20"
-    },
-    {
-      "asin": "B0GXJ8CSTY",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Mega Greninja ex Colección Premium",
-      "image": "https://m.media-amazon.com/images/I/91E+9GLiyyL._AC_UL320_.jpg",
-      "price": "EUR 53.85",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0GXJ8CSTY?tag=wtsus-20"
     },
     {
       "asin": "B0FQP3YQ47",
@@ -520,6 +507,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0FQP3YQ47?tag=wtsus-20"
+    },
+    {
+      "asin": "B0GXJ8CSTY",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Mega Greninja ex Colección Premium",
+      "image": "https://m.media-amazon.com/images/I/91E+9GLiyyL._AC_UL320_.jpg",
+      "price": "EUR 53.85",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0GXJ8CSTY?tag=wtsus-20"
     },
     {
       "asin": "B0G2FVLXVL",
@@ -593,7 +593,7 @@
       "flag": "🇺🇸",
       "name": "Lote de 3 paquetes de refuerzo japoneses de Pokémon aleatorios",
       "image": "https://m.media-amazon.com/images/I/61So4wJYKGL._AC_UL320_.jpg",
-      "price": "EUR 10.17",
+      "price": "EUR 10.34",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -626,6 +626,19 @@
       "link": "https://www.amazon.com/dp/B0DLPL7LC5?tag=wtsus-20"
     },
     {
+      "asin": "B0GRCDKMSW",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: MegaLucario ex League Battle Deck",
+      "image": "https://m.media-amazon.com/images/I/918tqXfPc9L._AC_UL320_.jpg",
+      "price": "EUR 18.35",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0GRCDKMSW?tag=wtsus-20"
+    },
+    {
       "asin": "B0F2BCG1Y5",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -639,17 +652,17 @@
       "link": "https://www.amazon.com/dp/B0F2BCG1Y5?tag=wtsus-20"
     },
     {
-      "asin": "B0GRCDKMSW",
+      "asin": "B0GGCCLCJM",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
-      "name": "Pokémon TCG: MegaLucario ex League Battle Deck",
-      "image": "https://m.media-amazon.com/images/I/918tqXfPc9L._AC_UL320_.jpg",
-      "price": "EUR 18.35",
+      "name": "Pokemon TCG: Mega Evolutions - Blister de 3 Paquetes Orden Perfecta (Chikorita)",
+      "image": "https://m.media-amazon.com/images/I/91vaIBXmuZL._AC_UL320_.jpg",
+      "price": "EUR 21.39",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.com/dp/B0GRCDKMSW?tag=wtsus-20"
+      "link": "https://www.amazon.com/dp/B0GGCCLCJM?tag=wtsus-20"
     },
     {
       "asin": "B0GFZV1ZVV",
@@ -676,19 +689,6 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0DDYZX1TB?tag=wtsus-20"
-    },
-    {
-      "asin": "B0GGCCLCJM",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokemon TCG: Mega Evolutions - Blister de 3 Paquetes Orden Perfecta (Chikorita)",
-      "image": "https://m.media-amazon.com/images/I/91vaIBXmuZL._AC_UL320_.jpg",
-      "price": "EUR 21.39",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0GGCCLCJM?tag=wtsus-20"
     },
     {
       "asin": "B0G78HDPPR",
