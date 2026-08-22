@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T20:21:07.177185+00:00",
+  "updated_at": "2026-08-22T21:21:11.301227+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -580,24 +580,11 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolution—Caja de entrenador Elite Pitch Black",
       "image": "https://m.media-amazon.com/images/I/81nYHGhNIOL._AC_UL320_.jpg",
-      "price": "EUR 66.80",
+      "price": "EUR 72.71",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0GYVHLP4L?tag=wtsus-20"
-    },
-    {
-      "asin": "B0GYTRYV7P",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Mega Evolution—Paquete de refuerzo de tono negro",
-      "image": "https://m.media-amazon.com/images/I/81ANtTqGJVL._AC_UL320_.jpg",
-      "price": "EUR 29.93",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0GYTRYV7P?tag=wtsus-20"
     },
     {
       "asin": "B0GR6Q72ND",
@@ -658,7 +645,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Caja de entrenamiento de élite Mega Evolution—Chaos Rising",
       "image": "https://m.media-amazon.com/images/I/81EPbaDcgQL._AC_UL320_.jpg",
-      "price": "EUR 76.98",
+      "price": "EUR 77.07",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -743,19 +730,6 @@
       "link": "https://www.amazon.com/dp/B001DIJ48C?tag=wtsus-20"
     },
     {
-      "asin": "B0DN98RVZM",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Escarlata y Violeta - Paquete de Refuerzo de Prismatic Evolutions",
-      "image": "https://m.media-amazon.com/images/I/8191EvbngyL._AC_UL320_.jpg",
-      "price": "EUR 93.45",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0DN98RVZM?tag=wtsus-20"
-    },
-    {
       "asin": "B09YS3LL3N",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -767,6 +741,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B09YS3LL3N?tag=wtsus-20"
+    },
+    {
+      "asin": "B0DN98RVZM",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Escarlata y Violeta - Paquete de Refuerzo de Prismatic Evolutions",
+      "image": "https://m.media-amazon.com/images/I/8191EvbngyL._AC_UL320_.jpg",
+      "price": "EUR 96.67",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0DN98RVZM?tag=wtsus-20"
     },
     {
       "asin": "B0GV6WRPRV",
@@ -808,19 +795,6 @@
       "link": "https://www.amazon.com/dp/B0F5YRVNZX?tag=wtsus-20"
     },
     {
-      "asin": "B0DDYZX1TB",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Escarlata y Violeta - Paquete de refuerzo de Surging Sparks",
-      "image": "https://m.media-amazon.com/images/I/817ZQoBRA3L._AC_UL320_.jpg",
-      "price": "EUR 76.98",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0DDYZX1TB?tag=wtsus-20"
-    },
-    {
       "asin": "B0BKGX74WP",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -834,6 +808,19 @@
       "link": "https://www.amazon.com/dp/B0BKGX74WP?tag=wtsus-20"
     },
     {
+      "asin": "B0DDYZX1TB",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Escarlata y Violeta - Paquete de refuerzo de Surging Sparks",
+      "image": "https://m.media-amazon.com/images/I/817ZQoBRA3L._AC_UL320_.jpg",
+      "price": "EUR 76.98",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0DDYZX1TB?tag=wtsus-20"
+    },
+    {
       "asin": "B0F2BCG1Y5",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -845,6 +832,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0F2BCG1Y5?tag=wtsus-20"
+    },
+    {
+      "asin": "B0GRCDKMSW",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: MegaLucario ex League Battle Deck",
+      "image": "https://m.media-amazon.com/images/I/918tqXfPc9L._AC_UL320_.jpg",
+      "price": "EUR 19.22",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0GRCDKMSW?tag=wtsus-20"
     },
     {
       "asin": "B0G3CY83L5",
