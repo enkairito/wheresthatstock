@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T23:22:47.608654+00:00",
+  "updated_at": "2026-08-22T01:07:32.541397+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -236,6 +236,253 @@
       "link": "https://www.amazon.es/dp/B0GYSKFHBY?tag=enkairito-21"
     },
     {
+      "asin": "B0GYSGQ9R8",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Pokémon: Minilata Ciudad Luminalia: Gallade y Goomy de JCC Pokémon (2 Sobres de Mejora, 1 Tarjeta ilustrada y 1 Pegatina)",
+      "image": "https://m.media-amazon.com/images/I/71fpBFK2PBL._AC_UL320_.jpg",
+      "price": null,
+      "original_price": null,
+      "status": "no_disponible",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GYSGQ9R8?tag=enkairito-21"
+    },
+    {
+      "asin": "B0G7HYD9WC",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Pokémon: Colección Mega-Feraligatr ex de Megaevolución-Héroes Ascendentes (1 Carta holográfica de promoción, 1 Carta de Gran tamaño con Efecto 3D y 4 Sobres de Mejora)",
+      "image": "https://m.media-amazon.com/images/I/91gEje03TJL._AC_UL320_.jpg",
+      "price": null,
+      "original_price": null,
+      "status": "no_disponible",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0G7HYD9WC?tag=enkairito-21"
+    },
+    {
+      "asin": "B0GMRC58KQ",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Pokémon: Lata Mega-Charizard de JCC Pokémon: Mega-Charizard X ex de JCC Pokémon (4 Sobres de Mejora y 1 Carta holográfica de promoción)",
+      "image": "https://m.media-amazon.com/images/I/81Eo5Qll8pL._AC_UL320_.jpg",
+      "price": "20,65 €",
+      "original_price": null,
+      "status": "invitacion",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GMRC58KQ?tag=enkairito-21"
+    },
+    {
+      "asin": "B0GMR6ZK3R",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Pokémon: Lata Mega-Charizard de JCC Pokémon: Mega-Charizard Y ex de JCC Pokémon (4 Sobres de Mejora y 1 Carta holográfica de promoción)",
+      "image": "https://m.media-amazon.com/images/I/81hAqQAQ2cL._AC_UL320_.jpg",
+      "price": "20,65 €",
+      "original_price": null,
+      "status": "invitacion",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GMR6ZK3R?tag=enkairito-21"
+    },
+    {
+      "asin": "B0BMGR3QZW",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Pokémon: Baraja Combate De Liga De Mew VMAX (1 baraja de 60 Cartas Completa, 6 2 Cartas holográficas)",
+      "image": "https://m.media-amazon.com/images/I/81Iapnfdd5L._AC_UL320_.jpg",
+      "price": null,
+      "original_price": null,
+      "status": "no_disponible",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0BMGR3QZW?tag=enkairito-21"
+    },
+    {
+      "asin": "B0G4NT35J8",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Pokémon: Minilata Megaevolución-Héroes Ascendentes: Riolu y Darumaka (1 Pegatina, 1 Tarjeta Pokémon ilustrada y 2 Sobres de Mejora)",
+      "image": "https://m.media-amazon.com/images/I/71G7uT1xPHL._AC_UL320_.jpg",
+      "price": "9,08 €",
+      "original_price": null,
+      "status": "invitacion",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0G4NT35J8?tag=enkairito-21"
+    },
+    {
+      "asin": "B0G4NQK15P",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Pokémon: Minilata Megaevolución-Héroes Ascendentes: Clefairy y Chikorita (1 Pegatina, 1 Tarjeta Pokémon ilustrada y 2 Sobres de Mejora)",
+      "image": "https://m.media-amazon.com/images/I/71DN7YrgdEL._AC_UL320_.jpg",
+      "price": "9,08 €",
+      "original_price": null,
+      "status": "invitacion",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0G4NQK15P?tag=enkairito-21"
+    },
+    {
+      "asin": "B0G4NS6SJY",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Pokémon: Minilata Megaevolución-Héroes Ascendentes: Togepi y Totodile (1 Pegatina, 1 Tarjeta Pokémon ilustrada y 2 Sobres de Mejora)",
+      "image": "https://m.media-amazon.com/images/I/71paXkKaTbL._AC_UL320_.jpg",
+      "price": "9,08 €",
+      "original_price": null,
+      "status": "invitacion",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0G4NS6SJY?tag=enkairito-21"
+    },
+    {
+      "asin": "B0FX19JX78",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Pokémon: Colección con póster prémium Mega-Gardevoir de Megaevolución-Héroes Ascendentes (1 Carta holográfica de promoción, 1 póster Impreso por ambas Caras y 10 Sobres de Mejora)",
+      "image": "https://m.media-amazon.com/images/I/91w4okXtL-L._AC_UL320_.jpg",
+      "price": "47,10 €",
+      "original_price": null,
+      "status": "invitacion",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FX19JX78?tag=enkairito-21"
+    },
+    {
+      "asin": "B0GGHXWSDC",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Pokémon: Caja de Entrenador Élite de Megaevolución-Equilibrio JCC Pokémon (1 Carta de promoción con ilustración expandida, 9 Sobres de Mejora y Accesorios prémium)",
+      "image": "https://m.media-amazon.com/images/I/81gQnDlRmhL._AC_UL320_.jpg",
+      "price": "43,79 €",
+      "original_price": null,
+      "status": "invitacion",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GGHXWSDC?tag=enkairito-21"
+    },
+    {
+      "asin": "B0GGJ2YJQ5",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Pokémon: Expositor de Sobres de Mejora de Megaevolución-Equilibrio JCC Pokémon (18 Sobres de Mejora)",
+      "image": "https://m.media-amazon.com/images/I/81G-pRlFD2L._AC_UL320_.jpg",
+      "price": "74,23 €",
+      "original_price": null,
+      "status": "invitacion",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GGJ2YJQ5?tag=enkairito-21"
+    },
+    {
+      "asin": "B0GGJ74MWD",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Pokémon: Lote de Sobres de Mejora de Megaevolución-Equilibrio JCC Pokémon (6 Sobres de Mejora)",
+      "image": "https://m.media-amazon.com/images/I/813brnur54L._AC_UL320_.jpg",
+      "price": null,
+      "original_price": null,
+      "status": "no_disponible",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GGJ74MWD?tag=enkairito-21"
+    },
+    {
+      "asin": "B0G5YX5XVQ",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Pokémon: Baraja Combate de Liga de Mewtwo ex del Team Rocket (1 baraja de 60 Cartas Lista para Jugar)",
+      "image": "https://m.media-amazon.com/images/I/91t3r9rlwdL._AC_UL320_.jpg",
+      "price": "41,31 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0G5YX5XVQ?tag=enkairito-21"
+    },
+    {
+      "asin": "B0FY3165VP",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Pokémon: Colección ultraprémium Mega-Charizard X ex (2 Cartas holográficas de promoción, 18 Sobres de Mejora y Accesorios prémium)",
+      "image": "https://m.media-amazon.com/images/I/81hXcy9vRWL._AC_UL320_.jpg",
+      "price": null,
+      "original_price": null,
+      "status": "no_disponible",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FY3165VP?tag=enkairito-21"
+    },
+    {
+      "asin": "B0FPMXHZLT",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Pokémon: Colección Especial Snorlax ex y Blissey ex de JCC Pokémon (2 Cartas holográficas de promoción, 1 Carta holográfica de Gran tamaño y 8 Sobres de Mejora)",
+      "image": "https://m.media-amazon.com/images/I/91T-9X4Ze8L._AC_UL320_.jpg",
+      "price": "38,83 €",
+      "original_price": null,
+      "status": "invitacion",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FPMXHZLT?tag=enkairito-21"
+    },
+    {
+      "asin": "B0FTCXPDCH",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Pokémon: Colección con Figura Mega-Lucario ex de JCC Pokémon (1 Carta holográfica de promoción grabada en Relieve, 1 Carta de promoción de Gran tamaño, 5 Sobres de Mejora y 1 Figura de Mega-Lucario)",
+      "image": "https://m.media-amazon.com/images/I/811k9pIbsNL._AC_UL320_.jpg",
+      "price": "33,05 €",
+      "original_price": null,
+      "status": "invitacion",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FTCXPDCH?tag=enkairito-21"
+    },
+    {
+      "asin": "B0FZKWZ5YP",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Pokémon: Colección prémium Mega-Venusaur ex (1 Carta holográfica de promoción, 1 Carta de promoción de Gran tamaño con Efecto 3D y 8 Sobres de Mejora)",
+      "image": "https://m.media-amazon.com/images/I/81E3LkEGGXL._AC_UL320_.jpg",
+      "price": "38,83 €",
+      "original_price": null,
+      "status": "invitacion",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FZKWZ5YP?tag=enkairito-21"
+    },
+    {
+      "asin": "B0DT7D8W4N",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Pokémon Colección Especial Charizard ex (1 Carta holográfica de promoción, 2 Cartas holográficas, 1 Carta lenticular de Gran tamaño con Efecto 3D y 5 Sobres de Mejora)",
+      "image": "https://m.media-amazon.com/images/I/91ra4Y8NW6L._AC_UL320_.jpg",
+      "price": null,
+      "original_price": null,
+      "status": "no_disponible",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DT7D8W4N?tag=enkairito-21"
+    },
+    {
+      "asin": "B0DT7D5K1X",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Pokémon Colección prémium Bellibolt ex de e-Nigma de JCC Pokémon (1 Carta holográfica con ilustración expandida, 6 Sobres de Mejora y Figuras acrílicas)",
+      "image": "https://m.media-amazon.com/images/I/81rIqLmegfL._AC_UL320_.jpg",
+      "price": "39,36 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DT7D5K1X?tag=enkairito-21"
+    },
+    {
       "asin": "B0C64LR9BS",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -273,32 +520,6 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0CJYK29Y9?tag=enkairito-21"
-    },
-    {
-      "asin": "B0BMGR3QZW",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Pokémon: Baraja Combate De Liga De Mew VMAX (1 baraja de 60 Cartas Completa, 6 2 Cartas holográficas)",
-      "image": "https://m.media-amazon.com/images/I/81Iapnfdd5L._AC_UL320_.jpg",
-      "price": null,
-      "original_price": null,
-      "status": "no_disponible",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0BMGR3QZW?tag=enkairito-21"
-    },
-    {
-      "asin": "B0DT7D5K1X",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Pokémon Colección prémium Bellibolt ex de e-Nigma de JCC Pokémon (1 Carta holográfica con ilustración expandida, 6 Sobres de Mejora y Figuras acrílicas)",
-      "image": "https://m.media-amazon.com/images/I/81rIqLmegfL._AC_UL320_.jpg",
-      "price": "39,36 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0DT7D5K1X?tag=enkairito-21"
     },
     {
       "asin": "B0C4V8F77B",
@@ -353,6 +574,19 @@
       "link": "https://www.amazon.co.uk/dp/B0GRCDKMSW?tag=wtsuk-21"
     },
     {
+      "asin": "B0G72SPRP6",
+      "marketplace": "UK",
+      "store_label": "Amazon UK",
+      "flag": "🇬🇧",
+      "name": "Pokémon TCG: Mega Evolution—Ascended Heroes - Mega Meganium ex Box (1 Foil Promo Card, 1 Oversize Lenticular Card and 4 Booster Packs)",
+      "image": "https://m.media-amazon.com/images/I/91FiTlqcy+L._AC_UL320_.jpg",
+      "price": "EUR 110.75",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "1",
+      "link": "https://www.amazon.co.uk/dp/B0G72SPRP6?tag=wtsuk-21"
+    },
+    {
       "asin": "B0GYVHLP4L",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -392,19 +626,6 @@
       "link": "https://www.amazon.com/dp/B0GR6Q72ND?tag=wtsus-20"
     },
     {
-      "asin": "B0GW2DK37Q",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Colección de Ilustraciones de Primera Partner —Serie 2",
-      "image": "https://m.media-amazon.com/images/I/81ve1KtO-pL._AC_UL320_.jpg",
-      "price": "EUR 37.55",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0GW2DK37Q?tag=wtsus-20"
-    },
-    {
       "asin": "B0DYR8D7YC",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -416,6 +637,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0DYR8D7YC?tag=wtsus-20"
+    },
+    {
+      "asin": "B0GW2DK37Q",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Colección de Ilustraciones de Primera Partner —Serie 2",
+      "image": "https://m.media-amazon.com/images/I/81ve1KtO-pL._AC_UL320_.jpg",
+      "price": "EUR 37.56",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0GW2DK37Q?tag=wtsus-20"
     },
     {
       "asin": "B0H2JVZYZZ",
@@ -437,7 +671,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolution—Perfect Order Booster Bundle",
       "image": "https://m.media-amazon.com/images/I/81oqIqpLjrL._AC_UL320_.jpg",
-      "price": "EUR 42.77",
+      "price": "EUR 42.73",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -450,24 +684,11 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Caja de entrenamiento de élite Mega Evolution—Chaos Rising",
       "image": "https://m.media-amazon.com/images/I/81EPbaDcgQL._AC_UL320_.jpg",
-      "price": "EUR 75.24",
+      "price": "EUR 74.35",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0GR6N18F6?tag=wtsus-20"
-    },
-    {
-      "asin": "B0GXJ8CSTY",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Mega Greninja ex Colección Premium",
-      "image": "https://m.media-amazon.com/images/I/91E+9GLiyyL._AC_UL320_.jpg",
-      "price": "EUR 53.85",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0GXJ8CSTY?tag=wtsus-20"
     },
     {
       "asin": "B0FQP3YQ47",
@@ -481,6 +702,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0FQP3YQ47?tag=wtsus-20"
+    },
+    {
+      "asin": "B0GXJ8CSTY",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Mega Greninja ex Colección Premium",
+      "image": "https://m.media-amazon.com/images/I/91E+9GLiyyL._AC_UL320_.jpg",
+      "price": "EUR 53.85",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0GXJ8CSTY?tag=wtsus-20"
     },
     {
       "asin": "B0F2GZJ3TZ",
@@ -509,19 +743,6 @@
       "link": "https://www.amazon.com/dp/B0G2FVLXVL?tag=wtsus-20"
     },
     {
-      "asin": "B001DIJ48C",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG 3 paquetes de refuerzo, 30 cartas en total, 100% auténticas, raras aleatorias y holofoils, 3 paquetes de ampollas",
-      "image": "https://m.media-amazon.com/images/I/71UYZOVLiuL._AC_UL320_.jpg",
-      "price": "EUR 22.20",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B001DIJ48C?tag=wtsus-20"
-    },
-    {
       "asin": "B0DN98RVZM",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -533,6 +754,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0DN98RVZM?tag=wtsus-20"
+    },
+    {
+      "asin": "B001DIJ48C",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG 3 paquetes de refuerzo, 30 cartas en total, 100% auténticas, raras aleatorias y holofoils, 3 paquetes de ampollas",
+      "image": "https://m.media-amazon.com/images/I/71UYZOVLiuL._AC_UL320_.jpg",
+      "price": "EUR 22.11",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B001DIJ48C?tag=wtsus-20"
     },
     {
       "asin": "B0F5YRVNZX",
@@ -554,7 +788,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Lata Mega Moonlit",
       "image": "https://m.media-amazon.com/images/I/81mm4CJGgFL._AC_UL320_.jpg",
-      "price": "EUR 31.35",
+      "price": "EUR 31.39",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -587,17 +821,17 @@
       "link": "https://www.amazon.com/dp/B0F2BCG1Y5?tag=wtsus-20"
     },
     {
-      "asin": "B0GRCDKMSW",
+      "asin": "B0GFZV1ZVV",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
-      "name": "Pokémon TCG: MegaLucario ex League Battle Deck",
-      "image": "https://m.media-amazon.com/images/I/918tqXfPc9L._AC_UL320_.jpg",
-      "price": "EUR 19.20",
+      "name": "Pokémon TCG: Caja de Entrenador Élite de Mega Evolución—Orden Perfecta",
+      "image": "https://m.media-amazon.com/images/I/813BmMbm-YL._AC_UL320_.jpg",
+      "price": "EUR 78.67",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.com/dp/B0GRCDKMSW?tag=wtsus-20"
+      "link": "https://www.amazon.com/dp/B0GFZV1ZVV?tag=wtsus-20"
     },
     {
       "asin": "B0DDYZX1TB",
@@ -613,30 +847,17 @@
       "link": "https://www.amazon.com/dp/B0DDYZX1TB?tag=wtsus-20"
     },
     {
-      "asin": "B0GFZV1ZVV",
+      "asin": "B0GRCDKMSW",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
-      "name": "Pokémon TCG: Caja de Entrenador Élite de Mega Evolución—Orden Perfecta",
-      "image": "https://m.media-amazon.com/images/I/813BmMbm-YL._AC_UL320_.jpg",
-      "price": "EUR 78.67",
+      "name": "Pokémon TCG: MegaLucario ex League Battle Deck",
+      "image": "https://m.media-amazon.com/images/I/918tqXfPc9L._AC_UL320_.jpg",
+      "price": "EUR 19.20",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.com/dp/B0GFZV1ZVV?tag=wtsus-20"
-    },
-    {
-      "asin": "B0GGCCLCJM",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokemon TCG: Mega Evolutions - Blister de 3 Paquetes Orden Perfecta (Chikorita)",
-      "image": "https://m.media-amazon.com/images/I/91vaIBXmuZL._AC_UL320_.jpg",
-      "price": "EUR 23.48",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0GGCCLCJM?tag=wtsus-20"
+      "link": "https://www.amazon.com/dp/B0GRCDKMSW?tag=wtsus-20"
     },
     {
       "asin": "B0BKGX74WP",
@@ -650,19 +871,6 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0BKGX74WP?tag=wtsus-20"
-    },
-    {
-      "asin": "B0G3CV6Z9D",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Mega Evolución: Paquete de refuerzo de héroes ascendidos",
-      "image": "https://m.media-amazon.com/images/I/81sZheTQIhL._AC_UL320_.jpg",
-      "price": "EUR 79.02",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0G3CV6Z9D?tag=wtsus-20"
     },
     {
       "asin": "B0G3CY83L5",
