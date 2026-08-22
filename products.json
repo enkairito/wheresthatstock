@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T09:26:04.747328+00:00",
+  "updated_at": "2026-08-22T10:22:10.402330+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -528,7 +528,7 @@
       "flag": "🇪🇸",
       "name": "Pokémon: Estadio Combina y Combate de Escarlata y Púrpura (2 Barajas, 11 Paquetes de Mejora y más)",
       "image": "https://m.media-amazon.com/images/I/81eF8wu4I1L._AC_UL320_.jpg",
-      "price": "54,53 €",
+      "price": "53,70 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -606,7 +606,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolución — Paquete de refuerzo del aumento del caos",
       "image": "https://m.media-amazon.com/images/I/81pdaHp6Q1L._AC_UL320_.jpg",
-      "price": "EUR 36.30",
+      "price": "EUR 36.98",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -645,7 +645,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Colección Súper Premium de Evoluciones Prismáticas Escarlata y Violeta",
       "image": "https://m.media-amazon.com/images/I/811hyPaG+OL._AC_UL320_.jpg",
-      "price": "EUR 248.33",
+      "price": "EUR 250.67",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -665,19 +665,6 @@
       "link": "https://www.amazon.com/dp/B0GW2DK37Q?tag=wtsus-20"
     },
     {
-      "asin": "B0GG11K25W",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Mega Evolution—Perfect Order Booster Bundle",
-      "image": "https://m.media-amazon.com/images/I/81oqIqpLjrL._AC_UL320_.jpg",
-      "price": "EUR 42.77",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0GG11K25W?tag=wtsus-20"
-    },
-    {
       "asin": "B0GR6N18F6",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -689,6 +676,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0GR6N18F6?tag=wtsus-20"
+    },
+    {
+      "asin": "B0GG11K25W",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Mega Evolution—Perfect Order Booster Bundle",
+      "image": "https://m.media-amazon.com/images/I/81oqIqpLjrL._AC_UL320_.jpg",
+      "price": "EUR 42.77",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0GG11K25W?tag=wtsus-20"
     },
     {
       "asin": "B0GXJ8CSTY",
@@ -730,26 +730,13 @@
       "link": "https://www.amazon.com/dp/B0F2GZJ3TZ?tag=wtsus-20"
     },
     {
-      "asin": "B0DN98RVZM",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Escarlata y Violeta - Paquete de Refuerzo de Prismatic Evolutions",
-      "image": "https://m.media-amazon.com/images/I/8191EvbngyL._AC_UL320_.jpg",
-      "price": "EUR 93.47",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0DN98RVZM?tag=wtsus-20"
-    },
-    {
       "asin": "B0G2FVLXVL",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Colección del Día de Pokémon 2026",
       "image": "https://m.media-amazon.com/images/I/91YHLxggDmL._AC_UL320_.jpg",
-      "price": "EUR 45.34",
+      "price": "EUR 44.92",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -767,6 +754,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B001DIJ48C?tag=wtsus-20"
+    },
+    {
+      "asin": "B0DN98RVZM",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Escarlata y Violeta - Paquete de Refuerzo de Prismatic Evolutions",
+      "image": "https://m.media-amazon.com/images/I/8191EvbngyL._AC_UL320_.jpg",
+      "price": "EUR 93.34",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0DN98RVZM?tag=wtsus-20"
     },
     {
       "asin": "B09YS3LL3N",
@@ -801,7 +801,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Caja de Entrenador Élite de Mega Evolución—Orden Perfecta",
       "image": "https://m.media-amazon.com/images/I/813BmMbm-YL._AC_UL320_.jpg",
-      "price": "EUR 78.67",
+      "price": "EUR 77.75",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
