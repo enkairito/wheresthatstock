@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T03:41:16.211754+00:00",
+  "updated_at": "2026-08-22T04:31:32.401099+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -483,19 +483,6 @@
       "link": "https://www.amazon.es/dp/B0DT7D5K1X?tag=enkairito-21"
     },
     {
-      "asin": "B0C64LR9BS",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Pokémon: Estadio Combina y Combate de Escarlata y Púrpura-Evoluciones en Paldea (2 Barajas, 11 Paquetes de Mejora y más)",
-      "image": "https://m.media-amazon.com/images/I/81x2M0okWML._AC_UL320_.jpg",
-      "price": "57,84 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0C64LR9BS?tag=enkairito-21"
-    },
-    {
       "asin": "B0D6WJH3SN",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -509,19 +496,6 @@
       "link": "https://www.amazon.es/dp/B0D6WJH3SN?tag=enkairito-21"
     },
     {
-      "asin": "B0CJYK29Y9",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Pokémon: Baraja Combate de Liga de Miraidon ex",
-      "image": "https://m.media-amazon.com/images/I/91WNfuBv63L._AC_UL320_.jpg",
-      "price": "23,84 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0CJYK29Y9?tag=enkairito-21"
-    },
-    {
       "asin": "B0C4V8F77B",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -533,6 +507,45 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0C4V8F77B?tag=enkairito-21"
+    },
+    {
+      "asin": "B0C64LR9BS",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Pokémon: Estadio Combina y Combate de Escarlata y Púrpura-Evoluciones en Paldea (2 Barajas, 11 Paquetes de Mejora y más)",
+      "image": "https://m.media-amazon.com/images/I/81x2M0okWML._AC_UL320_.jpg",
+      "price": "57,84 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0C64LR9BS?tag=enkairito-21"
+    },
+    {
+      "asin": "B0C643MGKG",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Pokémon: Palkia Forma Origen de la Liga VSTAR",
+      "image": "https://m.media-amazon.com/images/I/61NQ89XKSxL._AC_UL320_.jpg",
+      "price": null,
+      "original_price": null,
+      "status": "no_disponible",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0C643MGKG?tag=enkairito-21"
+    },
+    {
+      "asin": "B0CJYK29Y9",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Pokémon: Baraja Combate de Liga de Miraidon ex",
+      "image": "https://m.media-amazon.com/images/I/91WNfuBv63L._AC_UL320_.jpg",
+      "price": "23,84 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CJYK29Y9?tag=enkairito-21"
     },
     {
       "asin": "B0CT5T766W",
@@ -606,7 +619,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolución — Paquete de refuerzo del aumento del caos",
       "image": "https://m.media-amazon.com/images/I/81pdaHp6Q1L._AC_UL320_.jpg",
-      "price": "EUR 36.09",
+      "price": "EUR 37.19",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -678,19 +691,6 @@
       "link": "https://www.amazon.com/dp/B0GR6N18F6?tag=wtsus-20"
     },
     {
-      "asin": "B0FQP3YQ47",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Latas de Bola de Poké Q4",
-      "image": "https://m.media-amazon.com/images/I/712OrW9EjzL._AC_UL320_.jpg",
-      "price": "EUR 25.62",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0FQP3YQ47?tag=wtsus-20"
-    },
-    {
       "asin": "B0GXJ8CSTY",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -702,6 +702,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0GXJ8CSTY?tag=wtsus-20"
+    },
+    {
+      "asin": "B0FQP3YQ47",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Latas de Bola de Poké Q4",
+      "image": "https://m.media-amazon.com/images/I/712OrW9EjzL._AC_UL320_.jpg",
+      "price": "EUR 25.62",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0FQP3YQ47?tag=wtsus-20"
     },
     {
       "asin": "B0F2GZJ3TZ",
@@ -730,13 +743,26 @@
       "link": "https://www.amazon.com/dp/B0G2FVLXVL?tag=wtsus-20"
     },
     {
+      "asin": "B0GV6WRPRV",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Lata Mega Moonlit",
+      "image": "https://m.media-amazon.com/images/I/81mm4CJGgFL._AC_UL320_.jpg",
+      "price": "EUR 31.39",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0GV6WRPRV?tag=wtsus-20"
+    },
+    {
       "asin": "B001DIJ48C",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
       "name": "Pokémon TCG 3 paquetes de refuerzo, 30 cartas en total, 100% auténticas, raras aleatorias y holofoils, 3 paquetes de ampollas",
       "image": "https://m.media-amazon.com/images/I/71UYZOVLiuL._AC_UL320_.jpg",
-      "price": "EUR 22.20",
+      "price": "EUR 22.11",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -749,7 +775,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Escarlata y Violeta - Paquete de Refuerzo de Prismatic Evolutions",
       "image": "https://m.media-amazon.com/images/I/8191EvbngyL._AC_UL320_.jpg",
-      "price": "EUR 93.42",
+      "price": "EUR 93.46",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -769,26 +795,13 @@
       "link": "https://www.amazon.com/dp/B09YS3LL3N?tag=wtsus-20"
     },
     {
-      "asin": "B0GV6WRPRV",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Lata Mega Moonlit",
-      "image": "https://m.media-amazon.com/images/I/81mm4CJGgFL._AC_UL320_.jpg",
-      "price": "EUR 31.39",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0GV6WRPRV?tag=wtsus-20"
-    },
-    {
       "asin": "B0GFZV1ZVV",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Caja de Entrenador Élite de Mega Evolución—Orden Perfecta",
       "image": "https://m.media-amazon.com/images/I/813BmMbm-YL._AC_UL320_.jpg",
-      "price": "EUR 78.67",
+      "price": "EUR 76.90",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -801,7 +814,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolución — Pantalla de refuerzo de aumento del caos",
       "image": "https://m.media-amazon.com/images/I/71P7kd2+9AL._AC_UL320_.jpg",
-      "price": "EUR 187.74",
+      "price": "EUR 190.77",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
