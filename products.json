@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T05:26:29.970764+00:00",
+  "updated_at": "2026-08-22T06:37:24.250098+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -483,32 +483,6 @@
       "link": "https://www.amazon.es/dp/B0DT7D5K1X?tag=enkairito-21"
     },
     {
-      "asin": "B0D6WJH3SN",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Pokémon Academia de Combate del Juego de Cartas Coleccionables Pokémon de JCC Pokémon 2024 (Pikachu, Armarouge y Darkrai)",
-      "image": "https://m.media-amazon.com/images/I/91MfUFbcvPL._AC_UL320_.jpg",
-      "price": "24,79 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0D6WJH3SN?tag=enkairito-21"
-    },
-    {
-      "asin": "B0C4V8F77B",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Pokémon: Estadio Combina y Combate de Escarlata y Púrpura (2 Barajas, 11 Paquetes de Mejora y más)",
-      "image": "https://m.media-amazon.com/images/I/81eF8wu4I1L._AC_UL320_.jpg",
-      "price": "54,53 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0C4V8F77B?tag=enkairito-21"
-    },
-    {
       "asin": "B0C64LR9BS",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -522,17 +496,17 @@
       "link": "https://www.amazon.es/dp/B0C64LR9BS?tag=enkairito-21"
     },
     {
-      "asin": "B0C643MGKG",
+      "asin": "B0D6WJH3SN",
       "marketplace": "ES",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Pokémon: Palkia Forma Origen de la Liga VSTAR",
-      "image": "https://m.media-amazon.com/images/I/61NQ89XKSxL._AC_UL320_.jpg",
-      "price": null,
+      "name": "Pokémon Academia de Combate del Juego de Cartas Coleccionables Pokémon de JCC Pokémon 2024 (Pikachu, Armarouge y Darkrai)",
+      "image": "https://m.media-amazon.com/images/I/91MfUFbcvPL._AC_UL320_.jpg",
+      "price": "24,79 €",
       "original_price": null,
-      "status": "no_disponible",
+      "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0C643MGKG?tag=enkairito-21"
+      "link": "https://www.amazon.es/dp/B0D6WJH3SN?tag=enkairito-21"
     },
     {
       "asin": "B0CJYK29Y9",
@@ -546,6 +520,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0CJYK29Y9?tag=enkairito-21"
+    },
+    {
+      "asin": "B0C4V8F77B",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Pokémon: Estadio Combina y Combate de Escarlata y Púrpura (2 Barajas, 11 Paquetes de Mejora y más)",
+      "image": "https://m.media-amazon.com/images/I/81eF8wu4I1L._AC_UL320_.jpg",
+      "price": "54,53 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0C4V8F77B?tag=enkairito-21"
     },
     {
       "asin": "B0CT5T766W",
@@ -593,7 +580,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolution—Caja de entrenador Elite Pitch Black",
       "image": "https://m.media-amazon.com/images/I/81nYHGhNIOL._AC_UL320_.jpg",
-      "price": "EUR 72.63",
+      "price": "EUR 66.73",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -619,24 +606,24 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolución — Paquete de refuerzo del aumento del caos",
       "image": "https://m.media-amazon.com/images/I/81pdaHp6Q1L._AC_UL320_.jpg",
-      "price": "EUR 36.60",
+      "price": "EUR 36.98",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0GR6Q72ND?tag=wtsus-20"
     },
     {
-      "asin": "B0DYR8D7YC",
+      "asin": "B0G3CV6Z9D",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
-      "name": "Pokémon TCG: Colección Súper Premium de Evoluciones Prismáticas Escarlata y Violeta",
-      "image": "https://m.media-amazon.com/images/I/811hyPaG+OL._AC_UL320_.jpg",
-      "price": "EUR 250.67",
+      "name": "Pokémon TCG: Mega Evolución: Paquete de refuerzo de héroes ascendidos",
+      "image": "https://m.media-amazon.com/images/I/81sZheTQIhL._AC_UL320_.jpg",
+      "price": "EUR 79.02",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.com/dp/B0DYR8D7YC?tag=wtsus-20"
+      "link": "https://www.amazon.com/dp/B0G3CV6Z9D?tag=wtsus-20"
     },
     {
       "asin": "B0H2JVZYZZ",
@@ -650,6 +637,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0H2JVZYZZ?tag=wtsus-20"
+    },
+    {
+      "asin": "B0DYR8D7YC",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Colección Súper Premium de Evoluciones Prismáticas Escarlata y Violeta",
+      "image": "https://m.media-amazon.com/images/I/811hyPaG+OL._AC_UL320_.jpg",
+      "price": "EUR 250.67",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0DYR8D7YC?tag=wtsus-20"
     },
     {
       "asin": "B0GW2DK37Q",
@@ -684,7 +684,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Caja de entrenamiento de élite Mega Evolution—Chaos Rising",
       "image": "https://m.media-amazon.com/images/I/81EPbaDcgQL._AC_UL320_.jpg",
-      "price": "EUR 74.35",
+      "price": "EUR 75.18",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -762,7 +762,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Escarlata y Violeta - Paquete de Refuerzo de Prismatic Evolutions",
       "image": "https://m.media-amazon.com/images/I/8191EvbngyL._AC_UL320_.jpg",
-      "price": "EUR 93.35",
+      "price": "EUR 96.57",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -827,7 +827,7 @@
       "flag": "🇺🇸",
       "name": "Lote de 3 paquetes de refuerzo japoneses de Pokémon aleatorios",
       "image": "https://m.media-amazon.com/images/I/61So4wJYKGL._AC_UL320_.jpg",
-      "price": "EUR 10.17",
+      "price": "EUR 11.53",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -858,19 +858,6 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0DDYZX1TB?tag=wtsus-20"
-    },
-    {
-      "asin": "B0BKGX74WP",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Juego de cartas coleccionables Pokemon sellado aleatorio, 3 paquetes de refuerzo 100% auténticos",
-      "image": "https://m.media-amazon.com/images/I/8131Hx1S82L._AC_UL320_.jpg",
-      "price": "EUR 20.26",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0BKGX74WP?tag=wtsus-20"
     },
     {
       "asin": "B0G3CY83L5",
