@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T14:22:08.964334+00:00",
+  "updated_at": "2026-08-23T15:20:59.672071+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -574,19 +574,6 @@
       "link": "https://www.amazon.co.uk/dp/B0GRCDKMSW?tag=wtsuk-21"
     },
     {
-      "asin": "B0GYTRYV7P",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Mega Evolution—Paquete de refuerzo de tono negro",
-      "image": "https://m.media-amazon.com/images/I/81ANtTqGJVL._AC_UL320_.jpg",
-      "price": "EUR 29.93",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0GYTRYV7P?tag=wtsus-20"
-    },
-    {
       "asin": "B0GYVHLP4L",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -598,6 +585,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0GYVHLP4L?tag=wtsus-20"
+    },
+    {
+      "asin": "B0GYTRYV7P",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Mega Evolution—Paquete de refuerzo de tono negro",
+      "image": "https://m.media-amazon.com/images/I/81ANtTqGJVL._AC_UL320_.jpg",
+      "price": "EUR 29.93",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0GYTRYV7P?tag=wtsus-20"
     },
     {
       "asin": "B0GR6Q72ND",
@@ -743,19 +743,6 @@
       "link": "https://www.amazon.com/dp/B001DIJ48C?tag=wtsus-20"
     },
     {
-      "asin": "B0GV6WRPRV",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Lata Mega Moonlit",
-      "image": "https://m.media-amazon.com/images/I/81mm4CJGgFL._AC_UL320_.jpg",
-      "price": "EUR 31.42",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0GV6WRPRV?tag=wtsus-20"
-    },
-    {
       "asin": "B0F2BCG1Y5",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -788,7 +775,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Escarlata y Violeta - Paquete de Refuerzo de Prismatic Evolutions",
       "image": "https://m.media-amazon.com/images/I/8191EvbngyL._AC_UL320_.jpg",
-      "price": "EUR 93.43",
+      "price": "EUR 97.43",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -806,6 +793,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0GFZV1ZVV?tag=wtsus-20"
+    },
+    {
+      "asin": "B0GV6WRPRV",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Lata Mega Moonlit",
+      "image": "https://m.media-amazon.com/images/I/81mm4CJGgFL._AC_UL320_.jpg",
+      "price": "EUR 31.42",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0GV6WRPRV?tag=wtsus-20"
     },
     {
       "asin": "B0F5YRVNZX",
@@ -834,19 +834,6 @@
       "link": "https://www.amazon.com/dp/B0DDYZX1TB?tag=wtsus-20"
     },
     {
-      "asin": "B0BKGX74WP",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Juego de cartas coleccionables Pokemon sellado aleatorio, 3 paquetes de refuerzo 100% auténticos",
-      "image": "https://m.media-amazon.com/images/I/8131Hx1S82L._AC_UL320_.jpg",
-      "price": "EUR 20.28",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0BKGX74WP?tag=wtsus-20"
-    },
-    {
       "asin": "B0G3CY83L5",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -858,6 +845,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0G3CY83L5?tag=wtsus-20"
+    },
+    {
+      "asin": "B0BKGX74WP",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Juego de cartas coleccionables Pokemon sellado aleatorio, 3 paquetes de refuerzo 100% auténticos",
+      "image": "https://m.media-amazon.com/images/I/8131Hx1S82L._AC_UL320_.jpg",
+      "price": "EUR 20.28",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0BKGX74WP?tag=wtsus-20"
     },
     {
       "asin": "B0GYTWKXTR",
@@ -873,19 +873,6 @@
       "link": "https://www.amazon.com/dp/B0GYTWKXTR?tag=wtsus-20"
     },
     {
-      "asin": "B0F2BDXW4J",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokemon TCG: Scarlet & Violet - Caja de Entrenador Élite Destined Rivals - 9 Paquetes, Accesorios, Promo",
-      "image": "https://m.media-amazon.com/images/I/814hNCBQClL._AC_UL320_.jpg",
-      "price": "EUR 104.47",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0F2BDXW4J?tag=wtsus-20"
-    },
-    {
       "asin": "B0CXY99B6D",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -899,19 +886,6 @@
       "link": "https://www.amazon.com/dp/B0CXY99B6D?tag=wtsus-20"
     },
     {
-      "asin": "B0H2N248WM",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokemon TCG: Mega Evolution Chaos Rising Pokemon Center Elite Trainer Box | CR PKC ETB | Promo exclusivo de Fennekin | 11 paquetes de refuerzo",
-      "image": "https://m.media-amazon.com/images/I/71Dtzhp8caL._AC_UL320_.jpg",
-      "price": "EUR 149.76",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0H2N248WM?tag=wtsus-20"
-    },
-    {
       "asin": "B0CGCVT5RR",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -923,6 +897,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0CGCVT5RR?tag=wtsus-20"
+    },
+    {
+      "asin": "B0H2N248WM",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokemon TCG: Mega Evolution Chaos Rising Pokemon Center Elite Trainer Box | CR PKC ETB | Promo exclusivo de Fennekin | 11 paquetes de refuerzo",
+      "image": "https://m.media-amazon.com/images/I/71Dtzhp8caL._AC_UL320_.jpg",
+      "price": "EUR 149.76",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0H2N248WM?tag=wtsus-20"
     },
     {
       "asin": "B0C6D9LWCQ",
@@ -996,7 +983,7 @@
       "flag": "🇺🇸",
       "name": "Una tarjeta de Pokémon encapsulada y autenticada con calificación PSA al azar (perfecta para exhibición)",
       "image": "https://m.media-amazon.com/images/I/81SUwheDmXL._AC_UL320_.jpg",
-      "price": "EUR 23.52",
+      "price": "EUR 23.43",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
