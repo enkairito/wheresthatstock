@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T13:31:39.471287+00:00",
+  "updated_at": "2026-08-23T14:22:08.964334+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -593,7 +593,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolution—Caja de entrenador Elite Pitch Black",
       "image": "https://m.media-amazon.com/images/I/81nYHGhNIOL._AC_UL320_.jpg",
-      "price": "EUR 67.21",
+      "price": "EUR 72.71",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -606,24 +606,11 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolución — Paquete de refuerzo del aumento del caos",
       "image": "https://m.media-amazon.com/images/I/81pdaHp6Q1L._AC_UL320_.jpg",
-      "price": "EUR 42.59",
+      "price": "EUR 41.77",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0GR6Q72ND?tag=wtsus-20"
-    },
-    {
-      "asin": "B0G3CV6Z9D",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Mega Evolución: Paquete de refuerzo de héroes ascendidos",
-      "image": "https://m.media-amazon.com/images/I/81sZheTQIhL._AC_UL320_.jpg",
-      "price": "EUR 79.10",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0G3CV6Z9D?tag=wtsus-20"
     },
     {
       "asin": "B0DYR8D7YC",
@@ -637,6 +624,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0DYR8D7YC?tag=wtsus-20"
+    },
+    {
+      "asin": "B0G3CV6Z9D",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Mega Evolución: Paquete de refuerzo de héroes ascendidos",
+      "image": "https://m.media-amazon.com/images/I/81sZheTQIhL._AC_UL320_.jpg",
+      "price": "EUR 79.10",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0G3CV6Z9D?tag=wtsus-20"
     },
     {
       "asin": "B0GW2DK37Q",
@@ -743,6 +743,19 @@
       "link": "https://www.amazon.com/dp/B001DIJ48C?tag=wtsus-20"
     },
     {
+      "asin": "B0GV6WRPRV",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Lata Mega Moonlit",
+      "image": "https://m.media-amazon.com/images/I/81mm4CJGgFL._AC_UL320_.jpg",
+      "price": "EUR 31.42",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0GV6WRPRV?tag=wtsus-20"
+    },
+    {
       "asin": "B0F2BCG1Y5",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -775,7 +788,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Escarlata y Violeta - Paquete de Refuerzo de Prismatic Evolutions",
       "image": "https://m.media-amazon.com/images/I/8191EvbngyL._AC_UL320_.jpg",
-      "price": "EUR 96.67",
+      "price": "EUR 93.43",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -793,19 +806,6 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0GFZV1ZVV?tag=wtsus-20"
-    },
-    {
-      "asin": "B0GV6WRPRV",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Lata Mega Moonlit",
-      "image": "https://m.media-amazon.com/images/I/81mm4CJGgFL._AC_UL320_.jpg",
-      "price": "EUR 31.42",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0GV6WRPRV?tag=wtsus-20"
     },
     {
       "asin": "B0F5YRVNZX",
@@ -996,7 +996,7 @@
       "flag": "🇺🇸",
       "name": "Una tarjeta de Pokémon encapsulada y autenticada con calificación PSA al azar (perfecta para exhibición)",
       "image": "https://m.media-amazon.com/images/I/81SUwheDmXL._AC_UL320_.jpg",
-      "price": "EUR 23.60",
+      "price": "EUR 23.52",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
