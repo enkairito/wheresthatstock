@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T04:40:35.096221+00:00",
+  "updated_at": "2026-08-23T05:28:39.370355+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -483,32 +483,6 @@
       "link": "https://www.amazon.es/dp/B0DT7D5K1X?tag=enkairito-21"
     },
     {
-      "asin": "B0D6WJH3SN",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Pokémon Academia de Combate del Juego de Cartas Coleccionables Pokémon de JCC Pokémon 2024 (Pikachu, Armarouge y Darkrai)",
-      "image": "https://m.media-amazon.com/images/I/91MfUFbcvPL._AC_UL320_.jpg",
-      "price": "24,79 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0D6WJH3SN?tag=enkairito-21"
-    },
-    {
-      "asin": "B0C4V8F77B",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Pokémon: Estadio Combina y Combate de Escarlata y Púrpura (2 Barajas, 11 Paquetes de Mejora y más)",
-      "image": "https://m.media-amazon.com/images/I/81eF8wu4I1L._AC_UL320_.jpg",
-      "price": "53,70 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0C4V8F77B?tag=enkairito-21"
-    },
-    {
       "asin": "B0C64LR9BS",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -522,17 +496,17 @@
       "link": "https://www.amazon.es/dp/B0C64LR9BS?tag=enkairito-21"
     },
     {
-      "asin": "B0C643MGKG",
+      "asin": "B0D6WJH3SN",
       "marketplace": "ES",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Pokémon: Palkia Forma Origen de la Liga VSTAR",
-      "image": "https://m.media-amazon.com/images/I/61NQ89XKSxL._AC_UL320_.jpg",
-      "price": null,
+      "name": "Pokémon Academia de Combate del Juego de Cartas Coleccionables Pokémon de JCC Pokémon 2024 (Pikachu, Armarouge y Darkrai)",
+      "image": "https://m.media-amazon.com/images/I/91MfUFbcvPL._AC_UL320_.jpg",
+      "price": "24,79 €",
       "original_price": null,
-      "status": "no_disponible",
+      "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0C643MGKG?tag=enkairito-21"
+      "link": "https://www.amazon.es/dp/B0D6WJH3SN?tag=enkairito-21"
     },
     {
       "asin": "B0CJYK29Y9",
@@ -546,6 +520,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0CJYK29Y9?tag=enkairito-21"
+    },
+    {
+      "asin": "B0C4V8F77B",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Pokémon: Estadio Combina y Combate de Escarlata y Púrpura (2 Barajas, 11 Paquetes de Mejora y más)",
+      "image": "https://m.media-amazon.com/images/I/81eF8wu4I1L._AC_UL320_.jpg",
+      "price": "53,70 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0C4V8F77B?tag=enkairito-21"
     },
     {
       "asin": "B0CT5T766W",
@@ -600,26 +587,13 @@
       "link": "https://www.amazon.com/dp/B0GYVHLP4L?tag=wtsus-20"
     },
     {
-      "asin": "B0GYTRYV7P",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Mega Evolution—Paquete de refuerzo de tono negro",
-      "image": "https://m.media-amazon.com/images/I/81ANtTqGJVL._AC_UL320_.jpg",
-      "price": "EUR 29.93",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0GYTRYV7P?tag=wtsus-20"
-    },
-    {
       "asin": "B0GR6Q72ND",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolución — Paquete de refuerzo del aumento del caos",
       "image": "https://m.media-amazon.com/images/I/81pdaHp6Q1L._AC_UL320_.jpg",
-      "price": "EUR 41.29",
+      "price": "EUR 42.78",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -645,7 +619,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Colección Súper Premium de Evoluciones Prismáticas Escarlata y Violeta",
       "image": "https://m.media-amazon.com/images/I/811hyPaG+OL._AC_UL320_.jpg",
-      "price": "EUR 248.50",
+      "price": "EUR 250.92",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -717,19 +691,6 @@
       "link": "https://www.amazon.com/dp/B0FQP3YQ47?tag=wtsus-20"
     },
     {
-      "asin": "B0F2GZJ3TZ",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokemon TCG: Scarlet & Violet - Destined Rivals Caja Expositora de Sobres - 36 Paquetes",
-      "image": "https://m.media-amazon.com/images/I/81qEBWUk7hL._AC_UL320_.jpg",
-      "price": "EUR 434.08",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0F2GZJ3TZ?tag=wtsus-20"
-    },
-    {
       "asin": "B0G2FVLXVL",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -741,6 +702,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0G2FVLXVL?tag=wtsus-20"
+    },
+    {
+      "asin": "B0F2GZJ3TZ",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokemon TCG: Scarlet & Violet - Destined Rivals Caja Expositora de Sobres - 36 Paquetes",
+      "image": "https://m.media-amazon.com/images/I/81qEBWUk7hL._AC_UL320_.jpg",
+      "price": "EUR 434.08",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0F2GZJ3TZ?tag=wtsus-20"
     },
     {
       "asin": "B001DIJ48C",
@@ -769,19 +743,6 @@
       "link": "https://www.amazon.com/dp/B09YS3LL3N?tag=wtsus-20"
     },
     {
-      "asin": "B0F2BCG1Y5",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Scarlet & Violet - Paquete de refuerzo Destined Rivals - 6 paquetes",
-      "image": "https://m.media-amazon.com/images/I/81tegATYQrL._AC_UL320_.jpg",
-      "price": "EUR 64.65",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0F2BCG1Y5?tag=wtsus-20"
-    },
-    {
       "asin": "B0DN98RVZM",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -793,6 +754,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0DN98RVZM?tag=wtsus-20"
+    },
+    {
+      "asin": "B0F2BCG1Y5",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Scarlet & Violet - Paquete de refuerzo Destined Rivals - 6 paquetes",
+      "image": "https://m.media-amazon.com/images/I/81tegATYQrL._AC_UL320_.jpg",
+      "price": "EUR 74.41",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0F2BCG1Y5?tag=wtsus-20"
     },
     {
       "asin": "B0GFZV1ZVV",
@@ -827,7 +801,7 @@
       "flag": "🇺🇸",
       "name": "Lote de 3 paquetes de refuerzo japoneses de Pokémon aleatorios",
       "image": "https://m.media-amazon.com/images/I/61So4wJYKGL._AC_UL320_.jpg",
-      "price": "EUR 11.46",
+      "price": "EUR 11.54",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -871,6 +845,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0G3CY83L5?tag=wtsus-20"
+    },
+    {
+      "asin": "B0GYTWKXTR",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokemon TCG: Mega Evolution - Paquete de 3 Booster Blister negro",
+      "image": "https://m.media-amazon.com/images/I/91xodh9yAqL._AC_UL320_.jpg",
+      "price": "EUR 25.51",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0GYTWKXTR?tag=wtsus-20"
     },
     {
       "asin": "B0H2N248WM",
