@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T19:36:36.063378+00:00",
+  "updated_at": "2026-08-24T19:43:51.917502+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -411,7 +411,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolution—Perfect Order Booster Bundle",
       "image": "https://m.media-amazon.com/images/I/81oqIqpLjrL._AC_UL320_.jpg",
-      "price": "EUR 42.80",
+      "price": "EUR 42.81",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -522,6 +522,19 @@
       "link": "https://www.amazon.com/dp/B09YS3LL3N?tag=wtsus-20"
     },
     {
+      "asin": "B0G78HDPPR",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Mega Evolución: Héroes Ascendidos Mega Meganio/Emboar/Feraligatr ex Box",
+      "image": "https://m.media-amazon.com/images/I/91hWD1tF0KL._AC_UL320_.jpg",
+      "price": "EUR 59.91",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0G78HDPPR?tag=wtsus-20"
+    },
+    {
       "asin": "B0GYTWKXTR",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -533,19 +546,6 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0GYTWKXTR?tag=wtsus-20"
-    },
-    {
-      "asin": "B0GRCDKMSW",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: MegaLucario ex League Battle Deck",
-      "image": "https://m.media-amazon.com/images/I/918tqXfPc9L._AC_UL320_.jpg",
-      "price": "EUR 19.15",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0GRCDKMSW?tag=wtsus-20"
     },
     {
       "asin": "B0H2N248WM",
@@ -658,7 +658,7 @@
       "flag": "🇺🇸",
       "name": "Una tarjeta de Pokémon encapsulada y autenticada con calificación PSA al azar (perfecta para exhibición)",
       "image": "https://m.media-amazon.com/images/I/81SUwheDmXL._AC_UL320_.jpg",
-      "price": "EUR 23.45",
+      "price": "EUR 27.09",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
