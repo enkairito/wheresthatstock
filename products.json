@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T09:46:10.964375+00:00",
+  "updated_at": "2026-08-24T10:36:45.682454+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -652,6 +652,19 @@
       "link": "https://www.amazon.com/dp/B0GW2DK37Q?tag=wtsus-20"
     },
     {
+      "asin": "B0H2JVZYZZ",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Colección de Ilustraciones para el Primer Partner — Serie 3",
+      "image": "https://m.media-amazon.com/images/I/81LQc5zS0+L._AC_UL320_.jpg",
+      "price": "EUR 35.97",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0H2JVZYZZ?tag=wtsus-20"
+    },
+    {
       "asin": "B0GR6N18F6",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -821,19 +834,6 @@
       "link": "https://www.amazon.com/dp/B0829FT44S?tag=wtsus-20"
     },
     {
-      "asin": "B0F5YRVNZX",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Lote de 3 paquetes de refuerzo japoneses de Pokémon aleatorios",
-      "image": "https://m.media-amazon.com/images/I/61So4wJYKGL._AC_UL320_.jpg",
-      "price": "EUR 10.18",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0F5YRVNZX?tag=wtsus-20"
-    },
-    {
       "asin": "B0FLCWJ1VK",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -847,17 +847,17 @@
       "link": "https://www.amazon.com/dp/B0FLCWJ1VK?tag=wtsus-20"
     },
     {
-      "asin": "B0GRCDKMSW",
+      "asin": "B0F5YRVNZX",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
-      "name": "Pokémon TCG: MegaLucario ex League Battle Deck",
-      "image": "https://m.media-amazon.com/images/I/918tqXfPc9L._AC_UL320_.jpg",
-      "price": "EUR 18.37",
+      "name": "Lote de 3 paquetes de refuerzo japoneses de Pokémon aleatorios",
+      "image": "https://m.media-amazon.com/images/I/61So4wJYKGL._AC_UL320_.jpg",
+      "price": "EUR 10.18",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.com/dp/B0GRCDKMSW?tag=wtsus-20"
+      "link": "https://www.amazon.com/dp/B0F5YRVNZX?tag=wtsus-20"
     },
     {
       "asin": "B0CXY99B6D",
@@ -938,19 +938,6 @@
       "link": "https://www.amazon.com/dp/B0CDXKC4WS?tag=wtsus-20"
     },
     {
-      "asin": "B0BSNXK3H7",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Estuche de Entrenador Élite Scarlet & Violet (Miraidon Púrpura o Koraidon Rojo, Color Aleatorio)",
-      "image": "https://m.media-amazon.com/images/I/81kFKYGRq7L._AC_UL320_.jpg",
-      "price": "EUR 157.99",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0BSNXK3H7?tag=wtsus-20"
-    },
-    {
       "asin": "B0DFBGYFD3",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -962,6 +949,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0DFBGYFD3?tag=wtsus-20"
+    },
+    {
+      "asin": "B0BSNXK3H7",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Estuche de Entrenador Élite Scarlet & Violet (Miraidon Púrpura o Koraidon Rojo, Color Aleatorio)",
+      "image": "https://m.media-amazon.com/images/I/81kFKYGRq7L._AC_UL320_.jpg",
+      "price": "EUR 157.99",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0BSNXK3H7?tag=wtsus-20"
     },
     {
       "asin": "B09PQBM615",
