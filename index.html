@@ -365,7 +365,7 @@
     <div class="filter-group">
       <button class="filter-toggle" id="store-toggle" aria-expanded="false">
         <span>Tienda</span>
-        <span class="active-count" id="store-count">3</span>
+        <span class="active-count" id="store-count">4</span>
         <span class="chevron">▾</span>
       </button>
       <div class="filter-panel" id="store-filters" hidden>
@@ -380,6 +380,10 @@
         <label class="filter-option">
           <input type="checkbox" data-marketplace="US" checked>
           <span>🇺🇸 Amazon USA</span>
+        </label>
+        <label class="filter-option">
+          <input type="checkbox" data-marketplace="ECI" checked>
+          <span>🇪🇸 El Corte Inglés</span>
         </label>
       </div>
     </div>
@@ -418,8 +422,17 @@ function timeAgo(iso) {
 
 const FLAG_ICONS = {
   ES: "assets/flags/es.png",
+  ECI: "assets/flags/es.png",
   UK: "assets/flags/gb.png",
   US: "assets/flags/us.png",
+};
+
+// Solo Amazon (ES/UK/US) tiene el logo de Amazon; otras tiendas (ej. El
+// Corte Inglés) no lo llevan salvo que se añada su propio icono a este mapa.
+const STORE_ICONS = {
+  ES: "assets/amazon-logo.png",
+  UK: "assets/amazon-logo.png",
+  US: "assets/amazon-logo.png",
 };
 
 function cardHtml(p) {
@@ -442,7 +455,7 @@ function cardHtml(p) {
       <div class="card-img">
         ${p.image ? `<img src="${p.image}" alt="${p.name}" loading="lazy">` : ""}
         <div class="card-corner" title="${storeLabel}">
-          <span class="corner-icon"><img src="assets/amazon-logo.png" alt="Amazon"></span>
+          ${STORE_ICONS[p.marketplace] ? `<span class="corner-icon"><img src="${STORE_ICONS[p.marketplace]}" alt="${p.store_label || ""}"></span>` : ""}
           ${FLAG_ICONS[p.marketplace] ? `<span class="corner-icon"><img src="${FLAG_ICONS[p.marketplace]}" alt="${p.marketplace}"></span>` : ""}
           <span class="badge status ${statusInfo.cls}">${statusInfo.text}</span>
         </div>
@@ -473,7 +486,7 @@ function render(products) {
 }
 
 let activeStatuses = new Set(["compra_directa", "invitacion"]);
-let activeMarketplaces = new Set(["ES", "UK", "US"]);
+let activeMarketplaces = new Set(["ES", "UK", "US", "ECI"]);
 
 function applyFilter() {
   const q = document.getElementById("search").value.trim().toLowerCase();
