@@ -344,7 +344,7 @@
     <div class="filter-group">
       <button class="filter-toggle" id="availability-toggle" aria-expanded="false">
         <span>Disponibilidad</span>
-        <span class="active-count" id="availability-count">3</span>
+        <span class="active-count" id="availability-count">2</span>
         <span class="chevron">▾</span>
       </button>
       <div class="filter-panel" id="filters" hidden>
@@ -355,10 +355,6 @@
         <label class="filter-option">
           <input type="checkbox" data-status="invitacion" checked>
           <span>🎟️ Con invitación</span>
-        </label>
-        <label class="filter-option">
-          <input type="checkbox" data-status="no_disponible" checked>
-          <span>⚪ No disponible</span>
         </label>
       </div>
     </div>
@@ -465,7 +461,7 @@ function render(products) {
   grid.innerHTML = products.map(cardHtml).join("");
 }
 
-let activeStatuses = new Set(["compra_directa", "invitacion", "no_disponible"]);
+let activeStatuses = new Set(["compra_directa", "invitacion"]);
 let activeMarketplaces = new Set(["ES", "UK", "US"]);
 
 function applyFilter() {
