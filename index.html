@@ -532,8 +532,8 @@
     <div class="sidebar-section">
       <label class="sidebar-label" for="sort-select">Ordenar por</label>
       <select id="sort-select">
-        <option value="newest">Novedades</option>
-        <option value="default" selected>Recomendado</option>
+        <option value="newest" selected>Novedades</option>
+        <option value="default">Recomendado</option>
         <option value="price-asc">Precio: menor a mayor</option>
         <option value="price-desc">Precio: mayor a menor</option>
         <option value="discount">Mayor descuento</option>
@@ -726,7 +726,7 @@ let activeStatuses = new Set(["compra_directa", "invitacion"]);
 let activeMarketplaces = new Set(["ES", "UK", "US", "ECI"]);
 let minDiscount = 0;
 let maxPrice = Infinity;
-let sortMode = "default";
+let sortMode = "newest";
 
 function firstSeenTime(p) {
   const t = p.first_seen ? Date.parse(p.first_seen) : NaN;
