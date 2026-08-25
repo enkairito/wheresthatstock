@@ -186,6 +186,10 @@
   .content { flex: 1; min-width: 0; }
 
   .sidebar-section { display: flex; flex-direction: column; gap: 10px; }
+  .sidebar-section:not(:last-child) {
+    padding-bottom: 20px;
+    border-bottom: 1px solid color-mix(in srgb, var(--navy) 20%, transparent);
+  }
   .sidebar-label {
     font-size: 0.78rem;
     font-weight: 800;
@@ -511,11 +515,11 @@
     <div class="sidebar-section">
       <label class="sidebar-label" for="sort-select">Ordenar por</label>
       <select id="sort-select">
-        <option value="default">Recomendado</option>
+        <option value="newest">Novedades</option>
+        <option value="default" selected>Recomendado</option>
         <option value="price-asc">Precio: menor a mayor</option>
         <option value="price-desc">Precio: mayor a menor</option>
         <option value="discount">Mayor descuento</option>
-        <option value="newest">Novedades</option>
         <option value="name">Nombre A-Z</option>
       </select>
     </div>
