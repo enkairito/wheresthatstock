@@ -268,7 +268,10 @@
     justify-content: space-between;
     gap: 12px;
     margin-bottom: 16px;
+    flex-wrap: wrap;
   }
+  .toolbar-left { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; flex: 1; min-width: 0; }
+  .toolbar-left .search-box { width: 100%; max-width: 260px; flex: none; }
   .count-group { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
   .count { color: var(--muted); font-weight: 700; font-size: 0.85rem; flex: none; }
 
@@ -523,13 +526,6 @@
     <button class="filter-toggle-btn" id="filter-toggle" type="button">Ocultar filtros</button>
   <aside class="sidebar">
     <div class="sidebar-section">
-      <div class="search-box">
-        <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
-        <input type="text" id="search" placeholder="Buscar producto..." autocomplete="off">
-      </div>
-    </div>
-
-    <div class="sidebar-section">
       <label class="sidebar-label" for="sort-select">Ordenar por</label>
       <select id="sort-select">
         <option value="newest" selected>Novedades</option>
@@ -592,9 +588,15 @@
 
   <main class="content">
     <div class="toolbar">
-      <div class="count-group">
-        <div class="count" id="count"></div>
-        <div class="active-filters" id="active-filters"></div>
+      <div class="toolbar-left">
+        <div class="search-box">
+          <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+          <input type="text" id="search" placeholder="Buscar producto..." autocomplete="off">
+        </div>
+        <div class="count-group">
+          <div class="count" id="count"></div>
+          <div class="active-filters" id="active-filters"></div>
+        </div>
       </div>
       <div class="view-toggle" role="group" aria-label="Vista de productos">
         <button class="view-btn" data-view="view-3" aria-label="3 por fila" aria-pressed="true">
