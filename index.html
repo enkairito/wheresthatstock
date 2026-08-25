@@ -209,6 +209,20 @@
   }
   .range-value { font-size: 0.82rem; font-weight: 700; color: var(--muted); }
 
+  .range-value-row { display: flex; align-items: center; gap: 6px; font-size: 0.85rem; font-weight: 700; color: var(--muted); }
+  .range-value-row input[type="number"] {
+    width: 72px;
+    padding: 5px 8px;
+    border-radius: 8px;
+    border: 1.5px solid var(--border);
+    background: var(--card-bg);
+    color: var(--fg);
+    font-family: inherit;
+    font-weight: 700;
+    font-size: 0.85rem;
+  }
+  .range-value-row input[type="number"]:focus { outline: 2px solid var(--navy); outline-offset: -1px; }
+
   .filter-option {
     display: flex;
     align-items: center;
@@ -440,7 +454,10 @@
     <div class="sidebar-section">
       <label class="sidebar-label" for="price-range">Precio máximo</label>
       <input type="range" id="price-range" min="0" max="200" step="5" value="200">
-      <div class="range-value" id="price-value">200 €</div>
+      <div class="range-value-row">
+        <input type="number" id="price-input" min="0" max="200" step="1" value="200" inputmode="numeric">
+        <span>€</span>
+      </div>
     </div>
 
     <div class="sidebar-section">
@@ -676,10 +693,19 @@ navOfertas.addEventListener("click", (e) => {
 });
 
 const priceRange = document.getElementById("price-range");
-const priceValue = document.getElementById("price-value");
+const priceInput = document.getElementById("price-input");
 priceRange.addEventListener("input", (e) => {
   maxPrice = Number(e.target.value);
-  priceValue.textContent = `${maxPrice} €`;
+  priceInput.value = maxPrice;
+  applyFilter();
+});
+
+priceInput.addEventListener("input", (e) => {
+  const value = Number(e.target.value);
+  if (Number.isNaN(value)) return;
+  maxPrice = value;
+  const clamped = Math.min(value, Number(priceRange.max));
+  priceRange.value = clamped;
   applyFilter();
 });
 
@@ -729,8 +755,9 @@ fetch("products.json?t=" + Date.now())
     const dataMax = prices.length ? Math.ceil(Math.max(...prices) / 5) * 5 : 200;
     priceRange.max = dataMax;
     priceRange.value = dataMax;
+    priceInput.max = dataMax;
+    priceInput.value = dataMax;
     maxPrice = dataMax;
-    priceValue.textContent = `${dataMax} €`;
 
     render(sortProducts(allProducts));
   })
