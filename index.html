@@ -171,10 +171,16 @@
     gap: 28px;
   }
 
-  .sidebar {
+  .filters-col {
     flex: 0 0 260px;
     position: sticky;
     top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    align-self: flex-start;
+  }
+  .sidebar {
     display: flex;
     flex-direction: column;
     gap: 22px;
@@ -294,12 +300,12 @@
   }
   .filter-chip button:hover { background: color-mix(in srgb, var(--navy) 25%, transparent); }
 
-  .toolbar-actions { display: flex; align-items: center; gap: 10px; flex: none; }
   .filter-toggle-btn {
     display: flex;
     align-items: center;
-    padding: 8px 14px;
-    border-radius: 8px;
+    justify-content: center;
+    padding: 10px 14px;
+    border-radius: 10px;
     border: 1.5px solid var(--border);
     background: var(--card-bg);
     color: var(--fg);
@@ -308,6 +314,7 @@
     font-size: 0.85rem;
     cursor: pointer;
     white-space: nowrap;
+    width: 100%;
   }
   .filter-toggle-btn:hover { border-color: var(--navy); color: var(--navy); }
 
@@ -348,8 +355,7 @@
 
   @media (max-width: 860px) {
     .layout { flex-direction: column; }
-    .sidebar { position: static; flex: none; width: 100%; order: 2; }
-    .content { order: 1; }
+    .filters-col { position: static; flex: none; width: 100%; }
     .grid.view-3, .grid.view-5 { grid-template-columns: repeat(2, 1fr); }
   }
   @media (max-width: 520px) {
@@ -505,6 +511,8 @@
 </header>
 
 <div class="layout">
+  <div class="filters-col">
+    <button class="filter-toggle-btn" id="filter-toggle" type="button">Ocultar filtros</button>
   <aside class="sidebar">
     <div class="sidebar-section">
       <div class="search-box">
@@ -571,6 +579,7 @@
       </label>
     </div>
   </aside>
+  </div>
 
   <main class="content">
     <div class="toolbar">
@@ -578,19 +587,16 @@
         <div class="count" id="count"></div>
         <div class="active-filters" id="active-filters"></div>
       </div>
-      <div class="toolbar-actions">
-        <button class="filter-toggle-btn" id="filter-toggle" type="button">Ocultar filtros</button>
-        <div class="view-toggle" role="group" aria-label="Vista de productos">
-          <button class="view-btn" data-view="view-3" aria-label="3 por fila" aria-pressed="true">
-            <span class="view-icon"><span></span><span></span><span></span></span>
-          </button>
-          <button class="view-btn" data-view="view-5" aria-label="5 por fila" aria-pressed="false">
-            <span class="view-icon"><span></span><span></span><span></span><span></span><span></span></span>
-          </button>
-          <button class="view-btn" data-view="view-list" aria-label="Lista" aria-pressed="false">
-            <span class="view-icon list-icon"><span></span><span></span><span></span></span>
-          </button>
-        </div>
+      <div class="view-toggle" role="group" aria-label="Vista de productos">
+        <button class="view-btn" data-view="view-3" aria-label="3 por fila" aria-pressed="true">
+          <span class="view-icon"><span></span><span></span><span></span></span>
+        </button>
+        <button class="view-btn" data-view="view-5" aria-label="5 por fila" aria-pressed="false">
+          <span class="view-icon"><span></span><span></span><span></span><span></span><span></span></span>
+        </button>
+        <button class="view-btn" data-view="view-list" aria-label="Lista" aria-pressed="false">
+          <span class="view-icon list-icon"><span></span><span></span><span></span></span>
+        </button>
       </div>
     </div>
     <div class="grid view-3" id="grid"></div>
