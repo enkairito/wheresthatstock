@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T09:34:52.945701+00:00",
+  "updated_at": "2026-08-25T10:32:14.544285+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -379,13 +379,26 @@
       "link": "https://www.amazon.com/dp/B0H2JVZYZZ?tag=wtsus-20"
     },
     {
+      "asin": "B0DN98RVZM",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Escarlata y Violeta - Paquete de Refuerzo de Prismatic Evolutions",
+      "image": "https://m.media-amazon.com/images/I/8191EvbngyL._AC_UL320_.jpg",
+      "price": "EUR 93.78",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0DN98RVZM?tag=wtsus-20"
+    },
+    {
       "asin": "B0F2GZJ3TZ",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
       "name": "Pokemon TCG: Scarlet & Violet - Destined Rivals Caja Expositora de Sobres - 36 Paquetes",
       "image": "https://m.media-amazon.com/images/I/81qEBWUk7hL._AC_UL320_.jpg",
-      "price": "EUR 368.51",
+      "price": "EUR 426.69",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -470,19 +483,6 @@
       "link": "https://www.amazon.com/dp/B09YS3LL3N?tag=wtsus-20"
     },
     {
-      "asin": "B0G78HDPPR",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Mega Evolución: Héroes Ascendidos Mega Meganio/Emboar/Feraligatr ex Box",
-      "image": "https://m.media-amazon.com/images/I/91hWD1tF0KL._AC_UL320_.jpg",
-      "price": "EUR 59.91",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0G78HDPPR?tag=wtsus-20"
-    },
-    {
       "asin": "B0CXY99B6D",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -515,24 +515,11 @@
       "flag": "🇺🇸",
       "name": "Pokemon TCG: Caja de entrenador de élite Viaje Juntos Escarlata y Violeta",
       "image": "https://m.media-amazon.com/images/I/817Nd3hqAVL._AC_UL320_.jpg",
-      "price": "EUR 143.11",
+      "price": "EUR 145.59",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0DSLY7DZZ?tag=wtsus-20"
-    },
-    {
-      "asin": "B0H2N248WM",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokemon TCG: Mega Evolution Chaos Rising Pokemon Center Elite Trainer Box | CR PKC ETB | Promo exclusivo de Fennekin | 11 paquetes de refuerzo",
-      "image": "https://m.media-amazon.com/images/I/71Dtzhp8caL._AC_UL320_.jpg",
-      "price": "EUR 149.88",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0H2N248WM?tag=wtsus-20"
     },
     {
       "asin": "B0C6D9LWCQ",
