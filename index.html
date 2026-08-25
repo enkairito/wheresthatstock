@@ -18,6 +18,7 @@
     --card-bg: #fafafa;
     --accent: #ffcb05;
     --accent-fg: #0a0a0a;
+    --navy: #2b5a8c;
     --available: #1a9e4a;
     --available-bg: #e7f7ee;
     --invitation: #a9720a;
@@ -34,6 +35,7 @@
       --muted: #a3a3a3;
       --border: #262626;
       --card-bg: #171717;
+      --navy: #6ea8d8;
       --available-bg: #10321f;
       --invitation-bg: #33240a;
       --unavailable-bg: #232323;
@@ -45,6 +47,7 @@
     --muted: #a3a3a3;
     --border: #262626;
     --card-bg: #171717;
+    --navy: #6ea8d8;
     --available-bg: #10321f;
     --invitation-bg: #33240a;
     --unavailable-bg: #232323;
@@ -94,7 +97,7 @@
     font-size: 1.25rem;
     letter-spacing: -0.02em;
   }
-  .brand-name .accent { color: var(--accent); -webkit-text-stroke: 0.6px var(--fg); }
+  .brand-name .accent { color: var(--accent); -webkit-text-stroke: 0.6px var(--navy); }
   .brand-tag { color: var(--muted); font-weight: 700; font-size: 0.72rem; }
 
   .topnav { display: flex; align-items: center; gap: 22px; }
@@ -107,7 +110,7 @@
     border-bottom: 2px solid transparent;
   }
   .topnav-link:hover { color: var(--fg); }
-  .topnav-link.active { color: var(--fg); border-bottom-color: var(--accent); }
+  .topnav-link.active { color: var(--navy); border-bottom-color: var(--navy); }
 
   .status-bar {
     border-top: 1px solid var(--border);
@@ -179,7 +182,7 @@
     font-size: 0.9rem;
   }
   .sidebar select { padding-left: 14px; cursor: pointer; }
-  .search-box input:focus, .sidebar select:focus { outline: 2px solid var(--accent); outline-offset: -1px; }
+  .search-box input:focus, .sidebar select:focus { outline: 2px solid var(--navy); outline-offset: -1px; }
   .search-box::before {
     content: "🔍";
     position: absolute;
@@ -191,7 +194,7 @@
 
   .sidebar input[type="range"] {
     width: 100%;
-    accent-color: var(--fg);
+    accent-color: var(--navy);
   }
   .range-value { font-size: 0.82rem; font-weight: 700; color: var(--muted); }
 
@@ -205,7 +208,7 @@
     color: var(--fg);
     cursor: pointer;
   }
-  .filter-option input { width: 16px; height: 16px; accent-color: var(--fg); cursor: pointer; flex: none; }
+  .filter-option input { width: 16px; height: 16px; accent-color: var(--navy); cursor: pointer; flex: none; }
 
   .toolbar {
     display: flex;
@@ -361,6 +364,7 @@
     padding: 30px 20px;
   }
   footer a { color: inherit; }
+  footer a:hover { color: var(--navy); }
 </style>
 </head>
 <body>
