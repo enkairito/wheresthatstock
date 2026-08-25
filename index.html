@@ -459,6 +459,7 @@
         <option value="price-asc">Precio: menor a mayor</option>
         <option value="price-desc">Precio: mayor a menor</option>
         <option value="discount">Mayor descuento</option>
+        <option value="newest">Novedades</option>
         <option value="name">Nombre A-Z</option>
       </select>
     </div>
@@ -646,6 +647,11 @@ let minDiscount = 0;
 let maxPrice = Infinity;
 let sortMode = "default";
 
+function firstSeenTime(p) {
+  const t = p.first_seen ? Date.parse(p.first_seen) : NaN;
+  return Number.isNaN(t) ? 0 : t;
+}
+
 function sortProducts(products) {
   const sorted = products.slice();
   if (sortMode === "price-asc") {
@@ -654,6 +660,8 @@ function sortProducts(products) {
     sorted.sort((a, b) => (parsePrice(b.price) ?? -Infinity) - (parsePrice(a.price) ?? -Infinity));
   } else if (sortMode === "discount") {
     sorted.sort((a, b) => discountPercent(b) - discountPercent(a));
+  } else if (sortMode === "newest") {
+    sorted.sort((a, b) => firstSeenTime(b) - firstSeenTime(a));
   } else if (sortMode === "name") {
     sorted.sort((a, b) => (a.name || "").localeCompare(b.name || "", "es"));
   }
