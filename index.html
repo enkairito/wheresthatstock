@@ -127,19 +127,37 @@
     100% { box-shadow: 0 0 0 0 rgba(26,158,74,0); }
   }
 
-  main { max-width: 1100px; margin: 0 auto; padding: 24px 20px 60px; }
-
-  .search-row {
+  .layout {
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 24px 20px 60px;
     display: flex;
-    gap: 10px;
-    margin-bottom: 20px;
-    flex-wrap: wrap;
+    align-items: flex-start;
+    gap: 28px;
   }
-  .search-box {
-    flex: 1 1 260px;
-    position: relative;
+
+  .sidebar {
+    flex: 0 0 260px;
+    position: sticky;
+    top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
   }
-  .search-box input {
+  .content { flex: 1; min-width: 0; }
+
+  .sidebar-section { display: flex; flex-direction: column; gap: 10px; }
+  .sidebar-label {
+    font-size: 0.78rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    color: var(--muted);
+  }
+
+  .search-box { position: relative; }
+  .search-box input,
+  .sidebar select {
     width: 100%;
     padding: 13px 16px 13px 40px;
     border-radius: 12px;
@@ -148,9 +166,10 @@
     color: var(--fg);
     font-family: inherit;
     font-weight: 600;
-    font-size: 0.95rem;
+    font-size: 0.9rem;
   }
-  .search-box input:focus { outline: 2px solid var(--accent); outline-offset: -1px; }
+  .sidebar select { padding-left: 14px; cursor: pointer; }
+  .search-box input:focus, .sidebar select:focus { outline: 2px solid var(--accent); outline-offset: -1px; }
   .search-box::before {
     content: "🔍";
     position: absolute;
@@ -160,70 +179,39 @@
     font-size: 0.9rem;
   }
 
-  .filter-row { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 18px; }
-
-  .filter-group { position: relative; }
-  .filter-toggle {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    font-family: inherit;
-    font-size: 0.85rem;
-    font-weight: 800;
-    padding: 10px 14px;
-    border-radius: 12px;
-    border: 1.5px solid var(--border);
-    background: var(--card-bg);
-    color: var(--fg);
-    cursor: pointer;
+  .sidebar input[type="range"] {
+    width: 100%;
+    accent-color: var(--fg);
   }
-  .filter-toggle .chevron { color: var(--muted); font-size: 0.7rem; transition: transform 0.15s; }
-  .filter-toggle[aria-expanded="true"] .chevron { transform: rotate(180deg); }
-  .filter-toggle .active-count {
-    background: var(--fg);
-    color: var(--bg);
-    font-size: 0.68rem;
-    font-weight: 800;
-    padding: 1px 7px;
-    border-radius: 999px;
-  }
-
-  .filter-panel {
-    position: absolute;
-    top: calc(100% + 6px);
-    left: 0;
-    z-index: 10;
-    display: flex;
-    flex-direction: column;
-    min-width: 200px;
-    background: var(--card-bg);
-    border: 1.5px solid var(--border);
-    border-radius: 12px;
-    padding: 6px;
-    box-shadow: 0 8px 24px rgba(0,0,0,0.12);
-  }
-  .filter-panel[hidden] { display: none; }
+  .range-value { font-size: 0.82rem; font-weight: 700; color: var(--muted); }
 
   .filter-option {
     display: flex;
     align-items: center;
     gap: 10px;
-    padding: 9px 10px;
-    border-radius: 8px;
+    padding: 6px 0;
     font-size: 0.88rem;
     font-weight: 700;
     color: var(--fg);
     cursor: pointer;
   }
-  .filter-option:hover { background: var(--bg); }
-  .filter-option input { width: 16px; height: 16px; accent-color: var(--fg); cursor: pointer; }
+  .filter-option input { width: 16px; height: 16px; accent-color: var(--fg); cursor: pointer; flex: none; }
 
   .count { color: var(--muted); font-weight: 700; font-size: 0.85rem; margin-bottom: 16px; }
 
   .grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    grid-template-columns: repeat(3, 1fr);
     gap: 16px;
+  }
+
+  @media (max-width: 860px) {
+    .layout { flex-direction: column; }
+    .sidebar { position: static; flex: none; width: 100%; }
+    .grid { grid-template-columns: repeat(2, 1fr); }
+  }
+  @media (max-width: 520px) {
+    .grid { grid-template-columns: 1fr; }
   }
 
   .card {
@@ -339,60 +327,76 @@
   <div class="live"><span class="dot"></span><span id="live-text">Cargando...</span></div>
 </header>
 
-<main>
-  <div class="search-row">
-    <div class="search-box">
-      <input type="text" id="search" placeholder="Buscar producto..." autocomplete="off">
-    </div>
-  </div>
-  <div class="filter-row">
-    <div class="filter-group">
-      <button class="filter-toggle" id="availability-toggle" aria-expanded="false">
-        <span>Disponibilidad</span>
-        <span class="active-count" id="availability-count">2</span>
-        <span class="chevron">▾</span>
-      </button>
-      <div class="filter-panel" id="filters" hidden>
-        <label class="filter-option">
-          <input type="checkbox" data-status="compra_directa" checked>
-          <span>🛒 Disponible</span>
-        </label>
-        <label class="filter-option">
-          <input type="checkbox" data-status="invitacion" checked>
-          <span>🎟️ Invitación</span>
-        </label>
+<div class="layout">
+  <aside class="sidebar">
+    <div class="sidebar-section">
+      <div class="search-box">
+        <input type="text" id="search" placeholder="Buscar producto..." autocomplete="off">
       </div>
     </div>
-    <div class="filter-group">
-      <button class="filter-toggle" id="store-toggle" aria-expanded="false">
-        <span>Tienda</span>
-        <span class="active-count" id="store-count">4</span>
-        <span class="chevron">▾</span>
-      </button>
-      <div class="filter-panel" id="store-filters" hidden>
-        <label class="filter-option">
-          <input type="checkbox" data-marketplace="ES" checked>
-          <span>🇪🇸 Amazon ES</span>
-        </label>
-        <label class="filter-option">
-          <input type="checkbox" data-marketplace="UK" checked>
-          <span>🇬🇧 Amazon UK</span>
-        </label>
-        <label class="filter-option">
-          <input type="checkbox" data-marketplace="US" checked>
-          <span>🇺🇸 Amazon USA</span>
-        </label>
-        <label class="filter-option">
-          <input type="checkbox" data-marketplace="ECI" checked>
-          <span>🇪🇸 El Corte Inglés</span>
-        </label>
-      </div>
+
+    <div class="sidebar-section">
+      <label class="sidebar-label" for="sort-select">Ordenar por</label>
+      <select id="sort-select">
+        <option value="default">Recomendado</option>
+        <option value="price-asc">Precio: menor a mayor</option>
+        <option value="price-desc">Precio: mayor a menor</option>
+        <option value="discount">Mayor descuento</option>
+        <option value="name">Nombre A-Z</option>
+      </select>
     </div>
-  </div>
-  <div class="count" id="count"></div>
-  <div class="grid" id="grid"></div>
-  <div class="empty" id="empty" style="display:none;">No se encontraron productos.</div>
-</main>
+
+    <div class="sidebar-section">
+      <label class="sidebar-label" for="discount-range">Descuento mínimo</label>
+      <input type="range" id="discount-range" min="0" max="50" step="5" value="0">
+      <div class="range-value" id="discount-value">0% de descuento</div>
+    </div>
+
+    <div class="sidebar-section">
+      <label class="sidebar-label" for="price-range">Precio máximo</label>
+      <input type="range" id="price-range" min="0" max="200" step="5" value="200">
+      <div class="range-value" id="price-value">200 €</div>
+    </div>
+
+    <div class="sidebar-section">
+      <div class="sidebar-label">Tipo de compra</div>
+      <label class="filter-option">
+        <input type="checkbox" data-status="compra_directa" checked>
+        <span>🛒 Disponible</span>
+      </label>
+      <label class="filter-option">
+        <input type="checkbox" data-status="invitacion" checked>
+        <span>🎟️ Invitación</span>
+      </label>
+    </div>
+
+    <div class="sidebar-section">
+      <div class="sidebar-label">Tienda</div>
+      <label class="filter-option">
+        <input type="checkbox" data-marketplace="ES" checked>
+        <span>🇪🇸 Amazon ES</span>
+      </label>
+      <label class="filter-option">
+        <input type="checkbox" data-marketplace="UK" checked>
+        <span>🇬🇧 Amazon UK</span>
+      </label>
+      <label class="filter-option">
+        <input type="checkbox" data-marketplace="US" checked>
+        <span>🇺🇸 Amazon USA</span>
+      </label>
+      <label class="filter-option">
+        <input type="checkbox" data-marketplace="ECI" checked>
+        <span>🇪🇸 El Corte Inglés</span>
+      </label>
+    </div>
+  </aside>
+
+  <main class="content">
+    <div class="count" id="count"></div>
+    <div class="grid" id="grid"></div>
+    <div class="empty" id="empty" style="display:none;">No se encontraron productos.</div>
+  </main>
+</div>
 
 <footer>
   Where's That Stock · Enlaces de afiliado de Amazon ·
@@ -487,8 +491,39 @@ function render(products) {
   grid.innerHTML = products.map(cardHtml).join("");
 }
 
+function parsePrice(value) {
+  if (!value) return null;
+  const match = String(value).match(/(\d{1,3}(?:\.\d{3})*),(\d{2})/);
+  if (!match) return null;
+  return parseFloat(match[1].replace(/\./g, "") + "." + match[2]);
+}
+
+function discountPercent(p) {
+  const orig = parsePrice(p.original_price);
+  const cur = parsePrice(p.price);
+  if (!orig || !cur || orig <= cur) return 0;
+  return Math.round(((orig - cur) / orig) * 100);
+}
+
 let activeStatuses = new Set(["compra_directa", "invitacion"]);
 let activeMarketplaces = new Set(["ES", "UK", "US", "ECI"]);
+let minDiscount = 0;
+let maxPrice = Infinity;
+let sortMode = "default";
+
+function sortProducts(products) {
+  const sorted = products.slice();
+  if (sortMode === "price-asc") {
+    sorted.sort((a, b) => (parsePrice(a.price) ?? Infinity) - (parsePrice(b.price) ?? Infinity));
+  } else if (sortMode === "price-desc") {
+    sorted.sort((a, b) => (parsePrice(b.price) ?? -Infinity) - (parsePrice(a.price) ?? -Infinity));
+  } else if (sortMode === "discount") {
+    sorted.sort((a, b) => discountPercent(b) - discountPercent(a));
+  } else if (sortMode === "name") {
+    sorted.sort((a, b) => (a.name || "").localeCompare(b.name || "", "es"));
+  }
+  return sorted;
+}
 
 function applyFilter() {
   const q = document.getElementById("search").value.trim().toLowerCase();
@@ -496,60 +531,68 @@ function applyFilter() {
     const matchesStatus = activeStatuses.has(p.status);
     const matchesMarketplace = activeMarketplaces.has(p.marketplace);
     const matchesSearch = !q || (p.name || "").toLowerCase().includes(q);
-    return matchesStatus && matchesMarketplace && matchesSearch;
+    const matchesDiscount = discountPercent(p) >= minDiscount;
+    const price = parsePrice(p.price);
+    const matchesPrice = price === null || price <= maxPrice;
+    return matchesStatus && matchesMarketplace && matchesSearch && matchesDiscount && matchesPrice;
   });
-  render(filtered);
+  render(sortProducts(filtered));
 }
 
 document.getElementById("search").addEventListener("input", applyFilter);
 
-function setupFilterGroup(toggleId, panelId, countId, dataAttr, activeSet) {
-  const toggle = document.getElementById(toggleId);
-  const panel = document.getElementById(panelId);
-  const count = document.getElementById(countId);
+document.getElementById("sort-select").addEventListener("change", (e) => {
+  sortMode = e.target.value;
+  applyFilter();
+});
 
-  toggle.addEventListener("click", () => {
-    const isOpen = toggle.getAttribute("aria-expanded") === "true";
-    toggle.setAttribute("aria-expanded", String(!isOpen));
-    panel.hidden = isOpen;
+const discountRange = document.getElementById("discount-range");
+const discountValue = document.getElementById("discount-value");
+discountRange.addEventListener("input", (e) => {
+  minDiscount = Number(e.target.value);
+  discountValue.textContent = `${minDiscount}% de descuento`;
+  applyFilter();
+});
+
+const priceRange = document.getElementById("price-range");
+const priceValue = document.getElementById("price-value");
+priceRange.addEventListener("input", (e) => {
+  maxPrice = Number(e.target.value);
+  priceValue.textContent = `${maxPrice} €`;
+  applyFilter();
+});
+
+function setupCheckboxGroup(containerSelector, dataAttr, activeSet) {
+  document.querySelectorAll(`${containerSelector} input[data-${dataAttr}]`).forEach(checkbox => {
+    checkbox.addEventListener("change", () => {
+      const value = checkbox.dataset[dataAttr];
+      if (checkbox.checked) {
+        activeSet.add(value);
+      } else {
+        activeSet.delete(value);
+      }
+      applyFilter();
+    });
   });
-
-  panel.addEventListener("change", (e) => {
-    const checkbox = e.target.closest(`input[data-${dataAttr}]`);
-    if (!checkbox) return;
-    const value = checkbox.dataset[dataAttr];
-    if (checkbox.checked) {
-      activeSet.add(value);
-    } else {
-      activeSet.delete(value);
-    }
-    count.textContent = String(activeSet.size);
-    applyFilter();
-  });
-
-  return { toggle, panel };
 }
 
-const filterGroups = [
-  setupFilterGroup("availability-toggle", "filters", "availability-count", "status", activeStatuses),
-  setupFilterGroup("store-toggle", "store-filters", "store-count", "marketplace", activeMarketplaces),
-];
-
-document.addEventListener("click", (e) => {
-  if (!e.target.closest(".filter-group")) {
-    filterGroups.forEach(({ toggle, panel }) => {
-      toggle.setAttribute("aria-expanded", "false");
-      panel.hidden = true;
-    });
-  }
-});
+setupCheckboxGroup(".sidebar", "status", activeStatuses);
+setupCheckboxGroup(".sidebar", "marketplace", activeMarketplaces);
 
 fetch("products.json?t=" + Date.now())
   .then(r => r.json())
   .then(data => {
     allProducts = data.products || [];
     document.getElementById("live-text").textContent = "Actualizado " + timeAgo(data.updated_at);
-    render(allProducts);
+
+    const prices = allProducts.map(p => parsePrice(p.price)).filter(v => v !== null);
+    const dataMax = prices.length ? Math.ceil(Math.max(...prices) / 5) * 5 : 200;
+    priceRange.max = dataMax;
+    priceRange.value = dataMax;
+    maxPrice = dataMax;
+    priceValue.textContent = `${dataMax} €`;
+
+    render(sortProducts(allProducts));
   })
   .catch(() => {
     document.getElementById("live-text").textContent = "No se pudo cargar el stock";
