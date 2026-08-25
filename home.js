@@ -2,7 +2,8 @@ fetch("products.json?t=" + Date.now())
   .then(r => r.json())
   .then(data => {
     const products = data.products || [];
-    document.getElementById("live-text").textContent = "Actualizado " + timeAgo(data.updated_at);
+    const liveText = document.getElementById("live-text");
+    if (liveText) liveText.textContent = "Actualizado " + timeAgo(data.updated_at);
 
     const newest = products.slice().sort((a, b) => firstSeenTime(b) - firstSeenTime(a)).slice(0, 5);
     const bestDeals = products
@@ -14,7 +15,8 @@ fetch("products.json?t=" + Date.now())
     renderSection("deals-grid", "deals-section", bestDeals);
   })
   .catch(() => {
-    document.getElementById("live-text").textContent = "No se pudo cargar el stock";
+    const liveText = document.getElementById("live-text");
+    if (liveText) liveText.textContent = "No se pudo cargar el stock";
   });
 
 function renderSection(gridId, sectionId, items) {
