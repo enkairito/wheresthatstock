@@ -219,13 +219,15 @@
   }
   .sidebar select { padding-left: 14px; cursor: pointer; }
   .search-box input:focus, .sidebar select:focus { outline: 2px solid var(--navy); outline-offset: -1px; }
-  .search-box::before {
-    content: "🔍";
+  .search-icon {
     position: absolute;
     left: 14px;
     top: 50%;
     transform: translateY(-50%);
-    font-size: 0.9rem;
+    width: 16px;
+    height: 16px;
+    color: var(--muted);
+    pointer-events: none;
   }
 
   .sidebar input[type="range"] {
@@ -522,6 +524,7 @@
   <aside class="sidebar">
     <div class="sidebar-section">
       <div class="search-box">
+        <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
         <input type="text" id="search" placeholder="Buscar producto..." autocomplete="off">
       </div>
     </div>
@@ -557,11 +560,11 @@
       <div class="sidebar-label">Tipo de compra</div>
       <label class="filter-option">
         <input type="checkbox" data-status="compra_directa" checked>
-        <span>🛒 Disponible</span>
+        <span>Disponible</span>
       </label>
       <label class="filter-option">
         <input type="checkbox" data-status="invitacion" checked>
-        <span>🎟️ Invitación</span>
+        <span>Invitación</span>
       </label>
     </div>
 
@@ -569,19 +572,19 @@
       <div class="sidebar-label">Tienda</div>
       <label class="filter-option">
         <input type="checkbox" data-marketplace="ES" checked>
-        <span>🇪🇸 Amazon ES</span>
+        <span>Amazon ES</span>
       </label>
       <label class="filter-option">
         <input type="checkbox" data-marketplace="UK" checked>
-        <span>🇬🇧 Amazon UK</span>
+        <span>Amazon UK</span>
       </label>
       <label class="filter-option">
         <input type="checkbox" data-marketplace="US" checked>
-        <span>🇺🇸 Amazon USA</span>
+        <span>Amazon USA</span>
       </label>
       <label class="filter-option">
         <input type="checkbox" data-marketplace="ECI" checked>
-        <span>🇪🇸 El Corte Inglés</span>
+        <span>El Corte Inglés</span>
       </label>
     </div>
   </aside>
