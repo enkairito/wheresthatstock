@@ -598,7 +598,7 @@ function cardHtml(p) {
         <div class="card-corner" title="${storeLabel}">
           ${STORE_ICONS[p.marketplace] ? `<span class="corner-icon"><img src="${STORE_ICONS[p.marketplace]}" alt="${p.store_label || ""}"></span>` : ""}
           ${FLAG_ICONS[p.marketplace] ? `<span class="corner-icon"><img src="${FLAG_ICONS[p.marketplace]}" alt="${p.marketplace}"></span>` : ""}
-          <span class="badge status ${statusInfo.cls}">${statusInfo.text}</span>
+          ${p.status !== "compra_directa" ? `<span class="badge status ${statusInfo.cls}">${statusInfo.text}</span>` : ""}
         </div>
         ${discount > 0 ? `<div class="card-corner-right"><span class="badge discount">-${discount}%</span></div>` : ""}
       </div>
