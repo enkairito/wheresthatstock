@@ -264,13 +264,13 @@
 
   .toolbar {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: space-between;
     gap: 12px;
     margin-bottom: 16px;
     flex-wrap: wrap;
   }
-  .toolbar-left { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; flex: 1; min-width: 0; }
+  .toolbar-left { display: flex; flex-direction: column; align-items: flex-start; gap: 10px; flex: 1; min-width: 0; }
   .toolbar-left .search-box { width: 100%; max-width: 260px; flex: none; }
   .count-group { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
   .count { color: var(--muted); font-weight: 700; font-size: 0.85rem; flex: none; }
