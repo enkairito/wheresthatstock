@@ -330,6 +330,14 @@
   }
   .corner-icon img { height: 100%; width: auto; max-width: 64px; object-fit: contain; }
   .card-corner .badge { box-shadow: 0 1px 4px rgba(0,0,0,0.2); }
+
+  .card-corner-right {
+    position: absolute;
+    top: 6px;
+    right: 6px;
+    z-index: 2;
+  }
+  .badge.discount { background: #dc2626; color: #ffffff; box-shadow: 0 1px 4px rgba(0,0,0,0.25); }
   .card-body { padding: 12px 14px 16px; display: flex; flex-direction: column; gap: 8px; flex: 1; justify-content: flex-end; }
   .card-name {
     font-size: 0.88rem;
@@ -558,6 +566,7 @@ const STORE_ICONS = {
 
 function cardHtml(p) {
   const statusInfo = STATUS_LABEL[p.status] || STATUS_LABEL.no_disponible;
+  const discount = discountPercent(p);
   const priceRow = p.price
     ? `<div class="price-row">
         ${p.original_price && p.original_price !== p.price ? `<span class="price-original">${p.original_price}</span>` : ""}
@@ -580,6 +589,7 @@ function cardHtml(p) {
           ${FLAG_ICONS[p.marketplace] ? `<span class="corner-icon"><img src="${FLAG_ICONS[p.marketplace]}" alt="${p.marketplace}"></span>` : ""}
           <span class="badge status ${statusInfo.cls}">${statusInfo.text}</span>
         </div>
+        ${discount > 0 ? `<div class="card-corner-right"><span class="badge discount">-${discount}%</span></div>` : ""}
       </div>
       <div class="card-body">
         <div class="card-name">${p.name || ""}</div>
