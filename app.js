@@ -222,7 +222,9 @@ try {
   setSidebarVisible(true);
 }
 
-fetch("products.json?t=" + Date.now())
+const PRODUCTS_URL = document.body.dataset.productsUrl || "products.json";
+
+fetch(PRODUCTS_URL + "?t=" + Date.now())
   .then(r => r.json())
   .then(data => {
     allProducts = data.products || [];

@@ -4,11 +4,11 @@ fetch("products.json?t=" + Date.now())
     const products = data.products || [];
     document.getElementById("live-text").textContent = "Actualizado " + timeAgo(data.updated_at);
 
-    const newest = products.slice().sort((a, b) => firstSeenTime(b) - firstSeenTime(a)).slice(0, 10);
+    const newest = products.slice().sort((a, b) => firstSeenTime(b) - firstSeenTime(a)).slice(0, 5);
     const bestDeals = products
       .filter(p => discountPercent(p) > 0)
       .sort((a, b) => discountPercent(b) - discountPercent(a))
-      .slice(0, 10);
+      .slice(0, 5);
 
     renderSection("newest-grid", "newest-section", newest);
     renderSection("deals-grid", "deals-section", bestDeals);
