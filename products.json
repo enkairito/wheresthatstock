@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T19:31:23.568780+00:00",
+  "updated_at": "2026-08-25T20:27:54.286207+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -12,7 +12,8 @@
       "original_price": null,
       "status": "invitacion",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0GZKZ1FL9?tag=enkairito-21"
+      "link": "https://www.amazon.es/dp/B0GZKZ1FL9?tag=enkairito-21",
+      "first_seen": "2026-08-25T20:27:53.163217+00:00"
     },
     {
       "asin": "B0GZL8WKB6",
@@ -25,7 +26,8 @@
       "original_price": null,
       "status": "invitacion",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0GZL8WKB6?tag=enkairito-21"
+      "link": "https://www.amazon.es/dp/B0GZL8WKB6?tag=enkairito-21",
+      "first_seen": "2026-08-25T20:27:53.163248+00:00"
     },
     {
       "asin": "B0GZL2WPMF",
@@ -38,7 +40,8 @@
       "original_price": null,
       "status": "invitacion",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0GZL2WPMF?tag=enkairito-21"
+      "link": "https://www.amazon.es/dp/B0GZL2WPMF?tag=enkairito-21",
+      "first_seen": "2026-08-25T20:27:53.163255+00:00"
     },
     {
       "asin": "B0GZL7PBX1",
@@ -51,7 +54,8 @@
       "original_price": null,
       "status": "invitacion",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0GZL7PBX1?tag=enkairito-21"
+      "link": "https://www.amazon.es/dp/B0GZL7PBX1?tag=enkairito-21",
+      "first_seen": "2026-08-25T20:27:53.163260+00:00"
     },
     {
       "asin": "B0H3LQY1Q7",
@@ -64,7 +68,8 @@
       "original_price": null,
       "status": "invitacion",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0H3LQY1Q7?tag=enkairito-21"
+      "link": "https://www.amazon.es/dp/B0H3LQY1Q7?tag=enkairito-21",
+      "first_seen": "2026-08-25T20:27:53.163265+00:00"
     },
     {
       "asin": "B0H1HDKXGH",
@@ -77,7 +82,8 @@
       "original_price": null,
       "status": "invitacion",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0H1HDKXGH?tag=enkairito-21"
+      "link": "https://www.amazon.es/dp/B0H1HDKXGH?tag=enkairito-21",
+      "first_seen": "2026-08-25T20:27:53.163270+00:00"
     },
     {
       "asin": "B0GSSR9ZNS",
@@ -90,7 +96,8 @@
       "original_price": null,
       "status": "invitacion",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0GSSR9ZNS?tag=enkairito-21"
+      "link": "https://www.amazon.es/dp/B0GSSR9ZNS?tag=enkairito-21",
+      "first_seen": "2026-08-25T20:27:53.163274+00:00"
     },
     {
       "asin": "B0GSSQYPK3",
@@ -103,7 +110,8 @@
       "original_price": null,
       "status": "invitacion",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0GSSQYPK3?tag=enkairito-21"
+      "link": "https://www.amazon.es/dp/B0GSSQYPK3?tag=enkairito-21",
+      "first_seen": "2026-08-25T20:27:53.163279+00:00"
     },
     {
       "asin": "B0GSSJ9RB1",
@@ -116,7 +124,22 @@
       "original_price": null,
       "status": "invitacion",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0GSSJ9RB1?tag=enkairito-21"
+      "link": "https://www.amazon.es/dp/B0GSSJ9RB1?tag=enkairito-21",
+      "first_seen": "2026-08-25T20:27:53.163283+00:00"
+    },
+    {
+      "asin": "B0CT5T766W",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Pokémon: Cofre de Coleccionista - 2022",
+      "image": "https://m.media-amazon.com/images/I/71k+ET8c4PL._AC_UL320_.jpg",
+      "price": "34,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CT5T766W?tag=enkairito-21",
+      "first_seen": "2026-08-25T20:27:53.163288+00:00"
     },
     {
       "asin": "B0C64J197W",
@@ -129,7 +152,22 @@
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0C64J197W?tag=enkairito-21"
+      "link": "https://www.amazon.es/dp/B0C64J197W?tag=enkairito-21",
+      "first_seen": "2026-08-25T20:27:54.284983+00:00"
+    },
+    {
+      "asin": "B0C648988J",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Pokémon: Colección Cyclizar ex",
+      "image": "https://m.media-amazon.com/images/I/91QPuokK6qL._AC_UL320_.jpg",
+      "price": "23,33 €",
+      "original_price": "24,99 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0C648988J?tag=enkairito-21",
+      "first_seen": "2026-08-25T20:27:54.285127+00:00"
     },
     {
       "asin": "B0GVKFS7KT",
@@ -142,7 +180,8 @@
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0GVKFS7KT?tag=enkairito-21"
+      "link": "https://www.amazon.es/dp/B0GVKFS7KT?tag=enkairito-21",
+      "first_seen": "2026-08-25T20:27:54.285134+00:00"
     },
     {
       "asin": "B0GYSJDWDS",
@@ -155,7 +194,8 @@
       "original_price": null,
       "status": "invitacion",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0GYSJDWDS?tag=enkairito-21"
+      "link": "https://www.amazon.es/dp/B0GYSJDWDS?tag=enkairito-21",
+      "first_seen": "2026-08-25T20:27:54.285139+00:00"
     },
     {
       "asin": "B0GYSKSSTH",
@@ -168,7 +208,8 @@
       "original_price": null,
       "status": "invitacion",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0GYSKSSTH?tag=enkairito-21"
+      "link": "https://www.amazon.es/dp/B0GYSKSSTH?tag=enkairito-21",
+      "first_seen": "2026-08-25T20:27:54.285145+00:00"
     },
     {
       "asin": "B0GYSDGPBH",
@@ -181,7 +222,8 @@
       "original_price": null,
       "status": "invitacion",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0GYSDGPBH?tag=enkairito-21"
+      "link": "https://www.amazon.es/dp/B0GYSDGPBH?tag=enkairito-21",
+      "first_seen": "2026-08-25T20:27:54.285149+00:00"
     },
     {
       "asin": "B0GYSKFHBY",
@@ -194,7 +236,8 @@
       "original_price": null,
       "status": "invitacion",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0GYSKFHBY?tag=enkairito-21"
+      "link": "https://www.amazon.es/dp/B0GYSKFHBY?tag=enkairito-21",
+      "first_seen": "2026-08-25T20:27:54.285153+00:00"
     },
     {
       "asin": "B0C64LR9BS",
@@ -207,7 +250,8 @@
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0C64LR9BS?tag=enkairito-21"
+      "link": "https://www.amazon.es/dp/B0C64LR9BS?tag=enkairito-21",
+      "first_seen": "2026-08-25T20:27:54.285158+00:00"
     },
     {
       "asin": "B0D6WJH3SN",
@@ -220,7 +264,8 @@
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0D6WJH3SN?tag=enkairito-21"
+      "link": "https://www.amazon.es/dp/B0D6WJH3SN?tag=enkairito-21",
+      "first_seen": "2026-08-25T20:27:54.285163+00:00"
     },
     {
       "asin": "B0CJYK29Y9",
@@ -233,7 +278,8 @@
       "original_price": "34,99 €",
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0CJYK29Y9?tag=enkairito-21"
+      "link": "https://www.amazon.es/dp/B0CJYK29Y9?tag=enkairito-21",
+      "first_seen": "2026-08-25T20:27:54.285168+00:00"
     },
     {
       "asin": "B0BMGR3QZW",
@@ -246,7 +292,8 @@
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0BMGR3QZW?tag=enkairito-21"
+      "link": "https://www.amazon.es/dp/B0BMGR3QZW?tag=enkairito-21",
+      "first_seen": "2026-08-25T20:27:54.285172+00:00"
     },
     {
       "asin": "B0DT7D5K1X",
@@ -259,7 +306,8 @@
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0DT7D5K1X?tag=enkairito-21"
+      "link": "https://www.amazon.es/dp/B0DT7D5K1X?tag=enkairito-21",
+      "first_seen": "2026-08-25T20:27:54.285177+00:00"
     },
     {
       "asin": "B0C4V8F77B",
@@ -272,7 +320,8 @@
       "original_price": "69,99 €",
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0C4V8F77B?tag=enkairito-21"
+      "link": "https://www.amazon.es/dp/B0C4V8F77B?tag=enkairito-21",
+      "first_seen": "2026-08-25T20:27:54.285181+00:00"
     },
     {
       "asin": "B0H5KLFD8M",
@@ -285,7 +334,8 @@
       "original_price": "24,99 €",
       "status": "invitacion",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0H5KLFD8M?tag=enkairito-21"
+      "link": "https://www.amazon.es/dp/B0H5KLFD8M?tag=enkairito-21",
+      "first_seen": "2026-08-25T20:27:54.285185+00:00"
     },
     {
       "asin": "B0GYSGQ9R8",
@@ -298,7 +348,8 @@
       "original_price": null,
       "status": "invitacion",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0GYSGQ9R8?tag=enkairito-21"
+      "link": "https://www.amazon.es/dp/B0GYSGQ9R8?tag=enkairito-21",
+      "first_seen": "2026-08-25T20:27:54.285189+00:00"
     },
     {
       "asin": "B0G7HYD9WC",
@@ -311,7 +362,8 @@
       "original_price": null,
       "status": "invitacion",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0G7HYD9WC?tag=enkairito-21"
+      "link": "https://www.amazon.es/dp/B0G7HYD9WC?tag=enkairito-21",
+      "first_seen": "2026-08-25T20:27:54.285193+00:00"
     },
     {
       "asin": "B0GMRC58KQ",
@@ -324,7 +376,8 @@
       "original_price": null,
       "status": "invitacion",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0GMRC58KQ?tag=enkairito-21"
+      "link": "https://www.amazon.es/dp/B0GMRC58KQ?tag=enkairito-21",
+      "first_seen": "2026-08-25T20:27:54.285198+00:00"
     },
     {
       "asin": "B0GMR6ZK3R",
@@ -337,7 +390,8 @@
       "original_price": null,
       "status": "invitacion",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0GMR6ZK3R?tag=enkairito-21"
+      "link": "https://www.amazon.es/dp/B0GMR6ZK3R?tag=enkairito-21",
+      "first_seen": "2026-08-25T20:27:54.285202+00:00"
     },
     {
       "asin": "B0GRCDKMSW",
@@ -350,7 +404,8 @@
       "original_price": "35,06 €",
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.co.uk/dp/B0GRCDKMSW?tag=wtsuk-21"
+      "link": "https://www.amazon.co.uk/dp/B0GRCDKMSW?tag=wtsuk-21",
+      "first_seen": "2026-08-25T20:27:54.285206+00:00"
     },
     {
       "asin": "B0F2BDXW4J",
@@ -363,7 +418,8 @@
       "original_price": "126,93 €",
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.com/dp/B0F2BDXW4J?tag=wtsus-20"
+      "link": "https://www.amazon.com/dp/B0F2BDXW4J?tag=wtsus-20",
+      "first_seen": "2026-08-25T20:27:54.285212+00:00"
     },
     {
       "asin": "B0GR6Q72ND",
@@ -372,11 +428,12 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolución — Paquete de refuerzo del aumento del caos",
       "image": "https://m.media-amazon.com/images/I/81pdaHp6Q1L._AC_UL320_.jpg",
-      "price": "40,76 €",
+      "price": "42,00 €",
       "original_price": "51,43 €",
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.com/dp/B0GR6Q72ND?tag=wtsus-20"
+      "link": "https://www.amazon.com/dp/B0GR6Q72ND?tag=wtsus-20",
+      "first_seen": "2026-08-25T20:27:54.285216+00:00"
     },
     {
       "asin": "B0F2GZJ3TZ",
@@ -389,7 +446,8 @@
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.com/dp/B0F2GZJ3TZ?tag=wtsus-20"
+      "link": "https://www.amazon.com/dp/B0F2GZJ3TZ?tag=wtsus-20",
+      "first_seen": "2026-08-25T20:27:54.285221+00:00"
     },
     {
       "asin": "B0DN98RVZM",
@@ -402,7 +460,8 @@
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.com/dp/B0DN98RVZM?tag=wtsus-20"
+      "link": "https://www.amazon.com/dp/B0DN98RVZM?tag=wtsus-20",
+      "first_seen": "2026-08-25T20:27:54.285226+00:00"
     },
     {
       "asin": "B0FQP3YQ47",
@@ -415,7 +474,8 @@
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.com/dp/B0FQP3YQ47?tag=wtsus-20"
+      "link": "https://www.amazon.com/dp/B0FQP3YQ47?tag=wtsus-20",
+      "first_seen": "2026-08-25T20:27:54.285231+00:00"
     },
     {
       "asin": "B0G2FVLXVL",
@@ -428,20 +488,8 @@
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.com/dp/B0G2FVLXVL?tag=wtsus-20"
-    },
-    {
-      "asin": "B0GV6WRPRV",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Lata Mega Moonlit",
-      "image": "https://m.media-amazon.com/images/I/81mm4CJGgFL._AC_UL320_.jpg",
-      "price": "32,53 €",
-      "original_price": "34,28 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0GV6WRPRV?tag=wtsus-20"
+      "link": "https://www.amazon.com/dp/B0G2FVLXVL?tag=wtsus-20",
+      "first_seen": "2026-08-25T20:27:54.285236+00:00"
     },
     {
       "asin": "B0DLPL7LC5",
@@ -454,7 +502,22 @@
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.com/dp/B0DLPL7LC5?tag=wtsus-20"
+      "link": "https://www.amazon.com/dp/B0DLPL7LC5?tag=wtsus-20",
+      "first_seen": "2026-08-25T20:27:54.285241+00:00"
+    },
+    {
+      "asin": "B0GV6WRPRV",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Lata Mega Moonlit",
+      "image": "https://m.media-amazon.com/images/I/81mm4CJGgFL._AC_UL320_.jpg",
+      "price": "32,53 €",
+      "original_price": "34,28 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0GV6WRPRV?tag=wtsus-20",
+      "first_seen": "2026-08-25T20:27:54.285245+00:00"
     },
     {
       "asin": "B0G78HDPPR",
@@ -467,7 +530,8 @@
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.com/dp/B0G78HDPPR?tag=wtsus-20"
+      "link": "https://www.amazon.com/dp/B0G78HDPPR?tag=wtsus-20",
+      "first_seen": "2026-08-25T20:27:54.285250+00:00"
     },
     {
       "asin": "B0F2BCG1Y5",
@@ -480,20 +544,8 @@
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.com/dp/B0F2BCG1Y5?tag=wtsus-20"
-    },
-    {
-      "asin": "B0C6B6V2VK",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Paquete Potenciador Sellado de Fábrica Auténtico (¡Incluye Paquete de Tarjetas Misterio - V/VMAX 1 en 3 - ¡Soporte de Tarjeta Protector Gratis como Bonificación!)",
-      "image": "https://m.media-amazon.com/images/I/61kCpCJbRPL._AC_UL320_.jpg",
-      "price": "10,96 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0C6B6V2VK?tag=wtsus-20"
+      "link": "https://www.amazon.com/dp/B0F2BCG1Y5?tag=wtsus-20",
+      "first_seen": "2026-08-25T20:27:54.285254+00:00"
     },
     {
       "asin": "B0CXY99B6D",
@@ -502,11 +554,12 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Scarlet & Violet—Máscara de la Oscuridad Élite Caja de Entrenador",
       "image": "https://m.media-amazon.com/images/I/81CUG-HGEYL._AC_UL320_.jpg",
-      "price": "117,34 €",
+      "price": "US$136.88",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.com/dp/B0CXY99B6D?tag=wtsus-20"
+      "link": "https://www.amazon.com/dp/B0CXY99B6D?tag=wtsus-20",
+      "first_seen": "2026-08-25T20:27:54.285259+00:00"
     },
     {
       "asin": "B0CGCVT5RR",
@@ -515,11 +568,12 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Caja de entrenador élite de escarlata y violeta Paradox Rift",
       "image": "https://m.media-amazon.com/images/I/81nXG9v8mPL._AC_UL320_.jpg",
-      "price": "171,45 €",
+      "price": "US$199.99",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.com/dp/B0CGCVT5RR?tag=wtsus-20"
+      "link": "https://www.amazon.com/dp/B0CGCVT5RR?tag=wtsus-20",
+      "first_seen": "2026-08-25T20:27:54.285264+00:00"
     },
     {
       "asin": "B0DSLY7DZZ",
@@ -528,11 +582,12 @@
       "flag": "🇺🇸",
       "name": "Pokemon TCG: Caja de entrenador de élite Viaje Juntos Escarlata y Violeta",
       "image": "https://m.media-amazon.com/images/I/817Nd3hqAVL._AC_UL320_.jpg",
-      "price": "145,63 €",
+      "price": "US$169.88",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.com/dp/B0DSLY7DZZ?tag=wtsus-20"
+      "link": "https://www.amazon.com/dp/B0DSLY7DZZ?tag=wtsus-20",
+      "first_seen": "2026-08-25T20:27:54.285269+00:00"
     },
     {
       "asin": "B0C6D9LWCQ",
@@ -541,11 +596,12 @@
       "flag": "🇺🇸",
       "name": "Pokemon Scarlet & Violet 3 Obsidian Flames Caja de Entrenador Élite",
       "image": "https://m.media-amazon.com/images/I/81DDohytO8L._AC_UL320_.jpg",
-      "price": "317,08 €",
-      "original_price": "334,23 €",
+      "price": "US$369.87",
+      "original_price": "US$389.88",
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.com/dp/B0C6D9LWCQ?tag=wtsus-20"
+      "link": "https://www.amazon.com/dp/B0C6D9LWCQ?tag=wtsus-20",
+      "first_seen": "2026-08-25T20:27:54.285273+00:00"
     },
     {
       "asin": "B0DFBGYFD3",
@@ -554,11 +610,12 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Escarlata y Violeta - Caja de Exhibición de Booster Surging Sparks",
       "image": "https://m.media-amazon.com/images/I/81gt-LWXszL._AC_UL320_.jpg",
-      "price": "277,76 €",
+      "price": "US$324.00",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.com/dp/B0DFBGYFD3?tag=wtsus-20"
+      "link": "https://www.amazon.com/dp/B0DFBGYFD3?tag=wtsus-20",
+      "first_seen": "2026-08-25T20:27:54.285277+00:00"
     },
     {
       "asin": "B09PQBM615",
@@ -567,11 +624,12 @@
       "flag": "🇺🇸",
       "name": "Una tarjeta de Pokémon encapsulada y autenticada con calificación PSA al azar (perfecta para exhibición)",
       "image": "https://m.media-amazon.com/images/I/81SUwheDmXL._AC_UL320_.jpg",
-      "price": "27,10 €",
+      "price": "US$31.61",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.com/dp/B09PQBM615?tag=wtsus-20"
+      "link": "https://www.amazon.com/dp/B09PQBM615?tag=wtsus-20",
+      "first_seen": "2026-08-25T20:27:54.285281+00:00"
     },
     {
       "asin": "B07GQB37YY",
@@ -580,11 +638,12 @@
       "flag": "🇺🇸",
       "name": "Pokemon Elite Trainer Box Sun & Moon (Lunala)",
       "image": "https://m.media-amazon.com/images/I/61mKGF8G-nL._AC_UL320_.jpg",
-      "price": "261,45 €",
-      "original_price": "276,87 €",
+      "price": "US$304.98",
+      "original_price": "US$322.97",
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.com/dp/B07GQB37YY?tag=wtsus-20"
+      "link": "https://www.amazon.com/dp/B07GQB37YY?tag=wtsus-20",
+      "first_seen": "2026-08-25T20:27:54.285285+00:00"
     },
     {
       "asin": "B0CDXKC4WS",
@@ -593,11 +652,12 @@
       "flag": "🇺🇸",
       "name": "Pokémon - Charmander SVP044 - Obsidian Flames ETB Black Star Promo - Arte completo",
       "image": "https://m.media-amazon.com/images/I/71iFKilWtML._AC_UL320_.jpg",
-      "price": "90,01 €",
+      "price": "US$105.00",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.com/dp/B0CDXKC4WS?tag=wtsus-20"
+      "link": "https://www.amazon.com/dp/B0CDXKC4WS?tag=wtsus-20",
+      "first_seen": "2026-08-25T20:27:54.285289+00:00"
     },
     {
       "asin": "B0FH6KRSX8",
@@ -606,11 +666,12 @@
       "flag": "🇺🇸",
       "name": "Pokemon TCG Mega Evolutions 1 Caja de Entrenador Élite",
       "image": "https://m.media-amazon.com/images/I/81HduOvXc-L._AC_UL320_.jpg",
-      "price": "125,14 €",
+      "price": "US$145.98",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.com/dp/B0FH6KRSX8?tag=wtsus-20"
+      "link": "https://www.amazon.com/dp/B0FH6KRSX8?tag=wtsus-20",
+      "first_seen": "2026-08-25T20:27:54.285293+00:00"
     },
     {
       "asin": "A201235759",
@@ -623,7 +684,8 @@
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.elcorteingles.es/juguetes/A201235759-lata-pokemon-jcc-bandai-modelos-surtidos/?stype=text_box_multi"
+      "link": "https://www.elcorteingles.es/juguetes/A201235759-lata-pokemon-jcc-bandai-modelos-surtidos/?stype=text_box_multi",
+      "first_seen": "2026-08-25T20:27:54.285297+00:00"
     },
     {
       "asin": "A201235763",
@@ -636,7 +698,8 @@
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.elcorteingles.es/juguetes/A201235763-sobre-de-mejora-megaevolucion-oscuridad-absoluta-pokemon-jcc-bandai-modelos-surtidos/?stype=text_box_multi"
+      "link": "https://www.elcorteingles.es/juguetes/A201235763-sobre-de-mejora-megaevolucion-oscuridad-absoluta-pokemon-jcc-bandai-modelos-surtidos/?stype=text_box_multi",
+      "first_seen": "2026-08-25T20:27:54.285302+00:00"
     },
     {
       "asin": "A201235760",
@@ -649,7 +712,8 @@
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.elcorteingles.es/juguetes/A201235760-caja-de-entrenador-elite-oscuridad-absoluta-pokemon-jcc-bandai/?stype=text_box_multi"
+      "link": "https://www.elcorteingles.es/juguetes/A201235760-caja-de-entrenador-elite-oscuridad-absoluta-pokemon-jcc-bandai/?stype=text_box_multi",
+      "first_seen": "2026-08-25T20:27:54.285306+00:00"
     },
     {
       "asin": "A200971037",
@@ -662,7 +726,8 @@
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.elcorteingles.es/juguetes/A200971037-caja-pokemon-mega-greninja-ex-jcc-pokemon-bandai/?stype=text_box_multi"
+      "link": "https://www.elcorteingles.es/juguetes/A200971037-caja-pokemon-mega-greninja-ex-jcc-pokemon-bandai/?stype=text_box_multi",
+      "first_seen": "2026-08-25T20:27:54.285310+00:00"
     },
     {
       "asin": "A201235761",
@@ -675,7 +740,8 @@
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.elcorteingles.es/juguetes/A201235761-pack-de-tres-sobres-megaevolucion-oscuridad-absoluta-pokemon-jcc-bandai/?stype=text_box_multi"
+      "link": "https://www.elcorteingles.es/juguetes/A201235761-pack-de-tres-sobres-megaevolucion-oscuridad-absoluta-pokemon-jcc-bandai/?stype=text_box_multi",
+      "first_seen": "2026-08-25T20:27:54.285314+00:00"
     },
     {
       "asin": "A200971013",
@@ -688,7 +754,8 @@
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.elcorteingles.es/juguetes/A200971013-sobre-cartas-pokemon-expansion-juntos-de-aventuras-pokemon-bandai-modelos-surtidos/?stype=text_box_multi"
+      "link": "https://www.elcorteingles.es/juguetes/A200971013-sobre-cartas-pokemon-expansion-juntos-de-aventuras-pokemon-bandai-modelos-surtidos/?stype=text_box_multi",
+      "first_seen": "2026-08-25T20:27:54.285317+00:00"
     },
     {
       "asin": "A200278977",
@@ -701,7 +768,8 @@
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.elcorteingles.es/juguetes/A200278977-juego-de-cartas-caja-de-entrenador-elite-pokemon/?stype=text_box_multi"
+      "link": "https://www.elcorteingles.es/juguetes/A200278977-juego-de-cartas-caja-de-entrenador-elite-pokemon/?stype=text_box_multi",
+      "first_seen": "2026-08-25T20:27:54.285320+00:00"
     },
     {
       "asin": "A200066781",
@@ -714,7 +782,8 @@
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.elcorteingles.es/juguetes/A200066781-baraja-combate-de-liga-pokemon-bandai/?stype=text_box_multi"
+      "link": "https://www.elcorteingles.es/juguetes/A200066781-baraja-combate-de-liga-pokemon-bandai/?stype=text_box_multi",
+      "first_seen": "2026-08-25T20:27:54.285324+00:00"
     },
     {
       "asin": "A200805922",
@@ -727,7 +796,8 @@
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.elcorteingles.es/juguetes/A200805922-caja-coleccion-premium-mega-zygarde-ex-jcc-pokemon-bandai/?stype=text_box_multi"
+      "link": "https://www.elcorteingles.es/juguetes/A200805922-caja-coleccion-premium-mega-zygarde-ex-jcc-pokemon-bandai/?stype=text_box_multi",
+      "first_seen": "2026-08-25T20:27:54.285327+00:00"
     },
     {
       "asin": "A200804711",
@@ -740,7 +810,8 @@
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.elcorteingles.es/juguetes/A200804711-lata-mega-ex-jcc-pokemon-bandai-modelos-surtidos/?stype=text_box_multi"
+      "link": "https://www.elcorteingles.es/juguetes/A200804711-lata-mega-ex-jcc-pokemon-bandai-modelos-surtidos/?stype=text_box_multi",
+      "first_seen": "2026-08-25T20:27:54.285331+00:00"
     },
     {
       "asin": "A52662336",
@@ -753,7 +824,8 @@
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.elcorteingles.es/juguetes/A52662336-baraja-combate-deluxe-pokemon-bandai-modelos-surtidos/?stype=text_box_multi"
+      "link": "https://www.elcorteingles.es/juguetes/A52662336-baraja-combate-deluxe-pokemon-bandai-modelos-surtidos/?stype=text_box_multi",
+      "first_seen": "2026-08-25T20:27:54.285334+00:00"
     }
   ]
 }
