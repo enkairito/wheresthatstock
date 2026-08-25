@@ -20,7 +20,7 @@ const sortSelectEl = document.getElementById("sort-select");
 
 let activeStatuses = new Set(["compra_directa", "invitacion"]);
 let activeMarketplaces = new Set(["ES", "UK", "US", "ECI"]);
-let minDiscount = discountRangeEl ? Number(discountRangeEl.dataset.defaultDiscount || discountRangeEl.value) || 0 : 0;
+let minDiscount = discountRangeEl ? Number(discountRangeEl.value) || 0 : 0;
 let maxPrice = Infinity;
 let sortMode = sortSelectEl ? sortSelectEl.value : "newest";
 
@@ -97,13 +97,14 @@ function renderActiveFilters() {
     });
   }
 
-  if (minDiscount > 0) {
+  const discountFloor = Number(discountRange.min) || 0;
+  if (minDiscount > discountFloor) {
     chips.push({
       label: `Descuento mínimo: ${minDiscount}%`,
       onRemove: () => {
-        minDiscount = 0;
-        discountRange.value = 0;
-        discountValue.textContent = "0% de descuento";
+        minDiscount = discountFloor;
+        discountRange.value = discountFloor;
+        discountValue.textContent = `${discountFloor}% de descuento`;
         applyFilter();
       },
     });
