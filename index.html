@@ -178,6 +178,10 @@
     display: flex;
     flex-direction: column;
     gap: 22px;
+    background: color-mix(in srgb, var(--navy) 7%, transparent);
+    border: 1px solid color-mix(in srgb, var(--navy) 18%, transparent);
+    border-radius: 16px;
+    padding: 20px;
   }
   .content { flex: 1; min-width: 0; }
 
@@ -286,6 +290,25 @@
   }
   .filter-chip button:hover { background: color-mix(in srgb, var(--navy) 25%, transparent); }
 
+  .toolbar-actions { display: flex; align-items: center; gap: 10px; flex: none; }
+  .filter-toggle-btn {
+    display: flex;
+    align-items: center;
+    padding: 8px 14px;
+    border-radius: 8px;
+    border: 1.5px solid var(--border);
+    background: var(--card-bg);
+    color: var(--fg);
+    font-family: inherit;
+    font-weight: 700;
+    font-size: 0.85rem;
+    cursor: pointer;
+    white-space: nowrap;
+  }
+  .filter-toggle-btn:hover { border-color: var(--navy); color: var(--navy); }
+
+  .layout.sidebar-hidden .sidebar { display: none; }
+
   .view-toggle { display: flex; gap: 6px; flex: none; }
   .view-btn {
     display: flex;
@@ -321,11 +344,12 @@
 
   @media (max-width: 860px) {
     .layout { flex-direction: column; }
-    .sidebar { position: static; flex: none; width: 100%; }
+    .sidebar { position: static; flex: none; width: 100%; order: 2; }
+    .content { order: 1; }
     .grid.view-3, .grid.view-5 { grid-template-columns: repeat(2, 1fr); }
   }
   @media (max-width: 520px) {
-    .grid.view-3, .grid.view-5 { grid-template-columns: 1fr; }
+    .grid.view-3, .grid.view-5 { grid-template-columns: repeat(2, 1fr); gap: 10px; }
     .grid.view-list .card { flex-direction: column; }
     .grid.view-list .card-img { width: 100%; }
   }
@@ -550,16 +574,19 @@
         <div class="count" id="count"></div>
         <div class="active-filters" id="active-filters"></div>
       </div>
-      <div class="view-toggle" role="group" aria-label="Vista de productos">
-        <button class="view-btn" data-view="view-3" aria-label="3 por fila" aria-pressed="true">
-          <span class="view-icon"><span></span><span></span><span></span></span>
-        </button>
-        <button class="view-btn" data-view="view-5" aria-label="5 por fila" aria-pressed="false">
-          <span class="view-icon"><span></span><span></span><span></span><span></span><span></span></span>
-        </button>
-        <button class="view-btn" data-view="view-list" aria-label="Lista" aria-pressed="false">
-          <span class="view-icon list-icon"><span></span><span></span><span></span></span>
-        </button>
+      <div class="toolbar-actions">
+        <button class="filter-toggle-btn" id="filter-toggle" type="button">Ocultar filtros</button>
+        <div class="view-toggle" role="group" aria-label="Vista de productos">
+          <button class="view-btn" data-view="view-3" aria-label="3 por fila" aria-pressed="true">
+            <span class="view-icon"><span></span><span></span><span></span></span>
+          </button>
+          <button class="view-btn" data-view="view-5" aria-label="5 por fila" aria-pressed="false">
+            <span class="view-icon"><span></span><span></span><span></span><span></span><span></span></span>
+          </button>
+          <button class="view-btn" data-view="view-list" aria-label="Lista" aria-pressed="false">
+            <span class="view-icon list-icon"><span></span><span></span><span></span></span>
+          </button>
+        </div>
       </div>
     </div>
     <div class="grid view-3" id="grid"></div>
@@ -888,6 +915,25 @@ try {
   const savedView = localStorage.getItem("wts-view");
   if (savedView) setView(savedView);
 } catch (e) {}
+
+const layoutEl = document.querySelector(".layout");
+const filterToggleBtn = document.getElementById("filter-toggle");
+
+function setSidebarVisible(visible) {
+  layoutEl.classList.toggle("sidebar-hidden", !visible);
+  filterToggleBtn.textContent = visible ? "Ocultar filtros" : "Mostrar filtros";
+  try { localStorage.setItem("wts-sidebar", visible ? "visible" : "hidden"); } catch (e) {}
+}
+
+filterToggleBtn.addEventListener("click", () => {
+  setSidebarVisible(layoutEl.classList.contains("sidebar-hidden"));
+});
+
+try {
+  setSidebarVisible(localStorage.getItem("wts-sidebar") !== "hidden");
+} catch (e) {
+  setSidebarVisible(true);
+}
 
 fetch("products.json?t=" + Date.now())
   .then(r => r.json())
