@@ -59,63 +59,73 @@
     -webkit-font-smoothing: antialiased;
   }
 
-  header {
-    padding: 28px 20px 20px;
-    text-align: center;
-    border-bottom: 1px solid var(--border);
+  header { border-bottom: 1px solid var(--border); }
+
+  .topbar-inner {
+    max-width: 1800px;
+    margin: 0 auto;
+    padding: 14px clamp(20px, 3vw, 60px);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    flex-wrap: wrap;
   }
 
-  .avatar {
-    width: 76px;
-    height: 76px;
+  .brand {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    text-decoration: none;
+    color: var(--fg);
+  }
+  .brand-logo {
+    width: 40px;
+    height: 40px;
     border-radius: 50%;
     object-fit: cover;
-    border: 2px solid var(--border);
-    display: block;
-    margin: 0 auto 10px;
+    border: 1.5px solid var(--border);
+    flex: none;
   }
-
-  .handle {
-    display: block;
-    color: var(--muted);
-    font-weight: 700;
-    font-size: 0.85rem;
-    text-decoration: none;
-    margin-bottom: 4px;
-  }
-  .handle:hover { color: var(--fg); }
-
-  .logo {
+  .brand-text { line-height: 1.2; }
+  .brand-name {
     font-family: 'Poppins', sans-serif;
     font-weight: 900;
-    font-size: clamp(1.8rem, 5vw, 2.6rem);
+    font-size: 1.25rem;
     letter-spacing: -0.02em;
-    margin: 0;
   }
-  .logo span { color: var(--accent); -webkit-text-stroke: 1px var(--fg); }
+  .brand-name .accent { color: var(--accent); -webkit-text-stroke: 0.6px var(--fg); }
+  .brand-tag { color: var(--muted); font-weight: 700; font-size: 0.72rem; }
 
-  .tagline {
+  .topnav { display: flex; align-items: center; gap: 22px; }
+  .topnav-link {
     color: var(--muted);
+    text-decoration: none;
     font-weight: 700;
-    font-size: 0.95rem;
-    margin: 6px 0 18px;
+    font-size: 0.9rem;
+    padding: 4px 2px;
+    border-bottom: 2px solid transparent;
   }
+  .topnav-link:hover { color: var(--fg); }
+  .topnav-link.active { color: var(--fg); border-bottom-color: var(--accent); }
+
+  .status-bar {
+    border-top: 1px solid var(--border);
+    padding: 8px clamp(20px, 3vw, 60px);
+  }
+  .status-bar-inner { max-width: 1800px; margin: 0 auto; }
 
   .live {
     display: inline-flex;
     align-items: center;
-    gap: 8px;
-    font-size: 0.85rem;
+    gap: 7px;
+    font-size: 0.78rem;
     font-weight: 700;
     color: var(--muted);
-    background: var(--card-bg);
-    border: 1px solid var(--border);
-    border-radius: 999px;
-    padding: 6px 14px;
   }
   .live .dot {
-    width: 8px;
-    height: 8px;
+    width: 7px;
+    height: 7px;
     border-radius: 50%;
     background: var(--live-dot);
     box-shadow: 0 0 0 0 rgba(26,158,74,0.6);
@@ -128,9 +138,9 @@
   }
 
   .layout {
-    max-width: 1800px;
+    width: 100%;
     margin: 0 auto;
-    padding: 24px 40px 60px;
+    padding: 24px clamp(20px, 3vw, 60px) 60px;
     display: flex;
     align-items: flex-start;
     gap: 28px;
@@ -356,11 +366,24 @@
 <body>
 
 <header>
-  <img class="avatar" src="assets/logo.jpg" alt="Where's That Shiny">
-  <a class="handle" href="https://www.instagram.com/wheresthatshiny/" target="_blank" rel="noopener">@wheresthatshiny</a>
-  <h1 class="logo">Where's That <span>Stock</span></h1>
-  <p class="tagline">Restocks de Pokémon TCG, al minuto</p>
-  <div class="live"><span class="dot"></span><span id="live-text">Cargando...</span></div>
+  <div class="topbar-inner">
+    <a class="brand" href="/">
+      <img class="brand-logo" src="assets/logo.jpg" alt="Where's That Shiny">
+      <div class="brand-text">
+        <div class="brand-name">Where's That <span class="accent">Stock</span></div>
+        <div class="brand-tag">Restocks de Pokémon TCG, al minuto</div>
+      </div>
+    </a>
+    <nav class="topnav">
+      <a href="#" class="topnav-link active" id="nav-tcg">Pokémon TCG</a>
+      <a href="#" class="topnav-link" id="nav-ofertas">Ofertas</a>
+    </nav>
+  </div>
+  <div class="status-bar">
+    <div class="status-bar-inner">
+      <span class="live"><span class="dot"></span><span id="live-text">Cargando...</span></span>
+    </div>
+  </div>
 </header>
 
 <div class="layout">
@@ -600,6 +623,29 @@ const discountValue = document.getElementById("discount-value");
 discountRange.addEventListener("input", (e) => {
   minDiscount = Number(e.target.value);
   discountValue.textContent = `${minDiscount}% de descuento`;
+  applyFilter();
+});
+
+const navTcg = document.getElementById("nav-tcg");
+const navOfertas = document.getElementById("nav-ofertas");
+function setActiveNav(link) {
+  [navTcg, navOfertas].forEach(l => l.classList.remove("active"));
+  link.classList.add("active");
+}
+navTcg.addEventListener("click", (e) => {
+  e.preventDefault();
+  setActiveNav(navTcg);
+  discountRange.value = 0;
+  minDiscount = 0;
+  discountValue.textContent = "0% de descuento";
+  applyFilter();
+});
+navOfertas.addEventListener("click", (e) => {
+  e.preventDefault();
+  setActiveNav(navOfertas);
+  discountRange.value = 1;
+  minDiscount = 1;
+  discountValue.textContent = "Solo ofertas";
   applyFilter();
 });
 
