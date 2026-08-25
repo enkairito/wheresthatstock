@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T01:09:42.385997+00:00",
+  "updated_at": "2026-08-25T02:58:18.822346+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -104,6 +104,19 @@
       "status": "invitacion",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0GSSJ9RB1?tag=enkairito-21"
+    },
+    {
+      "asin": "B0CT5T766W",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Pokémon: Cofre de Coleccionista - 2022",
+      "image": "https://m.media-amazon.com/images/I/71k+ET8c4PL._AC_UL320_.jpg",
+      "price": "34,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CT5T766W?tag=enkairito-21"
     },
     {
       "asin": "B0C64J197W",
@@ -385,7 +398,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Caja de entrenamiento de élite Mega Evolution—Chaos Rising",
       "image": "https://m.media-amazon.com/images/I/81EPbaDcgQL._AC_UL320_.jpg",
-      "price": "EUR 77.04",
+      "price": "EUR 75.31",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -424,7 +437,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Escarlata y Violeta - Paquete de Refuerzo de Prismatic Evolutions",
       "image": "https://m.media-amazon.com/images/I/8191EvbngyL._AC_UL320_.jpg",
-      "price": "EUR 96.73",
+      "price": "EUR 93.51",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -580,7 +593,7 @@
       "flag": "🇺🇸",
       "name": "Una tarjeta de Pokémon encapsulada y autenticada con calificación PSA al azar (perfecta para exhibición)",
       "image": "https://m.media-amazon.com/images/I/81SUwheDmXL._AC_UL320_.jpg",
-      "price": "EUR 23.89",
+      "price": "EUR 23.64",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -600,19 +613,6 @@
       "link": "https://www.amazon.com/dp/B08DN23BSM?tag=wtsus-20"
     },
     {
-      "asin": "B0CDXKC4WS",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon - Charmander SVP044 - Obsidian Flames ETB Black Star Promo - Arte completo",
-      "image": "https://m.media-amazon.com/images/I/71iFKilWtML._AC_UL320_.jpg",
-      "price": "EUR 89.99",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0CDXKC4WS?tag=wtsus-20"
-    },
-    {
       "asin": "B07GQB37YY",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -624,6 +624,19 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B07GQB37YY?tag=wtsus-20"
+    },
+    {
+      "asin": "B0CDXKC4WS",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon - Charmander SVP044 - Obsidian Flames ETB Black Star Promo - Arte completo",
+      "image": "https://m.media-amazon.com/images/I/71iFKilWtML._AC_UL320_.jpg",
+      "price": "EUR 89.99",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0CDXKC4WS?tag=wtsus-20"
     },
     {
       "asin": "B0F2BDXW4J",
