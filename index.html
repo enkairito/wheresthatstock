@@ -357,6 +357,7 @@
     .layout { flex-direction: column; }
     .filters-col { position: static; flex: none; width: 100%; }
     .grid.view-3, .grid.view-5 { grid-template-columns: repeat(2, 1fr); }
+    .view-toggle { display: none; }
   }
   @media (max-width: 520px) {
     .grid.view-3, .grid.view-5 { grid-template-columns: repeat(2, 1fr); gap: 10px; }
@@ -378,7 +379,7 @@
     background: #fff;
     overflow: hidden;
   }
-  .card-img img {
+  .card-img > img {
     position: absolute;
     inset: 0;
     width: 100%;
