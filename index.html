@@ -197,21 +197,57 @@
   }
   .filter-option input { width: 16px; height: 16px; accent-color: var(--fg); cursor: pointer; flex: none; }
 
-  .count { color: var(--muted); font-weight: 700; font-size: 0.85rem; margin-bottom: 16px; }
+  .toolbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    margin-bottom: 16px;
+  }
+  .count { color: var(--muted); font-weight: 700; font-size: 0.85rem; }
+
+  .view-toggle { display: flex; gap: 6px; flex: none; }
+  .view-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 32px;
+    border: 1.5px solid var(--border);
+    border-radius: 8px;
+    background: var(--card-bg);
+    cursor: pointer;
+    padding: 0;
+  }
+  .view-btn[aria-pressed="true"] { background: var(--fg); border-color: var(--fg); }
+  .view-icon { display: flex; align-items: center; gap: 2px; height: 16px; }
+  .view-icon span { display: block; width: 3px; height: 100%; background: var(--fg); border-radius: 1px; }
+  .view-btn[aria-pressed="true"] .view-icon span { background: var(--bg); }
+  .view-icon.list-icon { flex-direction: column; justify-content: space-between; width: 16px; height: 13px; gap: 0; }
+  .view-icon.list-icon span { width: 100%; height: 2px; }
 
   .grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
     gap: 16px;
   }
+  .grid.view-3 { grid-template-columns: repeat(3, 1fr); }
+  .grid.view-5 { grid-template-columns: repeat(5, 1fr); }
+  .grid.view-list { grid-template-columns: 1fr; }
+
+  .grid.view-list .card { flex-direction: row; }
+  .grid.view-list .card-img { width: 160px; flex: none; }
+  .grid.view-list .card-body { justify-content: center; }
+  .grid.view-list .card-name { -webkit-line-clamp: 2; }
 
   @media (max-width: 860px) {
     .layout { flex-direction: column; }
     .sidebar { position: static; flex: none; width: 100%; }
-    .grid { grid-template-columns: repeat(2, 1fr); }
+    .grid.view-3, .grid.view-5 { grid-template-columns: repeat(2, 1fr); }
   }
   @media (max-width: 520px) {
-    .grid { grid-template-columns: 1fr; }
+    .grid.view-3, .grid.view-5 { grid-template-columns: 1fr; }
+    .grid.view-list .card { flex-direction: column; }
+    .grid.view-list .card-img { width: 100%; }
   }
 
   .card {
@@ -392,8 +428,21 @@
   </aside>
 
   <main class="content">
-    <div class="count" id="count"></div>
-    <div class="grid" id="grid"></div>
+    <div class="toolbar">
+      <div class="count" id="count"></div>
+      <div class="view-toggle" role="group" aria-label="Vista de productos">
+        <button class="view-btn" data-view="view-3" aria-label="3 por fila" aria-pressed="true">
+          <span class="view-icon"><span></span><span></span><span></span></span>
+        </button>
+        <button class="view-btn" data-view="view-5" aria-label="5 por fila" aria-pressed="false">
+          <span class="view-icon"><span></span><span></span><span></span><span></span><span></span></span>
+        </button>
+        <button class="view-btn" data-view="view-list" aria-label="Lista" aria-pressed="false">
+          <span class="view-icon list-icon"><span></span><span></span><span></span></span>
+        </button>
+      </div>
+    </div>
+    <div class="grid view-3" id="grid"></div>
     <div class="empty" id="empty" style="display:none;">No se encontraron productos.</div>
   </main>
 </div>
@@ -578,6 +627,25 @@ function setupCheckboxGroup(containerSelector, dataAttr, activeSet) {
 
 setupCheckboxGroup(".sidebar", "status", activeStatuses);
 setupCheckboxGroup(".sidebar", "marketplace", activeMarketplaces);
+
+const grid = document.getElementById("grid");
+const viewButtons = document.querySelectorAll(".view-btn");
+
+function setView(view) {
+  grid.classList.remove("view-3", "view-5", "view-list");
+  grid.classList.add(view);
+  viewButtons.forEach(b => b.setAttribute("aria-pressed", String(b.dataset.view === view)));
+  try { localStorage.setItem("wts-view", view); } catch (e) {}
+}
+
+viewButtons.forEach(btn => {
+  btn.addEventListener("click", () => setView(btn.dataset.view));
+});
+
+try {
+  const savedView = localStorage.getItem("wts-view");
+  if (savedView) setView(savedView);
+} catch (e) {}
 
 fetch("products.json?t=" + Date.now())
   .then(r => r.json())
