@@ -18,7 +18,7 @@
 <meta name="twitter:image" content="https://wheresthatstock.com/assets/logo.jpg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@800;900&family=Montserrat:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
 <style>
   :root {
     --bg: #ffffff;
@@ -68,7 +68,7 @@
     margin: 0;
     background: var(--bg);
     color: var(--fg);
-    font-family: 'Montserrat', system-ui, sans-serif;
+    font-family: 'Inter', system-ui, sans-serif;
     -webkit-font-smoothing: antialiased;
   }
 
@@ -102,7 +102,7 @@
   }
   .brand-text { line-height: 1.2; }
   .brand-name {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-weight: 900;
     font-size: 1.25rem;
     letter-spacing: -0.02em;
@@ -253,7 +253,38 @@
     gap: 12px;
     margin-bottom: 16px;
   }
-  .count { color: var(--muted); font-weight: 700; font-size: 0.85rem; }
+  .count-group { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+  .count { color: var(--muted); font-weight: 700; font-size: 0.85rem; flex: none; }
+
+  .active-filters { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+  .filter-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 4px 8px 4px 12px;
+    border-radius: 999px;
+    background: color-mix(in srgb, var(--navy) 16%, transparent);
+    border: 1px solid color-mix(in srgb, var(--navy) 35%, transparent);
+    color: var(--navy);
+    font-size: 0.78rem;
+    font-weight: 700;
+  }
+  .filter-chip button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 16px;
+    height: 16px;
+    border: none;
+    border-radius: 50%;
+    background: none;
+    color: inherit;
+    font-size: 0.95rem;
+    line-height: 1;
+    cursor: pointer;
+    padding: 0;
+  }
+  .filter-chip button:hover { background: color-mix(in srgb, var(--navy) 25%, transparent); }
 
   .view-toggle { display: flex; gap: 6px; flex: none; }
   .view-btn {
@@ -371,7 +402,7 @@
   .badge.status.unavailable { background: var(--unavailable-bg); color: var(--unavailable); }
 
   .price-row { display: flex; align-items: baseline; justify-content: center; gap: 8px; }
-  .price { font-family: 'Poppins', sans-serif; font-weight: 900; font-size: 1.05rem; color: var(--available); }
+  .price { font-family: 'Inter', sans-serif; font-weight: 800; font-size: 1.05rem; letter-spacing: -0.01em; color: var(--available); }
   .price-original { color: var(--muted); text-decoration: line-through; font-size: 0.82rem; font-weight: 700; }
   .stock-note { font-size: 0.72rem; font-weight: 800; color: var(--invitation); }
 
@@ -515,7 +546,10 @@
 
   <main class="content">
     <div class="toolbar">
-      <div class="count" id="count"></div>
+      <div class="count-group">
+        <div class="count" id="count"></div>
+        <div class="active-filters" id="active-filters"></div>
+      </div>
       <div class="view-toggle" role="group" aria-label="Vista de productos">
         <button class="view-btn" data-view="view-3" aria-label="3 por fila" aria-pressed="true">
           <span class="view-icon"><span></span><span></span><span></span></span>
@@ -681,6 +715,87 @@ function applyFilter() {
     return matchesStatus && matchesMarketplace && matchesSearch && matchesDiscount && matchesPrice;
   });
   render(sortProducts(filtered));
+  renderActiveFilters();
+}
+
+const ALL_STATUSES = ["compra_directa", "invitacion"];
+const ALL_MARKETPLACES = ["ES", "UK", "US", "ECI"];
+const STATUS_FILTER_LABEL = { compra_directa: "Disponible", invitacion: "Invitación" };
+const MARKETPLACE_FILTER_LABEL = { ES: "Amazon ES", UK: "Amazon UK", US: "Amazon USA", ECI: "El Corte Inglés" };
+
+function renderActiveFilters() {
+  const container = document.getElementById("active-filters");
+  const chips = [];
+
+  const searchInput = document.getElementById("search");
+  const searchValue = searchInput.value.trim();
+  if (searchValue) {
+    chips.push({
+      label: `Buscar: "${searchValue}"`,
+      onRemove: () => { searchInput.value = ""; applyFilter(); },
+    });
+  }
+
+  if (activeStatuses.size < ALL_STATUSES.length) {
+    const label = ALL_STATUSES.filter(s => activeStatuses.has(s)).map(s => STATUS_FILTER_LABEL[s]).join(", ") || "Ninguno";
+    chips.push({
+      label: `Tipo: ${label}`,
+      onRemove: () => {
+        ALL_STATUSES.forEach(s => activeStatuses.add(s));
+        document.querySelectorAll(".sidebar input[data-status]").forEach(cb => { cb.checked = true; });
+        applyFilter();
+      },
+    });
+  }
+
+  if (activeMarketplaces.size < ALL_MARKETPLACES.length) {
+    const label = ALL_MARKETPLACES.filter(m => activeMarketplaces.has(m)).map(m => MARKETPLACE_FILTER_LABEL[m]).join(", ") || "Ninguna";
+    chips.push({
+      label: `Tienda: ${label}`,
+      onRemove: () => {
+        ALL_MARKETPLACES.forEach(m => activeMarketplaces.add(m));
+        document.querySelectorAll(".sidebar input[data-marketplace]").forEach(cb => { cb.checked = true; });
+        applyFilter();
+      },
+    });
+  }
+
+  if (minDiscount > 0) {
+    chips.push({
+      label: `Descuento mínimo: ${minDiscount}%`,
+      onRemove: () => {
+        minDiscount = 0;
+        discountRange.value = 0;
+        discountValue.textContent = "0% de descuento";
+        setActiveNav(navTcg);
+        applyFilter();
+      },
+    });
+  }
+
+  if (maxPrice < Number(priceRange.max)) {
+    chips.push({
+      label: `Hasta ${maxPrice} €`,
+      onRemove: () => {
+        maxPrice = Number(priceRange.max);
+        priceRange.value = maxPrice;
+        priceInput.value = maxPrice;
+        applyFilter();
+      },
+    });
+  }
+
+  if (!chips.length) {
+    container.innerHTML = "";
+    return;
+  }
+
+  container.innerHTML = chips
+    .map((c, i) => `<span class="filter-chip" data-chip-index="${i}">${c.label}<button type="button" aria-label="Quitar filtro">×</button></span>`)
+    .join("");
+  [...container.children].forEach((el, i) => {
+    el.querySelector("button").addEventListener("click", () => chips[i].onRemove());
+  });
 }
 
 document.getElementById("search").addEventListener("input", applyFilter);
@@ -788,7 +903,7 @@ fetch("products.json?t=" + Date.now())
     priceInput.value = dataMax;
     maxPrice = dataMax;
 
-    render(sortProducts(allProducts));
+    applyFilter();
   })
   .catch(() => {
     document.getElementById("live-text").textContent = "No se pudo cargar el stock";
