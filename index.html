@@ -163,6 +163,7 @@
 
   .layout {
     width: 100%;
+    max-width: 2300px;
     margin: 0 auto;
     padding: 24px clamp(20px, 3vw, 60px) 60px;
     display: flex;
@@ -369,8 +370,8 @@
   .badge.status.invitation { background: var(--invitation-bg); color: var(--invitation); }
   .badge.status.unavailable { background: var(--unavailable-bg); color: var(--unavailable); }
 
-  .price-row { display: flex; align-items: baseline; gap: 8px; }
-  .price { font-family: 'Poppins', sans-serif; font-weight: 900; font-size: 1.05rem; }
+  .price-row { display: flex; align-items: baseline; justify-content: center; gap: 8px; }
+  .price { font-family: 'Poppins', sans-serif; font-weight: 900; font-size: 1.05rem; color: var(--available); }
   .price-original { color: var(--muted); text-decoration: line-through; font-size: 0.82rem; font-weight: 700; }
   .stock-note { font-size: 0.72rem; font-weight: 800; color: var(--invitation); }
 
