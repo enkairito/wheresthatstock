@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T21:27:25.692435+00:00",
+  "updated_at": "2026-08-25T22:26:23.260925+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -520,6 +520,20 @@
       "first_seen": "2026-08-25T20:27:54.285250+00:00"
     },
     {
+      "asin": "B0C6B6V2VK",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Paquete Potenciador Sellado de Fábrica Auténtico (¡Incluye Paquete de Tarjetas Misterio - V/VMAX 1 en 3 - ¡Soporte de Tarjeta Protector Gratis como Bonificación!)",
+      "image": "https://m.media-amazon.com/images/I/61kCpCJbRPL._AC_UL320_.jpg",
+      "price": "10,96 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0C6B6V2VK?tag=wtsus-20",
+      "first_seen": "2026-08-25T22:26:23.259713+00:00"
+    },
+    {
       "asin": "B0F2BCG1Y5",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -532,20 +546,6 @@
       "stock": null,
       "link": "https://www.amazon.com/dp/B0F2BCG1Y5?tag=wtsus-20",
       "first_seen": "2026-08-25T20:27:54.285254+00:00"
-    },
-    {
-      "asin": "B0C6B6V2VK",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Paquete Potenciador Sellado de Fábrica Auténtico (¡Incluye Paquete de Tarjetas Misterio - V/VMAX 1 en 3 - ¡Soporte de Tarjeta Protector Gratis como Bonificación!)",
-      "image": "https://m.media-amazon.com/images/I/61kCpCJbRPL._AC_UL320_.jpg",
-      "price": "10,96 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0C6B6V2VK?tag=wtsus-20",
-      "first_seen": "2026-08-25T21:27:25.691291+00:00"
     },
     {
       "asin": "B0CXY99B6D",
@@ -624,7 +624,7 @@
       "flag": "🇺🇸",
       "name": "Una tarjeta de Pokémon encapsulada y autenticada con calificación PSA al azar (perfecta para exhibición)",
       "image": "https://m.media-amazon.com/images/I/81SUwheDmXL._AC_UL320_.jpg",
-      "price": "27,10 €",
+      "price": "23,90 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
