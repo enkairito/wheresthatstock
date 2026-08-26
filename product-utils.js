@@ -28,7 +28,7 @@ const STORE_ICONS = {
   ES: "assets/amazon-logo.png",
   UK: "assets/amazon-logo.png",
   US: "assets/amazon-logo.png",
-  ECI: "assets/eci-logo.png",
+  ECI: "assets/eci-logo.webp",
 };
 
 function parsePrice(value) {
