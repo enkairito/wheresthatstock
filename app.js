@@ -228,7 +228,7 @@ fetch(PRODUCTS_URL + "?t=" + Date.now())
   .then(r => r.json())
   .then(data => {
     allProducts = data.products || [];
-    document.getElementById("live-text").textContent = "Actualizado " + timeAgo(data.updated_at);
+    document.getElementById("live-text").textContent = timeAgo(data.updated_at);
 
     const prices = allProducts.map(p => parsePrice(p.price)).filter(v => v !== null);
     const dataMax = prices.length ? Math.ceil(Math.max(...prices) / 5) * 5 : 200;
@@ -241,7 +241,7 @@ fetch(PRODUCTS_URL + "?t=" + Date.now())
     applyFilter();
   })
   .catch(() => {
-    document.getElementById("live-text").textContent = "No se pudo cargar el stock";
+    document.getElementById("live-text").textContent = "sin datos";
     document.getElementById("empty").style.display = "block";
     document.getElementById("empty").textContent = "No se pudo cargar el listado de productos.";
   });
