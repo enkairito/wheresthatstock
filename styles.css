@@ -134,6 +134,7 @@ header.header-hidden { transform: translateY(-100%); }
   font-weight: 700;
   color: var(--muted);
 }
+.brand-text .live { margin-top: 2px; }
 .live .dot {
   width: 7px;
   height: 7px;
@@ -161,7 +162,7 @@ header.header-hidden { transform: translateY(-100%); }
 .filters-col {
   flex: 0 0 260px;
   position: sticky;
-  top: 124px;
+  top: 106px;
   display: flex;
   flex-direction: column;
   gap: 14px;
@@ -472,6 +473,8 @@ footer {
 }
 footer a { color: inherit; }
 footer a:hover { color: var(--navy); }
+.footer-social { display: flex; justify-content: center; gap: 18px; margin-bottom: 14px; }
+.footer-social .social-link svg { width: 20px; height: 20px; }
 
 .hero {
   max-width: 720px;
