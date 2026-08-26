@@ -50,7 +50,15 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-header { border-bottom: 1px solid var(--border); }
+header {
+  border-bottom: 1px solid var(--border);
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: var(--bg);
+  transition: transform 0.25s ease;
+}
+header.header-hidden { transform: translateY(-100%); }
 
 .topbar-inner {
   max-width: 1800px;
@@ -96,6 +104,7 @@ header { border-bottom: 1px solid var(--border); }
   font-size: 0.9rem;
   padding: 4px 2px;
   border-bottom: 2px solid transparent;
+  text-align: center;
 }
 .topnav-link:hover { color: var(--fg); }
 .topnav-link.active { color: var(--navy); border-bottom-color: var(--navy); }
@@ -152,7 +161,7 @@ header { border-bottom: 1px solid var(--border); }
 .filters-col {
   flex: 0 0 260px;
   position: sticky;
-  top: 20px;
+  top: 124px;
   display: flex;
   flex-direction: column;
   gap: 14px;
