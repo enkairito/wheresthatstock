@@ -134,7 +134,6 @@ header.header-hidden { transform: translateY(-100%); }
   font-weight: 700;
   color: var(--muted);
 }
-.brand-text .live { margin-top: 2px; }
 .live .dot {
   width: 7px;
   height: 7px;
@@ -162,7 +161,7 @@ header.header-hidden { transform: translateY(-100%); }
 .filters-col {
   flex: 0 0 260px;
   position: sticky;
-  top: 106px;
+  top: 89px;
   display: flex;
   flex-direction: column;
   gap: 14px;
