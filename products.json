@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T01:12:50.586949+00:00",
+  "updated_at": "2026-08-26T03:04:35.378629+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -387,7 +387,7 @@
       "name": "Pokemon TCG: Scarlet & Violet - Caja de Entrenador Élite Destined Rivals - 9 Paquetes, Accesorios, Promo",
       "image": "https://m.media-amazon.com/images/I/814hNCBQClL._AC_UL320_.jpg",
       "price": "118,73 €",
-      "original_price": "126,93 €",
+      "original_price": null,
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0F2BDXW4J?tag=wtsus-20",
@@ -400,7 +400,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolución — Paquete de refuerzo del aumento del caos",
       "image": "https://m.media-amazon.com/images/I/81pdaHp6Q1L._AC_UL320_.jpg",
-      "price": "38,53 €",
+      "price": "37,59 €",
       "original_price": "51,43 €",
       "status": "compra_directa",
       "stock": null,
@@ -464,20 +464,6 @@
       "first_seen": "2026-08-25T20:27:54.285236+00:00"
     },
     {
-      "asin": "B0GV6WRPRV",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Lata Mega Moonlit",
-      "image": "https://m.media-amazon.com/images/I/81mm4CJGgFL._AC_UL320_.jpg",
-      "price": "32,53 €",
-      "original_price": "34,28 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0GV6WRPRV?tag=wtsus-20",
-      "first_seen": "2026-08-25T20:27:54.285245+00:00"
-    },
-    {
       "asin": "B0DLPL7LC5",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -490,6 +476,20 @@
       "stock": null,
       "link": "https://www.amazon.com/dp/B0DLPL7LC5?tag=wtsus-20",
       "first_seen": "2026-08-25T20:27:54.285241+00:00"
+    },
+    {
+      "asin": "B0GV6WRPRV",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Lata Mega Moonlit",
+      "image": "https://m.media-amazon.com/images/I/81mm4CJGgFL._AC_UL320_.jpg",
+      "price": "32,53 €",
+      "original_price": "34,28 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0GV6WRPRV?tag=wtsus-20",
+      "first_seen": "2026-08-25T20:27:54.285245+00:00"
     },
     {
       "asin": "B0G78HDPPR",
@@ -590,20 +590,6 @@
       "first_seen": "2026-08-25T20:27:54.285277+00:00"
     },
     {
-      "asin": "B0BZTL5393",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Scarlet & Violet - Caja de entrenamiento de élite Paldea Evolved",
-      "image": "https://m.media-amazon.com/images/I/71DuTgsrTbL._AC_UL320_.jpg",
-      "price": "235,05 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0BZTL5393?tag=wtsus-20",
-      "first_seen": "2026-08-25T20:27:44.992505+00:00"
-    },
-    {
       "asin": "B09PQBM615",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -616,6 +602,20 @@
       "stock": null,
       "link": "https://www.amazon.com/dp/B09PQBM615?tag=wtsus-20",
       "first_seen": "2026-08-25T20:27:54.285281+00:00"
+    },
+    {
+      "asin": "B0BZTL5393",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Scarlet & Violet - Caja de entrenamiento de élite Paldea Evolved",
+      "image": "https://m.media-amazon.com/images/I/71DuTgsrTbL._AC_UL320_.jpg",
+      "price": "235,73 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0BZTL5393?tag=wtsus-20",
+      "first_seen": "2026-08-25T20:27:44.992505+00:00"
     },
     {
       "asin": "B07GQB37YY",
@@ -646,18 +646,18 @@
       "first_seen": "2026-08-25T20:27:54.285289+00:00"
     },
     {
-      "asin": "B0FH6KRSX8",
+      "asin": "B0BCN6HZR3",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
-      "name": "Pokemon TCG Mega Evolutions 1 Caja de Entrenador Élite",
-      "image": "https://m.media-amazon.com/images/I/81HduOvXc-L._AC_UL320_.jpg",
-      "price": "125,14 €",
+      "name": "Pokémon TCG: Caja de entrenador de élite Espada y Escudo Tempestad Plateada",
+      "image": "https://m.media-amazon.com/images/I/81usxOAo6DL._AC_UL320_.jpg",
+      "price": "164,50 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.com/dp/B0FH6KRSX8?tag=wtsus-20",
-      "first_seen": "2026-08-25T20:27:54.285293+00:00"
+      "link": "https://www.amazon.com/dp/B0BCN6HZR3?tag=wtsus-20",
+      "first_seen": "2026-08-26T03:04:35.376995+00:00"
     },
     {
       "asin": "A201235759",
