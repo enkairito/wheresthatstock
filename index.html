@@ -30,6 +30,54 @@
   "description": "Consulta en directo el stock y las ofertas de Pokémon TCG en Amazon y otros sitios web."
 }
 </script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "¿Qué es Where's That Stock?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Una web que vigila en directo el stock de Pokémon TCG en Amazon España, Reino Unido, USA y El Corte Inglés, y avisa por Telegram en cuanto un producto vuelve a estar disponible o baja de precio."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Cómo funcionan los avisos de restock?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Un bot revisa el stock cada pocos minutos. En cuanto un producto pasa a estar disponible (o disponible por invitación), se publica al momento en el canal de Telegram y se refleja aquí en la web."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Puedo ver solo las ofertas activas?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sí, en la sección Ofertas se muestran únicamente los productos con descuento activo en este momento, ordenados de mayor a menor rebaja."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿También rastreáis accesorios como fundas o cajas?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sí, fundas, cajas de almacenamiento y álbumes para cartas están disponibles en la sección Accesorios TCG, actualizada a diario."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Es gratis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sí, tanto la web como el canal de Telegram son completamente gratuitos. Los enlaces de compra son de afiliado de Amazon, sin coste extra para ti."
+      }
+    }
+  ]
+}
+</script>
 </head>
 <body>
 
@@ -60,17 +108,17 @@
 <div class="home-content">
   <div class="category-grid">
     <a class="category-card" href="pokemontcg">
-      <img class="category-img" src="assets/pokemontcg_logo.png" alt="Logo de Pokémon TCG">
+      <img class="category-img" src="assets/pokemontcg_logo.webp" alt="Logo de Pokémon TCG">
       <h3>Pokémon TCG</h3>
       <p>Todo el stock disponible ahora mismo: sobres, expositores, colecciones y más.</p>
     </a>
     <a class="category-card" href="ofertas">
-      <img class="category-img" src="assets/ofertas.png" alt="Ofertas de Pokémon TCG">
+      <img class="category-img" src="assets/ofertas.webp" alt="Ofertas de Pokémon TCG">
       <h3>Ofertas</h3>
       <p>Los productos con mayor bajada de precio en este momento.</p>
     </a>
     <a class="category-card" href="accesorios">
-      <img class="category-img" src="assets/accesorios.png" alt="Accesorios TCG: fundas, cajas y álbumes">
+      <img class="category-img" src="assets/accesorios.webp" alt="Accesorios TCG: fundas, cajas y álbumes">
       <h3>Accesorios TCG</h3>
       <p>Fundas, cajas y álbumes disponibles ahora mismo.</p>
     </a>
@@ -95,6 +143,34 @@
       <a href="ofertas">Ver todas las ofertas →</a>
     </div>
     <div class="grid view-5" id="deals-grid"></div>
+  </div>
+
+  <div class="home-section faq-section">
+    <div class="home-section-header">
+      <h2>Preguntas frecuentes</h2>
+    </div>
+    <div class="faq-list">
+      <details class="faq-item">
+        <summary>¿Qué es Where's That Stock?</summary>
+        <p>Una web que vigila en directo el stock de Pokémon TCG en Amazon España, Reino Unido, USA y El Corte Inglés, y avisa por Telegram en cuanto un producto vuelve a estar disponible o baja de precio.</p>
+      </details>
+      <details class="faq-item">
+        <summary>¿Cómo funcionan los avisos de restock?</summary>
+        <p>Un bot revisa el stock cada pocos minutos. En cuanto un producto pasa a estar disponible (o disponible por invitación), se publica al momento en el canal de Telegram y se refleja aquí en la web.</p>
+      </details>
+      <details class="faq-item">
+        <summary>¿Puedo ver solo las ofertas activas?</summary>
+        <p>Sí, en la sección <a href="ofertas">Ofertas</a> se muestran únicamente los productos con descuento activo en este momento, ordenados de mayor a menor rebaja.</p>
+      </details>
+      <details class="faq-item">
+        <summary>¿También rastreáis accesorios como fundas o cajas?</summary>
+        <p>Sí, fundas, cajas de almacenamiento y álbumes para cartas están disponibles en la sección <a href="accesorios">Accesorios TCG</a>, actualizada a diario.</p>
+      </details>
+      <details class="faq-item">
+        <summary>¿Es gratis?</summary>
+        <p>Sí, tanto la web como el canal de Telegram son completamente gratuitos. Los enlaces de compra son de afiliado de Amazon, sin coste extra para ti.</p>
+      </details>
+    </div>
   </div>
 </div>
 
