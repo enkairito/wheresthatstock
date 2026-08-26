@@ -167,22 +167,31 @@ priceInput.addEventListener("input", (e) => {
   applyFilter();
 });
 
-function setupCheckboxGroup(containerSelector, dataAttr, activeSet) {
-  document.querySelectorAll(`${containerSelector} input[data-${dataAttr}]`).forEach(checkbox => {
+function setupCheckboxGroup(containerSelector, dataAttr, activeSet, allValues) {
+  const checkboxes = [...document.querySelectorAll(`${containerSelector} input[data-${dataAttr}]`)];
+  checkboxes.forEach(checkbox => {
     checkbox.addEventListener("change", () => {
       const value = checkbox.dataset[dataAttr];
-      if (checkbox.checked) {
+      const wasAllActive = activeSet.size === allValues.length;
+
+      if (wasAllActive) {
+        // Primer clic partiendo de "todo activo": deja solo este seleccionado.
+        activeSet.clear();
+        activeSet.add(value);
+        checkboxes.forEach(cb => { cb.checked = cb.dataset[dataAttr] === value; });
+      } else if (checkbox.checked) {
         activeSet.add(value);
       } else {
         activeSet.delete(value);
       }
+
       applyFilter();
     });
   });
 }
 
-setupCheckboxGroup(".sidebar", "status", activeStatuses);
-setupCheckboxGroup(".sidebar", "marketplace", activeMarketplaces);
+setupCheckboxGroup(".sidebar", "status", activeStatuses, ALL_STATUSES);
+setupCheckboxGroup(".sidebar", "marketplace", activeMarketplaces, ALL_MARKETPLACES);
 
 const grid = document.getElementById("grid");
 const viewButtons = document.querySelectorAll(".view-btn");
