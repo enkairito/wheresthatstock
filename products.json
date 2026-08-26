@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T05:34:17.504762+00:00",
+  "updated_at": "2026-08-26T06:45:55.329404+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -506,20 +506,6 @@
       "first_seen": "2026-08-25T20:27:54.285236+00:00"
     },
     {
-      "asin": "B0DLPL7LC5",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokemon TCG: Caja de entrenador élite de evoluciones prismáticas escarlata y violeta",
-      "image": "https://m.media-amazon.com/images/I/81qfGweCdDL._AC_UL320_.jpg",
-      "price": "158,55 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0DLPL7LC5?tag=wtsus-20",
-      "first_seen": "2026-08-25T20:27:54.285241+00:00"
-    },
-    {
       "asin": "B0GV6WRPRV",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -534,13 +520,55 @@
       "first_seen": "2026-08-25T20:27:54.285245+00:00"
     },
     {
+      "asin": "B0DLPL7LC5",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokemon TCG: Caja de entrenador élite de evoluciones prismáticas escarlata y violeta",
+      "image": "https://m.media-amazon.com/images/I/81qfGweCdDL._AC_UL320_.jpg",
+      "price": "158,55 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0DLPL7LC5?tag=wtsus-20",
+      "first_seen": "2026-08-25T20:27:54.285241+00:00"
+    },
+    {
+      "asin": "B0F2BCG1Y5",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Scarlet & Violet - Paquete de refuerzo Destined Rivals - 6 paquetes",
+      "image": "https://m.media-amazon.com/images/I/81tegATYQrL._AC_UL320_.jpg",
+      "price": "76,19 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0F2BCG1Y5?tag=wtsus-20",
+      "first_seen": "2026-08-25T20:27:54.285254+00:00"
+    },
+    {
+      "asin": "B0GRCDKMSW",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: MegaLucario ex League Battle Deck",
+      "image": "https://m.media-amazon.com/images/I/918tqXfPc9L._AC_UL320_.jpg",
+      "price": "19,15 €",
+      "original_price": "42,85 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0GRCDKMSW?tag=wtsus-20",
+      "first_seen": "2026-08-26T06:45:55.328155+00:00"
+    },
+    {
       "asin": "B0G78HDPPR",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolución: Héroes Ascendidos Mega Meganio/Emboar/Feraligatr ex Box",
       "image": "https://m.media-amazon.com/images/I/91hWD1tF0KL._AC_UL320_.jpg",
-      "price": "63,44 €",
+      "price": "63,64 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -568,7 +596,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Caja de entrenador élite de escarlata y violeta Paradox Rift",
       "image": "https://m.media-amazon.com/images/I/81nXG9v8mPL._AC_UL320_.jpg",
-      "price": "171,45 €",
+      "price": "163,04 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -758,6 +786,20 @@
       "first_seen": "2026-08-25T20:27:54.285317+00:00"
     },
     {
+      "asin": "A200805922",
+      "marketplace": "ECI",
+      "store_label": "El Corte Inglés",
+      "flag": "🇪🇸",
+      "name": "Caja Colección Premium Mega-Zygarde EX JCC Pokémon Bandai",
+      "image": "https://dam.elcorteingles.es/producto/www-001044850503465-00.jpg",
+      "price": "59,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.elcorteingles.es/juguetes/A200805922-caja-coleccion-premium-mega-zygarde-ex-jcc-pokemon-bandai/?stype=text_box_multi",
+      "first_seen": "2026-08-25T20:27:54.285327+00:00"
+    },
+    {
       "asin": "A200278977",
       "marketplace": "ECI",
       "store_label": "El Corte Inglés",
@@ -784,20 +826,6 @@
       "stock": null,
       "link": "https://www.elcorteingles.es/juguetes/A200066781-baraja-combate-de-liga-pokemon-bandai/?stype=text_box_multi",
       "first_seen": "2026-08-25T20:27:54.285324+00:00"
-    },
-    {
-      "asin": "A200805922",
-      "marketplace": "ECI",
-      "store_label": "El Corte Inglés",
-      "flag": "🇪🇸",
-      "name": "Caja Colección Premium Mega-Zygarde EX JCC Pokémon Bandai",
-      "image": "https://dam.elcorteingles.es/producto/www-001044850503465-00.jpg",
-      "price": "59,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.elcorteingles.es/juguetes/A200805922-caja-coleccion-premium-mega-zygarde-ex-jcc-pokemon-bandai/?stype=text_box_multi",
-      "first_seen": "2026-08-25T20:27:54.285327+00:00"
     },
     {
       "asin": "A200804711",
