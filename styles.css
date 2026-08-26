@@ -92,6 +92,7 @@ header.header-hidden { transform: translateY(-100%); }
   font-weight: 900;
   font-size: 1.25rem;
   letter-spacing: -0.02em;
+  margin: 0;
 }
 .brand-name .accent { color: var(--accent); -webkit-text-stroke: 0.6px var(--navy); }
 .brand-tag { color: var(--muted); font-weight: 700; font-size: 0.72rem; }
