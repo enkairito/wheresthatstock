@@ -560,7 +560,7 @@ footer a:hover { color: var(--navy); }
 .home-content {
   max-width: 1400px;
   margin: 0 auto;
-  padding: 0 clamp(20px, 3vw, 60px) 60px;
+  padding: 32px clamp(20px, 3vw, 60px) 60px;
 }
 
 .category-grid {
