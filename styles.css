@@ -63,7 +63,7 @@ header.header-hidden { transform: translateY(-100%); }
 .topbar-inner {
   max-width: 1800px;
   margin: 0 auto;
-  padding: 14px clamp(20px, 3vw, 60px);
+  padding: 14px clamp(20px, 3vw, 60px) 10px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -97,18 +97,33 @@ header.header-hidden { transform: translateY(-100%); }
 .brand-name .accent { color: var(--accent); -webkit-text-stroke: 0.6px var(--navy); }
 .brand-tag { color: var(--muted); font-weight: 700; font-size: 0.72rem; }
 
-.topnav { display: flex; align-items: center; gap: 22px; }
+.topnav {
+  display: flex;
+  gap: 4px;
+  padding: 0 clamp(20px, 3vw, 60px);
+  max-width: 1800px;
+  margin: 0 auto;
+}
 .topnav-link {
+  display: inline-flex;
+  align-items: center;
   color: var(--muted);
   text-decoration: none;
   font-weight: 700;
-  font-size: 0.9rem;
-  padding: 4px 2px;
-  border-bottom: 2px solid transparent;
-  text-align: center;
+  font-size: 0.85rem;
+  padding: 9px 18px;
+  border-radius: 10px 10px 0 0;
+  border: 1px solid transparent;
+  border-bottom: none;
+  margin-bottom: -1px;
 }
 .topnav-link:hover { color: var(--fg); }
-.topnav-link.active { color: var(--navy); border-bottom-color: var(--navy); }
+.topnav-link.active {
+  color: var(--navy);
+  background: color-mix(in srgb, var(--navy) 7%, transparent);
+  border: 1px solid color-mix(in srgb, var(--navy) 18%, transparent);
+  border-bottom: 1px solid var(--bg);
+}
 
 .status-bar {
   border-top: 1px solid var(--border);
@@ -162,7 +177,7 @@ header.header-hidden { transform: translateY(-100%); }
 .filters-col {
   flex: 0 0 260px;
   position: sticky;
-  top: 89px;
+  top: 120px;
   display: flex;
   flex-direction: column;
   gap: 14px;
