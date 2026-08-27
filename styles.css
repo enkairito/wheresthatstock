@@ -530,6 +530,7 @@ header.header-hidden { transform: translateY(-100%); }
 .faq-item p a { color: var(--navy); }
 
 .news-list { display: flex; flex-direction: column; gap: 14px; max-width: 760px; }
+.news-empty { color: var(--muted); font-size: 0.92rem; }
 .news-card {
   display: block;
   border: 1px solid var(--border);
