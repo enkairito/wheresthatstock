@@ -75,7 +75,7 @@ function renderActiveFilters() {
   const searchValue = searchInput.value.trim();
   if (searchValue) {
     chips.push({
-      label: `Buscar: "${searchValue}"`,
+      label: `Buscar: "${escapeHtml(searchValue)}"`,
       onRemove: () => { searchInput.value = ""; applyFilter(); },
     });
   }

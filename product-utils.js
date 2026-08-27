@@ -31,6 +31,17 @@ const STORE_ICONS = {
   ECI: "assets/eci-logo.webp",
 };
 
+const HTML_ESCAPES = { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" };
+
+// Los nombres/precios/enlaces de producto vienen de listados de Amazon/El
+// Corte Inglés — datos externos que no controlamos — y se inyectan en el
+// DOM vía innerHTML (ver cardHtml más abajo), así que hay que escaparlos
+// antes de montar el HTML o un título de producto manipulado podría
+// ejecutar JS en la página de cualquier visitante.
+function escapeHtml(value) {
+  return String(value ?? "").replace(/[&<>"']/g, c => HTML_ESCAPES[c]);
+}
+
 function parsePrice(value) {
   if (!value) return null;
   const match = String(value).match(/(\d{1,3}(?:\.\d{3})*),(\d{2})/);
@@ -53,32 +64,35 @@ function firstSeenTime(p) {
 function cardHtml(p) {
   const statusInfo = STATUS_LABEL[p.status] || STATUS_LABEL.no_disponible;
   const discount = discountPercent(p);
+  const name = escapeHtml(p.name || "");
+  const image = escapeHtml(p.image || "");
+  const link = escapeHtml(p.link || "");
+  const storeLabel = escapeHtml(`${p.store_label || "Amazon"} ${p.flag || ""}`.trim());
   const priceRow = p.price
     ? `<div class="price-row">
-        ${p.original_price && p.original_price !== p.price ? `<span class="price-original">${p.original_price}</span>` : ""}
-        <span class="price">${p.price}</span>
+        ${p.original_price && p.original_price !== p.price ? `<span class="price-original">${escapeHtml(p.original_price)}</span>` : ""}
+        <span class="price">${escapeHtml(p.price)}</span>
        </div>`
     : "";
-  const stockNote = p.stock ? `<div class="stock-note">Solo queda(n) ${p.stock} en stock</div>` : "";
+  const stockNote = p.stock ? `<div class="stock-note">Solo queda(n) ${escapeHtml(p.stock)} en stock</div>` : "";
   const available = p.status === "compra_directa" || p.status === "invitacion";
   const btnLabel = p.status === "invitacion" ? "Solicitar invitación" : (available ? "Cómpralo ya" : "Agotado");
-  const btnHref = available ? p.link : "#";
+  const btnHref = available ? link : "#";
   const btnClass = available ? "buy-btn" : "buy-btn disabled";
-  const storeLabel = `${p.store_label || "Amazon"} ${p.flag || ""}`.trim();
 
   return `
-    <div class="card" data-name="${(p.name || "").toLowerCase()}">
+    <div class="card" data-name="${name.toLowerCase()}">
       <div class="card-img">
-        ${p.image ? `<img src="${p.image}" alt="${p.name}" loading="lazy">` : ""}
+        ${p.image ? `<img src="${image}" alt="${name}" loading="lazy">` : ""}
         <div class="card-corner" title="${storeLabel}">
-          ${STORE_ICONS[p.marketplace] ? `<span class="corner-icon"><img src="${STORE_ICONS[p.marketplace]}" alt="${p.store_label || ""}"></span>` : ""}
-          ${FLAG_ICONS[p.marketplace] ? `<span class="corner-icon"><img src="${FLAG_ICONS[p.marketplace]}" alt="${p.marketplace}"></span>` : ""}
+          ${STORE_ICONS[p.marketplace] ? `<span class="corner-icon"><img src="${STORE_ICONS[p.marketplace]}" alt="${storeLabel}"></span>` : ""}
+          ${FLAG_ICONS[p.marketplace] ? `<span class="corner-icon"><img src="${FLAG_ICONS[p.marketplace]}" alt="${escapeHtml(p.marketplace)}"></span>` : ""}
           ${p.status !== "compra_directa" ? `<span class="badge status ${statusInfo.cls}">${statusInfo.text}</span>` : ""}
         </div>
         ${discount > 0 ? `<div class="card-corner-right"><span class="badge discount">-${discount}%</span></div>` : ""}
       </div>
       <div class="card-body">
-        <div class="card-name">${p.name || ""}</div>
+        <div class="card-name">${name}</div>
         ${priceRow}
         ${stockNote}
         <a class="${btnClass}" href="${btnHref}" target="_blank" rel="noopener">${btnLabel}</a>
