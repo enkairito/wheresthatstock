@@ -111,6 +111,7 @@ header.header-hidden { transform: translateY(-100%); }
 .topnav-link {
   display: inline-flex;
   align-items: center;
+  gap: 6px;
   flex: none;
   white-space: nowrap;
   color: var(--muted);
@@ -130,6 +131,7 @@ header.header-hidden { transform: translateY(-100%); }
   border: 1px solid color-mix(in srgb, var(--navy) 18%, transparent);
   border-bottom: 1px solid var(--bg);
 }
+.nav-icon { flex: none; }
 
 .status-bar {
   border-top: 1px solid var(--border);
