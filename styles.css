@@ -55,7 +55,7 @@ header {
   position: sticky;
   top: 0;
   z-index: 50;
-  background: var(--bg);
+  background: color-mix(in srgb, var(--navy) 7%, var(--bg));
   transition: transform 0.25s ease;
 }
 header.header-hidden { transform: translateY(-100%); }
@@ -99,14 +99,18 @@ header.header-hidden { transform: translateY(-100%); }
 
 .topnav {
   display: flex;
+  justify-content: flex-end;
   gap: 4px;
   padding: 0 clamp(20px, 3vw, 60px);
   max-width: 1800px;
   margin: 0 auto;
+  overflow-x: auto;
 }
 .topnav-link {
   display: inline-flex;
   align-items: center;
+  flex: none;
+  white-space: nowrap;
   color: var(--muted);
   text-decoration: none;
   font-weight: 700;
@@ -120,7 +124,7 @@ header.header-hidden { transform: translateY(-100%); }
 .topnav-link:hover { color: var(--fg); }
 .topnav-link.active {
   color: var(--navy);
-  background: color-mix(in srgb, var(--navy) 7%, transparent);
+  background: var(--bg);
   border: 1px solid color-mix(in srgb, var(--navy) 18%, transparent);
   border-bottom: 1px solid var(--bg);
 }
@@ -366,6 +370,7 @@ header.header-hidden { transform: translateY(-100%); }
   .filters-col { position: static; flex: none; width: 100%; }
   .grid.view-3, .grid.view-5 { grid-template-columns: repeat(2, 1fr); }
   .view-toggle { display: none; }
+  .topnav { justify-content: flex-start; }
 }
 @media (max-width: 520px) {
   .grid.view-3, .grid.view-5 { grid-template-columns: repeat(2, 1fr); gap: 10px; }
