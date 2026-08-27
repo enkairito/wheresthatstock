@@ -46,7 +46,7 @@ function applyFilter() {
   const filtered = allProducts.filter(p => {
     const matchesStatus = activeStatuses.has(p.status);
     const matchesMarketplace = activeMarketplaces.has(p.marketplace);
-    const matchesCategory = !p.categories || !p.categories.length || p.categories.some(c => activeCategories.has(c));
+    const matchesCategory = (p.categories || []).some(c => activeCategories.has(c));
     const matchesSearch = !q || (p.name || "").toLowerCase().includes(q);
     const matchesDiscount = discountPercent(p) >= minDiscount;
     const price = parsePrice(p.price);
