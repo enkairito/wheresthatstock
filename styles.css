@@ -529,6 +529,29 @@ header.header-hidden { transform: translateY(-100%); }
 }
 .faq-item p a { color: var(--navy); }
 
+.news-list { display: flex; flex-direction: column; gap: 14px; max-width: 760px; }
+.news-card {
+  display: block;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 16px 20px;
+  background: var(--card-bg);
+  text-decoration: none;
+  color: var(--fg);
+}
+.news-card:hover { border-color: color-mix(in srgb, var(--navy) 35%, var(--border)); }
+.news-date { font-size: 0.8rem; color: var(--muted); font-weight: 600; }
+.news-card h3 { margin: 6px 0; font-size: 1.05rem; }
+.news-card p { margin: 0; color: var(--muted); font-size: 0.88rem; line-height: 1.5; }
+
+.article { max-width: 760px; margin: 0 auto; padding: 32px clamp(20px, 3vw, 60px) 60px; }
+.article-date { font-size: 0.85rem; color: var(--muted); font-weight: 600; }
+.article h1 { margin: 8px 0 20px; font-size: 1.7rem; }
+.article p { color: var(--fg); line-height: 1.65; margin: 0 0 16px; }
+.article a { color: var(--navy); }
+.article-back { display: inline-block; margin-top: 12px; font-weight: 700; color: var(--navy); text-decoration: none; }
+.article-back:hover { text-decoration: underline; }
+
 footer {
   text-align: center;
   color: var(--muted);
