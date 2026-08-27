@@ -275,7 +275,7 @@ header.header-hidden { transform: translateY(-100%); }
 .category-intro h1 { font-size: 1.6rem; margin: 0 0 8px; color: var(--fg); }
 .category-intro p { color: var(--muted); margin: 0; line-height: 1.55; }
 
-.category-links { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin: 0 0 16px; }
+.category-links { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin: 20px 0; }
 .category-links-label { font-size: 0.85rem; color: var(--muted); margin-right: 2px; }
 .category-links a {
   font-size: 0.85rem;
