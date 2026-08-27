@@ -104,6 +104,7 @@ header.header-hidden { transform: translateY(-100%); }
   gap: 4px;
   max-width: 100%;
   overflow-x: auto;
+  overflow-y: visible;
   scrollbar-width: none;
 }
 .topnav::-webkit-scrollbar { display: none; }
