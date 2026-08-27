@@ -63,7 +63,7 @@ header.header-hidden { transform: translateY(-100%); }
 .topbar-inner {
   max-width: 1800px;
   margin: 0 auto;
-  padding: 14px clamp(20px, 3vw, 60px) 10px;
+  padding: 14px clamp(20px, 3vw, 60px) 0;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -99,12 +99,10 @@ header.header-hidden { transform: translateY(-100%); }
 
 .topnav {
   display: flex;
-  justify-content: flex-end;
+  align-self: flex-end;
   gap: 4px;
-  padding: 0 clamp(20px, 3vw, 60px);
-  max-width: 1800px;
-  margin: 0 auto;
   overflow-x: auto;
+  max-width: 100%;
 }
 .topnav-link {
   display: inline-flex;
@@ -181,7 +179,7 @@ header.header-hidden { transform: translateY(-100%); }
 .filters-col {
   flex: 0 0 260px;
   position: sticky;
-  top: 120px;
+  top: 75px;
   display: flex;
   flex-direction: column;
   gap: 14px;
@@ -370,7 +368,6 @@ header.header-hidden { transform: translateY(-100%); }
   .filters-col { position: static; flex: none; width: 100%; }
   .grid.view-3, .grid.view-5 { grid-template-columns: repeat(2, 1fr); }
   .view-toggle { display: none; }
-  .topnav { justify-content: flex-start; }
 }
 @media (max-width: 520px) {
   .grid.view-3, .grid.view-5 { grid-template-columns: repeat(2, 1fr); gap: 10px; }
