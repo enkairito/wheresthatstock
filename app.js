@@ -20,7 +20,7 @@ const sortSelectEl = document.getElementById("sort-select");
 
 let activeStatuses = new Set(["compra_directa", "invitacion"]);
 let activeMarketplaces = new Set(["ES", "UK", "US", "ECI"]);
-let activeCategories = new Set(["Sobres", "Cajas ETB", "Cajas de coleccionista", "Colecciones premium", "Latas", "Otros"]);
+let activeCategories = new Set(["Sobres", "Cajas ETB", "Cajas de Colección", "Colecciones premium", "Latas", "Otros"]);
 let minDiscount = discountRangeEl ? Number(discountRangeEl.value) || 0 : 0;
 let maxPrice = Infinity;
 let sortMode = sortSelectEl ? sortSelectEl.value : "newest";
@@ -59,7 +59,7 @@ function applyFilter() {
 
 const ALL_STATUSES = ["compra_directa", "invitacion"];
 const ALL_MARKETPLACES = ["ES", "UK", "US", "ECI"];
-const ALL_CATEGORIES = ["Sobres", "Cajas ETB", "Cajas de coleccionista", "Colecciones premium", "Latas", "Otros"];
+const ALL_CATEGORIES = ["Sobres", "Cajas ETB", "Cajas de Colección", "Colecciones premium", "Latas", "Otros"];
 const STATUS_FILTER_LABEL = { compra_directa: "Disponible", invitacion: "Invitación" };
 const MARKETPLACE_FILTER_LABEL = { ES: "Amazon ES", UK: "Amazon UK", US: "Amazon USA", ECI: "El Corte Inglés" };
 
