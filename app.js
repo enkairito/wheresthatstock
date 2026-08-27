@@ -20,6 +20,7 @@ const sortSelectEl = document.getElementById("sort-select");
 
 let activeStatuses = new Set(["compra_directa", "invitacion"]);
 let activeMarketplaces = new Set(["ES", "UK", "US", "ECI"]);
+let activeCategories = new Set(["Sobres", "Cajas ETB", "Cajas de coleccionista", "Colecciones premium", "Latas", "Otros"]);
 let minDiscount = discountRangeEl ? Number(discountRangeEl.value) || 0 : 0;
 let maxPrice = Infinity;
 let sortMode = sortSelectEl ? sortSelectEl.value : "newest";
@@ -45,11 +46,12 @@ function applyFilter() {
   const filtered = allProducts.filter(p => {
     const matchesStatus = activeStatuses.has(p.status);
     const matchesMarketplace = activeMarketplaces.has(p.marketplace);
+    const matchesCategory = !p.categories || !p.categories.length || p.categories.some(c => activeCategories.has(c));
     const matchesSearch = !q || (p.name || "").toLowerCase().includes(q);
     const matchesDiscount = discountPercent(p) >= minDiscount;
     const price = parsePrice(p.price);
     const matchesPrice = price === null || price <= maxPrice;
-    return matchesStatus && matchesMarketplace && matchesSearch && matchesDiscount && matchesPrice;
+    return matchesStatus && matchesMarketplace && matchesCategory && matchesSearch && matchesDiscount && matchesPrice;
   });
   render(sortProducts(filtered));
   renderActiveFilters();
@@ -57,6 +59,7 @@ function applyFilter() {
 
 const ALL_STATUSES = ["compra_directa", "invitacion"];
 const ALL_MARKETPLACES = ["ES", "UK", "US", "ECI"];
+const ALL_CATEGORIES = ["Sobres", "Cajas ETB", "Cajas de coleccionista", "Colecciones premium", "Latas", "Otros"];
 const STATUS_FILTER_LABEL = { compra_directa: "Disponible", invitacion: "Invitación" };
 const MARKETPLACE_FILTER_LABEL = { ES: "Amazon ES", UK: "Amazon UK", US: "Amazon USA", ECI: "El Corte Inglés" };
 
@@ -92,6 +95,18 @@ function renderActiveFilters() {
       onRemove: () => {
         ALL_MARKETPLACES.forEach(m => activeMarketplaces.add(m));
         document.querySelectorAll(".sidebar input[data-marketplace]").forEach(cb => { cb.checked = true; });
+        applyFilter();
+      },
+    });
+  }
+
+  if (activeCategories.size < ALL_CATEGORIES.length) {
+    const label = ALL_CATEGORIES.filter(c => activeCategories.has(c)).join(", ") || "Ninguna";
+    chips.push({
+      label: `Categoría: ${label}`,
+      onRemove: () => {
+        ALL_CATEGORIES.forEach(c => activeCategories.add(c));
+        document.querySelectorAll(".sidebar input[data-category]").forEach(cb => { cb.checked = true; });
         applyFilter();
       },
     });
@@ -183,6 +198,7 @@ function setupCheckboxGroup(containerSelector, dataAttr, activeSet) {
 
 setupCheckboxGroup(".sidebar", "status", activeStatuses);
 setupCheckboxGroup(".sidebar", "marketplace", activeMarketplaces);
+setupCheckboxGroup(".sidebar", "category", activeCategories);
 
 const grid = document.getElementById("grid");
 const viewButtons = document.querySelectorAll(".view-btn");
