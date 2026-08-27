@@ -102,9 +102,11 @@ header.header-hidden { transform: translateY(-100%); }
   display: flex;
   align-self: flex-end;
   gap: 4px;
-  overflow-x: auto;
   max-width: 100%;
+  overflow-x: auto;
+  scrollbar-width: none;
 }
+.topnav::-webkit-scrollbar { display: none; }
 .topnav-link {
   display: inline-flex;
   align-items: center;
