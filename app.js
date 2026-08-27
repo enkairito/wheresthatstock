@@ -49,7 +49,7 @@ function applyFilter() {
     // Los productos de accesorios (check_accessories.py) no llevan campo
     // "categories" en absoluto — solo el catálogo TCG lo tiene. Sin esto,
     // el filtro de categoría (pensado solo para pokemontcg/ofertas) dejaba
-    // la página de Accesorios TCG completamente vacía.
+    // la página de Accesorios completamente vacía.
     const matchesCategory = !p.categories || p.categories.some(c => activeCategories.has(c));
     const matchesSearch = !q || (p.name || "").toLowerCase().includes(q);
     const matchesDiscount = discountPercent(p) >= minDiscount;
