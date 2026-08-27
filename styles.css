@@ -643,6 +643,7 @@ footer a:hover { color: var(--navy); }
   flex-direction: column;
   align-items: flex-start;
   gap: 8px;
+  min-height: 300px;
   padding: 28px 24px;
   border-radius: 16px;
   border: 1.5px solid var(--border);
