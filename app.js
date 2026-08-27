@@ -204,6 +204,21 @@ setupCheckboxGroup(".sidebar", "status", activeStatuses);
 setupCheckboxGroup(".sidebar", "marketplace", activeMarketplaces);
 setupCheckboxGroup(".sidebar", "category", activeCategories);
 
+// Páginas de categoría dedicadas (ej. cajas-etb.html) marcan en el body qué
+// categoría deben mostrar de entrada, para no depender de que el usuario
+// toque el filtro manualmente al entrar por esa URL.
+const categoryFilterAttr = document.body.dataset.categoryFilter;
+if (categoryFilterAttr) {
+  // Muta el Set existente en vez de reasignar activeCategories — los
+  // listeners de setupCheckboxGroup ya capturaron una referencia al Set
+  // original, así que reasignar la variable no se reflejaría en ellos.
+  activeCategories.clear();
+  activeCategories.add(categoryFilterAttr);
+  document.querySelectorAll(".sidebar input[data-category]").forEach(cb => {
+    cb.checked = cb.dataset.category === categoryFilterAttr;
+  });
+}
+
 const grid = document.getElementById("grid");
 const viewButtons = document.querySelectorAll(".view-btn");
 
