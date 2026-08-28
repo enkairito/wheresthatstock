@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T16:49:19.420630+00:00",
+  "updated_at": "2026-08-28T20:34:04.304664+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -876,7 +876,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolución — Paquete de refuerzo del aumento del caos",
       "image": "https://m.media-amazon.com/images/I/81pdaHp6Q1L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "37,35 €",
+      "price": "38,23 €",
       "original_price": "51,50 €",
       "status": "compra_directa",
       "stock": null,
@@ -904,13 +904,30 @@
       ]
     },
     {
+      "asin": "B0G3CV6Z9D",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Mega Evolución: Paquete de refuerzo de héroes ascendidos",
+      "image": "https://m.media-amazon.com/images/I/81sZheTQIhL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "78,94 €",
+      "original_price": "84,34 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0G3CV6Z9D?tag=wtsus-20",
+      "first_seen": "2026-08-25T20:27:44.992513+00:00",
+      "categories": [
+        "Otros"
+      ]
+    },
+    {
       "asin": "B0DYR8D7YC",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Colección Súper Premium de Evoluciones Prismáticas Escarlata y Violeta",
       "image": "https://m.media-amazon.com/images/I/811hyPaG+OL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "242,06 €",
+      "price": "242,04 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -938,6 +955,23 @@
       ]
     },
     {
+      "asin": "B0GXJ8CSTY",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Mega Greninja ex Colección Premium",
+      "image": "https://m.media-amazon.com/images/I/91E+9GLiyyL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "54,11 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0GXJ8CSTY?tag=wtsus-20",
+      "first_seen": "2026-08-25T20:27:44.992540+00:00",
+      "categories": [
+        "Colecciones premium"
+      ]
+    },
+    {
       "asin": "B0FQP3YQ47",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -955,20 +989,20 @@
       ]
     },
     {
-      "asin": "B0GXJ8CSTY",
+      "asin": "B0DN98RVZM",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
-      "name": "Pokémon TCG: Mega Greninja ex Colección Premium",
-      "image": "https://m.media-amazon.com/images/I/91E+9GLiyyL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "54,11 €",
+      "name": "Pokémon TCG: Escarlata y Violeta - Paquete de Refuerzo de Prismatic Evolutions",
+      "image": "https://m.media-amazon.com/images/I/8191EvbngyL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "97,61 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.com/dp/B0GXJ8CSTY?tag=wtsus-20",
-      "first_seen": "2026-08-25T20:27:44.992540+00:00",
+      "link": "https://www.amazon.com/dp/B0DN98RVZM?tag=wtsus-20",
+      "first_seen": "2026-08-25T20:27:54.285226+00:00",
       "categories": [
-        "Colecciones premium"
+        "Otros"
       ]
     },
     {
@@ -989,35 +1023,52 @@
       ]
     },
     {
-      "asin": "B0DN98RVZM",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Escarlata y Violeta - Paquete de Refuerzo de Prismatic Evolutions",
-      "image": "https://m.media-amazon.com/images/I/8191EvbngyL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "93,94 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0DN98RVZM?tag=wtsus-20",
-      "first_seen": "2026-08-25T20:27:54.285226+00:00",
-      "categories": [
-        "Otros"
-      ]
-    },
-    {
       "asin": "B0GG11K25W",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolution—Perfect Order Booster Bundle",
       "image": "https://m.media-amazon.com/images/I/81oqIqpLjrL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "42,88 €",
+      "price": "42,91 €",
       "original_price": "51,50 €",
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0GG11K25W?tag=wtsus-20",
       "first_seen": "2026-08-25T20:27:44.992534+00:00",
+      "categories": [
+        "Otros"
+      ]
+    },
+    {
+      "asin": "B0G78HDPPR",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Mega Evolución: Héroes Ascendidos Mega Meganio/Emboar/Feraligatr ex Box",
+      "image": "https://m.media-amazon.com/images/I/91hWD1tF0KL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "64,30 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0G78HDPPR?tag=wtsus-20",
+      "first_seen": "2026-08-25T20:27:54.285250+00:00",
+      "categories": [
+        "Otros"
+      ]
+    },
+    {
+      "asin": "B0G2FVLXVL",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Colección del Día de Pokémon 2026",
+      "image": "https://m.media-amazon.com/images/I/91YHLxggDmL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "44,58 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0G2FVLXVL?tag=wtsus-20",
+      "first_seen": "2026-08-25T20:27:54.285236+00:00",
       "categories": [
         "Otros"
       ]
@@ -1046,7 +1097,7 @@
       "flag": "🇺🇸",
       "name": "Pokemon TCG: Caja de entrenador élite de evoluciones prismáticas escarlata y violeta",
       "image": "https://m.media-amazon.com/images/I/81qfGweCdDL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "158,83 €",
+      "price": "158,79 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -1074,23 +1125,6 @@
       ]
     },
     {
-      "asin": "B001DIJ48C",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG 3 paquetes de refuerzo, 30 cartas en total, 100% auténticas, raras aleatorias y holofoils, 3 paquetes de ampollas",
-      "image": "https://m.media-amazon.com/images/I/71UYZOVLiuL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "22,18 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B001DIJ48C?tag=wtsus-20",
-      "first_seen": "2026-08-25T20:27:44.992522+00:00",
-      "categories": [
-        "Otros"
-      ]
-    },
-    {
       "asin": "B0F2BCG1Y5",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -1103,6 +1137,23 @@
       "stock": null,
       "link": "https://www.amazon.com/dp/B0F2BCG1Y5?tag=wtsus-20",
       "first_seen": "2026-08-25T20:27:54.285254+00:00",
+      "categories": [
+        "Otros"
+      ]
+    },
+    {
+      "asin": "B001DIJ48C",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG 3 paquetes de refuerzo, 30 cartas en total, 100% auténticas, raras aleatorias y holofoils, 3 paquetes de ampollas",
+      "image": "https://m.media-amazon.com/images/I/71UYZOVLiuL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "22,18 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B001DIJ48C?tag=wtsus-20",
+      "first_seen": "2026-08-25T20:27:44.992522+00:00",
       "categories": [
         "Otros"
       ]
@@ -1125,40 +1176,6 @@
       ]
     },
     {
-      "asin": "B0GSJMQ3QQ",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Mega Evolución — Pantalla de refuerzo de aumento del caos",
-      "image": "https://m.media-amazon.com/images/I/71P7kd2+9AL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "187,98 €",
-      "original_price": "240,38 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0GSJMQ3QQ?tag=wtsus-20",
-      "first_seen": "2026-08-27T21:01:09.203771+00:00",
-      "categories": [
-        "Otros"
-      ]
-    },
-    {
-      "asin": "B09YS3LL3N",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: 3 paquetes de refuerzo y 1 lámina aleatoria | Incluye 3 paquetes blíster de cartas aleatorias y 1 tarjeta promocional holofoil empaquetada individualmente, 097712556710",
-      "image": "https://m.media-amazon.com/images/I/81lYlP-nzFL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "21,87 €",
-      "original_price": "24,55 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B09YS3LL3N?tag=wtsus-20",
-      "first_seen": "2026-08-26T09:40:03.627551+00:00",
-      "categories": [
-        "Otros"
-      ]
-    },
-    {
       "asin": "B0FLCWJ1VK",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -1176,31 +1193,14 @@
       ]
     },
     {
-      "asin": "B0G3CV6Z9D",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Mega Evolución: Paquete de refuerzo de héroes ascendidos",
-      "image": "https://m.media-amazon.com/images/I/81sZheTQIhL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "79,29 €",
-      "original_price": "84,34 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0G3CV6Z9D?tag=wtsus-20",
-      "first_seen": "2026-08-25T20:27:44.992513+00:00",
-      "categories": [
-        "Otros"
-      ]
-    },
-    {
       "asin": "B0DSQ9W4J4",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
       "name": "Pokemon Escarlata y Púrpura Set de Entrenador Élite - Evoluciones Prismáticas del TCG de Pokemon (1 Tarjeta Promo Ilustrada Completa, 9 Paquetes de Mejora y Accesorios de Juego Premium)",
       "image": "https://m.media-amazon.com/images/I/813K6KtVTML._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "180,29 €",
-      "original_price": "188,87 €",
+      "price": "184,50 €",
+      "original_price": null,
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B0DSQ9W4J4?tag=wtsus-20",
@@ -1301,7 +1301,7 @@
       "flag": "🇺🇸",
       "name": "Una tarjeta de Pokémon encapsulada y autenticada con calificación PSA al azar (perfecta para exhibición)",
       "image": "https://m.media-amazon.com/images/I/81SUwheDmXL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "23,94 €",
+      "price": "23,85 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -1319,7 +1319,7 @@
       "name": "Juego de cartas coleccionables de Pokémon: SAS8- Caja para entrenador élite Golpe Fusión",
       "image": "https://m.media-amazon.com/images/I/61HM1MrazbL._AC_UL320_AIweblab1378949,T1_.jpg",
       "price": "317,56 €",
-      "original_price": "343,32 €",
+      "original_price": "334,39 €",
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.com/dp/B09CLGX546?tag=wtsus-20",
@@ -1426,6 +1426,23 @@
       "stock": null,
       "link": "https://www.amazon.com/dp/B0B9M6N4F1?tag=wtsus-20",
       "first_seen": "2026-08-27T14:00:00.910681+00:00",
+      "categories": [
+        "Otros"
+      ]
+    },
+    {
+      "asin": "B0CDXKC4WS",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon - Charmander SVP044 - Obsidian Flames ETB Black Star Promo - Arte completo",
+      "image": "https://m.media-amazon.com/images/I/71iFKilWtML._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "90,13 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0CDXKC4WS?tag=wtsus-20",
+      "first_seen": "2026-08-25T20:27:54.285289+00:00",
       "categories": [
         "Otros"
       ]
