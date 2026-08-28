@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T20:34:04.304664+00:00",
+  "updated_at": "2026-08-28T21:07:57.284116+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -876,7 +876,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolución — Paquete de refuerzo del aumento del caos",
       "image": "https://m.media-amazon.com/images/I/81pdaHp6Q1L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "38,23 €",
+      "price": "37,65 €",
       "original_price": "51,50 €",
       "status": "compra_directa",
       "stock": null,
@@ -910,7 +910,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolución: Paquete de refuerzo de héroes ascendidos",
       "image": "https://m.media-amazon.com/images/I/81sZheTQIhL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "78,94 €",
+      "price": "79,29 €",
       "original_price": "84,34 €",
       "status": "compra_directa",
       "stock": null,
@@ -927,7 +927,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Colección Súper Premium de Evoluciones Prismáticas Escarlata y Violeta",
       "image": "https://m.media-amazon.com/images/I/811hyPaG+OL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "242,04 €",
+      "price": "243,35 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -972,23 +972,6 @@
       ]
     },
     {
-      "asin": "B0FQP3YQ47",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Latas de Bola de Poké Q4",
-      "image": "https://m.media-amazon.com/images/I/712OrW9EjzL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "25,71 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0FQP3YQ47?tag=wtsus-20",
-      "first_seen": "2026-08-25T20:27:54.285231+00:00",
-      "categories": [
-        "Latas"
-      ]
-    },
-    {
       "asin": "B0DN98RVZM",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -1006,13 +989,30 @@
       ]
     },
     {
+      "asin": "B0FQP3YQ47",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Latas de Bola de Poké Q4",
+      "image": "https://m.media-amazon.com/images/I/712OrW9EjzL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "25,71 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0FQP3YQ47?tag=wtsus-20",
+      "first_seen": "2026-08-25T20:27:54.285231+00:00",
+      "categories": [
+        "Latas"
+      ]
+    },
+    {
       "asin": "B0F2GZJ3TZ",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
       "name": "Pokemon TCG: Scarlet & Violet - Destined Rivals Caja Expositora de Sobres - 36 Paquetes",
       "image": "https://m.media-amazon.com/images/I/81qEBWUk7hL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "347,27 €",
+      "price": "403,73 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -1074,23 +1074,6 @@
       ]
     },
     {
-      "asin": "B0GV6WRPRV",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Lata Mega Moonlit",
-      "image": "https://m.media-amazon.com/images/I/81mm4CJGgFL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "32,58 €",
-      "original_price": "34,33 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0GV6WRPRV?tag=wtsus-20",
-      "first_seen": "2026-08-25T20:27:54.285245+00:00",
-      "categories": [
-        "Latas"
-      ]
-    },
-    {
       "asin": "B0DLPL7LC5",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -1105,6 +1088,23 @@
       "first_seen": "2026-08-25T20:27:54.285241+00:00",
       "categories": [
         "Cajas ETB"
+      ]
+    },
+    {
+      "asin": "B0GV6WRPRV",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Lata Mega Moonlit",
+      "image": "https://m.media-amazon.com/images/I/81mm4CJGgFL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "32,58 €",
+      "original_price": "34,33 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0GV6WRPRV?tag=wtsus-20",
+      "first_seen": "2026-08-25T20:27:54.285245+00:00",
+      "categories": [
+        "Latas"
       ]
     },
     {
@@ -1159,23 +1159,6 @@
       ]
     },
     {
-      "asin": "B0DDYZX1TB",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Escarlata y Violeta - Paquete de refuerzo de Surging Sparks",
-      "image": "https://m.media-amazon.com/images/I/817ZQoBRA3L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "77,17 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0DDYZX1TB?tag=wtsus-20",
-      "first_seen": "2026-08-25T20:27:44.992499+00:00",
-      "categories": [
-        "Otros"
-      ]
-    },
-    {
       "asin": "B0FLCWJ1VK",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -1188,6 +1171,23 @@
       "stock": null,
       "link": "https://www.amazon.com/dp/B0FLCWJ1VK?tag=wtsus-20",
       "first_seen": "2026-08-26T19:00:55.275338+00:00",
+      "categories": [
+        "Otros"
+      ]
+    },
+    {
+      "asin": "B0DDYZX1TB",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Escarlata y Violeta - Paquete de refuerzo de Surging Sparks",
+      "image": "https://m.media-amazon.com/images/I/817ZQoBRA3L._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "77,17 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0DDYZX1TB?tag=wtsus-20",
+      "first_seen": "2026-08-25T20:27:44.992499+00:00",
       "categories": [
         "Otros"
       ]
@@ -1256,6 +1256,23 @@
       "stock": null,
       "link": "https://www.amazon.com/dp/B0C6D9LWCQ?tag=wtsus-20",
       "first_seen": "2026-08-25T20:27:54.285273+00:00",
+      "categories": [
+        "Cajas ETB"
+      ]
+    },
+    {
+      "asin": "B0981BNN9M",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokemon Caja de Entrenamiento de Elite para Celebraciones del 25 Aniversario",
+      "image": "https://m.media-amazon.com/images/I/61Yb2nb6B8L._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "450,72 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.com/dp/B0981BNN9M?tag=wtsus-20",
+      "first_seen": "2026-08-28T07:53:32.720677+00:00",
       "categories": [
         "Cajas ETB"
       ]
@@ -1380,23 +1397,6 @@
       ]
     },
     {
-      "asin": "B0981BNN9M",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokemon Caja de Entrenamiento de Elite para Celebraciones del 25 Aniversario",
-      "image": "https://m.media-amazon.com/images/I/61Yb2nb6B8L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "450,72 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0981BNN9M?tag=wtsus-20",
-      "first_seen": "2026-08-28T07:53:32.720677+00:00",
-      "categories": [
-        "Cajas ETB"
-      ]
-    },
-    {
       "asin": "B0B4PRYJ6T",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -1426,23 +1426,6 @@
       "stock": null,
       "link": "https://www.amazon.com/dp/B0B9M6N4F1?tag=wtsus-20",
       "first_seen": "2026-08-27T14:00:00.910681+00:00",
-      "categories": [
-        "Otros"
-      ]
-    },
-    {
-      "asin": "B0CDXKC4WS",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon - Charmander SVP044 - Obsidian Flames ETB Black Star Promo - Arte completo",
-      "image": "https://m.media-amazon.com/images/I/71iFKilWtML._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "90,13 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.com/dp/B0CDXKC4WS?tag=wtsus-20",
-      "first_seen": "2026-08-25T20:27:54.285289+00:00",
       "categories": [
         "Otros"
       ]
