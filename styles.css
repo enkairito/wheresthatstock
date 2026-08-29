@@ -104,7 +104,10 @@ header.header-hidden { transform: translateY(-100%); }
   gap: 4px;
   max-width: 100%;
   overflow-x: auto;
-  overflow-y: visible;
+  /* "visible" aquí se recomputa como "auto" por spec (overflow-x no es
+     "visible"), así que un desajuste de subpíxel se vuelve arrastrable en
+     móvil. "hidden" sí se respeta tal cual. */
+  overflow-y: hidden;
   scrollbar-width: none;
 }
 .topnav::-webkit-scrollbar { display: none; }
