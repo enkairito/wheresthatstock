@@ -20,7 +20,18 @@ const sortSelectEl = document.getElementById("sort-select");
 
 let activeStatuses = new Set(["compra_directa", "invitacion"]);
 let activeMarketplaces = new Set(["ES", "UK", "US", "ECI"]);
-let activeCategories = new Set(["Sobres", "Cajas ETB", "Cajas de Colección", "Colecciones premium", "Latas", "Otros"]);
+// Las categorías varían según la página (Pokémon TCG, One Piece TCG,
+// Accesorios...), así que se leen directamente de los checkboxes presentes
+// en el sidebar en vez de una lista fija — activeCategories arranca con
+// los que ya vienen marcados como "checked" en el HTML de cada página.
+let activeCategories = new Set(
+  [...document.querySelectorAll(".sidebar input[data-category]:checked")].map(cb => cb.dataset.category)
+);
+// Igual que las categorías: solo aparece en páginas que mezclan varios
+// juegos (ej. Ofertas), así que se lee de los checkboxes si existen.
+let activeGames = new Set(
+  [...document.querySelectorAll(".sidebar input[data-game]:checked")].map(cb => cb.dataset.game)
+);
 let minDiscount = discountRangeEl ? Number(discountRangeEl.value) || 0 : 0;
 let maxPrice = Infinity;
 let sortMode = sortSelectEl ? sortSelectEl.value : "newest";
@@ -46,16 +57,19 @@ function applyFilter() {
   const filtered = allProducts.filter(p => {
     const matchesStatus = activeStatuses.has(p.status);
     const matchesMarketplace = activeMarketplaces.has(p.marketplace);
-    // Los productos de accesorios (check_accessories.py) no llevan campo
-    // "categories" en absoluto — solo el catálogo TCG lo tiene. Sin esto,
-    // el filtro de categoría (pensado solo para pokemontcg/ofertas) dejaba
-    // la página de Accesorios completamente vacía.
-    const matchesCategory = !p.categories || p.categories.some(c => activeCategories.has(c));
+    // Si la página no tiene checkboxes de categoría (ej. Ofertas, que
+    // mezcla los esquemas de dos juegos distintos), ALL_CATEGORIES está
+    // vacío y el filtro no debe aplicarse en absoluto. Los productos de
+    // accesorios (check_accessories.py) tampoco llevan campo "categories"
+    // en absoluto salvo que sean de One Piece — sin ese bypass, el filtro
+    // de categoría dejaba la página de Accesorios completamente vacía.
+    const matchesCategory = ALL_CATEGORIES.length === 0 || !p.categories || p.categories.some(c => activeCategories.has(c));
+    const matchesGame = ALL_GAMES.length === 0 || !p.game || activeGames.has(p.game);
     const matchesSearch = !q || (p.name || "").toLowerCase().includes(q);
     const matchesDiscount = discountPercent(p) >= minDiscount;
     const price = parsePrice(p.price);
     const matchesPrice = price === null || price <= maxPrice;
-    return matchesStatus && matchesMarketplace && matchesCategory && matchesSearch && matchesDiscount && matchesPrice;
+    return matchesStatus && matchesMarketplace && matchesCategory && matchesGame && matchesSearch && matchesDiscount && matchesPrice;
   });
   render(sortProducts(filtered));
   renderActiveFilters();
@@ -63,7 +77,8 @@ function applyFilter() {
 
 const ALL_STATUSES = ["compra_directa", "invitacion"];
 const ALL_MARKETPLACES = ["ES", "UK", "US", "ECI"];
-const ALL_CATEGORIES = ["Sobres", "Cajas ETB", "Cajas de Colección", "Colecciones premium", "Latas", "Otros"];
+const ALL_GAMES = [...document.querySelectorAll(".sidebar input[data-game]")].map(cb => cb.dataset.game);
+const ALL_CATEGORIES = [...document.querySelectorAll(".sidebar input[data-category]")].map(cb => cb.dataset.category);
 const STATUS_FILTER_LABEL = { compra_directa: "Disponible", invitacion: "Invitación" };
 const MARKETPLACE_FILTER_LABEL = { ES: "Amazon ES", UK: "Amazon UK", US: "Amazon USA", ECI: "El Corte Inglés" };
 
@@ -99,6 +114,18 @@ function renderActiveFilters() {
       onRemove: () => {
         ALL_MARKETPLACES.forEach(m => activeMarketplaces.add(m));
         document.querySelectorAll(".sidebar input[data-marketplace]").forEach(cb => { cb.checked = true; });
+        applyFilter();
+      },
+    });
+  }
+
+  if (activeGames.size < ALL_GAMES.length) {
+    const label = ALL_GAMES.filter(g => activeGames.has(g)).join(", ") || "Ninguno";
+    chips.push({
+      label: `Juego: ${label}`,
+      onRemove: () => {
+        ALL_GAMES.forEach(g => activeGames.add(g));
+        document.querySelectorAll(".sidebar input[data-game]").forEach(cb => { cb.checked = true; });
         applyFilter();
       },
     });
@@ -203,21 +230,7 @@ function setupCheckboxGroup(containerSelector, dataAttr, activeSet) {
 setupCheckboxGroup(".sidebar", "status", activeStatuses);
 setupCheckboxGroup(".sidebar", "marketplace", activeMarketplaces);
 setupCheckboxGroup(".sidebar", "category", activeCategories);
-
-// Páginas de categoría dedicadas (ej. cajas-etb.html) marcan en el body qué
-// categoría deben mostrar de entrada, para no depender de que el usuario
-// toque el filtro manualmente al entrar por esa URL.
-const categoryFilterAttr = document.body.dataset.categoryFilter;
-if (categoryFilterAttr) {
-  // Muta el Set existente en vez de reasignar activeCategories — los
-  // listeners de setupCheckboxGroup ya capturaron una referencia al Set
-  // original, así que reasignar la variable no se reflejaría en ellos.
-  activeCategories.clear();
-  activeCategories.add(categoryFilterAttr);
-  document.querySelectorAll(".sidebar input[data-category]").forEach(cb => {
-    cb.checked = cb.dataset.category === categoryFilterAttr;
-  });
-}
+setupCheckboxGroup(".sidebar", "game", activeGames);
 
 const grid = document.getElementById("grid");
 const viewButtons = document.querySelectorAll(".view-btn");
@@ -257,13 +270,25 @@ try {
   setSidebarVisible(true);
 }
 
-const PRODUCTS_URL = document.body.dataset.productsUrl || "products.json";
+// La mayoría de páginas leen un solo archivo (data-products-url). Ofertas
+// combina varios juegos a la vez (data-products-urls, separados por coma)
+// para poder mostrar y filtrar por "Juego" en un mismo listado.
+const PRODUCTS_URLS = document.body.dataset.productsUrls
+  ? document.body.dataset.productsUrls.split(",").map(u => u.trim())
+  : [document.body.dataset.productsUrl || "products.json"];
 
-fetch(PRODUCTS_URL + "?t=" + Date.now())
-  .then(r => r.json())
-  .then(data => {
-    allProducts = data.products || [];
-    document.getElementById("live-text").textContent = timeAgo(data.updated_at);
+Promise.allSettled(PRODUCTS_URLS.map(url => fetch(url + "?t=" + Date.now()).then(r => r.json())))
+  .then(results => {
+    const okResults = results.filter(r => r.status === "fulfilled").map(r => r.value);
+    if (!okResults.length) throw new Error("Ningún origen de productos cargó correctamente");
+
+    allProducts = okResults.flatMap(data => data.products || []);
+    const latestUpdate = okResults
+      .map(data => data.updated_at)
+      .filter(Boolean)
+      .sort()
+      .pop();
+    document.getElementById("live-text").textContent = timeAgo(latestUpdate);
 
     const prices = allProducts.map(p => parsePrice(p.price)).filter(v => v !== null);
     const dataMax = prices.length ? Math.ceil(Math.max(...prices) / 5) * 5 : 200;

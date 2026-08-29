@@ -4,25 +4,25 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>One Piece TCG — Where's That Stock</title>
-<meta name="description" content="Muy pronto: stock en directo de One Piece Card Game en Amazon y otras tiendas.">
+<meta name="description" content="Consulta en directo el stock de One Piece Card Game en Amazon: sobres, booster boxes, double packs y starter decks.">
 <link rel="icon" type="image/jpeg" href="assets/logo.jpg">
 
 <meta property="og:type" content="website">
 <link rel="canonical" href="https://wheresthatstock.com/onepiece">
 <meta property="og:url" content="https://wheresthatstock.com/onepiece">
 <meta property="og:title" content="One Piece TCG — Where's That Stock">
-<meta property="og:description" content="Muy pronto: stock en directo de One Piece Card Game en Amazon y otras tiendas.">
+<meta property="og:description" content="Consulta en directo el stock de One Piece Card Game en Amazon: sobres, booster boxes, double packs y starter decks.">
 <meta property="og:image" content="https://wheresthatstock.com/assets/logo.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="One Piece TCG — Where's That Stock">
-<meta name="twitter:description" content="Muy pronto: stock en directo de One Piece Card Game en Amazon y otras tiendas.">
+<meta name="twitter:description" content="Consulta en directo el stock de One Piece Card Game en Amazon: sobres, booster boxes, double packs y starter decks.">
 <meta name="twitter:image" content="https://wheresthatstock.com/assets/logo.jpg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css">
 </head>
-<body>
+<body data-products-url="onepiece.json">
 
 <header>
   <div class="topbar-inner">
@@ -42,12 +42,102 @@
   </div>
 </header>
 
-<div class="home-content">
-  <div class="category-intro">
-    <img class="intro-logo" src="assets/onepiece.webp" alt="Logo de One Piece TCG">
-    <h1>One Piece TCG</h1>
-    <p>Todavía no rastreamos stock de One Piece Card Game, pero está en camino. En cuanto esté activo, aquí podrás consultar en directo la disponibilidad y los precios, igual que con Pokémon TCG. Vuelve pronto.</p>
+<div class="layout">
+  <div class="filters-col">
+    <button class="filter-toggle-btn" id="filter-toggle" type="button">Ocultar filtros</button>
+  <aside class="sidebar">
+    <div class="sidebar-section">
+      <label class="sidebar-label" for="sort-select">Ordenar por</label>
+      <select id="sort-select">
+        <option value="newest" selected>Novedades</option>
+        <option value="default">Recomendado</option>
+        <option value="price-asc">Precio: menor a mayor</option>
+        <option value="price-desc">Precio: mayor a menor</option>
+        <option value="discount">Mayor descuento</option>
+        <option value="name">Nombre A-Z</option>
+      </select>
+    </div>
+
+    <div class="sidebar-section">
+      <label class="sidebar-label" for="discount-range">Descuento mínimo</label>
+      <input type="range" id="discount-range" min="0" max="50" step="5" value="0">
+      <div class="range-value" id="discount-value">0% de descuento</div>
+    </div>
+
+    <div class="sidebar-section">
+      <label class="sidebar-label" for="price-range">Precio máximo</label>
+      <input type="range" id="price-range" min="0" max="200" step="5" value="200">
+      <div class="range-value-row">
+        <input type="number" id="price-input" min="0" max="200" step="1" value="200" inputmode="numeric">
+        <span>€</span>
+      </div>
+    </div>
+
+    <div class="sidebar-section">
+      <div class="sidebar-label">Tipo de compra</div>
+      <label class="filter-option">
+        <input type="checkbox" data-status="compra_directa" checked>
+        <span>Disponible</span>
+      </label>
+      <label class="filter-option">
+        <input type="checkbox" data-status="invitacion" checked>
+        <span>Invitación</span>
+      </label>
+    </div>
+
+    <div class="sidebar-section">
+      <div class="sidebar-label">Categoría</div>
+      <label class="filter-option">
+        <input type="checkbox" data-category="Sobre" checked>
+        <span>Sobre</span>
+      </label>
+      <label class="filter-option">
+        <input type="checkbox" data-category="Booster Box" checked>
+        <span>Booster Box</span>
+      </label>
+      <label class="filter-option">
+        <input type="checkbox" data-category="Double Pack" checked>
+        <span>Double Pack</span>
+      </label>
+      <label class="filter-option">
+        <input type="checkbox" data-category="Starter Deck" checked>
+        <span>Starter Deck</span>
+      </label>
+      <label class="filter-option">
+        <input type="checkbox" data-category="Otros" checked>
+        <span>Otros</span>
+      </label>
+    </div>
+  </aside>
   </div>
+
+  <main class="content">
+    <div class="toolbar">
+      <div class="toolbar-left">
+        <div class="search-box">
+          <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+          <input type="text" id="search" placeholder="Buscar producto..." autocomplete="off">
+        </div>
+        <div class="count-group">
+          <div class="count" id="count"></div>
+          <div class="active-filters" id="active-filters"></div>
+        </div>
+      </div>
+      <div class="view-toggle" role="group" aria-label="Vista de productos">
+        <button class="view-btn" data-view="view-3" aria-label="3 por fila" aria-pressed="true">
+          <span class="view-icon"><span></span><span></span><span></span></span>
+        </button>
+        <button class="view-btn" data-view="view-5" aria-label="5 por fila" aria-pressed="false">
+          <span class="view-icon"><span></span><span></span><span></span><span></span><span></span></span>
+        </button>
+        <button class="view-btn" data-view="view-list" aria-label="Lista" aria-pressed="false">
+          <span class="view-icon list-icon"><span></span><span></span><span></span></span>
+        </button>
+      </div>
+    </div>
+    <div class="grid view-3" id="grid"></div>
+    <div class="empty" id="empty" style="display:none;">No se encontraron productos.</div>
+  </main>
 </div>
 
 <footer>
@@ -67,14 +157,6 @@
 
 <script src="header-scroll.js"></script>
 <script src="product-utils.js"></script>
-<script>
-fetch("products.json?t=" + Date.now())
-  .then(r => r.json())
-  .then(data => {
-    const el = document.getElementById("live-text");
-    if (el) el.textContent = timeAgo(data.updated_at);
-  })
-  .catch(() => {});
-</script>
+<script src="app.js"></script>
 </body>
 </html>
