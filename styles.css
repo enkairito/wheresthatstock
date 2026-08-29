@@ -96,7 +96,6 @@ header.header-hidden { transform: translateY(-100%); }
   margin: 0;
 }
 .brand-name .accent { color: var(--accent); -webkit-text-stroke: 0.6px var(--navy); }
-.brand-name-logo { height: 24px; width: auto; display: block; }
 .brand-tag { color: var(--muted); font-weight: 700; font-size: 0.72rem; }
 
 .topnav {
