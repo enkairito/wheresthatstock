@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T07:55:31.648391+00:00",
+  "updated_at": "2026-08-30T13:35:39.393744+00:00",
   "products": [
     {
       "asin": "B0F1SJY5S3",
@@ -26,7 +26,7 @@
       "flag": "🇪🇸",
       "name": "One Piece Card Game ST-35 Red and Black Sabo | Starter Deck, ST-35, Red and Black, Sabo, Trading Card Game",
       "image": "https://m.media-amazon.com/images/I/61FYUZUbUoL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "€22.71",
+      "price": "€22.75",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -44,7 +44,7 @@
       "flag": "🇪🇸",
       "name": "ST-31 Red Monkey.D.Luffy One Piece Card Game",
       "image": "https://m.media-amazon.com/images/I/61vgXOSYfBL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "€41.37",
+      "price": "€41.02",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -62,7 +62,7 @@
       "flag": "🇪🇸",
       "name": "ST-34 Purple Charlotte Katakuri One Piece Card Game | Starter Deck, ST-34, Charlotte Katakuri, Purple, Trading Card Game",
       "image": "https://m.media-amazon.com/images/I/61sCSCulXuL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "€33.17",
+      "price": "€33.53",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -92,24 +92,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0GW9TXS1Q",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "One Piece TCG: Double Pack Set Vol. 10 (DP-10) - Adventure of Kami's Island (2 Pack)",
-      "image": "https://m.media-amazon.com/images/I/6149SXXRkfL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "€65.40",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0GW9TXS1Q?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:09:04.551067+00:00",
-      "categories": [
-        "Double Pack"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0CRY385YN",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -128,13 +110,31 @@
       "game": "One Piece"
     },
     {
+      "asin": "B0GDGRWH54",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "One Piece TCG: Double Pack Set Vol. 9 (DP-09) - The Azure Sea's Seven (2 Pack)",
+      "image": "https://m.media-amazon.com/images/I/61kzgGq-ywL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "€60.75",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GDGRWH54?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:09:35.306058+00:00",
+      "categories": [
+        "Double Pack"
+      ],
+      "game": "One Piece"
+    },
+    {
       "asin": "B0HC7LPXB4",
       "marketplace": "ES",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "One Piece Card Game ST-32 Green Roronoa Zoro | Starter Deck, ST-32, Trading Card Game, Roronoa Zoro, Green Deck",
       "image": "https://m.media-amazon.com/images/I/61qHtzqXQpL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "€36.37",
+      "price": "€36.39",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -146,20 +146,20 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0HC79T34C",
+      "asin": "B0GW9TXS1Q",
       "marketplace": "ES",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "ST-33 Blue Kuzan One Piece Card Game | Starter Deck, ST-33, Blue Kuzan, Trading Card Game",
-      "image": "https://m.media-amazon.com/images/I/61Y5hOdwBEL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "€33.17",
+      "name": "One Piece TCG: Double Pack Set Vol. 10 (DP-10) - Adventure of Kami's Island (2 Pack)",
+      "image": "https://m.media-amazon.com/images/I/6149SXXRkfL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "€65.40",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0HC79T34C?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:09:23.560405+00:00",
+      "link": "https://www.amazon.es/dp/B0GW9TXS1Q?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:09:04.551067+00:00",
       "categories": [
-        "Starter Deck"
+        "Double Pack"
       ],
       "game": "One Piece"
     },
@@ -182,20 +182,20 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0GDGRWH54",
+      "asin": "B0HC79T34C",
       "marketplace": "ES",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "One Piece TCG: Double Pack Set Vol. 9 (DP-09) - The Azure Sea's Seven (2 Pack)",
-      "image": "https://m.media-amazon.com/images/I/61kzgGq-ywL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "€60.75",
+      "name": "ST-33 Blue Kuzan One Piece Card Game | Starter Deck, ST-33, Blue Kuzan, Trading Card Game",
+      "image": "https://m.media-amazon.com/images/I/61Y5hOdwBEL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "€33.08",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0GDGRWH54?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:09:35.306058+00:00",
+      "link": "https://www.amazon.es/dp/B0HC79T34C?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:09:23.560405+00:00",
       "categories": [
-        "Double Pack"
+        "Starter Deck"
       ],
       "game": "One Piece"
     },
@@ -272,20 +272,20 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0GW8RGGGV",
+      "asin": "B0G6FWHGQT",
       "marketplace": "ES",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "TCG Adventure on Kami's Island One Piece Card Game 12 Card Booster Pack - English Edition - OP15-EB04",
-      "image": "https://m.media-amazon.com/images/I/610xO3i4PyL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "€16.85",
+      "name": "One Piece TCG: The Azure Sea's Seven Booster Box (OP-14) - 24 Packs",
+      "image": "https://m.media-amazon.com/images/I/71vmZEBSkBL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "€291.62",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0GW8RGGGV?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:10:14.597320+00:00",
+      "link": "https://www.amazon.es/dp/B0G6FWHGQT?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:10:41.534422+00:00",
       "categories": [
-        "Sobre"
+        "Booster Box"
       ],
       "game": "One Piece"
     },
@@ -326,6 +326,42 @@
       "game": "One Piece"
     },
     {
+      "asin": "B0GW8RGGGV",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "TCG Adventure on Kami's Island One Piece Card Game 12 Card Booster Pack - English Edition - OP15-EB04",
+      "image": "https://m.media-amazon.com/images/I/610xO3i4PyL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "€16.85",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GW8RGGGV?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:10:14.597320+00:00",
+      "categories": [
+        "Sobre"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0F8V1YTSP",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "BANDAI Older One Piece Card Game (OP-13) (Box) of 24 Count",
+      "image": "https://m.media-amazon.com/images/I/81uxMM80r7L._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "€310.07",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F8V1YTSP?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:10:47.849793+00:00",
+      "categories": [
+        "Otros"
+      ],
+      "game": "One Piece"
+    },
+    {
       "asin": "B0G2VKBZML",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -344,36 +380,18 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0G6FWHGQT",
+      "asin": "B0G2SYLVM9",
       "marketplace": "ES",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "One Piece TCG: The Azure Sea's Seven Booster Box (OP-14) - 24 Packs",
-      "image": "https://m.media-amazon.com/images/I/71vmZEBSkBL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "€291.62",
+      "name": "BANDAI Devil Fruits Collection Vol.3 DF-03 - One Piece Card Game - EN",
+      "image": "https://m.media-amazon.com/images/I/61yVsSN9CxL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "€55.00",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0G6FWHGQT?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:10:41.534422+00:00",
-      "categories": [
-        "Booster Box"
-      ],
-      "game": "One Piece"
-    },
-    {
-      "asin": "B0F8V1YTSP",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "BANDAI Older One Piece Card Game (OP-13) (Box) of 24 Count",
-      "image": "https://m.media-amazon.com/images/I/81uxMM80r7L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "€311.61",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F8V1YTSP?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:10:47.849793+00:00",
+      "link": "https://www.amazon.es/dp/B0G2SYLVM9?tag=enkairito-21",
+      "first_seen": "2026-08-30T13:35:31.696707+00:00",
       "categories": [
         "Otros"
       ],

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T11:17:03.315412+00:00",
+  "updated_at": "2026-08-30T13:35:39.394230+00:00",
   "products": [
     {
       "asin": "B0CLRRG72H",
@@ -597,40 +597,6 @@
       ]
     },
     {
-      "asin": "B0G6FJB5X8",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "One Piece TCG Vol. 05 Portgas D. Ace Card Sleeves (Pack of 70)",
-      "image": "https://m.media-amazon.com/images/I/51W1VIt7YZL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "€11.40",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0G6FJB5X8?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:10:08.864528+00:00",
-      "categories": [
-        "One Piece"
-      ]
-    },
-    {
-      "asin": "B0C3RY35G6",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "BANDAI | One Piece Card Game: Transparent Case - Standard White | Accessories | Ages 6+ | 2 Players | 20-30 Minutes Playing Time",
-      "image": "https://m.media-amazon.com/images/I/51fOO-0jOGL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "€10.97",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0C3RY35G6?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:11:07.555585+00:00",
-      "categories": [
-        "One Piece"
-      ]
-    },
-    {
       "asin": "B0CLRRG72H",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -1223,6 +1189,40 @@
       "first_seen": "2026-08-25T21:25:42.704588+00:00",
       "categories": [
         "Sin asociar"
+      ]
+    },
+    {
+      "asin": "B0G6FJB5X8",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "One Piece TCG Vol. 05 Portgas D. Ace Card Sleeves (Pack of 70)",
+      "image": "https://m.media-amazon.com/images/I/51W1VIt7YZL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "€11.40",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0G6FJB5X8?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:10:08.864528+00:00",
+      "categories": [
+        "One Piece"
+      ]
+    },
+    {
+      "asin": "B0C3RY35G6",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "BANDAI | One Piece Card Game: Transparent Case - Standard White | Accessories | Ages 6+ | 2 Players | 20-30 Minutes Playing Time",
+      "image": "https://m.media-amazon.com/images/I/51fOO-0jOGL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "€10.97",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0C3RY35G6?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:11:07.555585+00:00",
+      "categories": [
+        "One Piece"
       ]
     }
   ]
