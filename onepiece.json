@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T01:05:55.069061+00:00",
+  "updated_at": "2026-08-30T07:55:31.648391+00:00",
   "products": [
     {
       "asin": "B0F1SJY5S3",
@@ -26,7 +26,7 @@
       "flag": "🇪🇸",
       "name": "One Piece Card Game ST-35 Red and Black Sabo | Starter Deck, ST-35, Red and Black, Sabo, Trading Card Game",
       "image": "https://m.media-amazon.com/images/I/61FYUZUbUoL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "€22.66",
+      "price": "€22.71",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -44,7 +44,7 @@
       "flag": "🇪🇸",
       "name": "ST-31 Red Monkey.D.Luffy One Piece Card Game",
       "image": "https://m.media-amazon.com/images/I/61vgXOSYfBL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "€42.12",
+      "price": "€41.37",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -62,7 +62,7 @@
       "flag": "🇪🇸",
       "name": "ST-34 Purple Charlotte Katakuri One Piece Card Game | Starter Deck, ST-34, Charlotte Katakuri, Purple, Trading Card Game",
       "image": "https://m.media-amazon.com/images/I/61sCSCulXuL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "€33.40",
+      "price": "€33.17",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -134,7 +134,7 @@
       "flag": "🇪🇸",
       "name": "One Piece Card Game ST-32 Green Roronoa Zoro | Starter Deck, ST-32, Trading Card Game, Roronoa Zoro, Green Deck",
       "image": "https://m.media-amazon.com/images/I/61qHtzqXQpL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "€36.40",
+      "price": "€36.37",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -152,7 +152,7 @@
       "flag": "🇪🇸",
       "name": "ST-33 Blue Kuzan One Piece Card Game | Starter Deck, ST-33, Blue Kuzan, Trading Card Game",
       "image": "https://m.media-amazon.com/images/I/61Y5hOdwBEL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "€33.36",
+      "price": "€33.17",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -326,6 +326,24 @@
       "game": "One Piece"
     },
     {
+      "asin": "B0G2VKBZML",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Bandai One Piece Card Game Booster Pack, The Adventure of God's Island [OP-15] (Box) 24 Packs",
+      "image": "https://m.media-amazon.com/images/I/61EvBG8mJ-L._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "€162.64",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0G2VKBZML?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:11:01.747489+00:00",
+      "categories": [
+        "Sobre"
+      ],
+      "game": "One Piece"
+    },
+    {
       "asin": "B0G6FWHGQT",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -344,20 +362,20 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0G2VKBZML",
+      "asin": "B0F8V1YTSP",
       "marketplace": "ES",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Bandai One Piece Card Game Booster Pack, The Adventure of God's Island [OP-15] (Box) 24 Packs",
-      "image": "https://m.media-amazon.com/images/I/61EvBG8mJ-L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "€162.64",
+      "name": "BANDAI Older One Piece Card Game (OP-13) (Box) of 24 Count",
+      "image": "https://m.media-amazon.com/images/I/81uxMM80r7L._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "€311.61",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0G2VKBZML?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:11:01.747489+00:00",
+      "link": "https://www.amazon.es/dp/B0F8V1YTSP?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:10:47.849793+00:00",
       "categories": [
-        "Sobre"
+        "Otros"
       ],
       "game": "One Piece"
     }
