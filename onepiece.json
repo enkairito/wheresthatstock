@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T20:46:31.854699+00:00",
+  "updated_at": "2026-08-30T23:03:51.810152+00:00",
   "products": [
     {
       "asin": "B0F1SJY5S3",
@@ -8,7 +8,7 @@
       "flag": "🇪🇸",
       "name": "The Best Vol. 2 Premium Booster Box PRB-02 (10) - One Piece Card Game - JP",
       "image": "https://m.media-amazon.com/images/I/61q8z2yzGFL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "€109.87",
+      "price": "€115.77",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -16,60 +16,6 @@
       "first_seen": "2026-08-29T18:08:32.013738+00:00",
       "categories": [
         "Booster Box"
-      ],
-      "game": "One Piece"
-    },
-    {
-      "asin": "B0HC7Q9P41",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "One Piece Card Game ST-35 Red and Black Sabo | Starter Deck, ST-35, Red and Black, Sabo, Trading Card Game",
-      "image": "https://m.media-amazon.com/images/I/61FYUZUbUoL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "€22.22",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0HC7Q9P41?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:08:37.714905+00:00",
-      "categories": [
-        "Starter Deck"
-      ],
-      "game": "One Piece"
-    },
-    {
-      "asin": "B0HC746FKY",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "ST-34 Purple Charlotte Katakuri One Piece Card Game | Starter Deck, ST-34, Charlotte Katakuri, Purple, Trading Card Game",
-      "image": "https://m.media-amazon.com/images/I/61sCSCulXuL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "€32.84",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0HC746FKY?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:08:49.282666+00:00",
-      "categories": [
-        "Starter Deck"
-      ],
-      "game": "One Piece"
-    },
-    {
-      "asin": "B0HC7FPQJM",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "ST-31 Red Monkey.D.Luffy One Piece Card Game",
-      "image": "https://m.media-amazon.com/images/I/61vgXOSYfBL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "€40.17",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0HC7FPQJM?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:08:43.440854+00:00",
-      "categories": [
-        "Starter Deck"
       ],
       "game": "One Piece"
     },
@@ -88,6 +34,60 @@
       "first_seen": "2026-08-29T18:09:35.306058+00:00",
       "categories": [
         "Double Pack"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0HC7Q9P41",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "One Piece Card Game ST-35 Red and Black Sabo | Starter Deck, ST-35, Red and Black, Sabo, Trading Card Game",
+      "image": "https://m.media-amazon.com/images/I/61FYUZUbUoL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "€22.70",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0HC7Q9P41?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:08:37.714905+00:00",
+      "categories": [
+        "Starter Deck"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0HC7FPQJM",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "ST-31 Red Monkey.D.Luffy One Piece Card Game",
+      "image": "https://m.media-amazon.com/images/I/61vgXOSYfBL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "€39.61",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0HC7FPQJM?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:08:43.440854+00:00",
+      "categories": [
+        "Starter Deck"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0HC746FKY",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "ST-34 Purple Charlotte Katakuri One Piece Card Game | Starter Deck, ST-34, Charlotte Katakuri, Purple, Trading Card Game",
+      "image": "https://m.media-amazon.com/images/I/61sCSCulXuL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "€33.67",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0HC746FKY?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:08:49.282666+00:00",
+      "categories": [
+        "Starter Deck"
       ],
       "game": "One Piece"
     },
@@ -116,7 +116,7 @@
       "flag": "🇪🇸",
       "name": "One Piece Card Game ST-32 Green Roronoa Zoro | Starter Deck, ST-32, Trading Card Game, Roronoa Zoro, Green Deck",
       "image": "https://m.media-amazon.com/images/I/61qHtzqXQpL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "€33.00",
+      "price": "€36.72",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -124,42 +124,6 @@
       "first_seen": "2026-08-29T18:09:16.260611+00:00",
       "categories": [
         "Starter Deck"
-      ],
-      "game": "One Piece"
-    },
-    {
-      "asin": "B0FL83L295",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "One Piece TCG Starter Deck: Ace & Newgate (ST-22) - 51 Cards",
-      "image": "https://m.media-amazon.com/images/I/71-ebfbhV6L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "€43.04",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FL83L295?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:09:29.426544+00:00",
-      "categories": [
-        "Starter Deck"
-      ],
-      "game": "One Piece"
-    },
-    {
-      "asin": "B0CRY385YN",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "One Piece TCG: Two Legends - Booster Box (OP-08) (JP) (TCG)",
-      "image": "https://m.media-amazon.com/images/I/81+5FGyfxEL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "€114.99",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0CRY385YN?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:09:10.514835+00:00",
-      "categories": [
-        "Booster Box"
       ],
       "game": "One Piece"
     },
@@ -182,20 +146,56 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0HC79T34C",
+      "asin": "B0CRY385YN",
       "marketplace": "ES",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "ST-33 Blue Kuzan One Piece Card Game | Starter Deck, ST-33, Blue Kuzan, Trading Card Game",
-      "image": "https://m.media-amazon.com/images/I/61Y5hOdwBEL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "€30.00",
+      "name": "One Piece TCG: Two Legends - Booster Box (OP-08) (JP) (TCG)",
+      "image": "https://m.media-amazon.com/images/I/81+5FGyfxEL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "€114.99",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0HC79T34C?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:09:23.560405+00:00",
+      "link": "https://www.amazon.es/dp/B0CRY385YN?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:09:10.514835+00:00",
+      "categories": [
+        "Booster Box"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0FL83L295",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "One Piece TCG Starter Deck: Ace & Newgate (ST-22) - 51 Cards",
+      "image": "https://m.media-amazon.com/images/I/71-ebfbhV6L._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "€43.04",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FL83L295?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:09:29.426544+00:00",
       "categories": [
         "Starter Deck"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0FNLZG13B",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "One Piece TCG: Carry on His Will Booster Box",
+      "image": "https://m.media-amazon.com/images/I/51IdqCrZ8QL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "€575.00",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FNLZG13B?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:09:41.538659+00:00",
+      "categories": [
+        "Booster Box"
       ],
       "game": "One Piece"
     },
@@ -218,20 +218,20 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0FNLZG13B",
+      "asin": "B0HC79T34C",
       "marketplace": "ES",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "One Piece TCG: Carry on His Will Booster Box",
-      "image": "https://m.media-amazon.com/images/I/51IdqCrZ8QL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "€575.00",
+      "name": "ST-33 Blue Kuzan One Piece Card Game | Starter Deck, ST-33, Blue Kuzan, Trading Card Game",
+      "image": "https://m.media-amazon.com/images/I/61Y5hOdwBEL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "€32.94",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0FNLZG13B?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:09:41.538659+00:00",
+      "link": "https://www.amazon.es/dp/B0HC79T34C?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:09:23.560405+00:00",
       "categories": [
-        "Booster Box"
+        "Starter Deck"
       ],
       "game": "One Piece"
     },
@@ -290,24 +290,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0G2YV88DN",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "BANDAI One Piece TCG: Carry on His Will Booster Pack (OP-13) - 12 Cards",
-      "image": "https://m.media-amazon.com/images/I/51jRJAPOQqL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "€37.36",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0G2YV88DN?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:10:26.223493+00:00",
-      "categories": [
-        "Sobre"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0CKX97S18",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -326,18 +308,18 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0GW8RGGGV",
+      "asin": "B0G2VKBZML",
       "marketplace": "ES",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "TCG Adventure on Kami's Island One Piece Card Game 12 Card Booster Pack - English Edition - OP15-EB04",
-      "image": "https://m.media-amazon.com/images/I/610xO3i4PyL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "€16.85",
+      "name": "Bandai One Piece Card Game Booster Pack, The Adventure of God's Island [OP-15] (Box) 24 Packs",
+      "image": "https://m.media-amazon.com/images/I/61EvBG8mJ-L._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "€162.64",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0GW8RGGGV?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:10:14.597320+00:00",
+      "link": "https://www.amazon.es/dp/B0G2VKBZML?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:11:01.747489+00:00",
       "categories": [
         "Sobre"
       ],
@@ -362,18 +344,36 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0G2VKBZML",
+      "asin": "B0G2YV88DN",
       "marketplace": "ES",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Bandai One Piece Card Game Booster Pack, The Adventure of God's Island [OP-15] (Box) 24 Packs",
-      "image": "https://m.media-amazon.com/images/I/61EvBG8mJ-L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "€162.64",
+      "name": "BANDAI One Piece TCG: Carry on His Will Booster Pack (OP-13) - 12 Cards",
+      "image": "https://m.media-amazon.com/images/I/51jRJAPOQqL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "€37.36",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0G2VKBZML?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:11:01.747489+00:00",
+      "link": "https://www.amazon.es/dp/B0G2YV88DN?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:10:26.223493+00:00",
+      "categories": [
+        "Sobre"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0GW8RGGGV",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "TCG Adventure on Kami's Island One Piece Card Game 12 Card Booster Pack - English Edition - OP15-EB04",
+      "image": "https://m.media-amazon.com/images/I/610xO3i4PyL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "€16.85",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GW8RGGGV?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:10:14.597320+00:00",
       "categories": [
         "Sobre"
       ],
