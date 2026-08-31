@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T23:39:08.354722+00:00",
+  "updated_at": "2026-08-31T03:45:38.869001+00:00",
   "products": [
     {
       "asin": "B0F1SJY5S3",
@@ -44,7 +44,7 @@
       "flag": "🇪🇸",
       "name": "Juego de cartas de una pieza ST-34 Purple Charlotte Katakuri | Baraja de inicio, ST-34, Charlotte Katakuri, morado, juego de cartas coleccionables",
       "image": "https://m.media-amazon.com/images/I/61sCSCulXuL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "33,22 €",
+      "price": "33,16 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -62,7 +62,7 @@
       "flag": "🇪🇸",
       "name": "Juego de cartas de una pieza ST-35 rojo y negro Sabo | Baraja de inicio, ST-35, rojo y negro, Sabo, juego de cartas coleccionables",
       "image": "https://m.media-amazon.com/images/I/61FYUZUbUoL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "22,45 €",
+      "price": "22,48 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -80,7 +80,7 @@
       "flag": "🇪🇸",
       "name": "Juego de cartas de una pieza ST-31 Red Monkey.D.Luffy",
       "image": "https://m.media-amazon.com/images/I/61vgXOSYfBL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "39,45 €",
+      "price": "39,33 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": "1",
@@ -134,7 +134,7 @@
       "flag": "🇪🇸",
       "name": "Juego de cartas de una pieza ST-32 verde Roronoa Zoro | Baraja de inicio, ST-32, juego de cartas coleccionables, Roronoa Zoro, mazo verde",
       "image": "https://m.media-amazon.com/images/I/61qHtzqXQpL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "36,06 €",
+      "price": "36,46 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": "4",
@@ -191,29 +191,11 @@
       "price": "89,16 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "2",
+      "stock": "1",
       "link": "https://www.amazon.es/dp/B0F85QRZP6?tag=enkairito-21",
       "first_seen": "2026-08-29T18:10:00.427373+00:00",
       "categories": [
         "Double Pack"
-      ],
-      "game": "One Piece"
-    },
-    {
-      "asin": "B0FL83L295",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "One Piece TCG Starter Deck: Ace & Newgate (ST-22) - 51 Tarjetas",
-      "image": "https://m.media-amazon.com/images/I/71-ebfbhV6L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "43,04 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FL83L295?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:09:29.426544+00:00",
-      "categories": [
-        "Starter Deck"
       ],
       "game": "One Piece"
     },
@@ -236,18 +218,36 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0F8V1YTSP",
+      "asin": "B0FL83L295",
       "marketplace": "ES",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "BANDAI Juego de cartas de una pieza más antiguo (OP-13) (caja) de 24 unidades",
-      "image": "https://m.media-amazon.com/images/I/81uxMM80r7L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "309,73 €",
+      "name": "One Piece TCG Starter Deck: Ace & Newgate (ST-22) - 51 Tarjetas",
+      "image": "https://m.media-amazon.com/images/I/71-ebfbhV6L._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "48,01 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0F8V1YTSP?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:10:47.849793+00:00",
+      "link": "https://www.amazon.es/dp/B0FL83L295?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:09:29.426544+00:00",
+      "categories": [
+        "Starter Deck"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0G2VKBZML",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Bandai Paquete de refuerzo de juego de cartas One Piece, La aventura de la isla de Dios [OP-15] (Caja) 24 paquetes",
+      "image": "https://m.media-amazon.com/images/I/61EvBG8mJ-L._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "162,64 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "1",
+      "link": "https://www.amazon.es/dp/B0G2VKBZML?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:11:01.747489+00:00",
       "categories": [
         "Booster Box"
       ],
@@ -272,6 +272,24 @@
       "game": "One Piece"
     },
     {
+      "asin": "B0F8V1YTSP",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "BANDAI Juego de cartas de una pieza más antiguo (OP-13) (caja) de 24 unidades",
+      "image": "https://m.media-amazon.com/images/I/81uxMM80r7L._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "309,64 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F8V1YTSP?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:10:47.849793+00:00",
+      "categories": [
+        "Booster Box"
+      ],
+      "game": "One Piece"
+    },
+    {
       "asin": "B0G6FWHGQT",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -290,31 +308,13 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0G2VKBZML",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Bandai Paquete de refuerzo de juego de cartas One Piece, La aventura de la isla de Dios [OP-15] (Caja) 24 paquetes",
-      "image": "https://m.media-amazon.com/images/I/61EvBG8mJ-L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "162,64 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "1",
-      "link": "https://www.amazon.es/dp/B0G2VKBZML?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:11:01.747489+00:00",
-      "categories": [
-        "Booster Box"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0HC79T34C",
       "marketplace": "ES",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Juego de cartas de una pieza ST-33 Blue Kuzan | Baraja de inicio, ST-33, Blue Kuzan, juego de cartas coleccionables",
       "image": "https://m.media-amazon.com/images/I/61Y5hOdwBEL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "33,45 €",
+      "price": "33,07 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -380,18 +380,18 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0G2SYLVM9",
+      "asin": "B0D6BCCM35",
       "marketplace": "ES",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "BANDAI Devil Fruits Collection Vol.3 DF-03 - Juego de Cartas de una Pieza - ES",
-      "image": "https://m.media-amazon.com/images/I/61yVsSN9CxL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "55,00 €",
+      "name": "Two Legends Booster OP-08 - Juego de cartas de una pieza",
+      "image": "https://m.media-amazon.com/images/I/61au07hWdLL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "400,00 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "2",
-      "link": "https://www.amazon.es/dp/B0G2SYLVM9?tag=enkairito-21",
-      "first_seen": "2026-08-30T13:35:31.696707+00:00",
+      "stock": "1",
+      "link": "https://www.amazon.es/dp/B0D6BCCM35?tag=enkairito-21",
+      "first_seen": "2026-08-31T03:45:33.285458+00:00",
       "categories": [
         "Otros"
       ],
