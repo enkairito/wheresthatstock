@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T20:37:37.562289+00:00",
+  "updated_at": "2026-09-01T23:03:03.057748+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -227,7 +227,7 @@
       "price": "45,09 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": null,
+      "stock": "4",
       "link": "https://www.amazon.es/dp/B0DSGB5Q6B?tag=enkairito-21",
       "first_seen": "2026-08-25T20:27:15.542170+00:00",
       "categories": [
@@ -578,24 +578,6 @@
       "game": "Pokémon"
     },
     {
-      "asin": "B0DQWLDH65",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Pokémon Maletín de Coleccionistas de JCC Pokémon (3 Cartas holográficas, 6 Paquetes de Mejora y Mucho más)",
-      "image": "https://m.media-amazon.com/images/I/81Twcad4-mL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "57,00 €",
-      "original_price": "59,99 €",
-      "status": "compra_directa",
-      "stock": "1",
-      "link": "https://www.amazon.es/dp/B0DQWLDH65?tag=enkairito-21",
-      "first_seen": "2026-08-27T14:00:00.193382+00:00",
-      "categories": [
-        "Latas"
-      ],
-      "game": "Pokémon"
-    },
-    {
       "asin": "B0GGJ2YJQ5",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -885,24 +867,6 @@
       "game": "Pokémon"
     },
     {
-      "asin": "B0G3CV6Z9D",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Mega Evolución: Paquete de refuerzo de héroes ascendidos",
-      "image": "https://m.media-amazon.com/images/I/81sZheTQIhL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "81,05 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/s?k=Pok%C3%A9mon+TCG%3A+Mega+Evoluci%C3%B3n%3A+Paquete+de+refuerzo+de+h%C3%A9roes+ascendidos&rh=p_123%3A325733%2Cp_6%3AA8ZZTUQ8GZK8C%2Cp_72%3A831280031&s=relevanceblender&tag=enkairito-21",
-      "first_seen": "2026-08-31T17:55:22.065502+00:00",
-      "categories": [
-        "Otros"
-      ],
-      "game": "Pokémon"
-    },
-    {
       "asin": "B0GR6Q72ND",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -939,6 +903,24 @@
       "game": "Pokémon"
     },
     {
+      "asin": "B0G3CV6Z9D",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Mega Evolución: Paquete de refuerzo de héroes ascendidos",
+      "image": "https://m.media-amazon.com/images/I/81sZheTQIhL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "81,05 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/s?k=Pok%C3%A9mon+TCG%3A+Mega+Evoluci%C3%B3n%3A+Paquete+de+refuerzo+de+h%C3%A9roes+ascendidos&rh=p_123%3A325733%2Cp_6%3AA8ZZTUQ8GZK8C%2Cp_72%3A831280031&s=relevanceblender&tag=enkairito-21",
+      "first_seen": "2026-08-31T17:55:22.065502+00:00",
+      "categories": [
+        "Otros"
+      ],
+      "game": "Pokémon"
+    },
+    {
       "asin": "B0GW2DK37Q",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -963,7 +945,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Colección Súper Premium de Evoluciones Prismáticas Escarlata y Violeta",
       "image": "https://m.media-amazon.com/images/I/811hyPaG+OL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "239,83 €",
+      "price": "241,43 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -1053,7 +1035,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolution—Perfect Order Booster Bundle",
       "image": "https://m.media-amazon.com/images/I/81oqIqpLjrL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "40,38 €",
+      "price": "43,13 €",
       "original_price": "51,75 €",
       "status": "compra_directa",
       "stock": null,
@@ -1137,24 +1119,6 @@
       "game": "Pokémon"
     },
     {
-      "asin": "B0FLCWJ1VK",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Juego de cartas Pokemon MEGA High Class Pack Mega Dream ex Box",
-      "image": "https://m.media-amazon.com/images/I/81DEmHWTf2L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "120,77 €",
-      "original_price": "128,55 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/s?k=Juego+de+cartas+Pokemon+MEGA+High+Class+Pack+Mega+Dream+ex+Box&rh=p_123%3A325733%2Cp_6%3AA8ZZTUQ8GZK8C%2Cp_72%3A831280031&s=relevanceblender&tag=enkairito-21",
-      "first_seen": "2026-08-30T20:46:19.644930+00:00",
-      "categories": [
-        "Otros"
-      ],
-      "game": "Pokémon"
-    },
-    {
       "asin": "B0D81JCZHY",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -1227,18 +1191,18 @@
       "game": "Pokémon"
     },
     {
-      "asin": "B0DDYZX1TB",
+      "asin": "B0GR6M4JV3",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
-      "name": "Pokémon TCG: Escarlata y Violeta - Paquete de refuerzo de Surging Sparks",
-      "image": "https://m.media-amazon.com/images/I/817ZQoBRA3L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "73,26 €",
-      "original_price": null,
+      "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Tarjeta promocional Foil y 3 paquetes de refuerzo)",
+      "image": "https://m.media-amazon.com/images/I/919C05yGWOL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "22,42 €",
+      "original_price": "25,87 €",
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/s?k=Pok%C3%A9mon+TCG%3A+Escarlata+y+Violeta+-+Paquete+de+refuerzo+de+Surging+Sparks&rh=p_123%3A325733%2Cp_6%3AA8ZZTUQ8GZK8C%2Cp_72%3A831280031&s=relevanceblender&tag=enkairito-21",
-      "first_seen": "2026-08-30T20:46:19.644934+00:00",
+      "link": "https://www.amazon.es/s?k=Pok%C3%A9mon+TCG%3A+Mega+Evolution%E2%80%94Chaos+Rising+Triple+Pack+%281+Tarjeta+promocional+Foil+y+3+paquetes+de+refuerzo%29&rh=p_123%3A325733%2Cp_6%3AA8ZZTUQ8GZK8C%2Cp_72%3A831280031&s=relevanceblender&tag=enkairito-21",
+      "first_seen": "2026-09-01T23:03:03.055730+00:00",
       "categories": [
         "Otros"
       ],
@@ -1287,7 +1251,7 @@
       "flag": "🇺🇸",
       "name": "Pokemon TCG: Mega Evolution Chaos Rising Pokemon Center Elite Trainer Box | CR PKC ETB | Promo exclusivo de Fennekin | 11 paquetes de refuerzo",
       "image": "https://m.media-amazon.com/images/I/71Dtzhp8caL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "142,90 €",
+      "price": "142,78 €",
       "original_price": "194,01 €",
       "status": "compra_directa",
       "stock": null,
@@ -1449,7 +1413,7 @@
       "flag": "🇺🇸",
       "name": "Juego de cartas coleccionables de Pokémon: SAS8- Caja para entrenador élite Golpe Fusión",
       "image": "https://m.media-amazon.com/images/I/61HM1MrazbL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "310,58 €",
+      "price": "310,48 €",
       "original_price": "336,02 €",
       "status": "compra_directa",
       "stock": null,

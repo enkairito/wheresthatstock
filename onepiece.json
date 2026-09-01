@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T20:37:56.002898+00:00",
+  "updated_at": "2026-09-01T23:03:15.991043+00:00",
   "products": [
     {
       "asin": "B0GDGRWH54",
@@ -218,6 +218,24 @@
       "game": "One Piece"
     },
     {
+      "asin": "B0F8V1YTSP",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "BANDAI Juego de cartas de una pieza más antiguo (OP-13) (caja) de 24 unidades",
+      "image": "https://m.media-amazon.com/images/I/81uxMM80r7L._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "276,73 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "3",
+      "link": "https://www.amazon.es/dp/B0F8V1YTSP?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:10:47.849793+00:00",
+      "categories": [
+        "Booster Box"
+      ],
+      "game": "One Piece"
+    },
+    {
       "asin": "B0G2VKBZML",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -230,24 +248,6 @@
       "stock": "1",
       "link": "https://www.amazon.es/dp/B0G2VKBZML?tag=enkairito-21",
       "first_seen": "2026-08-29T18:11:01.747489+00:00",
-      "categories": [
-        "Booster Box"
-      ],
-      "game": "One Piece"
-    },
-    {
-      "asin": "B0F8V1YTSP",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "BANDAI Juego de cartas de una pieza más antiguo (OP-13) (caja) de 24 unidades",
-      "image": "https://m.media-amazon.com/images/I/81uxMM80r7L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "276,18 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "3",
-      "link": "https://www.amazon.es/dp/B0F8V1YTSP?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:10:47.849793+00:00",
       "categories": [
         "Booster Box"
       ],
@@ -386,7 +386,7 @@
       "flag": "🇪🇸",
       "name": "One Piece TCG: Adventure on Kami's Island - Paquete de refuerzo con mangas (OP-15 - EB-04) - 12 cartas",
       "image": "https://m.media-amazon.com/images/I/61qOtZrZ7vL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "27,64 €",
+      "price": "27,65 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
