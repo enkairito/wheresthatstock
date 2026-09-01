@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T01:41:08.142298+00:00",
+  "updated_at": "2026-09-01T07:19:09.415886+00:00",
   "products": [
     {
       "asin": "B0F1SJY5S3",
@@ -62,10 +62,10 @@
       "flag": "🇪🇸",
       "name": "Juego de cartas de una pieza ST-35 rojo y negro Sabo | Baraja de inicio, ST-35, rojo y negro, Sabo, juego de cartas coleccionables",
       "image": "https://m.media-amazon.com/images/I/61FYUZUbUoL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "22,08 €",
+      "price": "22,27 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "4",
+      "stock": "5",
       "link": "https://www.amazon.es/dp/B0HC7Q9P41?tag=enkairito-21",
       "first_seen": "2026-08-29T18:08:37.714905+00:00",
       "categories": [
@@ -155,7 +155,7 @@
       "price": "65,40 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "2",
+      "stock": "1",
       "link": "https://www.amazon.es/dp/B0GW9TXS1Q?tag=enkairito-21",
       "first_seen": "2026-08-29T18:09:04.551067+00:00",
       "categories": [
@@ -200,6 +200,24 @@
       "game": "One Piece"
     },
     {
+      "asin": "B0FL83L295",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "One Piece TCG Starter Deck: Ace & Newgate (ST-22) - 51 Tarjetas",
+      "image": "https://m.media-amazon.com/images/I/71-ebfbhV6L._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "48,17 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FL83L295?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:09:29.426544+00:00",
+      "categories": [
+        "Starter Deck"
+      ],
+      "game": "One Piece"
+    },
+    {
       "asin": "B0CRKK3D43",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -218,20 +236,20 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0FL83L295",
+      "asin": "B0F8V1YTSP",
       "marketplace": "ES",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "One Piece TCG Starter Deck: Ace & Newgate (ST-22) - 51 Tarjetas",
-      "image": "https://m.media-amazon.com/images/I/71-ebfbhV6L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "48,01 €",
+      "name": "BANDAI Juego de cartas de una pieza más antiguo (OP-13) (caja) de 24 unidades",
+      "image": "https://m.media-amazon.com/images/I/81uxMM80r7L._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "309,74 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0FL83L295?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:09:29.426544+00:00",
+      "link": "https://www.amazon.es/dp/B0F8V1YTSP?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:10:47.849793+00:00",
       "categories": [
-        "Starter Deck"
+        "Booster Box"
       ],
       "game": "One Piece"
     },
@@ -278,7 +296,7 @@
       "flag": "🇪🇸",
       "name": "Juego de cartas de una pieza ST-33 Blue Kuzan | Baraja de inicio, ST-33, Blue Kuzan, juego de cartas coleccionables",
       "image": "https://m.media-amazon.com/images/I/61Y5hOdwBEL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "32,75 €",
+      "price": "32,98 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -376,24 +394,6 @@
       "first_seen": "2026-08-31T22:30:46.273546+00:00",
       "categories": [
         "Otros"
-      ],
-      "game": "One Piece"
-    },
-    {
-      "asin": "B0GX2Y7SN8",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "One Piece TCG: Adventure on Kami's Island - Paquete de refuerzo con mangas (OP-15 - EB-04) - 12 cartas",
-      "image": "https://m.media-amazon.com/images/I/61qOtZrZ7vL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "27,65 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0GX2Y7SN8?tag=enkairito-21",
-      "first_seen": "2026-08-30T17:57:46.158159+00:00",
-      "categories": [
-        "Sobre"
       ],
       "game": "One Piece"
     }
