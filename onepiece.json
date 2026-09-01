@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T14:48:35.730766+00:00",
+  "updated_at": "2026-09-01T17:39:26.063160+00:00",
   "products": [
     {
       "asin": "B0GDGRWH54",
@@ -83,7 +83,7 @@
       "price": "35,20 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "2",
+      "stock": "1",
       "link": "https://www.amazon.es/dp/B0HC7FPQJM?tag=enkairito-21",
       "first_seen": "2026-08-29T18:08:43.440854+00:00",
       "categories": [
@@ -260,10 +260,10 @@
       "flag": "🇪🇸",
       "name": "BANDAI Juego de cartas de una pieza más antiguo (OP-13) (caja) de 24 unidades",
       "image": "https://m.media-amazon.com/images/I/81uxMM80r7L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "310,42 €",
+      "price": "298,39 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": null,
+      "stock": "4",
       "link": "https://www.amazon.es/dp/B0F8V1YTSP?tag=enkairito-21",
       "first_seen": "2026-08-29T18:10:47.849793+00:00",
       "categories": [
@@ -362,6 +362,24 @@
       "game": "One Piece"
     },
     {
+      "asin": "B0GX2Y7SN8",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "One Piece TCG: Adventure on Kami's Island - Paquete de refuerzo con mangas (OP-15 - EB-04) - 12 cartas",
+      "image": "https://m.media-amazon.com/images/I/61qOtZrZ7vL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "27,64 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GX2Y7SN8?tag=enkairito-21",
+      "first_seen": "2026-08-30T17:57:46.158159+00:00",
+      "categories": [
+        "Sobre"
+      ],
+      "game": "One Piece"
+    },
+    {
       "asin": "B0GDHHS7CR",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -376,24 +394,6 @@
       "first_seen": "2026-08-31T22:30:46.273546+00:00",
       "categories": [
         "Otros"
-      ],
-      "game": "One Piece"
-    },
-    {
-      "asin": "B0GX2Y7SN8",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "One Piece TCG: Adventure on Kami's Island - Paquete de refuerzo con mangas (OP-15 - EB-04) - 12 cartas",
-      "image": "https://m.media-amazon.com/images/I/61qOtZrZ7vL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "27,65 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0GX2Y7SN8?tag=enkairito-21",
-      "first_seen": "2026-08-30T17:57:46.158159+00:00",
-      "categories": [
-        "Sobre"
       ],
       "game": "One Piece"
     }
