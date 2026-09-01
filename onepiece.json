@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T22:30:56.132041+00:00",
+  "updated_at": "2026-09-01T01:41:08.142298+00:00",
   "products": [
     {
       "asin": "B0F1SJY5S3",
@@ -44,7 +44,7 @@
       "flag": "🇪🇸",
       "name": "Juego de cartas de una pieza ST-34 Purple Charlotte Katakuri | Baraja de inicio, ST-34, Charlotte Katakuri, morado, juego de cartas coleccionables",
       "image": "https://m.media-amazon.com/images/I/61sCSCulXuL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "32,73 €",
+      "price": "32,92 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -62,10 +62,10 @@
       "flag": "🇪🇸",
       "name": "Juego de cartas de una pieza ST-35 rojo y negro Sabo | Baraja de inicio, ST-35, rojo y negro, Sabo, juego de cartas coleccionables",
       "image": "https://m.media-amazon.com/images/I/61FYUZUbUoL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "22,03 €",
+      "price": "22,08 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "5",
+      "stock": "4",
       "link": "https://www.amazon.es/dp/B0HC7Q9P41?tag=enkairito-21",
       "first_seen": "2026-08-29T18:08:37.714905+00:00",
       "categories": [
@@ -88,6 +88,24 @@
       "first_seen": "2026-08-29T18:08:43.440854+00:00",
       "categories": [
         "Starter Deck"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0CRY385YN",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "One Piece TCG: Two Legends - Booster Box (OP-08) (JP) (TCG)",
+      "image": "https://m.media-amazon.com/images/I/81+5FGyfxEL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "114,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "1",
+      "link": "https://www.amazon.es/dp/B0CRY385YN?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:09:10.514835+00:00",
+      "categories": [
+        "Booster Box"
       ],
       "game": "One Piece"
     },
@@ -236,24 +254,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0F8V1YTSP",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "BANDAI Juego de cartas de una pieza más antiguo (OP-13) (caja) de 24 unidades",
-      "image": "https://m.media-amazon.com/images/I/81uxMM80r7L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "309,73 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F8V1YTSP?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:10:47.849793+00:00",
-      "categories": [
-        "Booster Box"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0CKX97S18",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -278,10 +278,10 @@
       "flag": "🇪🇸",
       "name": "Juego de cartas de una pieza ST-33 Blue Kuzan | Baraja de inicio, ST-33, Blue Kuzan, juego de cartas coleccionables",
       "image": "https://m.media-amazon.com/images/I/61Y5hOdwBEL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "30,00 €",
+      "price": "32,75 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "2",
+      "stock": null,
       "link": "https://www.amazon.es/dp/B0HC79T34C?tag=enkairito-21",
       "first_seen": "2026-08-29T18:09:23.560405+00:00",
       "categories": [
@@ -376,6 +376,24 @@
       "first_seen": "2026-08-31T22:30:46.273546+00:00",
       "categories": [
         "Otros"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0GX2Y7SN8",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "One Piece TCG: Adventure on Kami's Island - Paquete de refuerzo con mangas (OP-15 - EB-04) - 12 cartas",
+      "image": "https://m.media-amazon.com/images/I/61qOtZrZ7vL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "27,65 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GX2Y7SN8?tag=enkairito-21",
+      "first_seen": "2026-08-30T17:57:46.158159+00:00",
+      "categories": [
+        "Sobre"
       ],
       "game": "One Piece"
     }
