@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T03:00:18.444340+00:00",
+  "updated_at": "2026-09-02T07:41:06.694936+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -425,7 +425,7 @@
       "price": "47,63 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": null,
+      "stock": "5",
       "link": "https://www.amazon.es/dp/B0DT7D5K1X?tag=enkairito-21",
       "first_seen": "2026-08-25T20:27:54.285177+00:00",
       "categories": [
@@ -440,7 +440,7 @@
       "flag": "🇪🇸",
       "name": "Pokémon: Estadio Combina y Combate de Escarlata y Púrpura (2 Barajas, 11 Paquetes de Mejora y más)",
       "image": "https://m.media-amazon.com/images/I/81eF8wu4I1L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "64,98 €",
+      "price": "65,98 €",
       "original_price": "69,99 €",
       "status": "compra_directa",
       "stock": null,
@@ -572,6 +572,24 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B0G4NT35J8?tag=enkairito-21",
       "first_seen": "2026-08-27T13:59:24.683469+00:00",
+      "categories": [
+        "Latas"
+      ],
+      "game": "Pokémon"
+    },
+    {
+      "asin": "B0DQWLDH65",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Pokémon Maletín de Coleccionistas de JCC Pokémon (3 Cartas holográficas, 6 Paquetes de Mejora y Mucho más)",
+      "image": "https://m.media-amazon.com/images/I/81Twcad4-mL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "57,00 €",
+      "original_price": "59,99 €",
+      "status": "compra_directa",
+      "stock": "1",
+      "link": "https://www.amazon.es/dp/B0DQWLDH65?tag=enkairito-21",
+      "first_seen": "2026-08-27T14:00:00.193382+00:00",
       "categories": [
         "Latas"
       ],
@@ -747,8 +765,8 @@
       "flag": "🇬🇧",
       "name": "Pokémon TCG: Mega Lucario ex League Battle Deck (1 Ready-to-Play 60-Card Deck Including Mega Lucario ex)",
       "image": "https://m.media-amazon.com/images/I/918tqXfPc9L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "31,46 €",
-      "original_price": "35,00 €",
+      "price": "31,42 €",
+      "original_price": "34,97 €",
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/s?k=Pok%C3%A9mon+TCG%3A+Mega+Lucario+ex+League+Battle+Deck+%281+Ready-to-Play+60-Card+Deck+Including+Mega+Lucario+ex%29&rh=p_123%3A325733%2Cp_72%3A831280031%2Cp_6%3AA2EL6K6KDM9FO1%2Cp_n_condition-type%3A15144009031&s=relevanceblender&tag=enkairito-21",
@@ -765,8 +783,8 @@
       "flag": "🇬🇧",
       "name": "Pokémon TCG: 2024 World Championships Deck (Sakuya Ota)",
       "image": "https://m.media-amazon.com/images/I/91g8M+rNgpL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "19,74 €",
-      "original_price": "23,33 €",
+      "price": "19,72 €",
+      "original_price": "23,31 €",
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/s?k=Pok%C3%A9mon+TCG%3A+2024+World+Championships+Deck+%28Sakuya+Ota%29&rh=p_123%3A325733%2Cp_72%3A831280031%2Cp_6%3AA2EL6K6KDM9FO1%2Cp_n_condition-type%3A15144009031&s=relevanceblender&tag=enkairito-21",
@@ -783,7 +801,7 @@
       "flag": "🇬🇧",
       "name": "Pokémon TCG: 2024 World Championships Deck (Fernando Cifuentes)",
       "image": "https://m.media-amazon.com/images/I/912Oy57E65L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "23,33 €",
+      "price": "23,31 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -801,7 +819,7 @@
       "flag": "🇬🇧",
       "name": "Pokemon Trading Card Game Battle Academy Set",
       "image": "https://m.media-amazon.com/images/I/91htFZv7x-L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "29,17 €",
+      "price": "29,14 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -819,7 +837,7 @@
       "flag": "🇬🇧",
       "name": "Pokémon TCG: Pokémon Trading Card Game Classic",
       "image": "https://m.media-amazon.com/images/I/61kPr18c9nL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "466,86 €",
+      "price": "466,39 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": "8",
@@ -837,8 +855,8 @@
       "flag": "🇬🇧",
       "name": "Pokémon TCG: World Championships Deck – Shao Tong Yen (2023)",
       "image": "https://m.media-amazon.com/images/I/917RybbLXhL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "16,32 €",
-      "original_price": "17,50 €",
+      "price": "16,30 €",
+      "original_price": "17,48 €",
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/s?k=Pok%C3%A9mon+TCG%3A+World+Championships+Deck+%E2%80%93+Shao+Tong+Yen+%282023%29&rh=p_123%3A325733%2Cp_72%3A831280031%2Cp_6%3AA2EL6K6KDM9FO1%2Cp_n_condition-type%3A15144009031&s=relevanceblender&tag=enkairito-21",
@@ -855,7 +873,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolution—Caja de entrenador Elite Pitch Black",
       "image": "https://m.media-amazon.com/images/I/81nYHGhNIOL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "74,19 €",
+      "price": "70,70 €",
       "original_price": "103,52 €",
       "status": "compra_directa",
       "stock": null,
@@ -873,7 +891,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolución — Paquete de refuerzo del aumento del caos",
       "image": "https://m.media-amazon.com/images/I/81pdaHp6Q1L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "36,89 €",
+      "price": "37,79 €",
       "original_price": "51,75 €",
       "status": "compra_directa",
       "stock": null,
@@ -927,7 +945,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Colección de Ilustraciones para el Primer Partner — Serie 3",
       "image": "https://m.media-amazon.com/images/I/81LQc5zS0+L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "34,03 €",
+      "price": "32,05 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -945,7 +963,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Colección Súper Premium de Evoluciones Prismáticas Escarlata y Violeta",
       "image": "https://m.media-amazon.com/images/I/811hyPaG+OL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "241,29 €",
+      "price": "241,11 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -963,7 +981,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Colección de Ilustraciones de Primera Partner —Serie 2",
       "image": "https://m.media-amazon.com/images/I/81ve1KtO-pL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "34,50 €",
+      "price": "34,66 €",
       "original_price": "51,75 €",
       "status": "compra_directa",
       "stock": null,
@@ -1101,24 +1119,6 @@
       "game": "Pokémon"
     },
     {
-      "asin": "B0GV6WRPRV",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Lata Mega Moonlit",
-      "image": "https://m.media-amazon.com/images/I/81mm4CJGgFL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "31,65 €",
-      "original_price": "34,50 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/s?k=Pok%C3%A9mon+TCG%3A+Lata+Mega+Moonlit&rh=p_123%3A325733%2Cp_6%3AA8ZZTUQ8GZK8C%2Cp_72%3A831280031&s=relevanceblender&tag=enkairito-21",
-      "first_seen": "2026-08-30T20:46:19.644879+00:00",
-      "categories": [
-        "Latas"
-      ],
-      "game": "Pokémon"
-    },
-    {
       "asin": "B0FPM3LQJ4",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -1137,13 +1137,31 @@
       "game": "Pokémon"
     },
     {
+      "asin": "B0GV6WRPRV",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Lata Mega Moonlit",
+      "image": "https://m.media-amazon.com/images/I/81mm4CJGgFL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "31,65 €",
+      "original_price": "34,50 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/s?k=Pok%C3%A9mon+TCG%3A+Lata+Mega+Moonlit&rh=p_123%3A325733%2Cp_6%3AA8ZZTUQ8GZK8C%2Cp_72%3A831280031&s=relevanceblender&tag=enkairito-21",
+      "first_seen": "2026-08-30T20:46:19.644879+00:00",
+      "categories": [
+        "Latas"
+      ],
+      "game": "Pokémon"
+    },
+    {
       "asin": "B0GFZV1ZVV",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Caja de Entrenador Élite de Mega Evolución—Orden Perfecta",
       "image": "https://m.media-amazon.com/images/I/813BmMbm-YL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "80,88 €",
+      "price": "77,55 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -1151,24 +1169,6 @@
       "first_seen": "2026-08-30T20:46:19.644915+00:00",
       "categories": [
         "Cajas ETB"
-      ],
-      "game": "Pokémon"
-    },
-    {
-      "asin": "B0829FT44S",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Colección de más de 50 cartas oficiales de Pokémon con 5 holográficas en cualquier combinación y al menos 1 carta rara, GX, EX, FA, Tag Team o Secret Rare",
-      "image": "https://m.media-amazon.com/images/I/71p-47sRv9L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "6,98 €",
-      "original_price": "7,56 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/s?k=Colecci%C3%B3n+de+m%C3%A1s+de+50+cartas+oficiales+de+Pok%C3%A9mon+con+5+hologr%C3%A1ficas+en+cualquier+combinaci%C3%B3n+y+al+menos+1+carta+rara%2C+GX%2C+EX%2C+FA%2C+Tag+Team+o+Secret+Rare&rh=p_123%3A325733%2Cp_6%3AA8ZZTUQ8GZK8C%2Cp_72%3A831280031&s=relevanceblender&tag=enkairito-21",
-      "first_seen": "2026-08-30T23:03:39.880953+00:00",
-      "categories": [
-        "Otros"
       ],
       "game": "Pokémon"
     },
@@ -1191,6 +1191,24 @@
       "game": "Pokémon"
     },
     {
+      "asin": "B0829FT44S",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Colección de más de 50 cartas oficiales de Pokémon con 5 holográficas en cualquier combinación y al menos 1 carta rara, GX, EX, FA, Tag Team o Secret Rare",
+      "image": "https://m.media-amazon.com/images/I/71p-47sRv9L._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "6,98 €",
+      "original_price": "7,56 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/s?k=Colecci%C3%B3n+de+m%C3%A1s+de+50+cartas+oficiales+de+Pok%C3%A9mon+con+5+hologr%C3%A1ficas+en+cualquier+combinaci%C3%B3n+y+al+menos+1+carta+rara%2C+GX%2C+EX%2C+FA%2C+Tag+Team+o+Secret+Rare&rh=p_123%3A325733%2Cp_6%3AA8ZZTUQ8GZK8C%2Cp_72%3A831280031&s=relevanceblender&tag=enkairito-21",
+      "first_seen": "2026-08-30T23:03:39.880953+00:00",
+      "categories": [
+        "Otros"
+      ],
+      "game": "Pokémon"
+    },
+    {
       "asin": "B001DIJ48C",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -1203,24 +1221,6 @@
       "stock": null,
       "link": "https://www.amazon.es/s?k=Pok%C3%A9mon+TCG+3+paquetes+de+refuerzo%2C+30+cartas+en+total%2C+100%25+aut%C3%A9nticas%2C+raras+aleatorias+y+holofoils%2C+3+paquetes+de+ampollas&rh=p_123%3A325733%2Cp_6%3AA8ZZTUQ8GZK8C%2Cp_72%3A831280031&s=relevanceblender&tag=enkairito-21",
       "first_seen": "2026-08-30T20:46:19.644937+00:00",
-      "categories": [
-        "Otros"
-      ],
-      "game": "Pokémon"
-    },
-    {
-      "asin": "B0GR6M4JV3",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Mega Evolution—Chaos Rising Triple Pack (1 Tarjeta promocional Foil y 3 paquetes de refuerzo)",
-      "image": "https://m.media-amazon.com/images/I/919C05yGWOL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "22,42 €",
-      "original_price": "25,87 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/s?k=Pok%C3%A9mon+TCG%3A+Mega+Evolution%E2%80%94Chaos+Rising+Triple+Pack+%281+Tarjeta+promocional+Foil+y+3+paquetes+de+refuerzo%29&rh=p_123%3A325733%2Cp_6%3AA8ZZTUQ8GZK8C%2Cp_72%3A831280031&s=relevanceblender&tag=enkairito-21",
-      "first_seen": "2026-09-01T23:03:03.055730+00:00",
       "categories": [
         "Otros"
       ],
@@ -1251,7 +1251,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Scarlet & Violet—Máscara de la Oscuridad Élite Caja de Entrenador",
       "image": "https://m.media-amazon.com/images/I/81CUG-HGEYL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "111,57 €",
+      "price": "111,31 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -1269,7 +1269,7 @@
       "flag": "🇺🇸",
       "name": "Pokemon TCG: Mega Evolution Chaos Rising Pokemon Center Elite Trainer Box | CR PKC ETB | Promo exclusivo de Fennekin | 11 paquetes de refuerzo",
       "image": "https://m.media-amazon.com/images/I/71Dtzhp8caL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "142,57 €",
+      "price": "143,19 €",
       "original_price": "194,01 €",
       "status": "compra_directa",
       "stock": null,
@@ -1323,7 +1323,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Caja de entrenador élite de escarlata y violeta Paradox Rift",
       "image": "https://m.media-amazon.com/images/I/81nXG9v8mPL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "164,06 €",
+      "price": "163,87 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -1377,7 +1377,7 @@
       "flag": "🇺🇸",
       "name": "Una tarjeta de Pokémon encapsulada y autenticada con calificación PSA al azar (perfecta para exhibición)",
       "image": "https://m.media-amazon.com/images/I/81SUwheDmXL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "23,36 €",
+      "price": "23,27 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -1467,7 +1467,7 @@
       "flag": "🇺🇸",
       "name": "Pokemon GO Paquete: Baraja de Batalla Mewtwo V VS Melmetal V + 2 Paquetes de Expansión y Entrenadores!",
       "image": "https://m.media-amazon.com/images/I/51BdSG3zsbL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "47,41 €",
+      "price": "47,37 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -1641,24 +1641,6 @@
       "game": "Pokémon"
     },
     {
-      "asin": "A200805922",
-      "marketplace": "ECI",
-      "store_label": "El Corte Inglés",
-      "flag": "🇪🇸",
-      "name": "Caja Colección Premium Mega-Zygarde EX JCC Pokémon Bandai",
-      "image": "https://dam.elcorteingles.es/producto/www-001044850503465-00.jpg",
-      "price": "59,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.elcorteingles.es/juguetes/A200805922-caja-coleccion-premium-mega-zygarde-ex-jcc-pokemon-bandai/?stype=text_box_multi",
-      "first_seen": "2026-08-25T20:27:54.285327+00:00",
-      "categories": [
-        "Colecciones premium"
-      ],
-      "game": "Pokémon"
-    },
-    {
       "asin": "A200804711",
       "marketplace": "ECI",
       "store_label": "El Corte Inglés",
@@ -1673,6 +1655,24 @@
       "first_seen": "2026-08-25T20:27:54.285331+00:00",
       "categories": [
         "Latas"
+      ],
+      "game": "Pokémon"
+    },
+    {
+      "asin": "A200805922",
+      "marketplace": "ECI",
+      "store_label": "El Corte Inglés",
+      "flag": "🇪🇸",
+      "name": "Caja Colección Premium Mega-Zygarde EX JCC Pokémon Bandai",
+      "image": "https://dam.elcorteingles.es/producto/www-001044850503465-00.jpg",
+      "price": "59,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.elcorteingles.es/juguetes/A200805922-caja-coleccion-premium-mega-zygarde-ex-jcc-pokemon-bandai/?stype=text_box_multi",
+      "first_seen": "2026-08-25T20:27:54.285327+00:00",
+      "categories": [
+        "Colecciones premium"
       ],
       "game": "Pokémon"
     },
