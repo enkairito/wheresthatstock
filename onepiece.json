@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T07:41:19.325994+00:00",
+  "updated_at": "2026-09-02T12:36:04.785702+00:00",
   "products": [
     {
       "asin": "B0HC746FKY",
@@ -14,24 +14,6 @@
       "stock": "1",
       "link": "https://www.amazon.es/dp/B0HC746FKY?tag=enkairito-21",
       "first_seen": "2026-08-29T18:08:49.282666+00:00",
-      "categories": [
-        "Starter Deck"
-      ],
-      "game": "One Piece"
-    },
-    {
-      "asin": "B0HC7Q9P41",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Juego de cartas de una pieza ST-35 rojo y negro Sabo | Baraja de inicio, ST-35, rojo y negro, Sabo, juego de cartas coleccionables",
-      "image": "https://m.media-amazon.com/images/I/61FYUZUbUoL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "20,00 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "1",
-      "link": "https://www.amazon.es/dp/B0HC7Q9P41?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:08:37.714905+00:00",
       "categories": [
         "Starter Deck"
       ],
@@ -56,24 +38,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0CRY385YN",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "One Piece TCG: Two Legends - Booster Box (OP-08) (JP) (TCG)",
-      "image": "https://m.media-amazon.com/images/I/81+5FGyfxEL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "114,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "1",
-      "link": "https://www.amazon.es/dp/B0CRY385YN?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:09:10.514835+00:00",
-      "categories": [
-        "Booster Box"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0HC7FPQJM",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -88,6 +52,42 @@
       "first_seen": "2026-08-29T18:08:43.440854+00:00",
       "categories": [
         "Starter Deck"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0HC7Q9P41",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Juego de cartas de una pieza ST-35 rojo y negro Sabo | Baraja de inicio, ST-35, rojo y negro, Sabo, juego de cartas coleccionables",
+      "image": "https://m.media-amazon.com/images/I/61FYUZUbUoL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "20,00 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "1",
+      "link": "https://www.amazon.es/dp/B0HC7Q9P41?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:08:37.714905+00:00",
+      "categories": [
+        "Starter Deck"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0CRY385YN",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "One Piece TCG: Two Legends - Booster Box (OP-08) (JP) (TCG)",
+      "image": "https://m.media-amazon.com/images/I/81+5FGyfxEL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "114,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "1",
+      "link": "https://www.amazon.es/dp/B0CRY385YN?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:09:10.514835+00:00",
+      "categories": [
+        "Booster Box"
       ],
       "game": "One Piece"
     },
@@ -110,24 +110,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0FNLZG13B",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "One Piece TCG: Caja de Refuerzo de Carry on His Will (Pedido por Adelantado)",
-      "image": "https://m.media-amazon.com/images/I/51IdqCrZ8QL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "575,00 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "2",
-      "link": "https://www.amazon.es/dp/B0FNLZG13B?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:09:41.538659+00:00",
-      "categories": [
-        "Booster Box"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0GW9TXS1Q",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -142,6 +124,24 @@
       "first_seen": "2026-08-29T18:09:04.551067+00:00",
       "categories": [
         "Double Pack"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0FNLZG13B",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "One Piece TCG: Caja de Refuerzo de Carry on His Will (Pedido por Adelantado)",
+      "image": "https://m.media-amazon.com/images/I/51IdqCrZ8QL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "575,00 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "2",
+      "link": "https://www.amazon.es/dp/B0FNLZG13B?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:09:41.538659+00:00",
+      "categories": [
+        "Booster Box"
       ],
       "game": "One Piece"
     },
@@ -173,7 +173,7 @@
       "price": "38,99 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "2",
+      "stock": "1",
       "link": "https://www.amazon.es/dp/B0CGR4P859?tag=enkairito-21",
       "first_seen": "2026-08-29T18:09:47.272890+00:00",
       "categories": [
@@ -200,20 +200,20 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0F864T1GL",
+      "asin": "B0CRKK3D43",
       "marketplace": "ES",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Juego de cartas de una pieza - ST-27 Marshall.D.Teach",
-      "image": "https://m.media-amazon.com/images/I/6174iJVA8AL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "43,72 €",
+      "name": "One Piece TCG: 500 Years In The Future - Booster Pack (OP-07) (JP) (TCG)",
+      "image": "https://m.media-amazon.com/images/I/8112JGolGDL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "10,69 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "5",
-      "link": "https://www.amazon.es/dp/B0F864T1GL?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:08:31.866109+00:00",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CRKK3D43?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:08:58.807648+00:00",
       "categories": [
-        "Starter Deck"
+        "Sobre"
       ],
       "game": "One Piece"
     },
@@ -254,6 +254,24 @@
       "game": "One Piece"
     },
     {
+      "asin": "B0F864T1GL",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Juego de cartas de una pieza - ST-27 Marshall.D.Teach",
+      "image": "https://m.media-amazon.com/images/I/6174iJVA8AL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "43,72 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "5",
+      "link": "https://www.amazon.es/dp/B0F864T1GL?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:08:31.866109+00:00",
+      "categories": [
+        "Starter Deck"
+      ],
+      "game": "One Piece"
+    },
+    {
       "asin": "B0HC79T34C",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -272,31 +290,13 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0CRKK3D43",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "One Piece TCG: 500 Years In The Future - Booster Pack (OP-07) (JP) (TCG)",
-      "image": "https://m.media-amazon.com/images/I/8112JGolGDL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "10,69 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0CRKK3D43?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:08:58.807648+00:00",
-      "categories": [
-        "Sobre"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0F8V1YTSP",
       "marketplace": "ES",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "BANDAI Juego de cartas de una pieza más antiguo (OP-13) (caja) de 24 unidades",
       "image": "https://m.media-amazon.com/images/I/81uxMM80r7L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "288,91 €",
+      "price": "285,74 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": "3",
@@ -380,24 +380,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0D6BC4TJ3",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "ONE PIECE TCG: 500 YEARS IN THE FUTURE BOOSTER BOX (OP 07) - 24 Packs",
-      "image": "https://m.media-amazon.com/images/I/61lsu2c-WrL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "411,23 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "1",
-      "link": "https://www.amazon.es/dp/B0D6BC4TJ3?tag=enkairito-21",
-      "first_seen": "2026-08-30T23:39:08.142925+00:00",
-      "categories": [
-        "Booster Box"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0GDHHS7CR",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -416,38 +398,38 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0F85W59Y4",
+      "asin": "B0GW8RGGGV",
       "marketplace": "ES",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "One Piece TCG - Juego de cartas Vol. 1-2 (arte al azar)",
-      "image": "https://m.media-amazon.com/images/I/613BFTaKK5L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "125,48 €",
+      "name": "Juego de cartas de una pieza TCG Adventure on Kami's Island Paquete de refuerzo de 12 cartas - Edición en inglés - OP15-EB04",
+      "image": "https://m.media-amazon.com/images/I/610xO3i4PyL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "16,85 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "4",
-      "link": "https://www.amazon.es/dp/B0F85W59Y4?tag=enkairito-21",
-      "first_seen": "2026-08-30T23:39:08.354427+00:00",
+      "stock": "5",
+      "link": "https://www.amazon.es/dp/B0GW8RGGGV?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:10:14.597320+00:00",
       "categories": [
-        "Otros"
+        "Sobre"
       ],
       "game": "One Piece"
     },
     {
-      "asin": "B0GX2Y7SN8",
+      "asin": "B0D6BC4TJ3",
       "marketplace": "ES",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "One Piece TCG: Adventure on Kami's Island - Paquete de refuerzo con mangas (OP-15 - EB-04) - 12 cartas",
-      "image": "https://m.media-amazon.com/images/I/61qOtZrZ7vL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "27,65 €",
+      "name": "ONE PIECE TCG: 500 YEARS IN THE FUTURE BOOSTER BOX (OP 07) - 24 Packs",
+      "image": "https://m.media-amazon.com/images/I/61lsu2c-WrL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "411,23 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0GX2Y7SN8?tag=enkairito-21",
-      "first_seen": "2026-08-30T17:57:46.158159+00:00",
+      "stock": "1",
+      "link": "https://www.amazon.es/dp/B0D6BC4TJ3?tag=enkairito-21",
+      "first_seen": "2026-08-30T23:39:08.142925+00:00",
       "categories": [
-        "Sobre"
+        "Booster Box"
       ],
       "game": "One Piece"
     }
