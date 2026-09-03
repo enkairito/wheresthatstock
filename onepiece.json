@@ -1,24 +1,6 @@
 {
-  "updated_at": "2026-09-03T00:59:23.046897+00:00",
+  "updated_at": "2026-09-03T05:34:35.706006+00:00",
   "products": [
-    {
-      "asin": "B0HC746FKY",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Juego de cartas de una pieza ST-34 Purple Charlotte Katakuri | Baraja de inicio, ST-34, Charlotte Katakuri, morado, juego de cartas coleccionables",
-      "image": "https://m.media-amazon.com/images/I/61sCSCulXuL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "30,00 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "2",
-      "link": "https://www.amazon.es/dp/B0HC746FKY?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:08:49.282666+00:00",
-      "categories": [
-        "Starter Deck"
-      ],
-      "game": "One Piece"
-    },
     {
       "asin": "B0HC7LPXB4",
       "marketplace": "ES",
@@ -32,6 +14,24 @@
       "stock": "1",
       "link": "https://www.amazon.es/dp/B0HC7LPXB4?tag=enkairito-21",
       "first_seen": "2026-08-29T18:09:16.260611+00:00",
+      "categories": [
+        "Starter Deck"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0HC746FKY",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Juego de cartas de una pieza ST-34 Purple Charlotte Katakuri | Baraja de inicio, ST-34, Charlotte Katakuri, morado, juego de cartas coleccionables",
+      "image": "https://m.media-amazon.com/images/I/61sCSCulXuL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "30,00 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "2",
+      "link": "https://www.amazon.es/dp/B0HC746FKY?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:08:49.282666+00:00",
       "categories": [
         "Starter Deck"
       ],
@@ -92,24 +92,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0GW9TXS1Q",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "One Piece TCG: Double Pack Set Vol. 10 (DP-10) - Adventure of Kami's Island (2 Paquetes)",
-      "image": "https://m.media-amazon.com/images/I/6149SXXRkfL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "65,40 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "1",
-      "link": "https://www.amazon.es/dp/B0GW9TXS1Q?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:09:04.551067+00:00",
-      "categories": [
-        "Double Pack"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0GDGRWH54",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -122,6 +104,24 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B0GDGRWH54?tag=enkairito-21",
       "first_seen": "2026-08-29T18:09:35.306058+00:00",
+      "categories": [
+        "Double Pack"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0GW9TXS1Q",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "One Piece TCG: Double Pack Set Vol. 10 (DP-10) - Adventure of Kami's Island (2 Paquetes)",
+      "image": "https://m.media-amazon.com/images/I/6149SXXRkfL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "65,40 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "1",
+      "link": "https://www.amazon.es/dp/B0GW9TXS1Q?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:09:04.551067+00:00",
       "categories": [
         "Double Pack"
       ],
@@ -155,7 +155,7 @@
       "price": "175,64 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "2",
+      "stock": "3",
       "link": "https://www.amazon.es/dp/B0F85QRZP6?tag=enkairito-21",
       "first_seen": "2026-08-29T18:10:00.427373+00:00",
       "categories": [
@@ -188,7 +188,7 @@
       "flag": "🇪🇸",
       "name": "One Piece TCG Starter Deck: Ace & Newgate (ST-22) - 51 Tarjetas",
       "image": "https://m.media-amazon.com/images/I/71-ebfbhV6L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "48,17 €",
+      "price": "42,88 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -224,7 +224,7 @@
       "flag": "🇪🇸",
       "name": "BANDAI Juego de cartas de una pieza más antiguo (OP-13) (caja) de 24 unidades",
       "image": "https://m.media-amazon.com/images/I/81uxMM80r7L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "305,86 €",
+      "price": "305,82 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": "3",
@@ -254,24 +254,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0HC79T34C",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Juego de cartas de una pieza ST-33 Blue Kuzan | Baraja de inicio, ST-33, Blue Kuzan, juego de cartas coleccionables",
-      "image": "https://m.media-amazon.com/images/I/61Y5hOdwBEL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "30,00 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "2",
-      "link": "https://www.amazon.es/dp/B0HC79T34C?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:09:23.560405+00:00",
-      "categories": [
-        "Starter Deck"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0F864T1GL",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -284,6 +266,24 @@
       "stock": "4",
       "link": "https://www.amazon.es/dp/B0F864T1GL?tag=enkairito-21",
       "first_seen": "2026-08-29T18:08:31.866109+00:00",
+      "categories": [
+        "Starter Deck"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0HC79T34C",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Juego de cartas de una pieza ST-33 Blue Kuzan | Baraja de inicio, ST-33, Blue Kuzan, juego de cartas coleccionables",
+      "image": "https://m.media-amazon.com/images/I/61Y5hOdwBEL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "30,00 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "2",
+      "link": "https://www.amazon.es/dp/B0HC79T34C?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:09:23.560405+00:00",
       "categories": [
         "Starter Deck"
       ],
