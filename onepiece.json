@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T21:33:28.783575+00:00",
+  "updated_at": "2026-09-04T22:06:16.314084+00:00",
   "products": [
     {
       "asin": "B0HC7LPXB4",
@@ -236,24 +236,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0F864T1GL",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Juego de cartas de una pieza - ST-27 Marshall.D.Teach",
-      "image": "https://m.media-amazon.com/images/I/6174iJVA8AL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "43,72 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "3",
-      "link": "https://www.amazon.es/dp/B0F864T1GL?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:08:31.866109+00:00",
-      "categories": [
-        "Starter Deck"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0HC79T34C",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -266,6 +248,24 @@
       "stock": "2",
       "link": "https://www.amazon.es/dp/B0HC79T34C?tag=enkairito-21",
       "first_seen": "2026-08-29T18:09:23.560405+00:00",
+      "categories": [
+        "Starter Deck"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0F864T1GL",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Juego de cartas de una pieza - ST-27 Marshall.D.Teach",
+      "image": "https://m.media-amazon.com/images/I/6174iJVA8AL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "43,72 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "3",
+      "link": "https://www.amazon.es/dp/B0F864T1GL?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:08:31.866109+00:00",
       "categories": [
         "Starter Deck"
       ],
@@ -290,24 +290,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0G2YV88DN",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "BANDAI One Piece TCG: Carry on His Will Booster Pack (OP-13) - 12 cartas",
-      "image": "https://m.media-amazon.com/images/I/51jRJAPOQqL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "37,36 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0G2YV88DN?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:10:26.223493+00:00",
-      "categories": [
-        "Sobre"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0CKX97S18",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -326,13 +308,31 @@
       "game": "One Piece"
     },
     {
+      "asin": "B0G2YV88DN",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "BANDAI One Piece TCG: Carry on His Will Booster Pack (OP-13) - 12 cartas",
+      "image": "https://m.media-amazon.com/images/I/51jRJAPOQqL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "37,36 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0G2YV88DN?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:10:26.223493+00:00",
+      "categories": [
+        "Sobre"
+      ],
+      "game": "One Piece"
+    },
+    {
       "asin": "B0D69TF558",
       "marketplace": "ES",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "One Piece TCG: Two Legends - Booster Pack (OP-08) (JP) (TCG)",
       "image": "https://m.media-amazon.com/images/I/818wUBVRF+L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "14,78 €",
+      "price": "14,76 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -340,6 +340,42 @@
       "first_seen": "2026-08-29T18:09:54.795240+00:00",
       "categories": [
         "Sobre"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0GBY85556",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "One Piece TCG Japanese Carry On His Will Booster Pack - Juego de 2 (10 tarjetas en total)",
+      "image": "https://m.media-amazon.com/images/I/61HyR+C-CyL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "38,20 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GBY85556?tag=enkairito-21",
+      "first_seen": "2026-09-02T17:02:35.147234+00:00",
+      "categories": [
+        "Sobre"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0HDTCPRQN",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "One Piece Card Game Illustration Box Vol. 7 (IB-07) - 4 paquetes, promociones",
+      "image": "https://m.media-amazon.com/images/I/71S1FW6ZdTL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "107,72 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0HDTCPRQN?tag=enkairito-21",
+      "first_seen": "2026-09-01T13:08:56.491122+00:00",
+      "categories": [
+        "Otros"
       ],
       "game": "One Piece"
     },
@@ -394,42 +430,6 @@
       "first_seen": "2026-08-30T23:39:08.142925+00:00",
       "categories": [
         "Booster Box"
-      ],
-      "game": "One Piece"
-    },
-    {
-      "asin": "B0F85W59Y4",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "One Piece TCG - Juego de cartas Vol. 1-2 (arte al azar)",
-      "image": "https://m.media-amazon.com/images/I/613BFTaKK5L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "125,48 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "4",
-      "link": "https://www.amazon.es/dp/B0F85W59Y4?tag=enkairito-21",
-      "first_seen": "2026-08-30T23:39:08.354427+00:00",
-      "categories": [
-        "Otros"
-      ],
-      "game": "One Piece"
-    },
-    {
-      "asin": "B0GDHHS7CR",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "One Piece TCG - Juego de Lata Vol. 2-2 Paquetes (Arte al Azar)",
-      "image": "https://m.media-amazon.com/images/I/51y8FNPfD0L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "62,46 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "1",
-      "link": "https://www.amazon.es/dp/B0GDHHS7CR?tag=enkairito-21",
-      "first_seen": "2026-08-31T22:30:46.273546+00:00",
-      "categories": [
-        "Otros"
       ],
       "game": "One Piece"
     }
