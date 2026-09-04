@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T07:52:24.052366+00:00",
+  "updated_at": "2026-09-04T12:32:41.590450+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -819,7 +819,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolution—Caja de entrenador Elite Pitch Black",
       "image": "https://m.media-amazon.com/images/I/81nYHGhNIOL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "70,50 €",
+      "price": "70,77 €",
       "original_price": "103,22 €",
       "status": "compra_directa",
       "stock": null,
@@ -837,7 +837,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolución — Paquete de refuerzo del aumento del caos",
       "image": "https://m.media-amazon.com/images/I/81pdaHp6Q1L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "38,70 €",
+      "price": "33,51 €",
       "original_price": "51,61 €",
       "status": "compra_directa",
       "stock": null,
@@ -873,7 +873,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Colección Súper Premium de Evoluciones Prismáticas Escarlata y Violeta",
       "image": "https://m.media-amazon.com/images/I/811hyPaG+OL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "241,06 €",
+      "price": "239,58 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -903,6 +903,24 @@
       "game": "Pokémon"
     },
     {
+      "asin": "B0G3CV6Z9D",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Mega Evolución: Paquete de refuerzo de héroes ascendidos",
+      "image": "https://m.media-amazon.com/images/I/81sZheTQIhL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "84,52 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/s?k=Pok%C3%A9mon+TCG%3A+Mega+Evoluci%C3%B3n%3A+Paquete+de+refuerzo+de+h%C3%A9roes+ascendidos&rh=p_123%3A325733%2Cp_6%3AA8ZZTUQ8GZK8C%2Cp_72%3A831280031&s=relevanceblender&tag=enkairito-21",
+      "first_seen": "2026-08-31T17:55:22.065502+00:00",
+      "categories": [
+        "Otros"
+      ],
+      "game": "Pokémon"
+    },
+    {
       "asin": "B0GW2DK37Q",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -921,31 +939,13 @@
       "game": "Pokémon"
     },
     {
-      "asin": "B0FQP3YQ47",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Latas de Bola de Poké Q4",
-      "image": "https://m.media-amazon.com/images/I/712OrW9EjzL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "25,76 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/s?k=Pok%C3%A9mon+TCG%3A+Latas+de+Bola+de+Pok%C3%A9+Q4&rh=p_123%3A325733%2Cp_6%3AA8ZZTUQ8GZK8C%2Cp_72%3A831280031&s=relevanceblender&tag=enkairito-21",
-      "first_seen": "2026-08-30T20:46:19.644872+00:00",
-      "categories": [
-        "Latas"
-      ],
-      "game": "Pokémon"
-    },
-    {
       "asin": "B0G78HDPPR",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolución: Héroes Ascendidos Mega Meganio/Emboar/Feraligatr ex Box",
       "image": "https://m.media-amazon.com/images/I/91hWD1tF0KL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "58,38 €",
+      "price": "57,80 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -975,13 +975,31 @@
       "game": "Pokémon"
     },
     {
+      "asin": "B0FQP3YQ47",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Latas de Bola de Poké Q4",
+      "image": "https://m.media-amazon.com/images/I/712OrW9EjzL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "25,76 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/s?k=Pok%C3%A9mon+TCG%3A+Latas+de+Bola+de+Pok%C3%A9+Q4&rh=p_123%3A325733%2Cp_6%3AA8ZZTUQ8GZK8C%2Cp_72%3A831280031&s=relevanceblender&tag=enkairito-21",
+      "first_seen": "2026-08-30T20:46:19.644872+00:00",
+      "categories": [
+        "Latas"
+      ],
+      "game": "Pokémon"
+    },
+    {
       "asin": "B0FPM3LQJ4",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Mega Evolution - Caja de entrenador Elite de Llamas Fantasmales",
       "image": "https://m.media-amazon.com/images/I/810uEzv7stL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "158,97 €",
+      "price": "153,12 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -999,30 +1017,12 @@
       "flag": "🇺🇸",
       "name": "Pokemon TCG: Scarlet & Violet - Destined Rivals Caja Expositora de Sobres - 36 Paquetes",
       "image": "https://m.media-amazon.com/images/I/81qEBWUk7hL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "395,71 €",
+      "price": "400,00 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/s?k=Pokemon+TCG%3A+Scarlet+%26+Violet+-+Destined+Rivals+Caja+Expositora+de+Sobres+-+36+Paquetes&rh=p_123%3A325733%2Cp_6%3AA8ZZTUQ8GZK8C%2Cp_72%3A831280031&s=relevanceblender&tag=enkairito-21",
       "first_seen": "2026-08-30T20:46:19.644865+00:00",
-      "categories": [
-        "Otros"
-      ],
-      "game": "Pokémon"
-    },
-    {
-      "asin": "B0GYTWKXTR",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokemon TCG: Mega Evolution - Paquete de 3 Booster Blister negro",
-      "image": "https://m.media-amazon.com/images/I/91xodh9yAqL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "22,36 €",
-      "original_price": "25,80 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/s?k=Pokemon+TCG%3A+Mega+Evolution+-+Paquete+de+3+Booster+Blister+negro&rh=p_123%3A325733%2Cp_6%3AA8ZZTUQ8GZK8C%2Cp_72%3A831280031&s=relevanceblender&tag=enkairito-21",
-      "first_seen": "2026-09-04T07:52:24.050072+00:00",
       "categories": [
         "Otros"
       ],
@@ -1041,6 +1041,24 @@
       "stock": null,
       "link": "https://www.amazon.es/s?k=Pok%C3%A9mon+TCG%3A+Colecci%C3%B3n+del+D%C3%ADa+de+Pok%C3%A9mon+2026&rh=p_123%3A325733%2Cp_6%3AA8ZZTUQ8GZK8C%2Cp_72%3A831280031&s=relevanceblender&tag=enkairito-21",
       "first_seen": "2026-08-30T20:46:19.644854+00:00",
+      "categories": [
+        "Otros"
+      ],
+      "game": "Pokémon"
+    },
+    {
+      "asin": "B0GYTWKXTR",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokemon TCG: Mega Evolution - Paquete de 3 Booster Blister negro",
+      "image": "https://m.media-amazon.com/images/I/91xodh9yAqL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "22,36 €",
+      "original_price": "25,80 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/s?k=Pokemon+TCG%3A+Mega+Evolution+-+Paquete+de+3+Booster+Blister+negro&rh=p_123%3A325733%2Cp_6%3AA8ZZTUQ8GZK8C%2Cp_72%3A831280031&s=relevanceblender&tag=enkairito-21",
+      "first_seen": "2026-09-04T07:52:24.050072+00:00",
       "categories": [
         "Otros"
       ],
@@ -1083,20 +1101,20 @@
       "game": "Pokémon"
     },
     {
-      "asin": "B0GG2BM9YQ",
+      "asin": "B0DLPL7LC5",
       "marketplace": "US",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
-      "name": "Pokémon TCG: Primera Colección de Ilustraciones de Socios—Serie 1",
-      "image": "https://m.media-amazon.com/images/I/81-Itu0Uz8L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "60,99 €",
-      "original_price": "67,92 €",
+      "name": "Pokemon TCG: Caja de entrenador élite de evoluciones prismáticas escarlata y violeta",
+      "image": "https://m.media-amazon.com/images/I/81qfGweCdDL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "159,10 €",
+      "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/s?k=Pok%C3%A9mon+TCG%3A+Primera+Colecci%C3%B3n+de+Ilustraciones+de+Socios%E2%80%94Serie+1&rh=p_123%3A325733%2Cp_6%3AA8ZZTUQ8GZK8C%2Cp_72%3A831280031&s=relevanceblender&tag=enkairito-21",
-      "first_seen": "2026-08-31T22:30:05.839826+00:00",
+      "link": "https://www.amazon.es/s?k=Pokemon+TCG%3A+Caja+de+entrenador+%C3%A9lite+de+evoluciones+prism%C3%A1ticas+escarlata+y+violeta&rh=p_123%3A325733%2Cp_6%3AA8ZZTUQ8GZK8C%2Cp_72%3A831280031&s=relevanceblender&tag=enkairito-21",
+      "first_seen": "2026-08-30T20:46:10.703761+00:00",
       "categories": [
-        "Otros"
+        "Cajas ETB"
       ],
       "game": "Pokémon"
     },
@@ -1119,24 +1137,6 @@
       "game": "Pokémon"
     },
     {
-      "asin": "B001DIJ48C",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG 3 paquetes de refuerzo, 30 cartas en total, 100% auténticas, raras aleatorias y holofoils, 3 paquetes de ampollas",
-      "image": "https://m.media-amazon.com/images/I/71UYZOVLiuL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "22,23 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/s?k=Pok%C3%A9mon+TCG+3+paquetes+de+refuerzo%2C+30+cartas+en+total%2C+100%25+aut%C3%A9nticas%2C+raras+aleatorias+y+holofoils%2C+3+paquetes+de+ampollas&rh=p_123%3A325733%2Cp_6%3AA8ZZTUQ8GZK8C%2Cp_72%3A831280031&s=relevanceblender&tag=enkairito-21",
-      "first_seen": "2026-08-30T20:46:19.644937+00:00",
-      "categories": [
-        "Otros"
-      ],
-      "game": "Pokémon"
-    },
-    {
       "asin": "B0829FT44S",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -1149,6 +1149,24 @@
       "stock": null,
       "link": "https://www.amazon.es/s?k=Colecci%C3%B3n+de+m%C3%A1s+de+50+cartas+oficiales+de+Pok%C3%A9mon+con+5+hologr%C3%A1ficas+en+cualquier+combinaci%C3%B3n+y+al+menos+1+carta+rara%2C+GX%2C+EX%2C+FA%2C+Tag+Team+o+Secret+Rare&rh=p_123%3A325733%2Cp_6%3AA8ZZTUQ8GZK8C%2Cp_72%3A831280031&s=relevanceblender&tag=enkairito-21",
       "first_seen": "2026-08-30T23:03:39.880953+00:00",
+      "categories": [
+        "Otros"
+      ],
+      "game": "Pokémon"
+    },
+    {
+      "asin": "B001DIJ48C",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG 3 paquetes de refuerzo, 30 cartas en total, 100% auténticas, raras aleatorias y holofoils, 3 paquetes de ampollas",
+      "image": "https://m.media-amazon.com/images/I/71UYZOVLiuL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "22,04 €",
+      "original_price": "23,22 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/s?k=Pok%C3%A9mon+TCG+3+paquetes+de+refuerzo%2C+30+cartas+en+total%2C+100%25+aut%C3%A9nticas%2C+raras+aleatorias+y+holofoils%2C+3+paquetes+de+ampollas&rh=p_123%3A325733%2Cp_6%3AA8ZZTUQ8GZK8C%2Cp_72%3A831280031&s=relevanceblender&tag=enkairito-21",
+      "first_seen": "2026-08-30T20:46:19.644937+00:00",
       "categories": [
         "Otros"
       ],
@@ -1223,6 +1241,24 @@
       "first_seen": "2026-08-30T20:46:19.644952+00:00",
       "categories": [
         "Otros"
+      ],
+      "game": "Pokémon"
+    },
+    {
+      "asin": "B0CXY99B6D",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Scarlet & Violet—Máscara de la Oscuridad Élite Caja de Entrenador",
+      "image": "https://m.media-amazon.com/images/I/81CUG-HGEYL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "111,56 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/s?k=Pok%C3%A9mon+TCG%3A+Scarlet+%26+Violet%E2%80%94M%C3%A1scara+de+la+Oscuridad+%C3%89lite+Caja+de+Entrenador&rh=p_123%3A325733%2Cp_6%3AA8ZZTUQ8GZK8C%2Cp_72%3A831280031&s=relevanceblender&tag=enkairito-21",
+      "first_seen": "2026-08-30T20:46:19.644956+00:00",
+      "categories": [
+        "Cajas ETB"
       ],
       "game": "Pokémon"
     },
@@ -1359,7 +1395,7 @@
       "flag": "🇺🇸",
       "name": "Pokemon Scarlet & Violet 3 Obsidian Flames Caja de Entrenador Élite",
       "image": "https://m.media-amazon.com/images/I/81DDohytO8L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "316,90 €",
+      "price": "318,11 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -1395,14 +1431,32 @@
       "flag": "🇺🇸",
       "name": "Una tarjeta de Pokémon encapsulada y autenticada con calificación PSA al azar (perfecta para exhibición)",
       "image": "https://m.media-amazon.com/images/I/81SUwheDmXL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "22,44 €",
-      "original_price": "23,98 €",
+      "price": "23,98 €",
+      "original_price": null,
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/s?k=Una+tarjeta+de+Pok%C3%A9mon+encapsulada+y+autenticada+con+calificaci%C3%B3n+PSA+al+azar+%28perfecta+para+exhibici%C3%B3n%29&rh=p_123%3A325733%2Cp_6%3AA8ZZTUQ8GZK8C%2Cp_72%3A831280031&s=relevanceblender&tag=enkairito-21",
       "first_seen": "2026-08-30T20:46:19.644985+00:00",
       "categories": [
         "Otros"
+      ],
+      "game": "Pokémon"
+    },
+    {
+      "asin": "B09L5CR4RF",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokemon TCG: Caja de entrenador Élite de Estrellas Brillantes de Escudo y Espada",
+      "image": "https://m.media-amazon.com/images/I/81Ib4HiQovL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "174,60 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/s?k=Pokemon+TCG%3A+Caja+de+entrenador+%C3%89lite+de+Estrellas+Brillantes+de+Escudo+y+Espada&rh=p_123%3A325733%2Cp_6%3AA8ZZTUQ8GZK8C%2Cp_72%3A831280031&s=relevanceblender&tag=enkairito-21",
+      "first_seen": "2026-09-04T12:32:41.589044+00:00",
+      "categories": [
+        "Cajas ETB"
       ],
       "game": "Pokémon"
     },
@@ -1443,24 +1497,6 @@
       "game": "Pokémon"
     },
     {
-      "asin": "B0CS7P4W8C",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokemon TCG: Escarlata y Violeta: Fuerzas Temporales: Elite Trainer Box: Hojas de Hierro",
-      "image": "https://m.media-amazon.com/images/I/91tXhg6QX8L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "136,76 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/s?k=Pokemon+TCG%3A+Escarlata+y+Violeta%3A+Fuerzas+Temporales%3A+Elite+Trainer+Box%3A+Hojas+de+Hierro&rh=p_123%3A325733%2Cp_6%3AA8ZZTUQ8GZK8C%2Cp_72%3A831280031&s=relevanceblender&tag=enkairito-21",
-      "first_seen": "2026-09-02T22:24:23.588723+00:00",
-      "categories": [
-        "Cajas ETB"
-      ],
-      "game": "Pokémon"
-    },
-    {
       "asin": "B0CGKKS9FY",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -1497,24 +1533,6 @@
       "game": "Pokémon"
     },
     {
-      "asin": "B0F634M6PY",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Juego de cartas coleccionables Pokémon - Scarlet & Violet 10 - Sobre Destined Rivals",
-      "image": "https://m.media-amazon.com/images/I/71aX5MmNCFL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "13,66 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/s?k=Juego+de+cartas+coleccionables+Pok%C3%A9mon+-+Scarlet+%26+Violet+10+-+Sobre+Destined+Rivals&rh=p_123%3A325733%2Cp_6%3AA8ZZTUQ8GZK8C%2Cp_72%3A831280031&s=relevanceblender&tag=enkairito-21",
-      "first_seen": "2026-09-02T17:02:22.698526+00:00",
-      "categories": [
-        "Otros"
-      ],
-      "game": "Pokémon"
-    },
-    {
       "asin": "B0F2BDXW4J",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -1527,24 +1545,6 @@
       "stock": null,
       "link": "https://www.amazon.es/s?k=Pokemon+TCG%3A+Scarlet+%26+Violet+-+Caja+de+Entrenador+%C3%89lite+Destined+Rivals+-+9+Paquetes%2C+Accesorios%2C+Promo&rh=p_123%3A325733%2Cp_6%3AA8ZZTUQ8GZK8C%2Cp_72%3A831280031&s=relevanceblender&tag=enkairito-21",
       "first_seen": "2026-08-30T20:46:19.644824+00:00",
-      "categories": [
-        "Cajas ETB"
-      ],
-      "game": "Pokémon"
-    },
-    {
-      "asin": "B0G3CY83L5",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Caja de entrenamiento de élite de héroes ascendidos de Mega Evolution",
-      "image": "https://m.media-amazon.com/images/I/817IjH3kGvL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "103,22 €",
-      "original_price": "165,58 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/s?k=Pok%C3%A9mon+TCG%3A+Caja+de+entrenamiento+de+%C3%A9lite+de+h%C3%A9roes+ascendidos+de+Mega+Evolution&rh=p_123%3A325733%2Cp_6%3AA8ZZTUQ8GZK8C%2Cp_72%3A831280031&s=relevanceblender&tag=enkairito-21",
-      "first_seen": "2026-08-30T20:46:19.644924+00:00",
       "categories": [
         "Cajas ETB"
       ],
@@ -1659,6 +1659,24 @@
       "game": "Pokémon"
     },
     {
+      "asin": "A200804711",
+      "marketplace": "ECI",
+      "store_label": "El Corte Inglés",
+      "flag": "🇪🇸",
+      "name": "LATA MEGA EX JCC Pokémon Bandai Modelos surtidos",
+      "image": "https://dam.elcorteingles.es/producto/www-001044850503549-00.jpg",
+      "price": "34,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.elcorteingles.es/juguetes/A200804711-lata-mega-ex-jcc-pokemon-bandai-modelos-surtidos/?stype=text_box_multi",
+      "first_seen": "2026-08-25T20:27:54.285331+00:00",
+      "categories": [
+        "Latas"
+      ],
+      "game": "Pokémon"
+    },
+    {
       "asin": "A200805922",
       "marketplace": "ECI",
       "store_label": "El Corte Inglés",
@@ -1677,20 +1695,20 @@
       "game": "Pokémon"
     },
     {
-      "asin": "A200804711",
+      "asin": "A44248983",
       "marketplace": "ECI",
       "store_label": "El Corte Inglés",
       "flag": "🇪🇸",
-      "name": "LATA MEGA EX JCC Pokémon Bandai Modelos surtidos",
-      "image": "https://dam.elcorteingles.es/producto/www-001044850503549-00.jpg",
-      "price": "34,99 €",
+      "name": "Maletín del Artista Pokémon",
+      "image": "https://dam.elcorteingles.es/producto/www-001097631046485-00.jpg",
+      "price": "37,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.elcorteingles.es/juguetes/A200804711-lata-mega-ex-jcc-pokemon-bandai-modelos-surtidos/?stype=text_box_multi",
-      "first_seen": "2026-08-25T20:27:54.285331+00:00",
+      "link": "https://www.elcorteingles.es/juguetes/A44248983-maletin-del-artista-pokemon/?stype=text_box_multi",
+      "first_seen": "2026-09-01T13:08:15.434831+00:00",
       "categories": [
-        "Latas"
+        "Otros"
       ],
       "game": "Pokémon"
     },
@@ -1725,24 +1743,6 @@
       "stock": null,
       "link": "https://www.elcorteingles.es/juguetes/A52662336-baraja-combate-deluxe-pokemon-bandai-modelos-surtidos/?stype=text_box_multi",
       "first_seen": "2026-08-25T20:27:54.285334+00:00",
-      "categories": [
-        "Otros"
-      ],
-      "game": "Pokémon"
-    },
-    {
-      "asin": "A44248983",
-      "marketplace": "ECI",
-      "store_label": "El Corte Inglés",
-      "flag": "🇪🇸",
-      "name": "Maletín del Artista Pokémon",
-      "image": "https://dam.elcorteingles.es/producto/www-001097631046485-00.jpg",
-      "price": "37,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.elcorteingles.es/juguetes/A44248983-maletin-del-artista-pokemon/?stype=text_box_multi",
-      "first_seen": "2026-09-01T13:08:15.434831+00:00",
       "categories": [
         "Otros"
       ],
