@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T19:05:49.361621+00:00",
+  "updated_at": "2026-09-04T19:20:25.699122+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -927,7 +927,7 @@
       "flag": "🇺🇸",
       "name": "Pokémon TCG: Colección de Ilustraciones para el Primer Partner — Serie 3",
       "image": "https://m.media-amazon.com/images/I/81LQc5zS0+L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "34,01 €",
+      "price": "33,61 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -1485,7 +1485,7 @@
       "flag": "🇺🇸",
       "name": "Una tarjeta de Pokémon encapsulada y autenticada con calificación PSA al azar (perfecta para exhibición)",
       "image": "https://m.media-amazon.com/images/I/81SUwheDmXL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "22,48 €",
+      "price": "22,57 €",
       "original_price": "24,04 €",
       "status": "compra_directa",
       "stock": null,
@@ -1533,24 +1533,6 @@
       "game": "Pokémon"
     },
     {
-      "asin": "B0981BNN9M",
-      "marketplace": "US",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokemon Caja de Entrenamiento de Elite para Celebraciones del 25 Aniversario",
-      "image": "https://m.media-amazon.com/images/I/61Yb2nb6B8L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "448,30 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/s?k=Pokemon+Caja+de+Entrenamiento+de+Elite+para+Celebraciones+del+25+Aniversario&rh=p_123%3A325733%2Cp_6%3AA8ZZTUQ8GZK8C%2Cp_72%3A831280031&s=relevanceblender&tag=enkairito-21",
-      "first_seen": "2026-08-30T20:46:19.645001+00:00",
-      "categories": [
-        "Cajas ETB"
-      ],
-      "game": "Pokémon"
-    },
-    {
       "asin": "B0B4PRYJ6T",
       "marketplace": "US",
       "store_label": "Amazon USA",
@@ -1565,6 +1547,24 @@
       "first_seen": "2026-08-31T03:44:31.022403+00:00",
       "categories": [
         "Otros"
+      ],
+      "game": "Pokémon"
+    },
+    {
+      "asin": "B0981BNN9M",
+      "marketplace": "US",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokemon Caja de Entrenamiento de Elite para Celebraciones del 25 Aniversario",
+      "image": "https://m.media-amazon.com/images/I/61Yb2nb6B8L._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "448,30 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/s?k=Pokemon+Caja+de+Entrenamiento+de+Elite+para+Celebraciones+del+25+Aniversario&rh=p_123%3A325733%2Cp_6%3AA8ZZTUQ8GZK8C%2Cp_72%3A831280031&s=relevanceblender&tag=enkairito-21",
+      "first_seen": "2026-08-30T20:46:19.645001+00:00",
+      "categories": [
+        "Cajas ETB"
       ],
       "game": "Pokémon"
     },
