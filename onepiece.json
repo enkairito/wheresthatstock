@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T10:00:38.555326+00:00",
+  "updated_at": "2026-09-05T13:23:02.758585+00:00",
   "products": [
     {
       "asin": "B0GDGRWH54",
@@ -65,7 +65,7 @@
       "price": "34,33 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "2",
+      "stock": "1",
       "link": "https://www.amazon.es/dp/B0HC7Q9P41?tag=enkairito-21",
       "first_seen": "2026-08-29T18:08:37.714905+00:00",
       "categories": [
@@ -164,24 +164,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0CRKK3D43",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "One Piece TCG: 500 Years In The Future - Booster Pack (OP-07) (JP) (TCG)",
-      "image": "https://m.media-amazon.com/images/I/8112JGolGDL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "10,69 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0CRKK3D43?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:08:58.807648+00:00",
-      "categories": [
-        "Sobre"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0CGR4P859",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -194,6 +176,24 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B0CGR4P859?tag=enkairito-21",
       "first_seen": "2026-08-29T18:09:47.272890+00:00",
+      "categories": [
+        "Sobre"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0CRKK3D43",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "One Piece TCG: 500 Years In The Future - Booster Pack (OP-07) (JP) (TCG)",
+      "image": "https://m.media-amazon.com/images/I/8112JGolGDL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "10,69 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CRKK3D43?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:08:58.807648+00:00",
       "categories": [
         "Sobre"
       ],
@@ -272,20 +272,20 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0F8V1YTSP",
+      "asin": "B0G2YV88DN",
       "marketplace": "ES",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "BANDAI Juego de cartas de una pieza más antiguo (OP-13) (caja) de 24 unidades",
-      "image": "https://m.media-amazon.com/images/I/81uxMM80r7L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "305,88 €",
+      "name": "BANDAI One Piece TCG: Carry on His Will Booster Pack (OP-13) - 12 cartas",
+      "image": "https://m.media-amazon.com/images/I/51jRJAPOQqL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "37,36 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "4",
-      "link": "https://www.amazon.es/dp/B0F8V1YTSP?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:10:47.849793+00:00",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0G2YV88DN?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:10:26.223493+00:00",
       "categories": [
-        "Booster Box"
+        "Sobre"
       ],
       "game": "One Piece"
     },
@@ -308,20 +308,20 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0G2YV88DN",
+      "asin": "B0F8V1YTSP",
       "marketplace": "ES",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "BANDAI One Piece TCG: Carry on His Will Booster Pack (OP-13) - 12 cartas",
-      "image": "https://m.media-amazon.com/images/I/51jRJAPOQqL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "37,36 €",
+      "name": "BANDAI Juego de cartas de una pieza más antiguo (OP-13) (caja) de 24 unidades",
+      "image": "https://m.media-amazon.com/images/I/81uxMM80r7L._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "305,85 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0G2YV88DN?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:10:26.223493+00:00",
+      "stock": "4",
+      "link": "https://www.amazon.es/dp/B0F8V1YTSP?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:10:47.849793+00:00",
       "categories": [
-        "Sobre"
+        "Booster Box"
       ],
       "game": "One Piece"
     },
@@ -350,7 +350,7 @@
       "flag": "🇪🇸",
       "name": "One Piece TCG: Two Legends - Booster Pack (OP-08) (JP) (TCG)",
       "image": "https://m.media-amazon.com/images/I/818wUBVRF+L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "14,38 €",
+      "price": "14,28 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -404,7 +404,7 @@
       "flag": "🇪🇸",
       "name": "One Piece TCG: Adventure on Kami's Island - Paquete de refuerzo con mangas (OP-15 - EB-04) - 12 cartas",
       "image": "https://m.media-amazon.com/images/I/61qOtZrZ7vL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "27,64 €",
+      "price": "27,65 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -416,20 +416,20 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0GDHHS7CR",
+      "asin": "B0D6BC4TJ3",
       "marketplace": "ES",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "One Piece TCG - Juego de Lata Vol. 2-2 Paquetes (Arte al Azar)",
-      "image": "https://m.media-amazon.com/images/I/51y8FNPfD0L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "100,89 €",
+      "name": "ONE PIECE TCG: 500 YEARS IN THE FUTURE BOOSTER BOX (OP 07) - 24 Packs",
+      "image": "https://m.media-amazon.com/images/I/61lsu2c-WrL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "411,23 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": "1",
-      "link": "https://www.amazon.es/dp/B0GDHHS7CR?tag=enkairito-21",
-      "first_seen": "2026-08-31T22:30:46.273546+00:00",
+      "link": "https://www.amazon.es/dp/B0D6BC4TJ3?tag=enkairito-21",
+      "first_seen": "2026-08-30T23:39:08.142925+00:00",
       "categories": [
-        "Otros"
+        "Booster Box"
       ],
       "game": "One Piece"
     }
