@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T00:39:16.700082+00:00",
+  "updated_at": "2026-09-05T05:18:35.983182+00:00",
   "products": [
     {
       "asin": "B0HC7LPXB4",
@@ -188,7 +188,7 @@
       "flag": "🇪🇸",
       "name": "Awakening of the New Era Booster Pack OP-05 - One Piece Juego de Cartas - JP",
       "image": "https://m.media-amazon.com/images/I/81UaMJMtddL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "38,94 €",
+      "price": "38,82 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -218,6 +218,24 @@
       "game": "One Piece"
     },
     {
+      "asin": "B0FL83L295",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "One Piece TCG Starter Deck: Ace & Newgate (ST-22) - 51 Tarjetas",
+      "image": "https://m.media-amazon.com/images/I/71-ebfbhV6L._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "42,88 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FL83L295?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:09:29.426544+00:00",
+      "categories": [
+        "Starter Deck"
+      ],
+      "game": "One Piece"
+    },
+    {
       "asin": "B0GW8RGGGV",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -232,24 +250,6 @@
       "first_seen": "2026-08-29T18:10:14.597320+00:00",
       "categories": [
         "Sobre"
-      ],
-      "game": "One Piece"
-    },
-    {
-      "asin": "B0FL83L295",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "One Piece TCG Starter Deck: Ace & Newgate (ST-22) - 51 Tarjetas",
-      "image": "https://m.media-amazon.com/images/I/71-ebfbhV6L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "48,01 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FL83L295?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:09:29.426544+00:00",
-      "categories": [
-        "Starter Deck"
       ],
       "game": "One Piece"
     },
@@ -296,7 +296,7 @@
       "flag": "🇪🇸",
       "name": "BANDAI Juego de cartas de una pieza más antiguo (OP-13) (caja) de 24 unidades",
       "image": "https://m.media-amazon.com/images/I/81uxMM80r7L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "305,63 €",
+      "price": "305,94 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": "4",
@@ -350,7 +350,7 @@
       "flag": "🇪🇸",
       "name": "One Piece TCG: Two Legends - Booster Pack (OP-08) (JP) (TCG)",
       "image": "https://m.media-amazon.com/images/I/818wUBVRF+L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "14,70 €",
+      "price": "14,54 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -368,7 +368,7 @@
       "flag": "🇪🇸",
       "name": "One Piece TCG Japanese Carry On His Will Booster Pack - Juego de 2 (10 tarjetas en total)",
       "image": "https://m.media-amazon.com/images/I/61HyR+C-CyL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "38,20 €",
+      "price": "38,21 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -416,20 +416,20 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0D6BC4TJ3",
+      "asin": "B0GDHHS7CR",
       "marketplace": "ES",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "ONE PIECE TCG: 500 YEARS IN THE FUTURE BOOSTER BOX (OP 07) - 24 Packs",
-      "image": "https://m.media-amazon.com/images/I/61lsu2c-WrL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "411,23 €",
+      "name": "One Piece TCG - Juego de Lata Vol. 2-2 Paquetes (Arte al Azar)",
+      "image": "https://m.media-amazon.com/images/I/51y8FNPfD0L._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "100,89 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": "1",
-      "link": "https://www.amazon.es/dp/B0D6BC4TJ3?tag=enkairito-21",
-      "first_seen": "2026-08-30T23:39:08.142925+00:00",
+      "link": "https://www.amazon.es/dp/B0GDHHS7CR?tag=enkairito-21",
+      "first_seen": "2026-08-31T22:30:46.273546+00:00",
       "categories": [
-        "Booster Box"
+        "Otros"
       ],
       "game": "One Piece"
     }
