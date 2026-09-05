@@ -151,13 +151,13 @@ function renderActiveFilters() {
     });
   }
 
-  const discountFloor = Number(discountRange.min) || 0;
+  const discountFloor = Number(discountRangeEl.min) || 0;
   if (minDiscount > discountFloor) {
     chips.push({
       label: `Descuento mínimo: ${minDiscount}%`,
       onRemove: () => {
         minDiscount = discountFloor;
-        discountRange.value = discountFloor;
+        discountRangeEl.value = discountFloor;
         discountValue.textContent = `${discountFloor}% de descuento`;
         applyFilter();
       },
@@ -191,14 +191,13 @@ function renderActiveFilters() {
 
 document.getElementById("search").addEventListener("input", applyFilter);
 
-document.getElementById("sort-select").addEventListener("change", (e) => {
+sortSelectEl.addEventListener("change", (e) => {
   sortMode = e.target.value;
   applyFilter();
 });
 
-const discountRange = document.getElementById("discount-range");
 const discountValue = document.getElementById("discount-value");
-discountRange.addEventListener("input", (e) => {
+discountRangeEl.addEventListener("input", (e) => {
   minDiscount = Number(e.target.value);
   discountValue.textContent = `${minDiscount}% de descuento`;
   applyFilter();

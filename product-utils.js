@@ -77,8 +77,13 @@ function cardHtml(p) {
   const stockNote = p.stock ? `<div class="stock-note">Solo queda(n) ${escapeHtml(p.stock)} en stock</div>` : "";
   const available = p.status === "compra_directa" || p.status === "invitacion";
   const btnLabel = p.status === "invitacion" ? "Solicitar invitación" : (available ? "Cómpralo ya" : "Agotado");
-  const btnHref = available ? link : "#";
-  const btnClass = available ? "buy-btn" : "buy-btn disabled";
+  // Cuando no está disponible, usamos <span> en vez de <a href="#"> — un
+  // enlace real seguiría siendo enfocable y "activable" por teclado aunque
+  // pointer-events:none bloquee el ratón, llevando a un salto de página sin
+  // sentido. Un <span> no entra en el orden de tabulación.
+  const buyButton = available
+    ? `<a class="buy-btn" href="${link}" target="_blank" rel="noopener">${btnLabel}</a>`
+    : `<span class="buy-btn disabled" aria-disabled="true">${btnLabel}</span>`;
 
   return `
     <div class="card" data-name="${name.toLowerCase()}">
@@ -95,7 +100,7 @@ function cardHtml(p) {
         <div class="card-name">${name}</div>
         ${priceRow}
         ${stockNote}
-        <a class="${btnClass}" href="${btnHref}" target="_blank" rel="noopener">${btnLabel}</a>
+        ${buyButton}
       </div>
     </div>
   `;
