@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T09:45:48.128516+00:00",
+  "updated_at": "2026-09-05T10:00:38.555326+00:00",
   "products": [
     {
       "asin": "B0GDGRWH54",
@@ -236,24 +236,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0HC79T34C",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Juego de cartas de una pieza ST-33 Blue Kuzan | Baraja de inicio, ST-33, Blue Kuzan, juego de cartas coleccionables",
-      "image": "https://m.media-amazon.com/images/I/61Y5hOdwBEL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "30,00 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "2",
-      "link": "https://www.amazon.es/dp/B0HC79T34C?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:09:23.560405+00:00",
-      "categories": [
-        "Starter Deck"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0G6FWHGQT",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -272,18 +254,18 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0F864T1GL",
+      "asin": "B0HC79T34C",
       "marketplace": "ES",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Juego de cartas de una pieza - ST-27 Marshall.D.Teach",
-      "image": "https://m.media-amazon.com/images/I/6174iJVA8AL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "43,72 €",
+      "name": "Juego de cartas de una pieza ST-33 Blue Kuzan | Baraja de inicio, ST-33, Blue Kuzan, juego de cartas coleccionables",
+      "image": "https://m.media-amazon.com/images/I/61Y5hOdwBEL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "30,00 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "3",
-      "link": "https://www.amazon.es/dp/B0F864T1GL?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:08:31.866109+00:00",
+      "stock": "2",
+      "link": "https://www.amazon.es/dp/B0HC79T34C?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:09:23.560405+00:00",
       "categories": [
         "Starter Deck"
       ],
@@ -304,6 +286,24 @@
       "first_seen": "2026-08-29T18:10:47.849793+00:00",
       "categories": [
         "Booster Box"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0F864T1GL",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Juego de cartas de una pieza - ST-27 Marshall.D.Teach",
+      "image": "https://m.media-amazon.com/images/I/6174iJVA8AL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "43,72 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "3",
+      "link": "https://www.amazon.es/dp/B0F864T1GL?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:08:31.866109+00:00",
+      "categories": [
+        "Starter Deck"
       ],
       "game": "One Piece"
     },
@@ -350,7 +350,7 @@
       "flag": "🇪🇸",
       "name": "One Piece TCG: Two Legends - Booster Pack (OP-08) (JP) (TCG)",
       "image": "https://m.media-amazon.com/images/I/818wUBVRF+L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "14,40 €",
+      "price": "14,38 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -404,7 +404,7 @@
       "flag": "🇪🇸",
       "name": "One Piece TCG: Adventure on Kami's Island - Paquete de refuerzo con mangas (OP-15 - EB-04) - 12 cartas",
       "image": "https://m.media-amazon.com/images/I/61qOtZrZ7vL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "27,65 €",
+      "price": "27,64 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -428,24 +428,6 @@
       "stock": "1",
       "link": "https://www.amazon.es/dp/B0GDHHS7CR?tag=enkairito-21",
       "first_seen": "2026-08-31T22:30:46.273546+00:00",
-      "categories": [
-        "Otros"
-      ],
-      "game": "One Piece"
-    },
-    {
-      "asin": "B0G2SYLVM9",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "BANDAI Devil Fruits Collection Vol.3 DF-03 - Juego de Cartas de una Pieza - ES",
-      "image": "https://m.media-amazon.com/images/I/61yVsSN9CxL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "55,00 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "2",
-      "link": "https://www.amazon.es/dp/B0G2SYLVM9?tag=enkairito-21",
-      "first_seen": "2026-08-30T13:35:31.696707+00:00",
       "categories": [
         "Otros"
       ],
