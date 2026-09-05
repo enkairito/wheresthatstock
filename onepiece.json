@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T22:09:38.931755+00:00",
+  "updated_at": "2026-09-05T00:39:16.700082+00:00",
   "products": [
     {
       "asin": "B0HC7LPXB4",
@@ -8,10 +8,10 @@
       "flag": "🇪🇸",
       "name": "Juego de cartas de una pieza ST-32 verde Roronoa Zoro | Baraja de inicio, ST-32, juego de cartas coleccionables, Roronoa Zoro, mazo verde",
       "image": "https://m.media-amazon.com/images/I/61qHtzqXQpL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "34,33 €",
+      "price": "33,00 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": null,
+      "stock": "2",
       "link": "https://www.amazon.es/dp/B0HC7LPXB4?tag=enkairito-21",
       "first_seen": "2026-08-29T18:09:16.260611+00:00",
       "categories": [
@@ -56,6 +56,24 @@
       "game": "One Piece"
     },
     {
+      "asin": "B0HC7FPQJM",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Juego de cartas de una pieza ST-31 Red Monkey.D.Luffy",
+      "image": "https://m.media-amazon.com/images/I/61vgXOSYfBL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "35,20 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "2",
+      "link": "https://www.amazon.es/dp/B0HC7FPQJM?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:08:43.440854+00:00",
+      "categories": [
+        "Starter Deck"
+      ],
+      "game": "One Piece"
+    },
+    {
       "asin": "B0CRY385YN",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -70,24 +88,6 @@
       "first_seen": "2026-08-29T18:09:10.514835+00:00",
       "categories": [
         "Booster Box"
-      ],
-      "game": "One Piece"
-    },
-    {
-      "asin": "B0HC7FPQJM",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Juego de cartas de una pieza ST-31 Red Monkey.D.Luffy",
-      "image": "https://m.media-amazon.com/images/I/61vgXOSYfBL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "29,90 €",
-      "original_price": "35,20 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0HC7FPQJM?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:08:43.440854+00:00",
-      "categories": [
-        "Starter Deck"
       ],
       "game": "One Piece"
     },
@@ -182,6 +182,24 @@
       "game": "One Piece"
     },
     {
+      "asin": "B0CGR4P859",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Awakening of the New Era Booster Pack OP-05 - One Piece Juego de Cartas - JP",
+      "image": "https://m.media-amazon.com/images/I/81UaMJMtddL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "38,94 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CGR4P859?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:09:47.272890+00:00",
+      "categories": [
+        "Sobre"
+      ],
+      "game": "One Piece"
+    },
+    {
       "asin": "B0G6FWHGQT",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -200,24 +218,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0FL83L295",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "One Piece TCG Starter Deck: Ace & Newgate (ST-22) - 51 Tarjetas",
-      "image": "https://m.media-amazon.com/images/I/71-ebfbhV6L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "48,01 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FL83L295?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:09:29.426544+00:00",
-      "categories": [
-        "Starter Deck"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0GW8RGGGV",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -232,6 +232,24 @@
       "first_seen": "2026-08-29T18:10:14.597320+00:00",
       "categories": [
         "Sobre"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0FL83L295",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "One Piece TCG Starter Deck: Ace & Newgate (ST-22) - 51 Tarjetas",
+      "image": "https://m.media-amazon.com/images/I/71-ebfbhV6L._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "48,01 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FL83L295?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:09:29.426544+00:00",
+      "categories": [
+        "Starter Deck"
       ],
       "game": "One Piece"
     },
@@ -332,7 +350,7 @@
       "flag": "🇪🇸",
       "name": "One Piece TCG: Two Legends - Booster Pack (OP-08) (JP) (TCG)",
       "image": "https://m.media-amazon.com/images/I/818wUBVRF+L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "14,76 €",
+      "price": "14,70 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -394,24 +412,6 @@
       "first_seen": "2026-08-30T17:57:46.158159+00:00",
       "categories": [
         "Sobre"
-      ],
-      "game": "One Piece"
-    },
-    {
-      "asin": "B0G2SYLVM9",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "BANDAI Devil Fruits Collection Vol.3 DF-03 - Juego de Cartas de una Pieza - ES",
-      "image": "https://m.media-amazon.com/images/I/61yVsSN9CxL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "55,00 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "2",
-      "link": "https://www.amazon.es/dp/B0G2SYLVM9?tag=enkairito-21",
-      "first_seen": "2026-08-30T13:35:31.696707+00:00",
-      "categories": [
-        "Otros"
       ],
       "game": "One Piece"
     },
