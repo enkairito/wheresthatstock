@@ -36,6 +36,10 @@ let minDiscount = discountRangeEl ? Number(discountRangeEl.value) || 0 : 0;
 let maxPrice = Infinity;
 let sortMode = sortSelectEl ? sortSelectEl.value : "newest";
 
+// Orden de prioridad de tienda para "Novedades" — solicitado explícitamente:
+// primero Amazon ES, luego El Corte Inglés, luego Amazon US, luego Amazon UK.
+const MARKETPLACE_SORT_PRIORITY = { ES: 0, ECI: 1, US: 2, UK: 3 };
+
 function sortProducts(products) {
   const sorted = products.slice();
   if (sortMode === "price-asc") {
@@ -45,7 +49,11 @@ function sortProducts(products) {
   } else if (sortMode === "discount") {
     sorted.sort((a, b) => discountPercent(b) - discountPercent(a));
   } else if (sortMode === "newest") {
-    sorted.sort((a, b) => firstSeenTime(b) - firstSeenTime(a));
+    sorted.sort((a, b) => {
+      const marketplaceDiff = (MARKETPLACE_SORT_PRIORITY[a.marketplace] ?? 99) - (MARKETPLACE_SORT_PRIORITY[b.marketplace] ?? 99);
+      if (marketplaceDiff !== 0) return marketplaceDiff;
+      return firstSeenTime(b) - firstSeenTime(a);
+    });
   } else if (sortMode === "name") {
     sorted.sort((a, b) => (a.name || "").localeCompare(b.name || "", "es"));
   }
