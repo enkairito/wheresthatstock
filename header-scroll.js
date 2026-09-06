@@ -30,10 +30,10 @@
     }
     function open() {
       // position: fixed (ver styles.css) necesita coordenadas de
-      // viewport puestas a mano — no puede depender solo de CSS porque
-      // ya no está anclado a .topnav-dropdown.
+      // viewport puestas a mano. Pegado del todo (sin hueco) para que
+      // se vea como una continuación del botón, no una tarjeta flotante.
       const rect = trigger.getBoundingClientRect();
-      menu.style.top = `${rect.bottom + 6}px`;
+      menu.style.top = `${rect.bottom}px`;
       menu.style.left = `${rect.left}px`;
       trigger.setAttribute("aria-expanded", "true");
       menu.hidden = false;

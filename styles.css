@@ -155,7 +155,14 @@ header.header-hidden { transform: translateY(-100%); }
 /* Desplegable "TCG" del topnav: agrupa los juegos + Accesorios, ya que
    esa lista va a crecer (más TCG en camino) y un enlace plano por
    juego no escala. El resto del topnav (Ofertas/Noticias/Calendario)
-   se queda suelto, son pocos y no hace falta esconderlos. */
+   se queda suelto, son pocos y no hace falta esconderlos.
+   Al abrirlo, las opciones cuelgan hacia abajo pegadas al botón, como
+   una continuación suya — mismo truco visual que .topnav-link.active
+   (borde color navy, fondo var(--bg) en vez de var(--card-bg)) — en vez
+   de una tarjeta flotante con sombra separada. fixed (no absolute)
+   porque .topnav tiene overflow-y:hidden (a propósito, bug de arrastre
+   en móvil) que si no recortaría el menú; top/left los calcula
+   header-scroll.js a partir de la posición real del botón al abrirlo. */
 .topnav-dropdown { position: relative; display: inline-flex; }
 .topnav-dropdown-trigger {
   font-family: inherit;
@@ -166,24 +173,20 @@ header.header-hidden { transform: translateY(-100%); }
 }
 .dropdown-caret { transition: transform 0.15s ease; }
 .topnav-dropdown-trigger[aria-expanded="true"] .dropdown-caret { transform: rotate(180deg); }
+.topnav-dropdown-trigger[aria-expanded="true"] { border-bottom-color: var(--bg); }
 .topnav-dropdown-menu {
-  /* fixed, no absolute: .topnav tiene overflow-y:hidden (a propósito,
-     para un bug de arrastre en móvil — ver su comentario) y eso recorta
-     cualquier hijo absolute que sobresalga por debajo. fixed escapa de
-     ese recorte; top/left se calculan por JS en header-scroll.js según
-     la posición real del botón al abrirlo. */
   position: fixed;
   z-index: 60;
-  min-width: 200px;
-  background: var(--card-bg);
-  border: 1px solid var(--border);
-  border-radius: 12px;
-  box-shadow: 0 12px 26px rgba(0,0,0,0.12);
+  min-width: 190px;
+  background: var(--bg);
+  border: 1px solid color-mix(in srgb, var(--navy) 18%, transparent);
+  border-top: none;
+  border-radius: 0 0 12px 12px;
   padding: 6px;
-  display: flex;
   flex-direction: column;
   gap: 2px;
 }
+.topnav-dropdown-menu:not([hidden]) { display: flex; }
 .topnav-dropdown-item {
   display: flex;
   align-items: center;
