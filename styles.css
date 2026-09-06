@@ -7,11 +7,17 @@
   --accent: #ffcb05;
   --accent-fg: #0a0a0a;
   --navy: #2b5a8c;
-  --available: #1a9e4a;
+  /* Los 3 tonos de estado de abajo (available/invitation/unavailable) se
+     oscurecieron respecto al original (#1a9e4a/#a9720a/#8a8a8a) — el
+     original no llegaba a 4.5:1 de contraste (mínimo WCAG AA para texto
+     pequeño) contra su propio fondo de badge ni contra el fondo de
+     tarjeta donde también se usan como texto (precio, nota de stock).
+     Ver commit que introduce este comentario para las cifras exactas. */
+  --available: #15803c;
   --available-bg: #e7f7ee;
-  --invitation: #a9720a;
+  --invitation: #966509;
   --invitation-bg: #fdf3e0;
-  --unavailable: #8a8a8a;
+  --unavailable: #6d6d6d;
   --unavailable-bg: #f0f0f0;
   --live-dot: #1a9e4a;
 }
@@ -24,8 +30,13 @@
     --border: #262626;
     --card-bg: #171717;
     --navy: #6ea8d8;
+    /* Mismo ajuste de contraste que arriba, pero en la otra dirección
+       (más claros, no más oscuros) porque aquí el fondo es oscuro. */
+    --available: #1ca94f;
     --available-bg: #10321f;
+    --invitation: #bf810b;
     --invitation-bg: #33240a;
+    --unavailable: #8a8a8a;
     --unavailable-bg: #232323;
   }
 }
@@ -36,8 +47,11 @@
   --border: #262626;
   --card-bg: #171717;
   --navy: #6ea8d8;
+  --available: #1ca94f;
   --available-bg: #10321f;
+  --invitation: #bf810b;
   --invitation-bg: #33240a;
+  --unavailable: #8a8a8a;
   --unavailable-bg: #232323;
 }
 
