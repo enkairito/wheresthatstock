@@ -15,20 +15,24 @@ function timeAgo(iso) {
   return `hace ${Math.floor(hours / 24)} d`;
 }
 
+// Rutas absolutas ("/assets/...") a propósito: product-utils.js lo usan
+// tanto las páginas de listado (en la raíz, donde daría igual) como
+// producto.html/404.html, que a veces se sirven bajo /producto/{id} — ahí
+// una ruta relativa se buscaría dentro de esa carpeta y fallaría.
 const FLAG_ICONS = {
-  ES: "assets/flags/es.png",
-  ECI: "assets/flags/es.png",
-  UK: "assets/flags/gb.png",
-  US: "assets/flags/us.png",
+  ES: "/assets/flags/es.png",
+  ECI: "/assets/flags/es.png",
+  UK: "/assets/flags/gb.png",
+  US: "/assets/flags/us.png",
 };
 
 // Solo Amazon (ES/UK/US) tiene el logo de Amazon; otras tiendas (ej. El
 // Corte Inglés) no lo llevan salvo que se añada su propio icono a este mapa.
 const STORE_ICONS = {
-  ES: "assets/amazon-logo.png",
-  UK: "assets/amazon-logo.png",
-  US: "assets/amazon-logo.png",
-  ECI: "assets/eci-logo.webp",
+  ES: "/assets/amazon-logo.png",
+  UK: "/assets/amazon-logo.png",
+  US: "/assets/amazon-logo.png",
+  ECI: "/assets/eci-logo.webp",
 };
 
 const HTML_ESCAPES = { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" };

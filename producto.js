@@ -1,7 +1,12 @@
+// Rutas absolutas ("/algo") a propósito, no relativas: esta página se
+// sirve a veces bajo /producto/{id} (una carpeta más profunda que el resto
+// del sitio), y una ruta relativa como "styles.css" se buscaría dentro de
+// /producto/ en vez de en la raíz — descubierto 2026-09-06 viendo la
+// página sin ningún estilo aplicado.
 const CATEGORY_LINKS = {
-  "products.json": { href: "pokemontcg", label: "Pokémon TCG" },
-  "onepiece.json": { href: "onepiece", label: "One Piece TCG" },
-  "accesorios.json": { href: "accesorios", label: "Accesorios" },
+  "products.json": { href: "/pokemontcg", label: "Pokémon TCG" },
+  "onepiece.json": { href: "/onepiece", label: "One Piece TCG" },
+  "accesorios.json": { href: "/accesorios", label: "Accesorios" },
 };
 const SOURCE_FILES = Object.keys(CATEGORY_LINKS);
 
@@ -33,7 +38,7 @@ if (!id) {
 }
 
 function findProduct(mp, asin) {
-  Promise.allSettled(SOURCE_FILES.map(f => fetch(f + "?t=" + Date.now()).then(r => r.json())))
+  Promise.allSettled(SOURCE_FILES.map(f => fetch("/" + f + "?t=" + Date.now()).then(r => r.json())))
     .then(results => {
       const liveText = document.getElementById("live-text");
       const firstOk = results.find(r => r.status === "fulfilled");
@@ -50,7 +55,7 @@ function findProduct(mp, asin) {
         }
       }
       setBackLink("products.json");
-      detailEl.innerHTML = `<p>No hemos encontrado este producto — puede que haya dejado de estar en stock. <a href="pokemontcg">Ver todo Pokémon TCG</a>.</p>`;
+      detailEl.innerHTML = `<p>No hemos encontrado este producto — puede que haya dejado de estar en stock. <a href="/pokemontcg">Ver todo Pokémon TCG</a>.</p>`;
     })
     .catch(() => {
       detailEl.innerHTML = `<p>No se pudo cargar el producto. <a href="/">Volver al inicio</a>.</p>`;
@@ -59,7 +64,7 @@ function findProduct(mp, asin) {
 
 function setBackLink(src) {
   const category = CATEGORY_LINKS[src] || CATEGORY_LINKS["products.json"];
-  backLink.href = "/" + category.href;
+  backLink.href = category.href;
   backLink.textContent = `← Volver a ${category.label}`;
 }
 
