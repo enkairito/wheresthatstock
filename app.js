@@ -246,15 +246,20 @@ function setView(view) {
   grid.classList.remove("view-3", "view-5", "view-list");
   grid.classList.add(view);
   viewButtons.forEach(b => b.setAttribute("aria-pressed", String(b.dataset.view === view)));
-  try { localStorage.setItem("wts-view", view); } catch (e) {}
+  try { localStorage.setItem("wts-view-2", view); } catch (e) {}
 }
 
 viewButtons.forEach(btn => {
   btn.addEventListener("click", () => setView(btn.dataset.view));
 });
 
+// "wts-view-2", no "wts-view": al cambiar el default de 3 a 5 columnas
+// (2026-09-06), quien ya tuviera "wts-view" guardado seguiría viendo 3
+// columnas para siempre sin saber por qué — la clave nueva ignora ese
+// valor antiguo una sola vez y a partir de ahí vuelve a recordar el
+// toggle con normalidad.
 try {
-  const savedView = localStorage.getItem("wts-view");
+  const savedView = localStorage.getItem("wts-view-2");
   if (savedView) setView(savedView);
 } catch (e) {}
 
