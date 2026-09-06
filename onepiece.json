@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T10:19:24.916353+00:00",
+  "updated_at": "2026-09-06T13:58:08.748489+00:00",
   "products": [
     {
       "asin": "B0HFD53BDB",
@@ -56,24 +56,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0HC746FKY",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Juego de cartas de una pieza ST-34 Purple Charlotte Katakuri | Baraja de inicio, ST-34, Charlotte Katakuri, morado, juego de cartas coleccionables",
-      "image": "https://m.media-amazon.com/images/I/61sCSCulXuL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "30,00 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "2",
-      "link": "https://www.amazon.es/dp/B0HC746FKY?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:08:49.282666+00:00",
-      "categories": [
-        "Starter Deck"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0HC7Q9P41",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -86,6 +68,24 @@
       "stock": "1",
       "link": "https://www.amazon.es/dp/B0HC7Q9P41?tag=enkairito-21",
       "first_seen": "2026-08-29T18:08:37.714905+00:00",
+      "categories": [
+        "Starter Deck"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0HC746FKY",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Juego de cartas de una pieza ST-34 Purple Charlotte Katakuri | Baraja de inicio, ST-34, Charlotte Katakuri, morado, juego de cartas coleccionables",
+      "image": "https://m.media-amazon.com/images/I/61sCSCulXuL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "30,00 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "2",
+      "link": "https://www.amazon.es/dp/B0HC746FKY?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:08:49.282666+00:00",
       "categories": [
         "Starter Deck"
       ],
@@ -155,7 +155,7 @@
       "price": "65,40 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "1",
+      "stock": "2",
       "link": "https://www.amazon.es/dp/B0GW9TXS1Q?tag=enkairito-21",
       "first_seen": "2026-08-29T18:09:04.551067+00:00",
       "categories": [
@@ -182,24 +182,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0F85QRZP6",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "One Piece TCG A Fist of Divine Speed - Juego de 2 Unidades Vol.7 (DP-07)",
-      "image": "https://m.media-amazon.com/images/I/71Z7xwyoQZL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "175,64 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "1",
-      "link": "https://www.amazon.es/dp/B0F85QRZP6?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:10:00.427373+00:00",
-      "categories": [
-        "Double Pack"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0CGR4P859",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -214,6 +196,24 @@
       "first_seen": "2026-08-29T18:09:47.272890+00:00",
       "categories": [
         "Sobre"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0F85QRZP6",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "One Piece TCG A Fist of Divine Speed - Juego de 2 Unidades Vol.7 (DP-07)",
+      "image": "https://m.media-amazon.com/images/I/71Z7xwyoQZL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "175,64 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "1",
+      "link": "https://www.amazon.es/dp/B0F85QRZP6?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:10:00.427373+00:00",
+      "categories": [
+        "Double Pack"
       ],
       "game": "One Piece"
     },
@@ -326,24 +326,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0CKX97S18",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "BANDAI - Set One Piece Card Game : Ace/Sabo/Luffy - 0810059782457",
-      "image": "https://m.media-amazon.com/images/I/71Ji0PmwyWL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "79,17 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0CKX97S18?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:10:35.785772+00:00",
-      "categories": [
-        "Otros"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0HC79T34C",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -358,6 +340,24 @@
       "first_seen": "2026-08-29T18:09:23.560405+00:00",
       "categories": [
         "Starter Deck"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0CKX97S18",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "BANDAI - Set One Piece Card Game : Ace/Sabo/Luffy - 0810059782457",
+      "image": "https://m.media-amazon.com/images/I/71Ji0PmwyWL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "79,17 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CKX97S18?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:10:35.785772+00:00",
+      "categories": [
+        "Otros"
       ],
       "game": "One Piece"
     },
@@ -386,7 +386,7 @@
       "flag": "🇪🇸",
       "name": "One Piece TCG: Two Legends - Booster Pack (OP-08) (JP) (TCG)",
       "image": "https://m.media-amazon.com/images/I/818wUBVRF+L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "13,72 €",
+      "price": "13,60 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -434,20 +434,20 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0GDHHS7CR",
+      "asin": "B0D6BC4TJ3",
       "marketplace": "ES",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "One Piece TCG - Juego de Lata Vol. 2-2 Paquetes (Arte al Azar)",
-      "image": "https://m.media-amazon.com/images/I/51y8FNPfD0L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "101,01 €",
+      "name": "ONE PIECE TCG: 500 YEARS IN THE FUTURE BOOSTER BOX (OP 07) - 24 Packs",
+      "image": "https://m.media-amazon.com/images/I/61lsu2c-WrL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "411,23 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": "1",
-      "link": "https://www.amazon.es/dp/B0GDHHS7CR?tag=enkairito-21",
-      "first_seen": "2026-08-31T22:30:46.273546+00:00",
+      "link": "https://www.amazon.es/dp/B0D6BC4TJ3?tag=enkairito-21",
+      "first_seen": "2026-08-30T23:39:08.142925+00:00",
       "categories": [
-        "Otros"
+        "Booster Box"
       ],
       "game": "One Piece"
     }
