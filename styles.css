@@ -365,23 +365,40 @@ header.header-hidden { transform: translateY(-100%); }
 
 .layout.sidebar-hidden .sidebar { display: none; }
 
-.view-toggle { display: flex; gap: 6px; flex: none; }
+/* Control segmentado tipo iOS/macOS: una sola "pastilla" con fondo
+   discreto (el "carril") y el botón activo flotando dentro en
+   card-bg + sombra suave, en vez de 3 cajas sueltas con borde — más
+   coherente con el resto de píldoras del sitio (category-links,
+   badges) que 3 recuadros independientes. */
+.view-toggle {
+  display: flex;
+  gap: 2px;
+  flex: none;
+  background: var(--border);
+  padding: 3px;
+  border-radius: 11px;
+}
 .view-btn {
   display: flex;
   align-items: center;
   justify-content: center;
   width: 36px;
-  height: 32px;
-  border: 1.5px solid var(--border);
+  height: 30px;
+  border: none;
   border-radius: 8px;
-  background: var(--card-bg);
+  background: transparent;
   cursor: pointer;
   padding: 0;
+  transition: background 0.15s ease, box-shadow 0.15s ease;
 }
-.view-btn[aria-pressed="true"] { background: var(--fg); border-color: var(--fg); }
+.view-btn:hover { background: color-mix(in srgb, var(--card-bg) 55%, transparent); }
+.view-btn[aria-pressed="true"] {
+  background: var(--card-bg);
+  box-shadow: 0 1px 4px rgba(0,0,0,0.18);
+}
 .view-icon { display: flex; align-items: center; gap: 2px; height: 16px; }
-.view-icon span { display: block; width: 3px; height: 100%; background: var(--fg); border-radius: 1px; }
-.view-btn[aria-pressed="true"] .view-icon span { background: var(--bg); }
+.view-icon span { display: block; width: 3px; height: 100%; background: var(--muted); border-radius: 1px; transition: background 0.15s ease; }
+.view-btn[aria-pressed="true"] .view-icon span { background: var(--navy); }
 .view-icon.list-icon { flex-direction: column; justify-content: space-between; width: 16px; height: 13px; gap: 0; }
 .view-icon.list-icon span { width: 100%; height: 2px; }
 
