@@ -38,3 +38,47 @@ function renderSection(gridId, sectionId, items) {
   }
   grid.innerHTML = items.map(cardHtml).join("");
 }
+
+// events.json lo genera el bot en cada ejecución (ver check_stock.py /
+// build_event): un evento por restock o bajada de precio detectados, de
+// las 4 tiendas (a diferencia de Telegram, que solo avisa ES/ECI). Los
+// más recientes van al final del array.
+fetch("events.json?t=" + Date.now())
+  .then(r => r.json())
+  .then(events => renderActivity(events.slice(-8).reverse()))
+  .catch(() => {
+    const section = document.getElementById("activity-section");
+    if (section) section.style.display = "none";
+  });
+
+function renderActivity(events) {
+  const list = document.getElementById("activity-list");
+  const section = document.getElementById("activity-section");
+  if (!list || !section) return;
+  if (!events.length) {
+    section.style.display = "none";
+    return;
+  }
+  list.innerHTML = events.map(activityItemHtml).join("");
+}
+
+function activityItemHtml(e) {
+  const name = escapeHtml(e.name || "");
+  const link = escapeHtml(e.link || "#");
+  const image = escapeHtml(e.image || "");
+  const storeLabel = escapeHtml(`${e.store_label || ""} ${e.flag || ""}`.trim());
+  const actionText = e.type === "price_drop"
+    ? (e.prev_price && e.price
+        ? `bajó de precio: ${escapeHtml(e.prev_price)} → ${escapeHtml(e.price)}`
+        : "bajó de precio")
+    : "ya está disponible";
+  return `
+    <a class="activity-item" href="${link}" target="_blank" rel="noopener">
+      ${e.image ? `<img class="activity-img" src="${image}" alt="" loading="lazy">` : ""}
+      <div class="activity-body">
+        <div class="activity-text"><strong>${name}</strong> ${actionText}</div>
+        <div class="activity-meta">${storeLabel} · hace ${timeAgo(e.ts)}</div>
+      </div>
+    </a>
+  `;
+}

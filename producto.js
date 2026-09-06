@@ -38,19 +38,31 @@ if (!id) {
 }
 
 function findProduct(mp, asin) {
-  Promise.allSettled(SOURCE_FILES.map(f => fetch("/" + f + "?t=" + Date.now()).then(r => r.json())))
+  const productFetches = SOURCE_FILES.map(f => fetch("/" + f + "?t=" + Date.now()).then(r => r.json()));
+  // restock_stats.json lo genera restock_stats.py explotando el historial
+  // de git de state.json (ver ese script) — cuántas veces ha pasado cada
+  // producto de agotado a disponible en los últimos 7 días. Va aparte
+  // porque no todos los productos tienen entrada ahí (solo los que han
+  // restockeado al menos una vez recientemente).
+  const statsFetch = fetch("/restock_stats.json?t=" + Date.now()).then(r => r.json()).catch(() => ({}));
+
+  Promise.allSettled([...productFetches, statsFetch])
     .then(results => {
+      const productResults = results.slice(0, SOURCE_FILES.length);
+      const statsResult = results[results.length - 1];
+      const stats = statsResult.status === "fulfilled" ? statsResult.value : {};
+
       const liveText = document.getElementById("live-text");
-      const firstOk = results.find(r => r.status === "fulfilled");
+      const firstOk = productResults.find(r => r.status === "fulfilled");
       if (liveText && firstOk) liveText.textContent = timeAgo(firstOk.value.updated_at);
 
-      for (let i = 0; i < results.length; i++) {
-        const r = results[i];
+      for (let i = 0; i < productResults.length; i++) {
+        const r = productResults[i];
         if (r.status !== "fulfilled") continue;
         const match = (r.value.products || []).find(p => p.asin === asin && p.marketplace === mp);
         if (match) {
           setBackLink(SOURCE_FILES[i]);
-          render(match);
+          render(match, stats[`${mp}:${asin}`]);
           return;
         }
       }
@@ -68,7 +80,7 @@ function setBackLink(src) {
   backLink.textContent = `← Volver a ${category.label}`;
 }
 
-function render(p) {
+function render(p, restockCount) {
   const statusInfo = STATUS_LABEL[p.status] || STATUS_LABEL.no_disponible;
   const discount = discountPercent(p);
   const name = escapeHtml(p.name || "");
@@ -93,6 +105,10 @@ function render(p) {
        </div>`
     : "";
   const stockNote = p.stock ? `<div class="stock-note">Solo queda(n) ${escapeHtml(p.stock)} en stock</div>` : "";
+  // Solo se muestra a partir de 2: con 1 restock detectado el dato no dice
+  // nada útil (todo producto ha restockeado "al menos una vez" si está en
+  // la web ahora mismo).
+  const restockNote = restockCount >= 2 ? `<div class="restock-note">🔁 Visto en stock ${restockCount} veces esta semana</div>` : "";
 
   detailEl.innerHTML = `
     <div class="product-detail">
@@ -110,6 +126,7 @@ function render(p) {
         ${priceRow}
         ${discount > 0 ? `<span class="badge discount">-${discount}%</span>` : ""}
         ${stockNote}
+        ${restockNote}
         ${buyButton}
       </div>
     </div>

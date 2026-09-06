@@ -527,6 +527,7 @@ header.header-hidden { transform: translateY(-100%); }
 .price { font-family: 'Inter', sans-serif; font-weight: 800; font-size: 1.05rem; letter-spacing: -0.01em; color: var(--available); }
 .price-original { color: var(--muted); text-decoration: line-through; font-size: 0.82rem; font-weight: 700; }
 .stock-note { font-size: 0.72rem; font-weight: 800; color: var(--invitation); }
+.restock-note { font-size: 0.78rem; font-weight: 700; color: var(--navy); }
 
 .buy-btn {
   display: block;
@@ -815,6 +816,34 @@ footer a:hover { color: var(--navy); }
 .home-section-header h2 { margin: 0; font-size: 1.3rem; font-weight: 900; letter-spacing: -0.01em; }
 .home-section-header a { color: var(--navy); text-decoration: none; font-weight: 700; font-size: 0.88rem; white-space: nowrap; }
 .home-section-header a:hover { text-decoration: underline; }
+
+.activity-list { display: flex; flex-direction: column; gap: 10px; max-width: 760px; }
+.activity-item {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 10px 16px;
+  background: var(--card-bg);
+  text-decoration: none;
+  color: var(--fg);
+}
+a.activity-item:hover { border-color: color-mix(in srgb, var(--navy) 35%, var(--border)); }
+.activity-img {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 4px;
+  box-sizing: border-box;
+  flex: none;
+}
+.activity-body { min-width: 0; }
+.activity-text { font-size: 0.88rem; line-height: 1.4; }
+.activity-meta { font-size: 0.76rem; color: var(--muted); margin-top: 2px; }
 
 @media (max-width: 860px) {
   .category-grid { grid-template-columns: 1fr; }
