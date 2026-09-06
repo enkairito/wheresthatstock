@@ -29,6 +29,12 @@
       menu.hidden = true;
     }
     function open() {
+      // position: fixed (ver styles.css) necesita coordenadas de
+      // viewport puestas a mano — no puede depender solo de CSS porque
+      // ya no está anclado a .topnav-dropdown.
+      const rect = trigger.getBoundingClientRect();
+      menu.style.top = `${rect.bottom + 6}px`;
+      menu.style.left = `${rect.left}px`;
       trigger.setAttribute("aria-expanded", "true");
       menu.hidden = false;
     }
@@ -43,5 +49,8 @@
     document.addEventListener("keydown", e => {
       if (e.key === "Escape") close();
     });
+    // Cierra en vez de reposicionar al hacer scroll — más simple que
+    // recalcular top/left en cada evento de scroll.
+    window.addEventListener("scroll", close, { passive: true });
   });
 })();

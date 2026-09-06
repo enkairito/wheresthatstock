@@ -167,9 +167,12 @@ header.header-hidden { transform: translateY(-100%); }
 .dropdown-caret { transition: transform 0.15s ease; }
 .topnav-dropdown-trigger[aria-expanded="true"] .dropdown-caret { transform: rotate(180deg); }
 .topnav-dropdown-menu {
-  position: absolute;
-  top: calc(100% + 6px);
-  left: 0;
+  /* fixed, no absolute: .topnav tiene overflow-y:hidden (a propósito,
+     para un bug de arrastre en móvil — ver su comentario) y eso recorta
+     cualquier hijo absolute que sobresalga por debajo. fixed escapa de
+     ese recorte; top/left se calculan por JS en header-scroll.js según
+     la posición real del botón al abrirlo. */
+  position: fixed;
   z-index: 60;
   min-width: 200px;
   background: var(--card-bg);
