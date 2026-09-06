@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T18:52:50.859097+00:00",
+  "updated_at": "2026-09-06T19:18:39.221509+00:00",
   "products": [
     {
       "asin": "B0HFD53BDB",
@@ -8,7 +8,7 @@
       "flag": "🇪🇸",
       "name": "One Piece TCG: The World's Strongest Warriors - Juego de doble paquete Vol. 12 DP-12 (2 paquetes OP-17)",
       "image": "https://m.media-amazon.com/images/I/61zqczEIKhL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "90,27 €",
+      "price": "94,79 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -380,24 +380,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0GW8RGGGV",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Juego de cartas de una pieza TCG Adventure on Kami's Island Paquete de refuerzo de 12 cartas - Edición en inglés - OP15-EB04",
-      "image": "https://m.media-amazon.com/images/I/610xO3i4PyL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "25,00 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0GW8RGGGV?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:10:14.597320+00:00",
-      "categories": [
-        "Sobre"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0D69TF558",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -410,6 +392,24 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B0D69TF558?tag=enkairito-21",
       "first_seen": "2026-08-29T18:09:54.795240+00:00",
+      "categories": [
+        "Sobre"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0GW8RGGGV",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Juego de cartas de una pieza TCG Adventure on Kami's Island Paquete de refuerzo de 12 cartas - Edición en inglés - OP15-EB04",
+      "image": "https://m.media-amazon.com/images/I/610xO3i4PyL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "25,00 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GW8RGGGV?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:10:14.597320+00:00",
       "categories": [
         "Sobre"
       ],
@@ -440,7 +440,7 @@
       "flag": "🇪🇸",
       "name": "One Piece TCG: Adventure on Kami's Island - Paquete de refuerzo con mangas (OP-15 - EB-04) - 12 cartas",
       "image": "https://m.media-amazon.com/images/I/61qOtZrZ7vL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "27,64 €",
+      "price": "27,65 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
