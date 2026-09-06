@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T00:36:49.378599+00:00",
+  "updated_at": "2026-09-06T01:04:33.704508+00:00",
   "products": [
     {
       "asin": "B0HFD53BDB",
@@ -224,7 +224,7 @@
       "flag": "🇪🇸",
       "name": "One Piece TCG Starter Deck: Ace & Newgate (ST-22) - 51 Tarjetas",
       "image": "https://m.media-amazon.com/images/I/71-ebfbhV6L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "42,88 €",
+      "price": "43,46 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -290,24 +290,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0G6FWHGQT",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "One Piece TCG: The Azure Sea's Seven Booster Box (OP-14) - 24 Paquetes",
-      "image": "https://m.media-amazon.com/images/I/71vmZEBSkBL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "382,73 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "2",
-      "link": "https://www.amazon.es/dp/B0G6FWHGQT?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:10:41.534422+00:00",
-      "categories": [
-        "Booster Box"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0F8V1YTSP",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -320,6 +302,24 @@
       "stock": "1",
       "link": "https://www.amazon.es/dp/B0F8V1YTSP?tag=enkairito-21",
       "first_seen": "2026-08-29T18:10:47.849793+00:00",
+      "categories": [
+        "Booster Box"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0G6FWHGQT",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "One Piece TCG: The Azure Sea's Seven Booster Box (OP-14) - 24 Paquetes",
+      "image": "https://m.media-amazon.com/images/I/71vmZEBSkBL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "382,73 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "2",
+      "link": "https://www.amazon.es/dp/B0G6FWHGQT?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:10:41.534422+00:00",
       "categories": [
         "Booster Box"
       ],
@@ -386,7 +386,7 @@
       "flag": "🇪🇸",
       "name": "One Piece TCG: Two Legends - Booster Pack (OP-08) (JP) (TCG)",
       "image": "https://m.media-amazon.com/images/I/818wUBVRF+L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "14,02 €",
+      "price": "14,00 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -416,24 +416,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0GX2Y7SN8",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "One Piece TCG: Adventure on Kami's Island - Paquete de refuerzo con mangas (OP-15 - EB-04) - 12 cartas",
-      "image": "https://m.media-amazon.com/images/I/61qOtZrZ7vL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "27,65 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0GX2Y7SN8?tag=enkairito-21",
-      "first_seen": "2026-08-30T17:57:46.158159+00:00",
-      "categories": [
-        "Sobre"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0HDTCPRQN",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -448,6 +430,24 @@
       "first_seen": "2026-09-01T13:08:56.491122+00:00",
       "categories": [
         "Otros"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0GX2Y7SN8",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "One Piece TCG: Adventure on Kami's Island - Paquete de refuerzo con mangas (OP-15 - EB-04) - 12 cartas",
+      "image": "https://m.media-amazon.com/images/I/61qOtZrZ7vL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "27,64 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GX2Y7SN8?tag=enkairito-21",
+      "first_seen": "2026-08-30T17:57:46.158159+00:00",
+      "categories": [
+        "Sobre"
       ],
       "game": "One Piece"
     }
