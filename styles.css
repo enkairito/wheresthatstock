@@ -278,10 +278,14 @@ header.header-hidden { transform: translateY(-100%); }
 }
 .filter-option input { width: 16px; height: 16px; accent-color: var(--navy); cursor: pointer; flex: none; }
 
-.category-intro { max-width: 900px; margin: 0 0 20px; }
+.category-intro { max-width: 900px; margin: 0 0 14px; }
 .intro-logo { display: block; height: 64px; width: auto; margin-bottom: 12px; }
-.category-intro h1 { font-size: 1.6rem; margin: 0 0 8px; color: var(--fg); }
-.category-intro p { color: var(--muted); margin: 0; line-height: 1.55; }
+/* A propósito, discreto: el h1/intro existen por SEO (título real de la
+   página, texto descriptivo para buscadores), no como titular visual — se
+   reduce el tamaño para que no compita con la marca del header ni con la
+   barra de herramientas de debajo. */
+.category-intro h1 { font-size: 1rem; font-weight: 700; margin: 0 0 3px; color: var(--fg); }
+.category-intro p { color: var(--muted); margin: 0; line-height: 1.4; font-size: 0.8rem; }
 
 .category-links { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin: 20px 0; }
 .category-links-label { font-size: 0.85rem; color: var(--muted); margin-right: 2px; }
