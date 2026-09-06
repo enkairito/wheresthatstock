@@ -289,7 +289,12 @@ Promise.allSettled(PRODUCTS_URLS.map(url => fetch(url + "?t=" + Date.now()).then
     const okResults = results.filter(r => r.status === "fulfilled").map(r => r.value);
     if (!okResults.length) throw new Error("Ningún origen de productos cargó correctamente");
 
-    allProducts = okResults.flatMap(data => data.products || []);
+    // "_src" (qué archivo JSON trajo este producto) viaja con cada producto
+    // para poder reconstruir el enlace a su página individual (producto.html)
+    // más tarde, sin tener que adivinar de dónde vino cada uno.
+    allProducts = results.flatMap((r, i) =>
+      r.status === "fulfilled" ? (r.value.products || []).map(p => ({ ...p, _src: PRODUCTS_URLS[i] })) : []
+    );
     const latestUpdate = okResults
       .map(data => data.updated_at)
       .filter(Boolean)

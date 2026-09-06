@@ -61,12 +61,20 @@ function firstSeenTime(p) {
   return Number.isNaN(t) ? 0 : t;
 }
 
+function productUrl(p) {
+  // ID compacto "MP-ASIN" (ej. "ES-B0GZKZ1FL9"). No hace falta codificar de
+  // qué archivo JSON viene (_src) porque el ASIN ya es único de por sí — la
+  // página de producto simplemente prueba los 3 archivos hasta encontrarlo.
+  return `producto/${encodeURIComponent(p.marketplace || "")}-${encodeURIComponent(p.asin || "")}`;
+}
+
 function cardHtml(p) {
   const statusInfo = STATUS_LABEL[p.status] || STATUS_LABEL.no_disponible;
   const discount = discountPercent(p);
   const name = escapeHtml(p.name || "");
   const image = escapeHtml(p.image || "");
   const link = escapeHtml(p.link || "");
+  const detailUrl = productUrl(p);
   const storeLabel = escapeHtml(`${p.store_label || "Amazon"} ${p.flag || ""}`.trim());
   const priceRow = p.price
     ? `<div class="price-row">
@@ -87,7 +95,7 @@ function cardHtml(p) {
 
   return `
     <div class="card" data-name="${name.toLowerCase()}">
-      <div class="card-img">
+      <a class="card-img" href="${detailUrl}">
         ${p.image ? `<img src="${image}" alt="${name}" loading="lazy">` : ""}
         <div class="card-corner" title="${storeLabel}">
           ${STORE_ICONS[p.marketplace] ? `<span class="corner-icon"><img src="${STORE_ICONS[p.marketplace]}" alt="${storeLabel}"></span>` : ""}
@@ -95,9 +103,9 @@ function cardHtml(p) {
           ${p.status !== "compra_directa" ? `<span class="badge status ${statusInfo.cls}">${statusInfo.text}</span>` : ""}
         </div>
         ${discount > 0 ? `<div class="card-corner-right"><span class="badge discount">-${discount}%</span></div>` : ""}
-      </div>
+      </a>
       <div class="card-body">
-        <div class="card-name">${name}</div>
+        <a class="card-name" href="${detailUrl}">${name}</a>
         ${priceRow}
         ${stockNote}
         ${buyButton}

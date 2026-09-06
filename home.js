@@ -1,7 +1,9 @@
 fetch("products.json?t=" + Date.now())
   .then(r => r.json())
   .then(data => {
-    const products = data.products || [];
+    // "_src" viaja con cada producto para poder enlazar a su página
+    // individual (producto.html) — ver la misma nota en app.js.
+    const products = (data.products || []).map(p => ({ ...p, _src: "products.json" }));
     const liveText = document.getElementById("live-text");
     if (liveText) liveText.textContent = "Actualizado " + timeAgo(data.updated_at);
 
