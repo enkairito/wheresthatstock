@@ -3,3 +3,7 @@ compatibility_date = "2026-08-25"
 
 [assets]
 directory = "./"
+# Sin esto, cualquier ruta que no coincida con un archivo real (incluida la
+# URL bonita de producto, /producto/{id}) devuelve un 404 con el cuerpo
+# vacío en vez de servir 404.html — descubierto 2026-09-06.
+not_found_handling = "404-page"
