@@ -17,3 +17,31 @@
     lastScrollY = currentScrollY;
   }, { passive: true });
 })();
+
+(function () {
+  document.querySelectorAll(".topnav-dropdown").forEach(dd => {
+    const trigger = dd.querySelector(".topnav-dropdown-trigger");
+    const menu = dd.querySelector(".topnav-dropdown-menu");
+    if (!trigger || !menu) return;
+
+    function close() {
+      trigger.setAttribute("aria-expanded", "false");
+      menu.hidden = true;
+    }
+    function open() {
+      trigger.setAttribute("aria-expanded", "true");
+      menu.hidden = false;
+    }
+
+    trigger.addEventListener("click", e => {
+      e.stopPropagation();
+      trigger.getAttribute("aria-expanded") === "true" ? close() : open();
+    });
+    document.addEventListener("click", e => {
+      if (!dd.contains(e.target)) close();
+    });
+    document.addEventListener("keydown", e => {
+      if (e.key === "Escape") close();
+    });
+  });
+})();

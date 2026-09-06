@@ -152,6 +152,50 @@ header.header-hidden { transform: translateY(-100%); }
 }
 .nav-icon { flex: none; }
 
+/* Desplegable "TCG" del topnav: agrupa los juegos + Accesorios, ya que
+   esa lista va a crecer (más TCG en camino) y un enlace plano por
+   juego no escala. El resto del topnav (Ofertas/Noticias/Calendario)
+   se queda suelto, son pocos y no hace falta esconderlos. */
+.topnav-dropdown { position: relative; display: inline-flex; }
+.topnav-dropdown-trigger {
+  font-family: inherit;
+  background: none;
+  appearance: none;
+  margin: 0;
+  cursor: pointer;
+}
+.dropdown-caret { transition: transform 0.15s ease; }
+.topnav-dropdown-trigger[aria-expanded="true"] .dropdown-caret { transform: rotate(180deg); }
+.topnav-dropdown-menu {
+  position: absolute;
+  top: calc(100% + 6px);
+  left: 0;
+  z-index: 60;
+  min-width: 200px;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  box-shadow: 0 12px 26px rgba(0,0,0,0.12);
+  padding: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+.topnav-dropdown-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 9px 12px;
+  border-radius: 8px;
+  color: var(--fg);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.88rem;
+  white-space: nowrap;
+}
+.topnav-dropdown-item:hover { background: color-mix(in srgb, var(--navy) 10%, transparent); }
+.topnav-dropdown-item.active { color: var(--navy); background: color-mix(in srgb, var(--navy) 12%, transparent); font-weight: 800; }
+
 .status-bar {
   border-top: 1px solid var(--border);
   padding: 8px clamp(20px, 3vw, 60px);
