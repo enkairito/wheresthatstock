@@ -896,6 +896,10 @@ footer a:hover { color: var(--navy); }
   cursor: default;
   pointer-events: none;
 }
+.category-placeholder-icon {
+  color: var(--muted);
+  margin: 12px 0 4px;
+}
 .category-badge {
   font-size: 0.68rem;
   font-weight: 800;
