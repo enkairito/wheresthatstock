@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T23:31:36.939451+00:00",
+  "updated_at": "2026-09-07T02:59:15.400813+00:00",
   "products": [
     {
       "asin": "B0HFD53BDB",
@@ -8,7 +8,7 @@
       "flag": "🇪🇸",
       "name": "One Piece TCG: The World's Strongest Warriors - Juego de doble paquete Vol. 12 DP-12 (2 paquetes OP-17)",
       "image": "https://m.media-amazon.com/images/I/61zqczEIKhL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "94,79 €",
+      "price": "93,52 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -110,24 +110,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0CRY385YN",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "One Piece TCG: Two Legends - Booster Box (OP-08) (JP) (TCG)",
-      "image": "https://m.media-amazon.com/images/I/81+5FGyfxEL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "169,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "1",
-      "link": "https://www.amazon.es/dp/B0CRY385YN?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:09:10.514835+00:00",
-      "categories": [
-        "Booster Box"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0HF1Z72XW",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -140,6 +122,24 @@
       "stock": "1",
       "link": "https://www.amazon.es/dp/B0HF1Z72XW?tag=enkairito-21",
       "first_seen": "2026-09-05T20:33:38.638411+00:00",
+      "categories": [
+        "Booster Box"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0CRY385YN",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "One Piece TCG: Two Legends - Booster Box (OP-08) (JP) (TCG)",
+      "image": "https://m.media-amazon.com/images/I/81+5FGyfxEL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "169,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "1",
+      "link": "https://www.amazon.es/dp/B0CRY385YN?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:09:10.514835+00:00",
       "categories": [
         "Booster Box"
       ],
@@ -254,6 +254,24 @@
       "game": "One Piece"
     },
     {
+      "asin": "B0FL83L295",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "One Piece TCG Starter Deck: Ace & Newgate (ST-22) - 51 Tarjetas",
+      "image": "https://m.media-amazon.com/images/I/71-ebfbhV6L._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "42,88 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FL83L295?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:09:29.426544+00:00",
+      "categories": [
+        "Starter Deck"
+      ],
+      "game": "One Piece"
+    },
+    {
       "asin": "B0DZ25YM9N",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -268,24 +286,6 @@
       "first_seen": "2026-09-03T14:54:32.874380+00:00",
       "categories": [
         "Otros"
-      ],
-      "game": "One Piece"
-    },
-    {
-      "asin": "B0FL83L295",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "One Piece TCG Starter Deck: Ace & Newgate (ST-22) - 51 Tarjetas",
-      "image": "https://m.media-amazon.com/images/I/71-ebfbhV6L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "48,17 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FL83L295?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:09:29.426544+00:00",
-      "categories": [
-        "Starter Deck"
       ],
       "game": "One Piece"
     },
@@ -326,24 +326,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0CKX97S18",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "BANDAI - Set One Piece Card Game : Ace/Sabo/Luffy - 0810059782457",
-      "image": "https://m.media-amazon.com/images/I/71Ji0PmwyWL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "79,17 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0CKX97S18?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:10:35.785772+00:00",
-      "categories": [
-        "Otros"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0HDTCPRQN",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -362,13 +344,31 @@
       "game": "One Piece"
     },
     {
+      "asin": "B0CKX97S18",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "BANDAI - Set One Piece Card Game : Ace/Sabo/Luffy - 0810059782457",
+      "image": "https://m.media-amazon.com/images/I/71Ji0PmwyWL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "79,17 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CKX97S18?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:10:35.785772+00:00",
+      "categories": [
+        "Otros"
+      ],
+      "game": "One Piece"
+    },
+    {
       "asin": "B0F8V1YTSP",
       "marketplace": "ES",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "BANDAI Juego de cartas de una pieza más antiguo (OP-13) (caja) de 24 unidades",
       "image": "https://m.media-amazon.com/images/I/81uxMM80r7L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "290,05 €",
+      "price": "290,34 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": "1",
@@ -398,24 +398,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0D69TF558",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "One Piece TCG: Two Legends - Booster Pack (OP-08) (JP) (TCG)",
-      "image": "https://m.media-amazon.com/images/I/818wUBVRF+L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "13,58 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0D69TF558?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:09:54.795240+00:00",
-      "categories": [
-        "Sobre"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0GW8RGGGV",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -428,6 +410,24 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B0GW8RGGGV?tag=enkairito-21",
       "first_seen": "2026-08-29T18:10:14.597320+00:00",
+      "categories": [
+        "Sobre"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0D69TF558",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "One Piece TCG: Two Legends - Booster Pack (OP-08) (JP) (TCG)",
+      "image": "https://m.media-amazon.com/images/I/818wUBVRF+L._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "13,50 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0D69TF558?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:09:54.795240+00:00",
       "categories": [
         "Sobre"
       ],
