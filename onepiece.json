@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T16:23:44.486290+00:00",
+  "updated_at": "2026-09-07T20:28:07.315980+00:00",
   "products": [
     {
       "asin": "B0HFD53BDB",
@@ -8,10 +8,10 @@
       "flag": "🇪🇸",
       "name": "One Piece TCG: The World's Strongest Warriors - Juego de doble paquete Vol. 12 DP-12 (2 paquetes OP-17)",
       "image": "https://m.media-amazon.com/images/I/61zqczEIKhL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "93,52 €",
+      "price": "46,00 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": null,
+      "stock": "1",
       "link": "https://www.amazon.es/dp/B0HFD53BDB?tag=enkairito-21",
       "first_seen": "2026-09-06T00:36:37.394759+00:00",
       "categories": [
@@ -80,10 +80,10 @@
       "flag": "🇪🇸",
       "name": "Juego de cartas de una pieza ST-34 Purple Charlotte Katakuri | Baraja de inicio, ST-34, Charlotte Katakuri, morado, juego de cartas coleccionables",
       "image": "https://m.media-amazon.com/images/I/61sCSCulXuL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "30,00 €",
+      "price": "38,47 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "2",
+      "stock": null,
       "link": "https://www.amazon.es/dp/B0HC746FKY?tag=enkairito-21",
       "first_seen": "2026-08-29T18:08:49.282666+00:00",
       "categories": [
@@ -110,20 +110,20 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0CRY385YN",
+      "asin": "B0HC7FPQJM",
       "marketplace": "ES",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "One Piece TCG: Two Legends - Booster Box (OP-08) (JP) (TCG)",
-      "image": "https://m.media-amazon.com/images/I/81+5FGyfxEL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "169,99 €",
+      "name": "Juego de cartas de una pieza ST-31 Red Monkey.D.Luffy",
+      "image": "https://m.media-amazon.com/images/I/61vgXOSYfBL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "35,20 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "1",
-      "link": "https://www.amazon.es/dp/B0CRY385YN?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:09:10.514835+00:00",
+      "stock": "2",
+      "link": "https://www.amazon.es/dp/B0HC7FPQJM?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:08:43.440854+00:00",
       "categories": [
-        "Booster Box"
+        "Starter Deck"
       ],
       "game": "One Piece"
     },
@@ -146,20 +146,20 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0HC7FPQJM",
+      "asin": "B0CRY385YN",
       "marketplace": "ES",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Juego de cartas de una pieza ST-31 Red Monkey.D.Luffy",
-      "image": "https://m.media-amazon.com/images/I/61vgXOSYfBL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "35,20 €",
-      "original_price": null,
+      "name": "One Piece TCG: Two Legends - Booster Box (OP-08) (JP) (TCG)",
+      "image": "https://m.media-amazon.com/images/I/81+5FGyfxEL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "89,90 €",
+      "original_price": "114,99 €",
       "status": "compra_directa",
-      "stock": "2",
-      "link": "https://www.amazon.es/dp/B0HC7FPQJM?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:08:43.440854+00:00",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CRY385YN?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:09:10.514835+00:00",
       "categories": [
-        "Starter Deck"
+        "Booster Box"
       ],
       "game": "One Piece"
     },
@@ -290,24 +290,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0F864T1GL",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Juego de cartas de una pieza - ST-27 Marshall.D.Teach",
-      "image": "https://m.media-amazon.com/images/I/6174iJVA8AL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "43,72 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "1",
-      "link": "https://www.amazon.es/dp/B0F864T1GL?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:08:31.866109+00:00",
-      "categories": [
-        "Starter Deck"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0CKX97S18",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -350,7 +332,7 @@
       "flag": "🇪🇸",
       "name": "BANDAI Juego de cartas de una pieza más antiguo (OP-13) (caja) de 24 unidades",
       "image": "https://m.media-amazon.com/images/I/81uxMM80r7L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "289,79 €",
+      "price": "289,74 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
