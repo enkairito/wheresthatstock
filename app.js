@@ -18,7 +18,7 @@ function render(products) {
 const discountRangeEl = document.getElementById("discount-range");
 const sortSelectEl = document.getElementById("sort-select");
 
-let activeStatuses = new Set(["compra_directa", "invitacion"]);
+let activeStatuses = new Set(["compra_directa", "invitacion", "preventa"]);
 let activeMarketplaces = new Set(["ES", "UK", "US", "ECI"]);
 // Las categorías varían según la página (Pokémon TCG, One Piece TCG,
 // Accesorios...), así que se leen directamente de los checkboxes presentes
@@ -83,11 +83,11 @@ function applyFilter() {
   renderActiveFilters();
 }
 
-const ALL_STATUSES = ["compra_directa", "invitacion"];
+const ALL_STATUSES = ["compra_directa", "invitacion", "preventa"];
 const ALL_MARKETPLACES = ["ES", "UK", "US", "ECI"];
 const ALL_GAMES = [...document.querySelectorAll(".sidebar input[data-game]")].map(cb => cb.dataset.game);
 const ALL_CATEGORIES = [...document.querySelectorAll(".sidebar input[data-category]")].map(cb => cb.dataset.category);
-const STATUS_FILTER_LABEL = { compra_directa: "Disponible", invitacion: "Invitación" };
+const STATUS_FILTER_LABEL = { compra_directa: "Disponible", invitacion: "Invitación", preventa: "Preventa" };
 const MARKETPLACE_FILTER_LABEL = { ES: "Amazon ES", UK: "Amazon UK", US: "Amazon USA", ECI: "El Corte Inglés" };
 
 function renderActiveFilters() {

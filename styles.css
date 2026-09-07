@@ -19,6 +19,8 @@
   --invitation-bg: #fdf3e0;
   --unavailable: #6d6d6d;
   --unavailable-bg: #f0f0f0;
+  --preventa: #7c3aed;
+  --preventa-bg: #f1e9fe;
   --live-dot: #1a9e4a;
 }
 
@@ -38,6 +40,8 @@
     --invitation-bg: #33240a;
     --unavailable: #8a8a8a;
     --unavailable-bg: #232323;
+    --preventa: #a171f2;
+    --preventa-bg: #2c1a4d;
   }
 }
 :root[data-theme="dark"] {
@@ -53,6 +57,8 @@
   --invitation-bg: #33240a;
   --unavailable: #8a8a8a;
   --unavailable-bg: #232323;
+  --preventa: #a171f2;
+  --preventa-bg: #2c1a4d;
 }
 
 * { box-sizing: border-box; }
@@ -578,6 +584,7 @@ header.header-hidden { transform: translateY(-100%); }
 .badge.status.available { background: var(--available-bg); color: var(--available); }
 .badge.status.invitation { background: var(--invitation-bg); color: var(--invitation); }
 .badge.status.unavailable { background: var(--unavailable-bg); color: var(--unavailable); }
+.badge.status.preventa { background: var(--preventa-bg); color: var(--preventa); }
 
 .price-row { display: flex; align-items: baseline; justify-content: center; gap: 8px; }
 
