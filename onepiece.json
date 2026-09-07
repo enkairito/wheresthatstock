@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T08:02:30.658820+00:00",
+  "updated_at": "2026-09-07T10:27:42.005305+00:00",
   "products": [
     {
       "asin": "B0HFD53BDB",
@@ -92,42 +92,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0GDGRWH54",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "One Piece TCG: Double Pack Set Vol. 9 (DP-09) - The Azure Sea's Seven (2 Paquetes)",
-      "image": "https://m.media-amazon.com/images/I/61kzgGq-ywL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "60,97 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0GDGRWH54?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:09:35.306058+00:00",
-      "categories": [
-        "Double Pack"
-      ],
-      "game": "One Piece"
-    },
-    {
-      "asin": "B0HF1Z72XW",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "One Piece TCG: The World's Strongest Warriors Booster Box (OP-17) - 24 paquetes",
-      "image": "https://m.media-amazon.com/images/I/61CWeLxq3eL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "409,65 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "1",
-      "link": "https://www.amazon.es/dp/B0HF1Z72XW?tag=enkairito-21",
-      "first_seen": "2026-09-05T20:33:38.638411+00:00",
-      "categories": [
-        "Booster Box"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0CRY385YN",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -146,6 +110,24 @@
       "game": "One Piece"
     },
     {
+      "asin": "B0GDGRWH54",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "One Piece TCG: Double Pack Set Vol. 9 (DP-09) - The Azure Sea's Seven (2 Paquetes)",
+      "image": "https://m.media-amazon.com/images/I/61kzgGq-ywL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "60,97 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GDGRWH54?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:09:35.306058+00:00",
+      "categories": [
+        "Double Pack"
+      ],
+      "game": "One Piece"
+    },
+    {
       "asin": "B0HC7FPQJM",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -160,6 +142,24 @@
       "first_seen": "2026-08-29T18:08:43.440854+00:00",
       "categories": [
         "Starter Deck"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0HF1Z72XW",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "One Piece TCG: The World's Strongest Warriors Booster Box (OP-17) - 24 paquetes",
+      "image": "https://m.media-amazon.com/images/I/61CWeLxq3eL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "489,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "1",
+      "link": "https://www.amazon.es/dp/B0HF1Z72XW?tag=enkairito-21",
+      "first_seen": "2026-09-05T20:33:38.638411+00:00",
+      "categories": [
+        "Booster Box"
       ],
       "game": "One Piece"
     },
@@ -272,18 +272,36 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0HDTCPRQN",
+      "asin": "B0G2YV88DN",
       "marketplace": "ES",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "One Piece Card Game Illustration Box Vol. 7 (IB-07) - 4 paquetes, promociones",
-      "image": "https://m.media-amazon.com/images/I/71S1FW6ZdTL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "107,72 €",
+      "name": "BANDAI One Piece TCG: Carry on His Will Booster Pack (OP-13) - 12 cartas",
+      "image": "https://m.media-amazon.com/images/I/51jRJAPOQqL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "37,36 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0HDTCPRQN?tag=enkairito-21",
-      "first_seen": "2026-09-01T13:08:56.491122+00:00",
+      "link": "https://www.amazon.es/dp/B0G2YV88DN?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:10:26.223493+00:00",
+      "categories": [
+        "Sobre"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0CKX97S18",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "BANDAI - Set One Piece Card Game : Ace/Sabo/Luffy - 0810059782457",
+      "image": "https://m.media-amazon.com/images/I/71Ji0PmwyWL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "79,17 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CKX97S18?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:10:35.785772+00:00",
       "categories": [
         "Otros"
       ],
@@ -308,24 +326,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0G2YV88DN",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "BANDAI One Piece TCG: Carry on His Will Booster Pack (OP-13) - 12 cartas",
-      "image": "https://m.media-amazon.com/images/I/51jRJAPOQqL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "37,36 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0G2YV88DN?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:10:26.223493+00:00",
-      "categories": [
-        "Sobre"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0F8V1YTSP",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -340,42 +340,6 @@
       "first_seen": "2026-08-29T18:10:47.849793+00:00",
       "categories": [
         "Booster Box"
-      ],
-      "game": "One Piece"
-    },
-    {
-      "asin": "B0CKX97S18",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "BANDAI - Set One Piece Card Game : Ace/Sabo/Luffy - 0810059782457",
-      "image": "https://m.media-amazon.com/images/I/71Ji0PmwyWL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "79,17 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0CKX97S18?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:10:35.785772+00:00",
-      "categories": [
-        "Otros"
-      ],
-      "game": "One Piece"
-    },
-    {
-      "asin": "B0HC79T34C",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Juego de cartas de una pieza ST-33 Blue Kuzan | Baraja de inicio, ST-33, Blue Kuzan, juego de cartas coleccionables",
-      "image": "https://m.media-amazon.com/images/I/61Y5hOdwBEL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "30,00 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "2",
-      "link": "https://www.amazon.es/dp/B0HC79T34C?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:09:23.560405+00:00",
-      "categories": [
-        "Starter Deck"
       ],
       "game": "One Piece"
     },
@@ -398,18 +362,54 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0GW8RGGGV",
+      "asin": "B0HC79T34C",
       "marketplace": "ES",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Juego de cartas de una pieza TCG Adventure on Kami's Island Paquete de refuerzo de 12 cartas - Edición en inglés - OP15-EB04",
-      "image": "https://m.media-amazon.com/images/I/610xO3i4PyL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "25,00 €",
+      "name": "Juego de cartas de una pieza ST-33 Blue Kuzan | Baraja de inicio, ST-33, Blue Kuzan, juego de cartas coleccionables",
+      "image": "https://m.media-amazon.com/images/I/61Y5hOdwBEL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "30,00 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "2",
+      "link": "https://www.amazon.es/dp/B0HC79T34C?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:09:23.560405+00:00",
+      "categories": [
+        "Starter Deck"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0HDTCPRQN",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "One Piece Card Game Illustration Box Vol. 7 (IB-07) - 4 paquetes, promociones",
+      "image": "https://m.media-amazon.com/images/I/71S1FW6ZdTL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "107,72 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0GW8RGGGV?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:10:14.597320+00:00",
+      "link": "https://www.amazon.es/dp/B0HDTCPRQN?tag=enkairito-21",
+      "first_seen": "2026-09-01T13:08:56.491122+00:00",
+      "categories": [
+        "Otros"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0D69TF558",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "One Piece TCG: Two Legends - Booster Pack (OP-08) (JP) (TCG)",
+      "image": "https://m.media-amazon.com/images/I/818wUBVRF+L._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "15,02 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0D69TF558?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:09:54.795240+00:00",
       "categories": [
         "Sobre"
       ],
@@ -434,18 +434,18 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0D69TF558",
+      "asin": "B0GW8RGGGV",
       "marketplace": "ES",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "One Piece TCG: Two Legends - Booster Pack (OP-08) (JP) (TCG)",
-      "image": "https://m.media-amazon.com/images/I/818wUBVRF+L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "15,02 €",
+      "name": "Juego de cartas de una pieza TCG Adventure on Kami's Island Paquete de refuerzo de 12 cartas - Edición en inglés - OP15-EB04",
+      "image": "https://m.media-amazon.com/images/I/610xO3i4PyL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "25,00 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0D69TF558?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:09:54.795240+00:00",
+      "link": "https://www.amazon.es/dp/B0GW8RGGGV?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:10:14.597320+00:00",
       "categories": [
         "Sobre"
       ],
