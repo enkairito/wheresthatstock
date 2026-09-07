@@ -136,7 +136,7 @@ header.header-hidden { transform: translateY(-100%); }
   color: var(--muted);
   text-decoration: none;
   font-weight: 700;
-  font-size: 0.85rem;
+  font-size: 0.95rem;
   padding: 9px 18px;
   border-radius: 10px 10px 0 0;
   border: 1px solid transparent;
@@ -196,7 +196,7 @@ header.header-hidden { transform: translateY(-100%); }
   color: var(--fg);
   text-decoration: none;
   font-weight: 600;
-  font-size: 0.88rem;
+  font-size: 0.94rem;
   white-space: nowrap;
 }
 .topnav-dropdown-item:hover { background: color-mix(in srgb, var(--navy) 10%, transparent); }
