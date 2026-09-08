@@ -29,6 +29,7 @@ function renderSection(gridId, sectionId, items) {
     return;
   }
   grid.innerHTML = items.map(cardHtml).join("");
+  hydrateProductImages(grid);
 }
 
 // Cada juego conserva su propio feed; un fallo no oculta los demás.

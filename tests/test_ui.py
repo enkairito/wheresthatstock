@@ -53,6 +53,8 @@ class WebTests(unittest.TestCase):
         self.errors = []
         self.page.on('pageerror', lambda error: self.errors.append(str(error)))
         self.mode = 'healthy'
+        self.image_behavior = 'ready'
+        self.pending_images = []
         self.now = datetime.now(timezone.utc)
         self.page.route('**/*', self.route)
 
@@ -61,6 +63,13 @@ class WebTests(unittest.TestCase):
         name = urlparse(url).path.lstrip('/')
         if not url.startswith(self.origin):
             return route.abort()
+        if name == 'test-product-image.jpg':
+            if self.image_behavior == 'hold':
+                self.pending_images.append(route)
+                return
+            if self.image_behavior == 'broken':
+                return route.fulfill(status=200, content_type='image/jpeg', body='not an image')
+            return route.fulfill(path=str(ROOT / 'assets' / 'logo.jpg'), content_type='image/jpeg')
         if name in SOURCES:
             index = SOURCES.index(name)
             if self.mode == 'partial' and name == 'yugioh.json':
@@ -70,6 +79,8 @@ class WebTests(unittest.TestCase):
                        'status': 'compra_directa', 'price': '10,00 €', 'original_price': '20,00 €',
                        'categories': ['Otros'], 'game': GAMES[index], 'first_seen': stamp.isoformat(),
                        'link': 'https://example.test/product'}
+            if self.mode == 'images':
+                product['image'] = self.origin + '/test-product-image.jpg?game=' + str(index)
             return route.fulfill(json={'updated_at': 'bad-date' if self.mode == 'invalid' else stamp.isoformat(), 'products': [] if self.mode == 'missing' else [product]})
         if name.startswith('activity-'):
             index = SOURCES.index(name.removeprefix('activity-'))
@@ -219,6 +230,39 @@ class WebTests(unittest.TestCase):
         self.page.add_init_script("localStorage.setItem('wts-favorites-v1', '{bad-json');")
         self.visit('/favoritos')
         self.assertTrue(self.page.locator('#favorite-empty').is_visible())
+
+    def test_missing_and_broken_images_show_a_placeholder(self):
+        self.visit('/ofertas')
+        self.assertEqual(self.page.locator('#grid [data-image-state="missing"]').count(), 5)
+        self.assertEqual(self.page.locator('#grid [data-stock-image]').count(), 0)
+        self.mode = 'images'
+        self.image_behavior = 'broken'
+        self.visit('/ofertas')
+        frame = self.page.locator('#grid .product-image-frame').first
+        expect(frame).to_have_attribute('data-image-state', 'error')
+        self.assertIn('Imagen no disponible', frame.inner_text())
+        self.assertFalse(frame.locator('img').is_visible())
+
+    def test_loading_image_keeps_card_size_and_prioritizes_visible_images(self):
+        self.mode = 'images'
+        self.image_behavior = 'hold'
+        self.page.set_viewport_size({'width': 390, 'height': 844})
+        self.page.goto(self.origin + '/ofertas', wait_until='domcontentloaded')
+        frame = self.page.locator('#grid .product-image-frame').first
+        expect(frame).to_have_attribute('data-image-state', 'loading')
+        before = frame.bounding_box()
+        first = frame.locator('img')
+        expect(first).to_have_attribute('loading', 'eager')
+        expect(first).to_have_attribute('fetchpriority', 'high')
+        self.assertGreater(self.page.locator('#grid img[loading="lazy"]').count(), 0)
+        self.page.wait_for_timeout(100)
+        for request in self.pending_images[:]:
+            request.fulfill(path=str(ROOT / 'assets' / 'logo.jpg'), content_type='image/jpeg')
+        expect(frame).to_have_attribute('data-image-state', 'ready')
+        after = frame.bounding_box()
+        self.assertEqual((before['width'], before['height']), (after['width'], after['height']))
+        self.page.emulate_media(reduced_motion='reduce')
+        self.assertEqual(first.evaluate('(img) => getComputedStyle(img).transitionDuration'), '0s')
 
     def test_invalid_timestamp_does_not_claim_a_recent_update(self):
         self.mode = 'invalid'

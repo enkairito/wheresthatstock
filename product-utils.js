@@ -79,7 +79,6 @@ function cardHtml(p) {
   const statusInfo = STATUS_LABEL[p.status] || STATUS_LABEL.no_disponible;
   const discount = discountPercent(p);
   const name = escapeHtml(p.name || "");
-  const image = escapeHtml(p.image || "");
   const link = escapeHtml(p.link || "");
   const detailUrl = productUrl(p);
   const storeLabel = escapeHtml(`${p.store_label || "Amazon"} ${p.flag || ""}`.trim());
@@ -104,8 +103,8 @@ function cardHtml(p) {
 
   return `
     <div class="card" data-name="${name.toLowerCase()}">
-      <a class="card-img" href="${detailUrl}">
-        ${p.image ? `<img src="${image}" alt="${name}" loading="lazy">` : ""}
+      <a class="card-img" href="${detailUrl}" aria-label="Ver ficha de ${name}">
+        ${productImageHtml(p)}
         <div class="card-corner" title="${storeLabel}">
           ${STORE_ICONS[p.marketplace] ? `<span class="corner-icon"><img src="${STORE_ICONS[p.marketplace]}" alt="${storeLabel}"></span>` : ""}
           ${FLAG_ICONS[p.marketplace] ? `<span class="corner-icon"><img src="${FLAG_ICONS[p.marketplace]}" alt="${escapeHtml(p.marketplace)}"></span>` : ""}
@@ -232,3 +231,36 @@ window.addEventListener("storage", event => {
   syncFavoriteButtons();
   document.dispatchEvent(new Event("favorites-changed"));
 });
+
+
+function productImageHtml(product) {
+  const hasImage = Boolean(product.image);
+  return `<span class="product-image-frame" data-image-state="${hasImage ? "loading" : "missing"}">
+    <span class="product-image-placeholder" aria-hidden="true"><svg viewBox="0 0 48 48" width="40" height="40" fill="none" stroke="currentColor" stroke-width="1.3"><rect x="10" y="6" width="26" height="34" rx="3"/><path d="M6 13v27a4 4 0 0 0 4 4h20M16 28l6-7 5 5 3-3M16 14h7"/></svg><span>${hasImage ? "Cargando imagen" : "Imagen no disponible"}</span></span>
+    ${hasImage ? `<img class="product-image" data-stock-image src="${escapeHtml(product.image)}" alt="${escapeHtml(product.name || "Producto")}" width="480" height="480" loading="lazy" decoding="async">` : ""}
+  </span>`;
+}
+
+function hydrateProductImages(root) {
+  let prioritized = 0;
+  root.querySelectorAll("[data-stock-image]").forEach(img => {
+    if (img.dataset.imageBound) return;
+    img.dataset.imageBound = "true";
+    const frame = img.closest(".product-image-frame");
+    const ready = () => { frame.dataset.imageState = "ready"; };
+    const failed = () => {
+      frame.dataset.imageState = "error";
+      img.hidden = true;
+      frame.querySelector(".product-image-placeholder span").textContent = "Imagen no disponible";
+    };
+    img.addEventListener("load", ready, { once: true });
+    img.addEventListener("error", failed, { once: true });
+    const bounds = frame.getBoundingClientRect();
+    if (bounds.top < window.innerHeight && bounds.bottom > 0 && bounds.left < window.innerWidth && bounds.right > 0) {
+      img.fetchPriority = prioritized++ < 2 ? "high" : "auto";
+      img.loading = "eager";
+    }
+    // Una imagen en caché puede haber terminado antes de registrar los eventos.
+    if (img.complete) img.naturalWidth > 0 ? ready() : failed();
+  });
+}

@@ -36,3 +36,9 @@ sin presentar un precio antiguo como actual. No requiere cuenta ni servidor.
 Los datos pertenecen a ese navegador y no se sincronizan entre dispositivos.
 Se sincronizan entre pestañas; las escrituras fallidas se comunican sin fingir
 que el producto se ha guardado. La página personal lleva noindex.
+
+Las imágenes de producto comparten estados de carga, imagen lista y fallo en
+portada, listados, favoritos y fichas. Los marcos mantienen su tamaño y muestran
+un marcador si falta la imagen o falla. Las visibles se cargan de inmediato
+(las primeras dos de cada bloque con prioridad alta); las demás usan carga
+diferida. La transición respeta la preferencia de reducir movimiento.

@@ -13,6 +13,7 @@ function render(products) {
   empty.style.display = "none";
   count.textContent = `${products.length} producto${products.length === 1 ? "" : "s"}`;
   grid.innerHTML = products.map(cardHtml).join("");
+  hydrateProductImages(grid);
 }
 
 const discountRangeEl = document.getElementById("discount-range");

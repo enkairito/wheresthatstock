@@ -83,7 +83,6 @@ function render(p, restockCount) {
   const statusInfo = STATUS_LABEL[p.status] || STATUS_LABEL.no_disponible;
   const discount = discountPercent(p);
   const name = escapeHtml(p.name || "");
-  const image = escapeHtml(p.image || "");
   const link = escapeHtml(p.link || "");
   const storeLabel = escapeHtml(`${p.store_label || "Amazon"} ${p.flag || ""}`.trim());
 
@@ -112,7 +111,7 @@ function render(p, restockCount) {
   detailEl.innerHTML = `
     <div class="product-detail">
       <div class="product-detail-img">
-        ${p.image ? `<img src="${image}" alt="${name}">` : ""}
+        ${productImageHtml(p)}
       </div>
       <div class="product-detail-body">
         <div class="product-detail-store" title="${storeLabel}">
@@ -131,4 +130,5 @@ function render(p, restockCount) {
       </div>
     </div>
   `;
+  hydrateProductImages(detailEl);
 }

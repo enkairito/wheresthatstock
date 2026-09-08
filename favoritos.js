@@ -10,6 +10,7 @@ function renderFavorites() {
   const products = saved.map(row => favoriteCatalog.get(favoriteId(row)) || { ...row, status: "sin_confirmar" });
   const visible = products.filter(p => p.name.toLocaleLowerCase("es").includes(query));
   favoriteGrid.innerHTML = visible.map(cardHtml).join("");
+  hydrateProductImages(favoriteGrid);
   document.getElementById("favorite-count").textContent = `${saved.length} ${saved.length === 1 ? "producto guardado" : "productos guardados"}`;
   document.getElementById("favorite-empty").hidden = saved.length > 0;
   if (saved.length && !visible.length) favoriteGrid.textContent = "No hay favoritos que coincidan con tu búsqueda.";
