@@ -3,9 +3,15 @@ const favoriteSearch = document.getElementById("favorite-search");
 const favoriteSources = [...GAME_SOURCES, "accesorios.json"];
 const favoriteCatalog = new Map();
 let favoritesLoading = true;
+favoriteSearch.value = new URLSearchParams(location.search).get("q") || "";
 
 function renderFavorites() {
   const saved = readFavorites();
+  document.getElementById("export-favorites").disabled = saved.length === 0;
+  const url = new URL(location.href);
+  if (favoriteSearch.value.trim()) url.searchParams.set("q", favoriteSearch.value.trim());
+  else url.searchParams.delete("q");
+  if (url.href !== location.href) history.replaceState(history.state, "", url);
   const query = normalizeSearch(favoriteSearch.value);
   const products = saved.map(row => favoriteCatalog.get(favoriteId(row)) || { ...row, status: "sin_confirmar" });
   const visible = products.filter(p => normalizeSearch(p.name).includes(query));
@@ -42,3 +48,81 @@ document.addEventListener("favorites-changed", () => {
 });
 renderFavorites();
 loadFavoriteCatalog();
+
+const transferStatus = document.getElementById("transfer-status");
+const importFile = document.getElementById("import-favorites");
+const importPreview = document.getElementById("import-preview");
+let importCandidates = [];
+let importSequence = 0;
+const MAX_FAVORITE_IMPORT = 2000;
+
+function validateFavoriteImport(data) {
+  if (!data || data.version !== 1 || !Array.isArray(data.favorites) || data.favorites.length > MAX_FAVORITE_IMPORT) throw new Error("El archivo no es una copia válida de favoritos de esta web.");
+  const rows = data.favorites.map(row => {
+    if (!row || !["ES", "UK", "US", "ECI"].includes(row.marketplace)
+        || typeof row.asin !== "string" || !/^[A-Za-z0-9_-]{1,80}$/.test(row.asin)
+        || typeof row.name !== "string" || !row.name.trim() || row.name.length > 500) throw new Error("El archivo contiene productos no válidos.");
+    return { marketplace: row.marketplace, asin: row.asin, name: row.name };
+  });
+  return [...new Map(rows.map(row => [favoriteId(row), row])).values()];
+}
+
+document.getElementById("export-favorites").addEventListener("click", () => {
+  const favorites = readFavorites();
+  if (!favorites.length) return;
+  const data = { version: 1, favorites: favorites.map(row => ({ ...row, name: row.name.slice(0, 500) })) };
+  const blob = new Blob([JSON.stringify(data, null, 2)], { type: "application/json" });
+  const url = URL.createObjectURL(blob);
+  const link = document.createElement("a");
+  link.href = url;
+  link.download = "wts-favoritos.json";
+  document.body.append(link);
+  link.click();
+  link.remove();
+  setTimeout(() => URL.revokeObjectURL(url), 1000);
+  transferStatus.textContent = "Copia preparada para descargar.";
+});
+document.getElementById("choose-favorites").addEventListener("click", () => { importFile.value = ""; importFile.click(); });
+importFile.addEventListener("change", async () => {
+  const sequence = ++importSequence;
+  importCandidates = [];
+  importPreview.hidden = true;
+  const file = importFile.files[0];
+  if (!file) return;
+  try {
+    if (file.size > 1024 * 1024) throw new Error("El archivo supera el límite de 1 MB.");
+    const text = await file.text();
+    if (sequence !== importSequence) return;
+    let data;
+    try { data = JSON.parse(text); } catch { throw new Error("No se pudo leer el archivo JSON."); }
+    importCandidates = validateFavoriteImport(data);
+    const saved = new Set(readFavorites().map(favoriteId));
+    const added = importCandidates.filter(row => !saved.has(favoriteId(row))).length;
+    if (saved.size + added > MAX_FAVORITE_IMPORT) throw new Error("La importación superaría el límite de 2000 favoritos.");
+    transferStatus.textContent = "";
+    document.getElementById("import-summary").textContent = `${added} favoritos nuevos; ${importCandidates.length - added} ya guardados. Se conservarán tus favoritos actuales.`;
+    document.getElementById("confirm-import").disabled = added === 0;
+    importPreview.hidden = false;
+  } catch (error) { importCandidates = []; transferStatus.textContent = error.message; }
+});
+document.getElementById("cancel-import").addEventListener("click", () => {
+  ++importSequence;
+  importCandidates = [];
+  importPreview.hidden = true;
+  document.getElementById("choose-favorites").focus();
+});
+document.getElementById("confirm-import").addEventListener("click", () => {
+  const current = readFavorites();
+  const merged = new Map(current.map(row => [favoriteId(row), row]));
+  importCandidates.forEach(row => { if (!merged.has(favoriteId(row))) merged.set(favoriteId(row), row); });
+  if (merged.size > MAX_FAVORITE_IMPORT) { transferStatus.textContent = "La importación superaría el límite de 2000 favoritos."; return; }
+  try { localStorage.setItem(FAVORITES_KEY, JSON.stringify([...merged.values()])); }
+  catch { transferStatus.textContent = "No se pudo guardar la importación. Tus favoritos no se han modificado."; return; }
+  transferStatus.textContent = `${merged.size - current.length} favoritos añadidos.`;
+  importCandidates = [];
+  importPreview.hidden = true;
+  syncFavoriteButtons();
+  document.dispatchEvent(new Event("favorites-changed"));
+  document.getElementById("choose-favorites").focus();
+});
+window.addEventListener("popstate", () => { favoriteSearch.value = new URLSearchParams(location.search).get("q") || ""; renderFavorites(); });

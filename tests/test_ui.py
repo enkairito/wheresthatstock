@@ -387,6 +387,40 @@ class WebTests(unittest.TestCase):
         for other in SOURCES[1:] + ['accesorios.json']:
             self.assertNotIn(other, requested)
 
+    def test_favorites_export_import_preview_and_merge(self):
+        self.visit('/')
+        self.page.locator('#newest-grid [data-favorite]').first.click()
+        self.visit('/favoritos')
+        with self.page.expect_download() as download_info:
+            self.page.locator('#export-favorites').click()
+        exported = json.loads(Path(download_info.value.path()).read_text(encoding='utf-8'))
+        self.assertEqual(exported['version'], 1)
+        self.assertEqual(len(exported['favorites']), 1)
+        self.assertEqual(set(exported['favorites'][0]), {'asin', 'marketplace', 'name'})
+        incoming = {'version':1, 'favorites': exported['favorites'] + [{'asin':'B000000002','marketplace':'ES','name':'Magic Booster'}] * 2}
+        self.page.locator('#import-favorites').set_input_files({'name':'favorites.json','mimeType':'application/json','buffer':json.dumps(incoming).encode()})
+        expect(self.page.locator('#import-summary')).to_contain_text('1 favoritos nuevos; 1 ya guardados')
+        expect(self.page.locator('#favorite-count')).to_have_text('1 producto guardado')
+        self.page.locator('#confirm-import').click()
+        expect(self.page.locator('#favorite-count')).to_have_text('2 productos guardados')
+        self.page.reload(wait_until='networkidle')
+        expect(self.page.locator('#favorite-count')).to_have_text('2 productos guardados')
+
+    def test_favorites_invalid_import_and_failed_write_preserve_saved(self):
+        self.visit('/')
+        self.page.locator('#newest-grid [data-favorite]').first.click()
+        self.visit('/favoritos')
+        self.page.locator('#import-favorites').set_input_files({'name':'bad.json','mimeType':'application/json','buffer':b'{invalid'})
+        expect(self.page.locator('#transfer-status')).to_contain_text('No se pudo leer')
+        expect(self.page.locator('#import-preview')).not_to_be_visible()
+        incoming={'version':1,'favorites':[{'asin':'B000000002','marketplace':'ES','name':'Magic Booster'}]}
+        self.page.locator('#import-favorites').set_input_files({'name':'valid.json','mimeType':'application/json','buffer':json.dumps(incoming).encode()})
+        expect(self.page.locator('#confirm-import')).to_be_visible()
+        self.page.evaluate("() => { Storage.prototype.setItem = function(){ throw new DOMException('Full','QuotaExceededError'); }; }", isolated_context=False)
+        self.page.locator('#confirm-import').click()
+        expect(self.page.locator('#transfer-status')).to_contain_text('No se pudo guardar')
+        expect(self.page.locator('#favorite-count')).to_have_text('1 producto guardado')
+
     def test_invalid_timestamp_does_not_claim_a_recent_update(self):
         self.mode = 'invalid'
         self.visit('/magic')

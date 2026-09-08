@@ -55,6 +55,14 @@
     <p>Guarda lo que te gusta y vuelve a encontrarlo aquí. Tus favoritos se guardan solo en este navegador.</p>
   </div>
   <div class="toolbar"><div class="search-box"><input id="favorite-search" type="search" placeholder="Buscar en tus favoritos" aria-label="Buscar en tus favoritos"></div><span class="count" id="favorite-count"></span></div>
+  <div class="favorite-transfer">
+    <button type="button" class="utility-button" id="export-favorites">Exportar favoritos</button>
+    <button type="button" class="utility-button" id="choose-favorites">Importar favoritos</button>
+    <input type="file" id="import-favorites" accept=".json,application/json" hidden>
+    <p>Descarga una copia para llevar tus favoritos a otro navegador.</p>
+    <p id="transfer-status" role="status"></p>
+    <div id="import-preview" hidden><p id="import-summary"></p><button type="button" class="utility-button" id="confirm-import">Añadir favoritos</button> <button type="button" class="utility-button" id="cancel-import">Cancelar</button></div>
+  </div>
   <div class="grid view-5" id="favorite-grid"></div>
   <div class="favorites-empty" id="favorite-empty" hidden><h2>Tu próxima colección empieza aquí</h2><p>Marca el corazón de un producto para guardarlo.</p><a class="hero-btn primary" href="/">Explorar productos</a></div>
   <noscript>Activa JavaScript para consultar los favoritos guardados en este navegador.</noscript>
