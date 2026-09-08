@@ -13,14 +13,11 @@ const CATEGORY_LINKS = {
 };
 const SOURCE_FILES = Object.keys(CATEGORY_LINKS);
 
-// La URL "bonita" (/producto/ES-B0GZKZ1FL9) la sirve GitHub Pages a través
-// de 404.html (no hay servidor real detrás para reescribir rutas), así que
-// esta misma lógica se usa desde ambos ficheros. Si por lo que sea alguien
-// entra directo a producto.html con los parámetros antiguos (?mp=&asin=),
-// también se soporta como respaldo.
+// Las fichas /producto/{id} son archivos HTML generados con datos persistentes.
 function parseProductId() {
   const match = location.pathname.match(/\/producto\/([^/]+)$/);
-  const raw = match ? decodeURIComponent(match[1]) : null;
+  let raw = null;
+  try { raw = match ? decodeURIComponent(match[1]) : null; } catch { return null; }
   if (raw) {
     const sep = raw.indexOf("-");
     if (sep > 0) return { mp: raw.slice(0, sep), asin: raw.slice(sep + 1) };
@@ -40,41 +37,40 @@ if (!id) {
   findProduct(id.mp, id.asin);
 }
 
-function findProduct(mp, asin) {
-  const productFetches = SOURCE_FILES.map(f => fetch("/" + f + "?t=" + Date.now()).then(r => r.json()));
-  // restock_stats.json lo genera restock_stats.py explotando el historial
-  // de git de state.json (ver ese script) — cuántas veces ha pasado cada
-  // producto de agotado a disponible en los últimos 7 días. Va aparte
-  // porque no todos los productos tienen entrada ahí (solo los que han
-  // restockeado al menos una vez recientemente).
-  const statsFetch = fetch("/restock_stats.json?t=" + Date.now()).then(r => r.json()).catch(() => ({}));
-
-  Promise.allSettled([...productFetches, statsFetch])
-    .then(results => {
-      const productResults = results.slice(0, SOURCE_FILES.length);
-      const statsResult = results[results.length - 1];
-      const stats = statsResult.status === "fulfilled" ? statsResult.value : {};
-
-      const liveText = document.getElementById("live-text");
-      const firstOk = productResults.find(r => r.status === "fulfilled");
-      if (liveText && firstOk) liveText.textContent = timeAgo(firstOk.value.updated_at);
-
-      for (let i = 0; i < productResults.length; i++) {
-        const r = productResults[i];
-        if (r.status !== "fulfilled") continue;
-        const match = (r.value.products || []).find(p => p.asin === asin && p.marketplace === mp);
-        if (match) {
-          setBackLink(SOURCE_FILES[i]);
-          render(match, stats[`${mp}:${asin}`]);
-          return;
-        }
-      }
-      setBackLink("products.json");
-      detailEl.innerHTML = `<p>No hemos encontrado este producto — puede que haya dejado de estar en stock. <a href="/pokemontcg">Ver todo Pokémon TCG</a>.</p>`;
-    })
-    .catch(() => {
-      detailEl.innerHTML = `<p>No se pudo cargar el producto. <a href="/">Volver al inicio</a>.</p>`;
-    });
+async function findProduct(mp, asin) {
+  const embedded = document.getElementById("product-data");
+  const cached = embedded ? JSON.parse(embedded.textContent) : null;
+  if (cached) {
+    setBackLink(cached._src);
+    render(cached);
+  }
+  const results = await Promise.allSettled(SOURCE_FILES.map(f => fetchStock("/" + f)));
+  const stats = await fetchJson("/restock_stats.json").catch(() => ({}));
+  for (let i = 0; i < results.length; i++) {
+    const r = results[i];
+    if (r.status !== "fulfilled") continue;
+    const product = r.value.products.find(p => p.asin === asin && p.marketplace === mp);
+    if (product) {
+      setBackLink(SOURCE_FILES[i]);
+      showStockFreshness([SOURCE_FILES[i]], [r]);
+      render(product, stats[`${mp}:${asin}`]);
+      return;
+    }
+  }
+  // La búsqueda antigua por parámetros también puede recuperar una ficha archivada.
+  const archives = cached ? [] : await Promise.allSettled(SOURCE_FILES.map(f => fetchStock("/catalog-" + f)));
+  const archived = cached || archives.flatMap(r => r.status === "fulfilled" ? r.value.products : [])
+    .find(p => p.asin === asin && p.marketplace === mp);
+  if (archived) {
+    const index = SOURCE_FILES.indexOf(archived._src);
+    const result = results[index] || { status: "rejected" };
+    setBackLink(archived._src);
+    showStockFreshness([archived._src], [result]);
+    render({ ...archived, status: "sin_confirmar", stock: null }, stats[`${mp}:${asin}`]);
+    return;
+  }
+  const failed = results.some(r => r.status === "rejected") || archives.some(r => r.status === "rejected");
+  detailEl.innerHTML = `<p>${failed ? "No se pudo completar la búsqueda. Inténtalo de nuevo más tarde." : "No tenemos una ficha de este producto."} <a href="/">Ver los juegos</a>.</p>`;
 }
 
 function setBackLink(src) {
@@ -93,11 +89,11 @@ function render(p, restockCount) {
 
   document.title = `${p.name} — Where's That Stock`;
   const metaDesc = document.querySelector('meta[name="description"]');
-  if (metaDesc) metaDesc.setAttribute("content", `${p.name} — ${p.price || "consulta el precio"} en ${storeLabel}. Consulta el stock en directo.`);
+  if (metaDesc) metaDesc.setAttribute("content", `${p.name} — ${p.price || "consulta el precio"} en ${storeLabel}. Consulta la última disponibilidad observada.`);
 
   const available = p.status === "compra_directa" || p.status === "invitacion" || p.status === "preventa";
-  const btnLabel = p.status === "invitacion" ? "Solicitar invitación" : p.status === "preventa" ? "Reservar ahora" : (available ? "Cómpralo ya" : "Agotado");
-  const buyButton = available
+  const btnLabel = p.status === "sin_confirmar" ? "Consultar en la tienda" : p.status === "invitacion" ? "Solicitar invitación" : p.status === "preventa" ? "Reservar ahora" : (available ? "Cómpralo ya" : "Agotado");
+  const buyButton = available || p.status === "sin_confirmar"
     ? `<a class="buy-btn" href="${link}" target="_blank" rel="noopener">${btnLabel}</a>`
     : `<span class="buy-btn disabled" aria-disabled="true">${btnLabel}</span>`;
 
@@ -126,6 +122,7 @@ function render(p, restockCount) {
           <span class="badge status ${statusInfo.cls}">${statusInfo.text}</span>
         </div>
         <h1>${name}</h1>
+        ${p.status === "sin_confirmar" ? `<p>Ya no aparece en el listado actual. Disponibilidad sin confirmar.</p><p>Última vez visto: ${escapeHtml(p.last_seen || "sin fecha")}. El precio mostrado es el último observado.</p>` : ""}
         ${priceRow}
         ${discount > 0 ? `<span class="badge discount">-${discount}%</span>` : ""}
         ${stockNote}
