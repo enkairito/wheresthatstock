@@ -6,6 +6,9 @@
 const CATEGORY_LINKS = {
   "products.json": { href: "/pokemontcg", label: "Pokémon TCG" },
   "onepiece.json": { href: "/onepiece", label: "One Piece TCG" },
+  "magic.json": { href: "/magic", label: "Magic: The Gathering" },
+  "lorcana.json": { href: "/lorcana", label: "Disney Lorcana" },
+  "yugioh.json": { href: "/yugioh", label: "Yu-Gi-Oh!" },
   "accesorios.json": { href: "/accesorios", label: "Accesorios" },
 };
 const SOURCE_FILES = Object.keys(CATEGORY_LINKS);

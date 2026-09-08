@@ -69,7 +69,7 @@ function firstSeenTime(p) {
 function productUrl(p) {
   // ID compacto "MP-ASIN" (ej. "ES-B0GZKZ1FL9"). No hace falta codificar de
   // qué archivo JSON viene (_src) porque el ASIN ya es único de por sí — la
-  // página de producto simplemente prueba los 3 archivos hasta encontrarlo.
+  // página de producto consulta los orígenes registrados en producto.js.
   return `producto/${encodeURIComponent(p.marketplace || "")}-${encodeURIComponent(p.asin || "")}`;
 }
 
