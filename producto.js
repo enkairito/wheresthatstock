@@ -127,7 +127,7 @@ function render(p, restockCount) {
         ${discount > 0 ? `<span class="badge discount">-${discount}%</span>` : ""}
         ${stockNote}
         ${restockNote}
-        ${buyButton}
+        <div class="detail-actions">${buyButton}${favoriteButton(p)}</div>
       </div>
     </div>
   `;

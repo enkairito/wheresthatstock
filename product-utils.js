@@ -96,7 +96,9 @@ function cardHtml(p) {
   // enlace real seguiría siendo enfocable y "activable" por teclado aunque
   // pointer-events:none bloquee el ratón, llevando a un salto de página sin
   // sentido. Un <span> no entra en el orden de tabulación.
-  const buyButton = available
+  const buyButton = p.status === "sin_confirmar"
+    ? `<a class="buy-btn" href="${detailUrl}">Ver ficha</a>`
+    : available
     ? `<a class="buy-btn" href="${link}" target="_blank" rel="noopener">${btnLabel}</a>`
     : `<span class="buy-btn disabled" aria-disabled="true">${btnLabel}</span>`;
 
@@ -112,7 +114,7 @@ function cardHtml(p) {
         ${discount > 0 ? `<div class="card-corner-right"><span class="badge discount">-${discount}%</span></div>` : ""}
       </a>
       <div class="card-body">
-        ${p.game ? `<span class="card-game">${escapeHtml(p.game)}</span>` : ""}
+        <div class="card-save-row">${p.game ? `<span class="card-game">${escapeHtml(p.game)}</span>` : "<span></span>"}${favoriteButton(p)}</div>
         <a class="card-name" href="${detailUrl}">${name}</a>
         ${priceRow}
         ${stockNote}
@@ -158,3 +160,75 @@ function updateStockLabel(sources, results) {
   clearInterval(updateStockLabel.timer);
   updateStockLabel.timer = setInterval(refresh, 60000);
 }
+
+
+const FAVORITES_KEY = "wts-favorites-v1";
+const favoriteProducts = new Map();
+const favoriteId = p => `${p.marketplace}:${p.asin}`;
+
+function readFavorites() {
+  try {
+    const rows = JSON.parse(localStorage.getItem(FAVORITES_KEY) || "[]");
+    if (!Array.isArray(rows)) return [];
+    return [...new Map(rows.filter(p => p && typeof p.marketplace === "string" && typeof p.asin === "string" && p.marketplace && p.asin)
+      .map(p => [favoriteId(p), { marketplace: p.marketplace, asin: p.asin, name: typeof p.name === "string" ? p.name : "Producto guardado" }])).values()];
+  } catch { return []; }
+}
+
+function favoriteButton(p) {
+  const key = favoriteId(p);
+  favoriteProducts.set(key, p);
+  const saved = readFavorites().some(row => favoriteId(row) === key);
+  const action = saved ? "Quitar de favoritos" : "Guardar en favoritos";
+  return `<button type="button" class="favorite-button" data-favorite="${escapeHtml(key)}" data-product-name="${escapeHtml(p.name || "Producto")}" aria-pressed="${saved}" aria-label="${action}: ${escapeHtml(p.name || "Producto")}" title="${action}"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.7l-1.1-1.1a5.5 5.5 0 0 0-7.8 7.8L12 21l8.8-8.6a5.5 5.5 0 0 0 0-7.8Z"/></svg></button>`;
+}
+
+function announceFavorite(message) {
+  let notice = document.getElementById("favorite-notice");
+  if (!notice) {
+    notice = document.createElement("div");
+    notice.id = "favorite-notice";
+    notice.setAttribute("role", "status");
+    document.body.append(notice);
+  }
+  notice.textContent = message;
+  notice.hidden = false;
+  clearTimeout(announceFavorite.timer);
+  announceFavorite.timer = setTimeout(() => { notice.hidden = true; }, 4000);
+}
+
+function syncFavoriteButtons() {
+  const saved = new Set(readFavorites().map(favoriteId));
+  document.querySelectorAll("[data-favorite]").forEach(button => {
+    const active = saved.has(button.dataset.favorite);
+    const action = active ? "Quitar de favoritos" : "Guardar en favoritos";
+    button.setAttribute("aria-pressed", String(active));
+    button.setAttribute("aria-label", `${action}: ${button.dataset.productName}`);
+    button.title = action;
+  });
+}
+
+document.addEventListener("click", event => {
+  const button = event.target.closest("[data-favorite]");
+  if (!button) return;
+  const key = button.dataset.favorite;
+  const product = favoriteProducts.get(key);
+  if (!product) return;
+  const saved = readFavorites();
+  const exists = saved.some(row => favoriteId(row) === key);
+  const next = exists ? saved.filter(row => favoriteId(row) !== key)
+    : [...saved, { marketplace: product.marketplace, asin: product.asin, name: product.name || "Producto guardado" }];
+  try { localStorage.setItem(FAVORITES_KEY, JSON.stringify(next)); }
+  catch {
+    announceFavorite("No se pudo guardar el cambio. Comprueba que tu navegador permite guardar datos de esta web.");
+    return;
+  }
+  syncFavoriteButtons();
+  announceFavorite(exists ? "Producto eliminado de favoritos" : "Producto guardado en favoritos");
+  document.dispatchEvent(new Event("favorites-changed"));
+});
+window.addEventListener("storage", event => {
+  if (event.key !== FAVORITES_KEY && event.key !== null) return;
+  syncFavoriteButtons();
+  document.dispatchEvent(new Event("favorites-changed"));
+});

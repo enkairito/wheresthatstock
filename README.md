@@ -28,3 +28,11 @@ patchright install chromium
 python -B -m unittest discover -s tests -v
 ```
 Las pruebas simulan los feeds y bloquean el tráfico externo.
+
+Favoritos: los corazones de tarjetas y fichas guardan tienda, identificador y
+nombre en localStorage (`wts-favorites-v1`). La página /favoritos recupera el
+stock actual; si falta el producto, conserva su nombre y enlace a la ficha,
+sin presentar un precio antiguo como actual. No requiere cuenta ni servidor.
+Los datos pertenecen a ese navegador y no se sincronizan entre dispositivos.
+Se sincronizan entre pestañas; las escrituras fallidas se comunican sin fingir
+que el producto se ha guardado. La página personal lleva noindex.

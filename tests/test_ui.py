@@ -47,8 +47,9 @@ class WebTests(unittest.TestCase):
         cls.server.server_close()
 
     def setUp(self):
-        self.page = self.browser.new_page()
-        self.addCleanup(self.page.close)
+        context = self.browser.new_context()
+        self.addCleanup(context.close)
+        self.page = context.new_page()
         self.errors = []
         self.page.on('pageerror', lambda error: self.errors.append(str(error)))
         self.mode = 'healthy'
@@ -161,6 +162,63 @@ class WebTests(unittest.TestCase):
             self.assertLessEqual(rect['x'] + rect['width'], width)
             self.page.keyboard.press('Escape')
             self.assertFalse(menu.is_visible())
+
+    def test_favorites_persist_filter_and_remove_without_navigation(self):
+        self.visit('/')
+        button = self.page.locator('#newest-grid [data-favorite]').first
+        name = button.get_attribute('data-product-name')
+        button.click()
+        expect(button).to_have_attribute('aria-pressed', 'true')
+        self.assertEqual(urlparse(self.page.url).path, '/')
+        self.page.reload(wait_until='networkidle')
+        expect(self.page.locator('#newest-grid [data-favorite]').first).to_have_attribute('aria-pressed', 'true')
+        self.visit('/favoritos')
+        self.assertEqual(self.page.locator('#favorite-grid .card').count(), 1)
+        self.assertIn(name, self.page.locator('#favorite-grid').inner_text())
+        self.assertIn('10,00', self.page.locator('#favorite-grid').inner_text())
+        self.page.locator('#favorite-search').fill('no-coincide')
+        self.assertEqual(self.page.locator('#favorite-grid .card').count(), 0)
+        self.page.locator('#favorite-search').fill('')
+        self.page.locator('#favorite-grid [data-favorite]').click()
+        self.assertTrue(self.page.locator('#favorite-empty').is_visible())
+        expect(self.page.locator('#favorite-search')).to_be_focused()
+
+    def test_missing_product_remains_saved_without_old_price_or_purchase_claim(self):
+        self.visit('/')
+        self.page.locator('#newest-grid [data-favorite]').first.click()
+        self.mode = 'missing'
+        self.visit('/favoritos')
+        self.assertEqual(self.page.locator('#favorite-grid .card').count(), 1)
+        self.assertEqual(self.page.locator('#favorite-grid .price').count(), 0)
+        self.assertEqual(self.page.locator('#favorite-grid .buy-btn').inner_text(), 'Ver ficha')
+        self.assertTrue(self.page.locator('#favorite-grid .buy-btn').get_attribute('href').startswith('/producto/'))
+
+    def test_favorites_sync_between_tabs_and_from_product_detail(self):
+        self.visit('/')
+        self.page.context.route('**/*', self.route)
+        other = self.page.context.new_page()
+        try:
+            other.goto(self.origin + '/', wait_until='networkidle')
+            self.page.locator('#newest-grid [data-favorite]').first.click()
+            expect(other.locator('#newest-grid [data-favorite]').first).to_have_attribute('aria-pressed', 'true')
+        finally:
+            other.close()
+        product = json.loads((ROOT / 'catalog-magic.json').read_text(encoding='utf-8'))['products'][0]
+        self.visit('/producto/' + product['marketplace'] + '-' + product['asin'])
+        self.page.locator('.detail-actions [data-favorite]').click()
+        expect(self.page.locator('.detail-actions [data-favorite]')).to_have_attribute('aria-pressed', 'true')
+
+    def test_unavailable_storage_does_not_pretend_to_save(self):
+        self.page.add_init_script("Storage.prototype.setItem = function() { throw new DOMException('Full', 'QuotaExceededError'); };")
+        self.visit('/')
+        self.page.locator('#newest-grid [data-favorite]').first.click()
+        expect(self.page.locator('#newest-grid [data-favorite]').first).to_have_attribute('aria-pressed', 'false')
+        self.assertIn('No se pudo guardar', self.page.locator('#favorite-notice').inner_text())
+
+    def test_corrupt_favorites_do_not_break_the_page(self):
+        self.page.add_init_script("localStorage.setItem('wts-favorites-v1', '{bad-json');")
+        self.visit('/favoritos')
+        self.assertTrue(self.page.locator('#favorite-empty').is_visible())
 
     def test_invalid_timestamp_does_not_claim_a_recent_update(self):
         self.mode = 'invalid'
