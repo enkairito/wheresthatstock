@@ -291,7 +291,7 @@ const PRODUCTS_URLS = document.body.dataset.productsUrls
 
 Promise.allSettled(PRODUCTS_URLS.map(fetchStock))
   .then(results => {
-    showStockFreshness(PRODUCTS_URLS, results);
+    updateStockLabel(PRODUCTS_URLS, results);
     const okResults = results.filter(r => r.status === "fulfilled").map(r => r.value);
     if (!okResults.length) throw new Error("Ningún origen de productos cargó correctamente");
 

@@ -52,7 +52,7 @@ async function findProduct(mp, asin) {
     const product = r.value.products.find(p => p.asin === asin && p.marketplace === mp);
     if (product) {
       setBackLink(SOURCE_FILES[i]);
-      showStockFreshness([SOURCE_FILES[i]], [r]);
+      updateStockLabel([SOURCE_FILES[i]], [r]);
       render(product, stats[`${mp}:${asin}`]);
       return;
     }
@@ -65,7 +65,7 @@ async function findProduct(mp, asin) {
     const index = SOURCE_FILES.indexOf(archived._src);
     const result = results[index] || { status: "rejected" };
     setBackLink(archived._src);
-    showStockFreshness([archived._src], [result]);
+    updateStockLabel([archived._src], [result]);
     render({ ...archived, status: "sin_confirmar", stock: null }, stats[`${mp}:${asin}`]);
     return;
   }

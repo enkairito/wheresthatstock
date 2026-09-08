@@ -2,7 +2,7 @@ Promise.allSettled(GAME_SOURCES.map(fetchStock))
   .then(results => {
     // "_src" viaja con cada producto para poder enlazar a su página
     // individual (producto.html) — ver la misma nota en app.js.
-    showStockFreshness(GAME_SOURCES, results);
+    updateStockLabel(GAME_SOURCES, results);
     if (results.every(r => r.status === "rejected")) throw new Error("Sin datos");
     const products = [...new Map(results.flatMap((r, i) => r.status === "fulfilled"
       ? r.value.products.map(p => [`${p.marketplace}:${p.asin}`, { ...p, _src: GAME_SOURCES[i] }]) : [])).values()];

@@ -69,7 +69,7 @@ class WebTests(unittest.TestCase):
                        'status': 'compra_directa', 'price': '10,00 €', 'original_price': '20,00 €',
                        'categories': ['Otros'], 'game': GAMES[index], 'first_seen': stamp.isoformat(),
                        'link': 'https://example.test/product'}
-            return route.fulfill(json={'updated_at': stamp.isoformat(), 'products': [] if self.mode == 'missing' else [product]})
+            return route.fulfill(json={'updated_at': 'bad-date' if self.mode == 'invalid' else stamp.isoformat(), 'products': [] if self.mode == 'missing' else [product]})
         if name.startswith('activity-'):
             index = SOURCES.index(name.removeprefix('activity-'))
             return route.fulfill(json=[{'name': GAMES[index] + ' Restock', 'game': GAMES[index], 'ts': self.now.isoformat(), 'type': 'restock'}])
@@ -93,23 +93,21 @@ class WebTests(unittest.TestCase):
         for game in GAMES:
             self.assertIn(game, self.page.locator('#newest-grid').inner_text())
             self.assertIn(game, self.page.locator('#activity-list').inner_text())
-        self.assertEqual(self.page.locator('#stock-freshness.is-stale').count(), 0)
+        self.assertEqual(self.page.locator('#stock-freshness').count(), 0)
 
-    def test_partial_failure_and_stale_source_stay_visible(self):
+    def test_partial_failure_keeps_products_without_public_health_notice(self):
         self.mode = 'partial'
         self.visit('/ofertas')
-        self.assertIn('2 fuentes', self.page.locator('#stock-freshness summary').inner_text())
-        self.page.locator('#stock-freshness summary').click()
-        panel = self.page.locator('#stock-freshness').inner_text()
-        self.assertIn('Magic: hace 14 h · actualización retrasada', panel)
-        self.assertIn('Yu-Gi-Oh!: sin datos', panel)
+        self.assertEqual(self.page.locator('#stock-freshness').count(), 0)
+        self.assertEqual(self.page.locator('#live-text').inner_text(), 'catálogo de productos')
         self.assertEqual(self.page.locator('#grid .card').count(), 4)
         self.page.locator('input[data-game="Magic"]').uncheck()
         self.assertEqual(self.page.locator('#grid .card').count(), 3)
 
-    def test_accessories_uses_each_producers_timestamp(self):
+    def test_accessories_uses_a_discreet_header(self):
         self.visit('/accesorios')
-        self.assertIn('1 fuente', self.page.locator('#stock-freshness summary').inner_text())
+        self.assertEqual(self.page.locator('#stock-freshness').count(), 0)
+        self.assertEqual(self.page.locator('#live-text').inner_text(), 'catálogo de productos')
 
     def test_archived_product_has_static_content_and_survives_missing_stock(self):
         catalog = json.loads((ROOT / 'catalog-magic.json').read_text(encoding='utf-8'))
@@ -127,17 +125,16 @@ class WebTests(unittest.TestCase):
         response = self.page.goto(self.origin + '/producto/ES-NO-EXISTE', wait_until='networkidle')
         self.assertEqual(response.status, 404)
 
-    def test_mobile_freshness_does_not_overflow(self):
+    def test_mobile_listing_does_not_overflow(self):
         self.mode = 'partial'
         self.page.set_viewport_size({'width': 390, 'height': 844})
         self.visit('/ofertas')
-        self.page.locator('#stock-freshness summary').click()
         self.assertTrue(self.page.evaluate('document.documentElement.scrollWidth <= innerWidth'))
 
-    def test_dates_reject_invalid_or_future_observations(self):
-        self.visit('/')
-        for value in ('bad', None, (self.now + timedelta(days=1)).isoformat()):
-            self.assertTrue(self.page.evaluate('(stamp) => stockHealth("products.json", {status: "fulfilled", value: {updated_at: stamp}}).issue', value, isolated_context=False))
+    def test_invalid_timestamp_does_not_claim_a_recent_update(self):
+        self.mode = 'invalid'
+        self.visit('/magic')
+        self.assertEqual(self.page.locator('#live-text').inner_text(), 'catálogo de productos')
 
 
 if __name__ == '__main__':

@@ -123,16 +123,7 @@ function cardHtml(p) {
 }
 
 
-// Cadencias objetivo; una fecha reciente de otro juego nunca oculta un fallo.
-const STOCK_SOURCES = {
-  "products.json": { label: "Pokémon", hours: 1 },
-  "onepiece.json": { label: "One Piece", hours: 1 },
-  "magic.json": { label: "Magic", hours: 6 },
-  "lorcana.json": { label: "Lorcana", hours: 6 },
-  "yugioh.json": { label: "Yu-Gi-Oh!", hours: 6 },
-  "accesorios.json": { label: "Accesorios", hours: 24 },
-};
-const GAME_SOURCES = Object.keys(STOCK_SOURCES).filter(s => s !== "accesorios.json");
+const GAME_SOURCES = ["products.json", "onepiece.json", "magic.json", "lorcana.json", "yugioh.json"];
 
 async function fetchJson(url) {
   const controller = new AbortController();
@@ -152,43 +143,18 @@ async function fetchStock(url) {
   return data;
 }
 
-function stockHealth(source, result, now = Date.now()) {
-  const config = STOCK_SOURCES[source] || { label: source, hours: 24 };
-  const stamp = result.status === "fulfilled" ? result.value.updated_at : null;
-  const age = now - Date.parse(stamp);
-  const invalid = !stamp || !Number.isFinite(age) || age < -300000;
-  const stale = !invalid && age > (config.hours * 2 + 0.5) * 3600000;
-  return { ...config, stamp, issue: invalid || stale,
-    text: invalid ? "sin datos de actualización" : `${timeAgo(stamp)}${stale ? " · actualización retrasada" : ""}` };
-}
-
-function showStockFreshness(sources, results) {
-  const main = document.querySelector("main");
-  if (!main) return;
-  let panel = document.getElementById("stock-freshness");
-  if (!panel) {
-    panel = document.createElement("details");
-    panel.id = "stock-freshness";
-    panel.className = "stock-freshness";
-    main.prepend(panel);
-  }
+// Cabecera discreta; los avisos de salud quedan en el monitor interno.
+function updateStockLabel(sources, results) {
   const refresh = () => {
-    const states = sources.flatMap((source, i) => {
-      const result = results[i];
-      if (source !== "accesorios.json" || result.status !== "fulfilled") return [stockHealth(source, result)];
-      const updates = result.value.source_updates || {};
-      return [["accessories", "accesorios.json", "Accesorios · catálogo general"], ["onepiece", "onepiece.json", "Accesorios · One Piece"]].map(([key, config, label]) => ({
-        ...stockHealth(config, { status: "fulfilled", value: { updated_at: updates[key] } }), label,
-      }));
-    });
-    const issues = states.filter(s => s.issue).length;
-    panel.classList.toggle("is-stale", issues > 0);
-    document.querySelectorAll(".brand-tag .dot").forEach(dot => dot.classList.toggle("is-stale", issues > 0));
-    panel.innerHTML = `<summary>${issues ? `⚠ ${issues} ${issues === 1 ? "fuente sin datos recientes" : "fuentes sin datos recientes"}` : "Últimas comprobaciones de stock"}</summary><ul>${states.map(s => `<li><strong>${escapeHtml(s.label)}</strong>: ${escapeHtml(s.text)}. Frecuencia prevista: cada ${s.hours === 1 ? "hora" : s.hours + " horas"}.</li>`).join("")}</ul><p>La disponibilidad puede cambiar entre comprobaciones. Confírmala en la tienda.</p>`;
     const live = document.getElementById("live-text");
-    if (live) live.textContent = issues ? "hay fuentes sin datos recientes" : states.length === 1 ? states[0].text : "ver comprobaciones por juego";
+    if (!live) return;
+    const stamp = sources.length === 1 && sources[0] !== "accesorios.json"
+      && results[0].status === "fulfilled" ? results[0].value.updated_at : null;
+    const age = Date.now() - Date.parse(stamp);
+    live.textContent = stamp && Number.isFinite(age) && age >= -300000
+      ? timeAgo(stamp) : "catálogo de productos";
   };
   refresh();
-  clearInterval(showStockFreshness.timer);
-  showStockFreshness.timer = setInterval(refresh, 60000);
+  clearInterval(updateStockLabel.timer);
+  updateStockLabel.timer = setInterval(refresh, 60000);
 }

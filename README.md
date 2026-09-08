@@ -5,8 +5,9 @@ con accesorios. Se publica con Cloudflare Workers Builds al actualizar main.
 
 Los snapshots los publica pokestock-tcg-bot. Pokémon y One Piece se consultan
 cada hora; Magic, Lorcana y Yu-Gi-Oh! cada seis horas; accesorios diariamente.
-La interfaz muestra la antigüedad por fuente y advierte tras dos intervalos
-más 30 minutos de margen. Son comprobaciones periódicas, no stock en tiempo real.
+La cabecera es discreta, sin avisos públicos de retraso ni desglose por fuente
+(decisión del usuario, 2026-09-08). El monitor interno del bot conserva los
+controles de antigüedad y fallos. Son comprobaciones periódicas, no stock en tiempo real.
 
 La portada combina los cinco juegos. Los archivos activity-*.json guardan los
 últimos 200 eventos de cada fuente; los catalog-*.json conservan productos
