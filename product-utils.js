@@ -91,7 +91,7 @@ function cardHtml(p) {
     : "";
   const stockNote = p.stock ? `<div class="stock-note">Solo queda(n) ${escapeHtml(p.stock)} en stock</div>` : "";
   const available = p.status === "compra_directa" || p.status === "invitacion" || p.status === "preventa";
-  const btnLabel = p.status === "invitacion" ? "Solicitar invitación" : p.status === "preventa" ? "Reservar ahora" : (available ? "Cómpralo ya" : "Agotado");
+  const btnLabel = p.status === "invitacion" ? "Solicitar invitación" : p.status === "preventa" ? "Reservar ahora" : (available ? "Ver en tienda" : "Agotado");
   // Cuando no está disponible, usamos <span> en vez de <a href="#"> — un
   // enlace real seguiría siendo enfocable y "activable" por teclado aunque
   // pointer-events:none bloquee el ratón, llevando a un salto de página sin

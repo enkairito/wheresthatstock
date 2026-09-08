@@ -19,8 +19,8 @@
 <meta name="twitter:image" content="https://wheresthatstock.com/assets/logo.jpg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Luckiest+Guy&display=swap" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Luckiest+Guy&display=swap" rel="stylesheet"></noscript>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet"></noscript>
 <link rel="stylesheet" href="styles.css">
 <script type="application/ld+json">
 {
@@ -111,6 +111,11 @@
 </header>
 
 <main class="home-content">
+  <section class="welcome" aria-labelledby="welcome-title">
+    <p class="eyebrow">Para tu próxima colección</p>
+    <h1 id="welcome-title">Tus cartas favoritas.<br>Tu próximo hallazgo.</h1>
+    <p>Explora productos, descubre ofertas y encuentra tu próximo TCG.</p>
+  </section>
   <div class="category-grid" id="catalogos">
     <a class="category-card" href="pokemontcg">
       <img class="category-img" src="assets/pokemontcg_logo.webp" alt="Logo de Pokémon TCG" width="800" height="427">
@@ -139,12 +144,10 @@
       <h2>Yu-Gi-Oh!</h2>
       <p>Sobres, cajas de sobres, mazos de estructura y latas disponibles en la última comprobación.</p>
     </a>
-    <div class="category-card disabled">
-      <span class="category-badge">Próximamente</span>
-      <svg class="category-placeholder-icon" viewBox="0 0 24 24" width="56" height="56" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><path d="M17.5 14v7M14 17.5h7"/></svg>
-      <h2>Más TCGs en camino</h2>
-      <p>Star Wars, Riftbound, Digimon, Dragon Ball... los iremos añadiendo aquí.</p>
-    </div>
+    <a class="category-card" href="accesorios">
+      <svg class="category-placeholder-icon" viewBox="0 0 24 24" width="64" height="64" fill="none" stroke="currentColor" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m12 3 9 5-9 5-9-5 9-5Z"/><path d="M3 8v9l9 5 9-5V8M12 13v9M7.5 5.5l9 5"/></svg>
+      <h2>Accesorios</h2>
+    </a>
   </div>
 
   <div class="home-section" id="newest-section">

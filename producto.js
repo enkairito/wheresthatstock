@@ -92,7 +92,7 @@ function render(p, restockCount) {
   if (metaDesc) metaDesc.setAttribute("content", `${p.name} — ${p.price || "consulta el precio"} en ${storeLabel}. Consulta la última disponibilidad observada.`);
 
   const available = p.status === "compra_directa" || p.status === "invitacion" || p.status === "preventa";
-  const btnLabel = p.status === "sin_confirmar" ? "Consultar en la tienda" : p.status === "invitacion" ? "Solicitar invitación" : p.status === "preventa" ? "Reservar ahora" : (available ? "Cómpralo ya" : "Agotado");
+  const btnLabel = p.status === "sin_confirmar" ? "Consultar en la tienda" : p.status === "invitacion" ? "Solicitar invitación" : p.status === "preventa" ? "Reservar ahora" : (available ? "Ver en tienda" : "Agotado");
   const buyButton = available || p.status === "sin_confirmar"
     ? `<a class="buy-btn" href="${link}" target="_blank" rel="noopener">${btnLabel}</a>`
     : `<span class="buy-btn disabled" aria-disabled="true">${btnLabel}</span>`;
