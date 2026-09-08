@@ -957,3 +957,14 @@ a.activity-item:hover { border-color: color-mix(in srgb, var(--navy) 35%, var(--
 @media (max-width: 860px) {
   .category-grid { grid-template-columns: 1fr; }
 }
+
+
+.stock-freshness { grid-column: 1 / -1; width: 100%; box-sizing: border-box; margin: 0 0 20px; padding: 12px 16px; border: 1px solid #465064; border-radius: 10px; font-size: .85rem; line-height: 1.6; }
+.stock-freshness summary { cursor: pointer; font-weight: 600; }
+.stock-freshness ul { padding-left: 20px; }
+.stock-freshness p { margin-bottom: 0; }
+.stock-freshness.is-stale { border-color: #b9872e; }
+
+.card-game { display: block; font-size: .75rem; opacity: .8; margin-bottom: 5px; }
+
+.live .dot.is-stale { background: #b9872e; box-shadow: none; animation: none; }

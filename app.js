@@ -289,8 +289,9 @@ const PRODUCTS_URLS = document.body.dataset.productsUrls
   ? document.body.dataset.productsUrls.split(",").map(u => u.trim())
   : [document.body.dataset.productsUrl || "products.json"];
 
-Promise.allSettled(PRODUCTS_URLS.map(url => fetch(url + "?t=" + Date.now()).then(r => r.json())))
+Promise.allSettled(PRODUCTS_URLS.map(fetchStock))
   .then(results => {
+    showStockFreshness(PRODUCTS_URLS, results);
     const okResults = results.filter(r => r.status === "fulfilled").map(r => r.value);
     if (!okResults.length) throw new Error("Ningún origen de productos cargó correctamente");
 
@@ -300,12 +301,6 @@ Promise.allSettled(PRODUCTS_URLS.map(url => fetch(url + "?t=" + Date.now()).then
     allProducts = results.flatMap((r, i) =>
       r.status === "fulfilled" ? (r.value.products || []).map(p => ({ ...p, _src: PRODUCTS_URLS[i] })) : []
     );
-    const latestUpdate = okResults
-      .map(data => data.updated_at)
-      .filter(Boolean)
-      .sort()
-      .pop();
-    document.getElementById("live-text").textContent = timeAgo(latestUpdate);
 
     const prices = allProducts.map(p => parsePrice(p.price)).filter(v => v !== null);
     const dataMax = prices.length ? Math.ceil(Math.max(...prices) / 5) * 5 : 200;

@@ -1,4 +1,5 @@
 const STATUS_LABEL = {
+  sin_confirmar: { text: "Sin confirmar", cls: "unavailable" },
   compra_directa: { text: "Disponible", cls: "available" },
   invitacion: { text: "Invitación", cls: "invitation" },
   preventa: { text: "Preventa", cls: "preventa" },
@@ -8,7 +9,8 @@ const STATUS_LABEL = {
 function timeAgo(iso) {
   if (!iso) return "sin datos";
   const diffMs = Date.now() - new Date(iso).getTime();
-  const mins = Math.floor(diffMs / 60000);
+  if (!Number.isFinite(diffMs) || diffMs < -300000) return "fecha no válida";
+  const mins = Math.max(0, Math.floor(diffMs / 60000));
   if (mins < 1) return "hace instantes";
   if (mins < 60) return `hace ${mins} min`;
   const hours = Math.floor(mins / 60);
@@ -70,7 +72,7 @@ function productUrl(p) {
   // ID compacto "MP-ASIN" (ej. "ES-B0GZKZ1FL9"). No hace falta codificar de
   // qué archivo JSON viene (_src) porque el ASIN ya es único de por sí — la
   // página de producto consulta los orígenes registrados en producto.js.
-  return `producto/${encodeURIComponent(p.marketplace || "")}-${encodeURIComponent(p.asin || "")}`;
+  return `/producto/${encodeURIComponent(p.marketplace || "")}-${encodeURIComponent(p.asin || "")}`;
 }
 
 function cardHtml(p) {
@@ -110,6 +112,7 @@ function cardHtml(p) {
         ${discount > 0 ? `<div class="card-corner-right"><span class="badge discount">-${discount}%</span></div>` : ""}
       </a>
       <div class="card-body">
+        ${p.game ? `<span class="card-game">${escapeHtml(p.game)}</span>` : ""}
         <a class="card-name" href="${detailUrl}">${name}</a>
         ${priceRow}
         ${stockNote}
@@ -117,4 +120,75 @@ function cardHtml(p) {
       </div>
     </div>
   `;
+}
+
+
+// Cadencias objetivo; una fecha reciente de otro juego nunca oculta un fallo.
+const STOCK_SOURCES = {
+  "products.json": { label: "Pokémon", hours: 1 },
+  "onepiece.json": { label: "One Piece", hours: 1 },
+  "magic.json": { label: "Magic", hours: 6 },
+  "lorcana.json": { label: "Lorcana", hours: 6 },
+  "yugioh.json": { label: "Yu-Gi-Oh!", hours: 6 },
+  "accesorios.json": { label: "Accesorios", hours: 24 },
+};
+const GAME_SOURCES = Object.keys(STOCK_SOURCES).filter(s => s !== "accesorios.json");
+
+async function fetchJson(url) {
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 15000);
+  try {
+    const response = await fetch(url + (url.includes("?") ? "&" : "?") + "t=" + Date.now(), { signal: controller.signal });
+    if (!response.ok) throw new Error(`HTTP ${response.status}: ${url}`);
+    return await response.json();
+  } finally {
+    clearTimeout(timeout);
+  }
+}
+
+async function fetchStock(url) {
+  const data = await fetchJson(url);
+  if (!data || !Array.isArray(data.products)) throw new Error("Listado inválido");
+  return data;
+}
+
+function stockHealth(source, result, now = Date.now()) {
+  const config = STOCK_SOURCES[source] || { label: source, hours: 24 };
+  const stamp = result.status === "fulfilled" ? result.value.updated_at : null;
+  const age = now - Date.parse(stamp);
+  const invalid = !stamp || !Number.isFinite(age) || age < -300000;
+  const stale = !invalid && age > (config.hours * 2 + 0.5) * 3600000;
+  return { ...config, stamp, issue: invalid || stale,
+    text: invalid ? "sin datos de actualización" : `${timeAgo(stamp)}${stale ? " · actualización retrasada" : ""}` };
+}
+
+function showStockFreshness(sources, results) {
+  const main = document.querySelector("main");
+  if (!main) return;
+  let panel = document.getElementById("stock-freshness");
+  if (!panel) {
+    panel = document.createElement("details");
+    panel.id = "stock-freshness";
+    panel.className = "stock-freshness";
+    main.prepend(panel);
+  }
+  const refresh = () => {
+    const states = sources.flatMap((source, i) => {
+      const result = results[i];
+      if (source !== "accesorios.json" || result.status !== "fulfilled") return [stockHealth(source, result)];
+      const updates = result.value.source_updates || {};
+      return [["accessories", "accesorios.json", "Accesorios · catálogo general"], ["onepiece", "onepiece.json", "Accesorios · One Piece"]].map(([key, config, label]) => ({
+        ...stockHealth(config, { status: "fulfilled", value: { updated_at: updates[key] } }), label,
+      }));
+    });
+    const issues = states.filter(s => s.issue).length;
+    panel.classList.toggle("is-stale", issues > 0);
+    document.querySelectorAll(".brand-tag .dot").forEach(dot => dot.classList.toggle("is-stale", issues > 0));
+    panel.innerHTML = `<summary>${issues ? `⚠ ${issues} ${issues === 1 ? "fuente sin datos recientes" : "fuentes sin datos recientes"}` : "Últimas comprobaciones de stock"}</summary><ul>${states.map(s => `<li><strong>${escapeHtml(s.label)}</strong>: ${escapeHtml(s.text)}. Frecuencia prevista: cada ${s.hours === 1 ? "hora" : s.hours + " horas"}.</li>`).join("")}</ul><p>La disponibilidad puede cambiar entre comprobaciones. Confírmala en la tienda.</p>`;
+    const live = document.getElementById("live-text");
+    if (live) live.textContent = issues ? "hay fuentes sin datos recientes" : states.length === 1 ? states[0].text : "ver comprobaciones por juego";
+  };
+  refresh();
+  clearInterval(showStockFreshness.timer);
+  showStockFreshness.timer = setInterval(refresh, 60000);
 }

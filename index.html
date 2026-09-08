@@ -41,7 +41,7 @@
       "name": "¿Qué es Where's That Stock?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Una web que vigila en directo el stock de Pokémon TCG en Amazon España, Reino Unido, USA y El Corte Inglés, y avisa por Telegram en cuanto un producto vuelve a estar disponible o baja de precio."
+        "text": "Una web que comprueba periódicamente el stock de Pokémon TCG en Amazon España, Reino Unido, USA y El Corte Inglés, y avisa por Telegram en cuanto un producto vuelve a estar disponible o baja de precio."
       }
     },
     {
@@ -49,7 +49,7 @@
       "name": "¿Cómo funcionan los avisos de restock?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Un bot revisa el stock cada pocos minutos. En cuanto un producto pasa a estar disponible (o disponible por invitación), se publica al momento en el canal de Telegram y se refleja aquí en la web."
+        "text": "El bot comprueba Pokémon y One Piece cada hora; Magic, Lorcana y Yu-Gi-Oh! cada seis horas, y accesorios diariamente. Cuando detecta un cambio, publica los datos en la web y envía los avisos correspondientes a Telegram. Los horarios son orientativos y pueden sufrir retrasos."
       }
     },
     {
@@ -88,7 +88,7 @@
       <img class="brand-logo" src="assets/logo.jpg" alt="Where's That Stock" width="40" height="40">
       <div class="brand-text">
         <h1 class="brand-name">Where's That <span class="accent">Stock</span></h1>
-        <div class="brand-tag">Restocks de Pokémon TCG, al minuto</div>
+        <div class="brand-tag">Restocks de tus juegos de cartas favoritos</div>
       </div>
     </a>
     <nav class="topnav">
@@ -111,33 +111,33 @@
 </header>
 
 <main class="home-content">
-  <div class="category-grid">
+  <div class="category-grid" id="catalogos">
     <a class="category-card" href="pokemontcg">
       <img class="category-img" src="assets/pokemontcg_logo.webp" alt="Logo de Pokémon TCG" width="800" height="427">
       <h2>Pokémon TCG</h2>
-      <p>Todo el stock disponible ahora mismo: sobres, expositores, colecciones y más.</p>
+      <p>Todo el stock disponible en la última comprobación: sobres, expositores, colecciones y más.</p>
     </a>
     <a class="category-card" href="onepiece">
       <img class="category-img" src="assets/onepiece.webp" alt="Logo de One Piece TCG" width="409" height="330">
       <h2>One Piece TCG</h2>
-      <p>Sobres, booster boxes, double packs y starter decks disponibles ahora mismo.</p>
+      <p>Sobres, booster boxes, double packs y starter decks disponibles en la última comprobación.</p>
     </a>
     <a class="category-card" href="magic">
       <img class="category-img" src="assets/magic.webp" alt="Logo de Magic: The Gathering" width="738" height="249">
       <h2>Magic: The Gathering</h2>
-      <p>Sobres, Boosters de Coleccionista, Bundles y mazos Commander disponibles ahora mismo.</p>
+      <p>Sobres, Boosters de Coleccionista, Bundles y mazos Commander disponibles en la última comprobación.</p>
     </a>
     <a class="category-card" href="lorcana">
       <img class="category-img" src="assets/lorcana.webp" alt="Logo de Disney Lorcana" width="1050" height="420">
       <h2>Disney Lorcana</h2>
-      <p>Sobres, mazos iniciales y colecciones especiales disponibles ahora mismo.</p>
+      <p>Sobres, mazos iniciales y colecciones especiales disponibles en la última comprobación.</p>
     </a>
     <a class="category-card" href="yugioh">
       <svg class="category-img" viewBox="0 165 500 175" width="500" height="175" role="img" aria-label="Logo de Yu-Gi-Oh!" overflow="hidden">
         <image href="assets/yugioh.webp" width="500" height="500" />
       </svg>
       <h2>Yu-Gi-Oh!</h2>
-      <p>Sobres, cajas de sobres, mazos de estructura y latas disponibles ahora mismo.</p>
+      <p>Sobres, cajas de sobres, mazos de estructura y latas disponibles en la última comprobación.</p>
     </a>
     <div class="category-card disabled">
       <span class="category-badge">Próximamente</span>
@@ -150,7 +150,7 @@
   <div class="home-section" id="newest-section">
     <div class="home-section-header">
       <h2>Novedades</h2>
-      <a href="pokemontcg">Ver todas las novedades →</a>
+      <a href="#catalogos">Explorar los juegos →</a>
     </div>
     <div class="grid view-5" id="newest-grid"></div>
   </div>
@@ -204,11 +204,11 @@
     <div class="faq-list">
       <details class="faq-item">
         <summary>¿Qué es Where's That Stock?</summary>
-        <p>Una web que vigila en directo el stock de Pokémon TCG en Amazon España, Reino Unido, USA y El Corte Inglés, y avisa por Telegram en cuanto un producto vuelve a estar disponible o baja de precio.</p>
+        <p>Una web que comprueba periódicamente el stock de Pokémon TCG en Amazon España, Reino Unido, USA y El Corte Inglés, y avisa por Telegram en cuanto un producto vuelve a estar disponible o baja de precio.</p>
       </details>
       <details class="faq-item">
         <summary>¿Cómo funcionan los avisos de restock?</summary>
-        <p>Un bot revisa el stock cada pocos minutos. En cuanto un producto pasa a estar disponible (o disponible por invitación), se publica al momento en el canal de Telegram y se refleja aquí en la web.</p>
+        <p>El bot comprueba Pokémon y One Piece cada hora; Magic, Lorcana y Yu-Gi-Oh! cada seis horas, y accesorios diariamente. Cuando detecta un cambio, publica los datos en la web y envía los avisos correspondientes a Telegram. Los horarios son orientativos y pueden sufrir retrasos.</p>
       </details>
       <details class="faq-item">
         <summary>¿Puedo ver solo las ofertas activas?</summary>
