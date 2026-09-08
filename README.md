@@ -46,3 +46,9 @@ diferida. La transición respeta la preferencia de reducir movimiento.
 Los listados conservan búsqueda, orden y filtros en la URL (`q`, `sort`, `store`, `status`, `category`, `game`, `price`, `discount`). Los grupos admiten parámetros repetidos y un valor vacío para seleccionar ninguno. Se restauran tras cargar los datos; los valores desconocidos usan los valores por defecto de la página. La búsqueda del catálogo y favoritos ignora mayúsculas y tildes.
 
 Identidad: nombre en Manrope 500/800, mayúsculas y sin acento de color. Fuente alojada en `assets/brand/` con licencia OFL. Símbolo, favicon, imagen social y avatares aprobados en esa carpeta. Las fichas futuras heredan la cabecera de `producto.html`.
+
+La navegación común se edita en `partials/navigation.html`. Ejecutar `python scripts/sync_navigation.py` antes de hacer commit; CI comprueba que los HTML están sincronizados. Las fichas generadas heredan la navegación de `producto.html`. Las fuentes y los iconos relevantes activan las pruebas si cambian. Manrope se sirve en WOFF2 latino con caracteres españoles; se conserva su licencia y el TTF original para diseño.
+
+Los listados muestran cero resultados y permiten restablecer los valores iniciales de cada página. Los límites de precio usan euros; descuentos solo comparan precios de la misma moneda. Una entrada de precio inválida se marca y recupera el último valor válido al salir del campo. Las fichas llevan un retorno validado al listado de origen y comparten su URL canónica. Consultan primero la fuente incrustada; estadísticas y otros juegos no bloquean la actualización principal.
+
+Favoritos permite descargar una copia JSON e importar hasta 2000 entradas (archivo de hasta 1 MB), con vista previa, deduplicación y fusión que conserva lo guardado. No incluye enlaces o precios del archivo importado ni añade cuentas. Los errores de lectura o almacenamiento se muestran sin afirmar que se han guardado cambios.

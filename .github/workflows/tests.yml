@@ -1,9 +1,9 @@
 name: Web tests
 on:
   push:
-    paths: ['*.js', '*.html', 'styles.css', 'tests/**', '.github/workflows/tests.yml']
+    paths: ['*.js', '*.html', 'styles.css', 'tests/**', 'assets/**', 'scripts/**', 'partials/**', 'wrangler.toml', '.assetsignore', '.github/workflows/tests.yml']
   pull_request:
-    paths: ['*.js', '*.html', 'styles.css', 'tests/**', '.github/workflows/tests.yml']
+    paths: ['*.js', '*.html', 'styles.css', 'tests/**', 'assets/**', 'scripts/**', 'partials/**', 'wrangler.toml', '.assetsignore', '.github/workflows/tests.yml']
 permissions:
   contents: read
 jobs:
@@ -17,4 +17,5 @@ jobs:
           python-version: '3.11'
       - run: pip install patchright==1.62.1
       - run: patchright install --with-deps chromium
+      - run: python -B scripts/sync_navigation.py --check
       - run: python -B -m unittest discover -s tests -v

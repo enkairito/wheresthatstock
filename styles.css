@@ -1145,7 +1145,7 @@ footer { border-top: 1px solid var(--border); font-weight: 400; padding: 36px 24
 /* Approved identity: Manrope uppercase, monochrome name and card alert symbol. */
 @font-face {
   font-family: "WTS Manrope";
-  src: url("/assets/brand/manrope.ttf") format("truetype");
+  src: url("/assets/brand/manrope-latin.woff2") format("woff2");
   font-style: normal;
   font-weight: 200 800;
   font-display: swap;

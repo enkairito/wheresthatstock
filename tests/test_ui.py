@@ -421,6 +421,16 @@ class WebTests(unittest.TestCase):
         expect(self.page.locator('#transfer-status')).to_contain_text('No se pudo guardar')
         expect(self.page.locator('#favorite-count')).to_have_text('1 producto guardado')
 
+    def test_brand_resources_and_favorites_controls_fit_mobile(self):
+        self.page.set_viewport_size({'width':390,'height':844})
+        self.visit('/favoritos')
+        self.page.evaluate('document.fonts.ready')
+        self.assertTrue(self.page.evaluate("font => document.fonts.check(font)", '500 18px "WTS Manrope"'))
+        self.assertTrue(self.page.locator('.brand-logo').evaluate('(i)=>i.complete && i.naturalWidth>0'))
+        self.assertEqual(self.page.locator('.brand-name .accent').evaluate('(e)=>getComputedStyle(e).fontWeight'), '800')
+        expect(self.page.locator('#choose-favorites')).to_be_visible()
+        self.assertTrue(self.page.evaluate('document.documentElement.scrollWidth<=innerWidth'))
+
     def test_invalid_timestamp_does_not_claim_a_recent_update(self):
         self.mode = 'invalid'
         self.visit('/magic')
