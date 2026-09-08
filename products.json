@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T18:33:17.808109+00:00",
+  "updated_at": "2026-09-08T18:42:15.228137+00:00",
   "products": [
     {
       "asin": "B0GZKZ1FL9",
@@ -705,11 +705,137 @@
       "game": "Pokémon"
     },
     {
+      "asin": "B0CJM4MQTT",
+      "store_label": "Amazon UK",
+      "flag": "🇬🇧",
+      "name": "Pokemon Scarlet EX Pantalla 30 coreana",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61US9+Y9F4L._AC_UL320_.jpg",
+      "price": "76,94 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "5",
+      "link": "https://www.amazon.es/dp/B0CJM4MQTT?tag=enkairito-21",
+      "first_seen": "2026-09-05T00:38:53.462595+00:00",
+      "marketplace": "UK",
+      "categories": [
+        "Otros"
+      ],
+      "game": "Pokémon"
+    },
+    {
+      "asin": "B0FJSCW2VH",
+      "store_label": "Amazon UK",
+      "flag": "🇬🇧",
+      "name": "Pokemon Paradise Dragona sv7a Caja de refuerzo coreana",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/514cvyWrfaL._AC_UL320_.jpg",
+      "price": "75,60 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "3",
+      "link": "https://www.amazon.es/dp/B0FJSCW2VH?tag=enkairito-21",
+      "first_seen": "2026-09-08T00:08:50.343270+00:00",
+      "marketplace": "UK",
+      "categories": [
+        "Otros"
+      ],
+      "game": "Pokémon"
+    },
+    {
+      "asin": "B0BJ7C2F88",
+      "store_label": "Amazon UK",
+      "flag": "🇬🇧",
+      "name": "Pokémon TCG: Zeraora V Battle Deck (60 Cartas, Listo para Jugar)",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/815bkUc90CL._AC_UL320_.jpg",
+      "price": "24,96 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0BJ7C2F88?tag=enkairito-21",
+      "first_seen": "2026-09-05T05:18:07.280932+00:00",
+      "marketplace": "UK",
+      "categories": [
+        "Otros"
+      ],
+      "game": "Pokémon"
+    },
+    {
+      "asin": "B0DBHJPLVB",
+      "store_label": "Amazon UK",
+      "flag": "🇬🇧",
+      "name": "Pokémon TCG: Miraidon ex Deluxe Battle Deck (Ready-to-Play 60-Card Deck & Accessories)",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81wkHcRv55L._AC_UL320_.jpg",
+      "price": "31,65 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DBHJPLVB?tag=enkairito-21",
+      "first_seen": "2026-09-04T22:05:43.537225+00:00",
+      "marketplace": "UK",
+      "categories": [
+        "Otros"
+      ],
+      "game": "Pokémon"
+    },
+    {
+      "asin": "B0BJ7F5RNY",
+      "store_label": "Amazon UK",
+      "flag": "🇬🇧",
+      "name": "Pokémon- Deoxys (60 Cards, Ready to Play) Baraja de Batalla V, Multicolor, zeraora (699-17149)",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81pTrbT77WL._AC_UL320_.jpg",
+      "price": "24,79 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0BJ7F5RNY?tag=enkairito-21",
+      "first_seen": "2026-09-04T21:32:58.802813+00:00",
+      "marketplace": "UK",
+      "categories": [
+        "Otros"
+      ],
+      "game": "Pokémon"
+    },
+    {
+      "asin": "B0F634M6PY",
+      "store_label": "Amazon UK",
+      "flag": "🇬🇧",
+      "name": "Pokemon Juego de Cartas coleccionables - Scarlet & Violet 10 - Destined Rivals Booster",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71aX5MmNCFL._AC_UL320_.jpg",
+      "price": "23,72 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F634M6PY?tag=enkairito-21",
+      "first_seen": "2026-09-04T21:32:58.802777+00:00",
+      "marketplace": "UK",
+      "categories": [
+        "Otros"
+      ],
+      "game": "Pokémon"
+    },
+    {
+      "asin": "B0DLTZPNR2",
+      "store_label": "Amazon UK",
+      "flag": "🇬🇧",
+      "name": "Pokemon TCG Surging Spark – Single Booster Pack – Pack Art May Vary",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51REXB8bUgL._AC_UL320_.jpg",
+      "price": "26,50 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DLTZPNR2?tag=enkairito-21",
+      "first_seen": "2026-09-06T13:57:50.628806+00:00",
+      "marketplace": "UK",
+      "categories": [
+        "Otros"
+      ],
+      "game": "Pokémon"
+    },
+    {
       "asin": "B0FTSVL3Z6",
       "store_label": "Amazon UK",
       "flag": "🇬🇧",
       "name": "Pokemon Mega Brave m1L Caja Booster Coreana 30 Sobres Cartas Originales",
-      "image": "https://m.media-amazon.com/images/I/61WBVRC6e8L._AC_UL320_.jpg",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61WBVRC6e8L._AC_UL320_.jpg",
       "price": "83,33 €",
       "original_price": null,
       "status": "compra_directa",
@@ -795,24 +921,6 @@
       "game": "Pokémon"
     },
     {
-      "asin": "B0CK8JM32H",
-      "store_label": "Amazon UK",
-      "flag": "🇬🇧",
-      "name": "Pokémon TCG: Baraja de batalla Greninja ex (mazo de 60 cartas listo para jugar)",
-      "image": "https://m.media-amazon.com/images/I/81QkRDu7X0L._AC_UL320_.jpg",
-      "price": "43,35 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "2",
-      "link": "https://www.amazon.es/dp/B0CK8JM32H?tag=enkairito-21",
-      "first_seen": "2026-09-08T14:34:56.335833+00:00",
-      "marketplace": "UK",
-      "categories": [
-        "Otros"
-      ],
-      "game": "Pokémon"
-    },
-    {
       "asin": "B0H5RHR55T",
       "store_label": "Amazon UK",
       "flag": "🇬🇧",
@@ -824,6 +932,24 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B0H5RHR55T?tag=enkairito-21",
       "first_seen": "2026-09-04T21:32:58.802771+00:00",
+      "marketplace": "UK",
+      "categories": [
+        "Otros"
+      ],
+      "game": "Pokémon"
+    },
+    {
+      "asin": "B0CK8JM32H",
+      "store_label": "Amazon UK",
+      "flag": "🇬🇧",
+      "name": "Pokémon TCG: Baraja de batalla Greninja ex (mazo de 60 cartas listo para jugar)",
+      "image": "https://m.media-amazon.com/images/I/81QkRDu7X0L._AC_UL320_.jpg",
+      "price": "43,35 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "2",
+      "link": "https://www.amazon.es/dp/B0CK8JM32H?tag=enkairito-21",
+      "first_seen": "2026-09-08T14:34:56.335833+00:00",
       "marketplace": "UK",
       "categories": [
         "Otros"
@@ -872,30 +998,12 @@
       "flag": "🇬🇧",
       "name": "Pokemon Scarlet & Violet Stellar Crown Booster Pack",
       "image": "https://m.media-amazon.com/images/I/71O6VBum4bL._AC_UL320_.jpg",
-      "price": "26,35 €",
+      "price": "26,33 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": "5",
       "link": "https://www.amazon.es/dp/B0DH53TQCC?tag=enkairito-21",
       "first_seen": "2026-09-04T22:05:43.537215+00:00",
-      "marketplace": "UK",
-      "categories": [
-        "Otros"
-      ],
-      "game": "Pokémon"
-    },
-    {
-      "asin": "B0CTKXY3Q4",
-      "store_label": "Amazon UK",
-      "flag": "🇬🇧",
-      "name": "Pokemon TCG Scarlet & Violet 5: Temporal Forces Booster Pack",
-      "image": "https://m.media-amazon.com/images/I/71jf1hrUdYL._AC_UL320_.jpg",
-      "price": "24,07 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0CTKXY3Q4?tag=enkairito-21",
-      "first_seen": "2026-09-04T21:32:58.802789+00:00",
       "marketplace": "UK",
       "categories": [
         "Otros"
@@ -932,6 +1040,24 @@
       "stock": "2",
       "link": "https://www.amazon.es/dp/B0DMDPGWWY?tag=enkairito-21",
       "first_seen": "2026-09-05T18:46:43.703251+00:00",
+      "marketplace": "UK",
+      "categories": [
+        "Otros"
+      ],
+      "game": "Pokémon"
+    },
+    {
+      "asin": "B0CTKXY3Q4",
+      "store_label": "Amazon UK",
+      "flag": "🇬🇧",
+      "name": "Pokemon TCG Scarlet & Violet 5: Temporal Forces Booster Pack",
+      "image": "https://m.media-amazon.com/images/I/71jf1hrUdYL._AC_UL320_.jpg",
+      "price": "24,07 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CTKXY3Q4?tag=enkairito-21",
+      "first_seen": "2026-09-04T21:32:58.802789+00:00",
       "marketplace": "UK",
       "categories": [
         "Otros"
@@ -1047,17 +1173,17 @@
       "game": "Pokémon"
     },
     {
-      "asin": "B0C16H3DGV",
+      "asin": "B0DLTZPNR2",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
-      "name": "Pokemon Booster Pack - Scarlet & Violet SV1 Base Set - 10 Card Pack - Pack Art Varys",
-      "image": "https://m.media-amazon.com/images/I/71ARA+YjCfL._AC_UL320_.jpg",
-      "price": "33,13 €",
+      "name": "Pokemon TCG Surging Spark – Single Booster Pack – Pack Art May Vary",
+      "image": "https://m.media-amazon.com/images/I/51REXB8bUgL._AC_UL320_.jpg",
+      "price": "34,13 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "4",
-      "link": "https://www.amazon.es/dp/B0C16H3DGV?tag=enkairito-21",
-      "first_seen": "2026-09-08T00:08:50.343349+00:00",
+      "stock": "2",
+      "link": "https://www.amazon.es/dp/B0DLTZPNR2?tag=enkairito-21",
+      "first_seen": "2026-09-08T05:38:28.180394+00:00",
       "marketplace": "US",
       "categories": [
         "Otros"
@@ -1083,17 +1209,17 @@
       "game": "Pokémon"
     },
     {
-      "asin": "B0D1RKJM6K",
+      "asin": "B0F67LMLFY",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
-      "name": "Pokemon TCG: Scarlet & Violet - Paquete de refuerzo de destinos paldeanos",
-      "image": "https://m.media-amazon.com/images/I/81KQ9P6vpcL._AC_UL320_.jpg",
-      "price": "337,03 €",
+      "name": "Pokemon TCG: Scarlet & Violet Azure Legends Tin - Xerneas ex (5 Packs)",
+      "image": "https://m.media-amazon.com/images/I/61i+ey4w2IL._AC_UL320_.jpg",
+      "price": "90,68 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "2",
-      "link": "https://www.amazon.es/dp/B0D1RKJM6K?tag=enkairito-21",
-      "first_seen": "2026-09-04T21:32:58.802920+00:00",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F67LMLFY?tag=enkairito-21",
+      "first_seen": "2026-09-08T14:34:56.335933+00:00",
       "marketplace": "US",
       "categories": [
         "Otros"
@@ -1119,24 +1245,6 @@
       "game": "Pokémon"
     },
     {
-      "asin": "B0F67LMLFY",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokemon TCG: Scarlet & Violet Azure Legends Tin - Xerneas ex (5 Packs)",
-      "image": "https://m.media-amazon.com/images/I/61i+ey4w2IL._AC_UL320_.jpg",
-      "price": "90,68 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F67LMLFY?tag=enkairito-21",
-      "first_seen": "2026-09-08T14:34:56.335933+00:00",
-      "marketplace": "US",
-      "categories": [
-        "Otros"
-      ],
-      "game": "Pokémon"
-    },
-    {
       "asin": "B0D4B515H1",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
@@ -1155,24 +1263,6 @@
       "game": "Pokémon"
     },
     {
-      "asin": "B0BZFKQK37",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokemon TCG: Scarlet & Violet SV01 3 Pack Blister - Dondozo",
-      "image": "https://m.media-amazon.com/images/I/61Uv489grQL._AC_UL320_.jpg",
-      "price": "59,36 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0BZFKQK37?tag=enkairito-21",
-      "first_seen": "2026-09-08T14:34:56.335964+00:00",
-      "marketplace": "US",
-      "categories": [
-        "Otros"
-      ],
-      "game": "Pokémon"
-    },
-    {
       "asin": "B0CJB9D88Q",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
@@ -1184,6 +1274,24 @@
       "stock": "2",
       "link": "https://www.amazon.es/dp/B0CJB9D88Q?tag=enkairito-21",
       "first_seen": "2026-09-08T14:34:56.335957+00:00",
+      "marketplace": "US",
+      "categories": [
+        "Otros"
+      ],
+      "game": "Pokémon"
+    },
+    {
+      "asin": "B0BZFKQK37",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokemon TCG: Scarlet & Violet SV01 3 Pack Blister - Dondozo",
+      "image": "https://m.media-amazon.com/images/I/61Uv489grQL._AC_UL320_.jpg",
+      "price": "59,36 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0BZFKQK37?tag=enkairito-21",
+      "first_seen": "2026-09-08T14:34:56.335964+00:00",
       "marketplace": "US",
       "categories": [
         "Otros"
