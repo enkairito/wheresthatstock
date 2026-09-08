@@ -6,9 +6,9 @@ let favoritesLoading = true;
 
 function renderFavorites() {
   const saved = readFavorites();
-  const query = favoriteSearch.value.trim().toLocaleLowerCase("es");
+  const query = normalizeSearch(favoriteSearch.value);
   const products = saved.map(row => favoriteCatalog.get(favoriteId(row)) || { ...row, status: "sin_confirmar" });
-  const visible = products.filter(p => p.name.toLocaleLowerCase("es").includes(query));
+  const visible = products.filter(p => normalizeSearch(p.name).includes(query));
   favoriteGrid.innerHTML = visible.map(cardHtml).join("");
   hydrateProductImages(favoriteGrid);
   document.getElementById("favorite-count").textContent = `${saved.length} ${saved.length === 1 ? "producto guardado" : "productos guardados"}`;

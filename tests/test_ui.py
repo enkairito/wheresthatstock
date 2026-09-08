@@ -5,7 +5,7 @@ import unittest
 from datetime import datetime, timedelta, timezone
 from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import urlparse, parse_qs
 
 from patchright.sync_api import sync_playwright, expect
 
@@ -263,6 +263,71 @@ class WebTests(unittest.TestCase):
         self.assertEqual((before['width'], before['height']), (after['width'], after['height']))
         self.page.emulate_media(reduced_motion='reduce')
         self.assertEqual(first.evaluate('(img) => getComputedStyle(img).transitionDuration'), '0s')
+
+    def test_filter_link_restores_reload_shared_link_and_back(self):
+        self.visit('/ofertas')
+        self.page.locator('#search').fill('pokemon')
+        self.page.locator('#sort-select').select_option('price-asc')
+        self.page.locator('#price-input').fill('30')
+        for game in GAMES[1:]:
+            self.page.locator(f'input[data-game="{game}"]').uncheck()
+        expect(self.page.locator('#grid .card')).to_have_count(1)
+        shared = self.page.url
+        params = parse_qs(urlparse(shared).query)
+        self.assertEqual(params['game'], ['Pokémon'])
+        self.assertEqual(params['q'], ['pokemon'])
+        self.assertEqual(params['price'], ['30'])
+        self.page.reload(wait_until='networkidle')
+        expect(self.page.locator('#search')).to_have_value('pokemon')
+        expect(self.page.locator('#price-input')).to_have_value('30')
+        expect(self.page.locator('#sort-select')).to_have_value('price-asc')
+        expect(self.page.locator('#grid .card')).to_have_count(1)
+        self.visit('/favoritos')
+        self.page.go_back(wait_until='networkidle')
+        expect(self.page.locator('#search')).to_have_value('pokemon')
+        expect(self.page.locator('#grid .card')).to_have_count(1)
+        self.visit('/ofertas')
+        self.page.goto(shared, wait_until='networkidle')
+        expect(self.page.locator('#grid .card')).to_have_count(1)
+        expect(self.page.locator('input[data-game="Magic"]')).not_to_be_checked()
+        self.assertEqual(self.errors, [])
+
+    def test_filter_url_validates_values_and_preserves_empty_selection(self):
+        self.visit('/ofertas?store=invalid&sort=invalid&price=-3&discount=bad&utm_source=test')
+        expect(self.page.locator('#grid .card')).to_have_count(5)
+        expect(self.page.locator('#discount-range')).to_have_value('1')
+        self.assertEqual(parse_qs(urlparse(self.page.url).query), {'utm_source': ['test']})
+        for game in GAMES:
+            self.page.locator(f'input[data-game="{game}"]').uncheck()
+        self.assertIn('game=', self.page.url)
+        self.page.reload(wait_until='networkidle')
+        expect(self.page.locator('#grid .card')).to_have_count(0)
+        expect(self.page.locator('input[data-game]:checked')).to_have_count(0)
+        self.page.locator('#active-filters button').click()
+        expect(self.page.locator('#grid .card')).to_have_count(5)
+        self.assertNotIn('game=', self.page.url)
+
+    def test_all_filter_groups_and_history_restore(self):
+        self.visit('/cajas-de-coleccion?status=preventa&store=ES&category=Otros&discount=25&price=5')
+        expect(self.page.locator('input[data-status="preventa"]')).to_be_checked()
+        expect(self.page.locator('input[data-status="compra_directa"]')).not_to_be_checked()
+        expect(self.page.locator('#discount-range')).to_have_value('25')
+        expect(self.page.locator('#price-input')).to_have_value('5')
+        expect(self.page.locator('#grid .card')).to_have_count(0)
+        self.page.evaluate("history.pushState(null, '', location.pathname); dispatchEvent(new PopStateEvent('popstate'))")
+        expect(self.page.locator('#price-input')).to_have_value('10')
+        expect(self.page.locator('input[data-status="compra_directa"]')).to_be_checked()
+        self.page.go_back(wait_until='networkidle')
+        expect(self.page.locator('#price-input')).to_have_value('5')
+        expect(self.page.locator('input[data-status="compra_directa"]')).not_to_be_checked()
+        self.assertEqual(self.errors, [])
+
+    def test_favorite_search_ignores_accents(self):
+        self.visit('/')
+        self.page.locator('#newest-grid [data-favorite]').first.click()
+        self.visit('/favoritos')
+        self.page.locator('#favorite-search').fill('POKEMON')
+        expect(self.page.locator('#favorite-grid .card')).to_have_count(1)
 
     def test_invalid_timestamp_does_not_claim_a_recent_update(self):
         self.mode = 'invalid'

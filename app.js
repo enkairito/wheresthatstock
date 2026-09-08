@@ -39,6 +39,75 @@ let sortMode = sortSelectEl ? sortSelectEl.value : "newest";
 
 // Orden de prioridad de tienda para "Novedades" — solicitado explícitamente:
 // primero Amazon ES, luego El Corte Inglés, luego Amazon US, luego Amazon UK.
+// Preserve defaults from each page: offers start at a 1% discount.
+const filterDefaults = { discount: minDiscount, sort: sortMode };
+const filterGroups = [
+  { key: "status", attr: "status", active: activeStatuses },
+  { key: "store", attr: "marketplace", active: activeMarketplaces },
+  { key: "category", attr: "category", active: activeCategories },
+  { key: "game", attr: "game", active: activeGames },
+].map(group => ({ ...group, defaults: [...group.active],
+  inputs: [...document.querySelectorAll(`.sidebar input[data-${group.attr}]`)] }));
+let filtersReady = false;
+let catalogPriceMax = 200;
+
+function restoreFilterUrl() {
+  const params = new URLSearchParams(location.search);
+  document.getElementById("search").value = params.get("q") || "";
+  filterGroups.forEach(group => {
+    const allowed = group.inputs.map(input => input.dataset[group.attr]);
+    const requested = params.getAll(group.key).filter(value => allowed.includes(value));
+    // An empty value means deliberately selecting none; unknown values use defaults.
+    const selected = requested.length ? requested : params.get(group.key) === "" ? [] : group.defaults;
+    group.active.clear();
+    selected.forEach(value => group.active.add(value));
+    group.inputs.forEach(input => { input.checked = group.active.has(input.dataset[group.attr]); });
+  });
+  const numberParam = (key, fallback) => {
+    const raw = params.get(key);
+    const value = raw === null || raw.trim() === "" ? NaN : Number(raw);
+    return Number.isFinite(value) && value >= 0 ? value : fallback;
+  };
+  discountRangeEl.value = Math.max(Number(discountRangeEl.min), Math.min(Number(discountRangeEl.max), numberParam("discount", filterDefaults.discount)));
+  minDiscount = Number(discountRangeEl.value);
+  discountValue.textContent = `${minDiscount}% de descuento`;
+  maxPrice = numberParam("price", catalogPriceMax);
+  priceRange.max = Math.max(catalogPriceMax, maxPrice);
+  priceInput.max = priceRange.max;
+  priceRange.value = maxPrice;
+  priceInput.value = maxPrice;
+  const requestedSort = params.get("sort");
+  sortMode = [...sortSelectEl.options].some(option => option.value === requestedSort) ? requestedSort : filterDefaults.sort;
+  sortSelectEl.value = sortMode;
+}
+
+function writeFilterUrl() {
+  const url = new URL(location.href);
+  const set = (key, value, fallback) => {
+    url.searchParams.delete(key);
+    if (value !== fallback) url.searchParams.set(key, String(value));
+  };
+  set("q", document.getElementById("search").value.trim(), "");
+  set("sort", sortMode, filterDefaults.sort);
+  set("discount", minDiscount, filterDefaults.discount);
+  set("price", maxPrice, catalogPriceMax);
+  filterGroups.forEach(group => {
+    url.searchParams.delete(group.key);
+    if (!group.inputs.length) return;
+    if (group.active.size === group.defaults.length && group.defaults.every(value => group.active.has(value))) return;
+    if (!group.active.size) url.searchParams.set(group.key, "");
+    else group.active.forEach(value => url.searchParams.append(group.key, value));
+  });
+  // Replace avoids creating a browser history entry for every typed character.
+  if (url.href !== location.href) history.replaceState(history.state, "", url);
+}
+
+window.addEventListener("popstate", () => {
+  if (!filtersReady) return;
+  restoreFilterUrl();
+  applyFilter();
+});
+
 const MARKETPLACE_SORT_PRIORITY = { ES: 0, ECI: 1, US: 2, UK: 3 };
 
 function sortProducts(products) {
@@ -62,7 +131,7 @@ function sortProducts(products) {
 }
 
 function applyFilter() {
-  const q = document.getElementById("search").value.trim().toLowerCase();
+  const q = normalizeSearch(document.getElementById("search").value);
   const filtered = allProducts.filter(p => {
     const matchesStatus = activeStatuses.has(p.status);
     const matchesMarketplace = activeMarketplaces.has(p.marketplace);
@@ -74,7 +143,7 @@ function applyFilter() {
     // de categoría dejaba la página de Accesorios completamente vacía.
     const matchesCategory = ALL_CATEGORIES.length === 0 || !p.categories || p.categories.some(c => activeCategories.has(c));
     const matchesGame = ALL_GAMES.length === 0 || !p.game || activeGames.has(p.game);
-    const matchesSearch = !q || (p.name || "").toLowerCase().includes(q);
+    const matchesSearch = !q || normalizeSearch(p.name).includes(q);
     const matchesDiscount = discountPercent(p) >= minDiscount;
     const price = parsePrice(p.price);
     const matchesPrice = price === null || price <= maxPrice;
@@ -82,6 +151,7 @@ function applyFilter() {
   });
   render(sortProducts(filtered));
   renderActiveFilters();
+  if (filtersReady) writeFilterUrl();
 }
 
 const ALL_STATUSES = ["compra_directa", "invitacion", "preventa"];
@@ -165,11 +235,13 @@ function renderActiveFilters() {
     });
   }
 
-  if (maxPrice < Number(priceRange.max)) {
+  if (maxPrice !== catalogPriceMax) {
     chips.push({
       label: `Hasta ${maxPrice} €`,
       onRemove: () => {
-        maxPrice = Number(priceRange.max);
+        maxPrice = catalogPriceMax;
+        priceRange.max = catalogPriceMax;
+        priceInput.max = catalogPriceMax;
         priceRange.value = maxPrice;
         priceInput.value = maxPrice;
         applyFilter();
@@ -214,7 +286,7 @@ priceRange.addEventListener("input", (e) => {
 
 priceInput.addEventListener("input", (e) => {
   const value = Number(e.target.value);
-  if (Number.isNaN(value)) return;
+  if (!Number.isFinite(value) || value < 0 || e.target.value.trim() === "") return;
   maxPrice = value;
   const clamped = Math.min(value, Number(priceRange.max));
   priceRange.value = clamped;
@@ -320,7 +392,9 @@ Promise.allSettled(PRODUCTS_URLS.map(fetchStock))
     priceRange.value = dataMax;
     priceInput.max = dataMax;
     priceInput.value = dataMax;
-    maxPrice = dataMax;
+    catalogPriceMax = dataMax;
+    restoreFilterUrl();
+    filtersReady = true;
 
     applyFilter();
   })

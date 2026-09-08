@@ -264,3 +264,8 @@ function hydrateProductImages(root) {
     if (img.complete) img.naturalWidth > 0 ? ready() : failed();
   });
 }
+
+// Shared search normalization for catalog and saved products.
+function normalizeSearch(value) {
+  return String(value || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLocaleLowerCase("es").trim();
+}

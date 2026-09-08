@@ -42,3 +42,5 @@ portada, listados, favoritos y fichas. Los marcos mantienen su tamaño y muestra
 un marcador si falta la imagen o falla. Las visibles se cargan de inmediato
 (las primeras dos de cada bloque con prioridad alta); las demás usan carga
 diferida. La transición respeta la preferencia de reducir movimiento.
+
+Los listados conservan búsqueda, orden y filtros en la URL (`q`, `sort`, `store`, `status`, `category`, `game`, `price`, `discount`). Los grupos admiten parámetros repetidos y un valor vacío para seleccionar ninguno. Se restauran tras cargar los datos; los valores desconocidos usan los valores por defecto de la página. La búsqueda del catálogo y favoritos ignora mayúsculas y tildes.
