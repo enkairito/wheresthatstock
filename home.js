@@ -1,21 +1,13 @@
-fetch("products.json?t=" + Date.now())
-  .then(r => r.json())
-  .then(data => {
+Promise.allSettled(GAME_SOURCES.map(fetchStock))
+  .then(results => {
     // "_src" viaja con cada producto para poder enlazar a su página
     // individual (producto.html) — ver la misma nota en app.js.
-    const products = (data.products || []).map(p => ({ ...p, _src: "products.json" }));
-    const liveText = document.getElementById("live-text");
-    if (liveText) liveText.textContent = "Actualizado " + timeAgo(data.updated_at);
+    showStockFreshness(GAME_SOURCES, results);
+    if (results.every(r => r.status === "rejected")) throw new Error("Sin datos");
+    const products = [...new Map(results.flatMap((r, i) => r.status === "fulfilled"
+      ? r.value.products.map(p => [`${p.marketplace}:${p.asin}`, { ...p, _src: GAME_SOURCES[i] }]) : [])).values()];
 
-    // Mismo criterio que el sort "newest" de app.js (Amazon ES, luego El
-    // Corte Inglés, luego Amazon US, luego Amazon UK) — mantener ambos en
-    // sincronía si este orden cambia alguna vez.
-    const MARKETPLACE_SORT_PRIORITY = { ES: 0, ECI: 1, US: 2, UK: 3 };
-    const newest = products.slice().sort((a, b) => {
-      const marketplaceDiff = (MARKETPLACE_SORT_PRIORITY[a.marketplace] ?? 99) - (MARKETPLACE_SORT_PRIORITY[b.marketplace] ?? 99);
-      if (marketplaceDiff !== 0) return marketplaceDiff;
-      return firstSeenTime(b) - firstSeenTime(a);
-    }).slice(0, 5);
+    const newest = products.slice().sort((a, b) => firstSeenTime(b) - firstSeenTime(a)).slice(0, 5);
     const bestDeals = products
       .filter(p => discountPercent(p) > 0)
       .sort((a, b) => discountPercent(b) - discountPercent(a))
@@ -39,16 +31,19 @@ function renderSection(gridId, sectionId, items) {
   grid.innerHTML = items.map(cardHtml).join("");
 }
 
-// events.json lo genera el bot en cada ejecución (ver check_stock.py /
-// build_event): un evento por restock o bajada de precio detectados, de
-// las 4 tiendas (a diferencia de Telegram, que solo avisa ES/ECI). Los
-// más recientes van al final del array.
-fetch("events.json?t=" + Date.now())
-  .then(r => r.json())
-  .then(events => renderActivity(events.slice(-8).reverse()))
-  .catch(() => {
-    const section = document.getElementById("activity-section");
-    if (section) section.style.display = "none";
+// Cada juego conserva su propio feed; un fallo no oculta los demás.
+Promise.allSettled(GAME_SOURCES.map(source => fetchJson("activity-" + source)))
+  .then(results => {
+    const events = results.flatMap(r => r.status === "fulfilled" && Array.isArray(r.value) ? r.value : []);
+    renderActivity(events.sort((a, b) => Date.parse(b.ts) - Date.parse(a.ts)).slice(0, 8));
+    const failed = results.filter(r => r.status === "rejected").length;
+    if (failed) {
+      const section = document.getElementById("activity-section");
+      section.style.display = "";
+      const note = document.createElement("p");
+      note.textContent = "No se pudo cargar toda la actividad reciente.";
+      section.append(note);
+    }
   });
 
 function renderActivity(events) {
@@ -77,7 +72,7 @@ function activityItemHtml(e) {
       ${e.image ? `<img class="activity-img" src="${image}" alt="" loading="lazy">` : ""}
       <div class="activity-body">
         <div class="activity-text"><strong>${name}</strong> ${actionText}</div>
-        <div class="activity-meta">${storeLabel} · hace ${timeAgo(e.ts)}</div>
+        <div class="activity-meta">${escapeHtml(e.game || "Pokémon")} · ${storeLabel} · ${timeAgo(e.ts)}</div>
       </div>
     </a>
   `;
