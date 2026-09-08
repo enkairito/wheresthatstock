@@ -159,9 +159,9 @@ function applyFilter() {
     const matchesPrice = maxPrice === catalogPriceMax || (price !== null && price <= maxPrice);
     return matchesStatus && matchesMarketplace && matchesCategory && matchesGame && matchesSearch && matchesDiscount && matchesPrice;
   });
+  if (filtersReady) writeFilterUrl();
   render(sortProducts(filtered));
   renderActiveFilters();
-  if (filtersReady) writeFilterUrl();
 }
 
 const ALL_STATUSES = ["compra_directa", "invitacion", "preventa"];

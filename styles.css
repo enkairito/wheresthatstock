@@ -1164,3 +1164,6 @@ footer { border-top: 1px solid var(--border); font-weight: 400; padding: 36px 24
 .utility-button:disabled { opacity: .5; cursor: default; }
 [aria-invalid="true"] { outline: 2px solid #b72f52; }
 .detail-actions { flex-wrap: wrap; }
+
+#share-link { width: 100%; padding: 10px; margin-top: 6px; }
+.share-status { font-size: .8rem; color: var(--muted); }

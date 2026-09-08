@@ -361,6 +361,32 @@ class WebTests(unittest.TestCase):
         expect(self.page.locator('#search')).to_have_value('')
         self.assertEqual(urlparse(self.page.url).query, '')
 
+    def test_product_return_link_and_safe_share_fallback(self):
+        self.visit('/ofertas?q=pokemon&price=30')
+        href = self.page.locator('#grid .card-img').first.get_attribute('href')
+        self.assertEqual(parse_qs(urlparse(href).query)['return'], ['/ofertas?q=pokemon&price=30'])
+        self.visit('/producto.html?mp=ES&asin=B000000000&return=%2Fofertas%3Fq%3Dpokemon%26price%3D30')
+        expect(self.page.locator('#back-link')).to_have_attribute('href', '/ofertas?q=pokemon&price=30')
+        self.page.evaluate("Object.defineProperty(navigator,'share',{value:undefined,configurable:true}); Object.defineProperty(navigator,'clipboard',{value:{writeText:async()=>{throw Error('denied')}},configurable:true})", isolated_context=False)
+        self.page.locator('#share-product').click()
+        expect(self.page.locator('#share-link')).to_have_value(self.origin + '/producto/ES-B000000000')
+        self.assertNotIn('Enlace copiado', self.page.locator('#share-status').inner_text())
+        self.visit('/producto.html?mp=ES&asin=B000000000&return=https%3A%2F%2Fevil.example')
+        expect(self.page.locator('#back-link')).to_have_attribute('href', '/pokemontcg')
+
+    def test_known_product_refresh_does_not_request_other_games(self):
+        template = (ROOT / 'producto.html').read_text(encoding='utf-8')
+        product = {'asin':'B000000000','marketplace':'ES','name':'Old name','status':'compra_directa','price':'99,00 €','_src':'products.json'}
+        template = template.replace('<script src="/producto.js"></script>', '<script id="product-data" type="application/json">' + json.dumps(product) + '</script><script src="/producto.js"></script>')
+        self.page.route('**/producto/ES-B000000000', lambda route: route.fulfill(body=template, content_type='text/html'))
+        requested = []
+        self.page.on('request', lambda request: requested.append(urlparse(request.url).path.lstrip('/')))
+        self.visit('/producto/ES-B000000000')
+        expect(self.page.locator('#product-detail h1')).to_have_text('Pokémon Booster')
+        self.assertIn('products.json', requested)
+        for other in SOURCES[1:] + ['accesorios.json']:
+            self.assertNotIn(other, requested)
+
     def test_invalid_timestamp_does_not_claim_a_recent_update(self):
         self.mode = 'invalid'
         self.visit('/magic')

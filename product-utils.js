@@ -96,7 +96,8 @@ function cardHtml(p) {
   const discount = discountPercent(p);
   const name = escapeHtml(p.name || "");
   const link = escapeHtml(p.link || "");
-  const detailUrl = productUrl(p);
+  const returnTo = safeListingReturn(location.pathname + location.search);
+  const detailUrl = escapeHtml(productUrl(p) + (returnTo ? "?return=" + encodeURIComponent(returnTo) : ""));
   const storeLabel = escapeHtml(`${p.store_label || "Amazon"} ${p.flag || ""}`.trim());
   const priceRow = p.price
     ? `<div class="price-row">
@@ -284,4 +285,16 @@ function hydrateProductImages(root) {
 // Shared search normalization for catalog and saved products.
 function normalizeSearch(value) {
   return String(value || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLocaleLowerCase("es").trim();
+}
+
+function safeListingReturn(value) {
+  if (!value || !value.startsWith("/") || value.startsWith("//")) return null;
+  try {
+    const url = new URL(value, location.origin);
+    const path = url.pathname.replace(/\.html$/, "").replace(/\/$/, "") || "/";
+    const listings = ["/", "/index", "/ofertas", "/favoritos", "/pokemontcg", "/onepiece", "/magic", "/lorcana", "/yugioh", "/accesorios", "/cajas-de-coleccion", "/cajas-etb", "/colecciones-premium", "/sobres", "/latas"];
+    if (url.origin !== location.origin || url.username || url.password || !listings.includes(path)) return null;
+    url.searchParams.delete("return");
+    return url.pathname + url.search;
+  } catch { return null; }
 }
