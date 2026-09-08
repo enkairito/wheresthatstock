@@ -265,22 +265,33 @@ try {
 
 const layoutEl = document.querySelector(".layout");
 const filterToggleBtn = document.getElementById("filter-toggle");
+const mobileFilters = window.matchMedia("(max-width: 860px)");
+const sidebar = document.querySelector(".sidebar");
+sidebar.id = "stock-filters";
+filterToggleBtn.setAttribute("aria-controls", sidebar.id);
+const sidebarPreferenceKey = () => mobileFilters.matches ? "wts-sidebar-mobile" : "wts-sidebar";
 
 function setSidebarVisible(visible) {
   layoutEl.classList.toggle("sidebar-hidden", !visible);
-  filterToggleBtn.textContent = visible ? "Ocultar filtros" : "Mostrar filtros";
-  try { localStorage.setItem("wts-sidebar", visible ? "visible" : "hidden"); } catch (e) {}
+  filterToggleBtn.textContent = visible ? "Ocultar filtros" : "Filtrar productos";
+  filterToggleBtn.setAttribute("aria-expanded", String(visible));
+  try { localStorage.setItem(sidebarPreferenceKey(), visible ? "visible" : "hidden"); } catch (e) {}
 }
 
 filterToggleBtn.addEventListener("click", () => {
   setSidebarVisible(layoutEl.classList.contains("sidebar-hidden"));
 });
 
-try {
-  setSidebarVisible(localStorage.getItem("wts-sidebar") !== "hidden");
-} catch (e) {
-  setSidebarVisible(true);
+function restoreSidebar() {
+  try {
+    const saved = localStorage.getItem(sidebarPreferenceKey());
+    setSidebarVisible(saved ? saved === "visible" : !mobileFilters.matches);
+  } catch {
+    setSidebarVisible(!mobileFilters.matches);
+  }
 }
+restoreSidebar();
+mobileFilters.addEventListener("change", restoreSidebar);
 
 // La mayoría de páginas leen un solo archivo (data-products-url). Ofertas
 // combina varios juegos a la vez (data-products-urls, separados por coma)

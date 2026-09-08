@@ -7,7 +7,7 @@ from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import urlparse
 
-from patchright.sync_api import sync_playwright
+from patchright.sync_api import sync_playwright, expect
 
 ROOT = Path(__file__).resolve().parents[1]
 if not (ROOT / 'index.html').exists():
@@ -130,6 +130,37 @@ class WebTests(unittest.TestCase):
         self.page.set_viewport_size({'width': 390, 'height': 844})
         self.visit('/ofertas')
         self.assertTrue(self.page.evaluate('document.documentElement.scrollWidth <= innerWidth'))
+
+    def test_mobile_filters_start_closed_and_remember_choice(self):
+        self.page.set_viewport_size({'width': 390, 'height': 844})
+        self.visit('/ofertas')
+        toggle = self.page.locator('#filter-toggle')
+        self.assertEqual(toggle.get_attribute('aria-expanded'), 'false')
+        self.assertFalse(self.page.locator('.sidebar').is_visible())
+        toggle.click()
+        self.assertTrue(self.page.locator('.sidebar').is_visible())
+        self.page.reload(wait_until='networkidle')
+        expect(toggle).to_have_attribute('aria-expanded', 'true')
+        toggle.click()
+        self.page.set_viewport_size({'width': 1440, 'height': 1000})
+        expect(toggle).to_have_attribute('aria-expanded', 'true')
+
+    def test_navigation_and_page_types_at_multiple_widths(self):
+        for width in (390, 768, 1024, 1440):
+            self.page.set_viewport_size({'width': width, 'height': 900})
+            self.page.emulate_media(color_scheme='dark' if width == 1024 else 'light')
+            for path in ('/', '/cajas-de-coleccion', '/noticias', '/calendario-lanzamientos', '/noticia-delta-reign'):
+                with self.subTest(width=width, path=path):
+                    self.visit(path)
+                    self.assertTrue(self.page.evaluate('document.documentElement.scrollWidth <= innerWidth'))
+            self.page.locator('.topnav-dropdown-trigger').click()
+            menu = self.page.locator('.topnav-dropdown-menu')
+            self.assertTrue(menu.is_visible())
+            rect = menu.bounding_box()
+            self.assertGreaterEqual(rect['x'], 0)
+            self.assertLessEqual(rect['x'] + rect['width'], width)
+            self.page.keyboard.press('Escape')
+            self.assertFalse(menu.is_visible())
 
     def test_invalid_timestamp_does_not_claim_a_recent_update(self):
         self.mode = 'invalid'
