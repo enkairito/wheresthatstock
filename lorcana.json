@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T11:29:23.664201+00:00",
+  "updated_at": "2026-09-08T16:44:20.345297+00:00",
   "products": [
     {
       "asin": "B0GWDXZ12H",
@@ -7,7 +7,7 @@
       "flag": "🇪🇸",
       "name": "Ravensburger Disney Lorcana - Juego de cartas coleccionables para adultos y niños a partir de 8 años - Set 12: Wilds Unknown - Deck para 2 jugadores",
       "image": "https://m.media-amazon.com/images/I/7141S2B-z-L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "39,01 €",
+      "price": "39,38 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": "3",
@@ -25,10 +25,10 @@
       "flag": "🇪🇸",
       "name": "Disney Lorcana TCG - Kit de iniciación para coleccionistas Rapunzel Edition",
       "image": "https://m.media-amazon.com/images/I/614-e5ZNXkL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "30,20 €",
+      "price": "25,41 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "2",
+      "stock": null,
       "link": "https://www.amazon.es/dp/B0H8S82717?tag=enkairito-21",
       "first_seen": "2026-09-07T17:41:10.610203+00:00",
       "marketplace": "ES",
@@ -92,6 +92,24 @@
       "game": "Lorcana"
     },
     {
+      "asin": "B0CSZ52NKM",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Ravensburger Disney Lorcana TCG: Shimmering Skies Mazo de Inicio - Esmeralda y Acero, Juego de Cartas para Adultos y Niños +8 años",
+      "image": "https://m.media-amazon.com/images/I/719F-PvrkQL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "18,00 €",
+      "original_price": "19,99 €",
+      "status": "compra_directa",
+      "stock": "3",
+      "link": "https://www.amazon.es/dp/B0CSZ52NKM?tag=enkairito-21",
+      "first_seen": "2026-09-07T17:41:37.181740+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Mazo Inicial"
+      ],
+      "game": "Lorcana"
+    },
+    {
       "asin": "B0DDPS635W",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -110,20 +128,20 @@
       "game": "Lorcana"
     },
     {
-      "asin": "B0CSZ52NKM",
+      "asin": "B0H8S9YZQH",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Ravensburger Disney Lorcana TCG: Shimmering Skies Mazo de Inicio - Esmeralda y Acero, Juego de Cartas para Adultos y Niños +8 años",
-      "image": "https://m.media-amazon.com/images/I/719F-PvrkQL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "18,00 €",
-      "original_price": "19,99 €",
+      "name": "Disney Lorcana TCG: Ataque de la zarcilla! - Cofre del Tesoro de Luminari (Español)",
+      "image": "https://m.media-amazon.com/images/I/61JTND0Df-L._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "77,54 €",
+      "original_price": null,
       "status": "compra_directa",
-      "stock": "3",
-      "link": "https://www.amazon.es/dp/B0CSZ52NKM?tag=enkairito-21",
-      "first_seen": "2026-09-07T17:41:37.181740+00:00",
+      "stock": "1",
+      "link": "https://www.amazon.es/dp/B0H8S9YZQH?tag=enkairito-21",
+      "first_seen": "2026-09-07T17:42:06.427643+00:00",
       "marketplace": "ES",
       "categories": [
-        "Mazo Inicial"
+        "Otros"
       ],
       "game": "Lorcana"
     },
@@ -164,20 +182,20 @@
       "game": "Lorcana"
     },
     {
-      "asin": "B0H8S9YZQH",
+      "asin": "B0GK896YXF",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Disney Lorcana TCG: Ataque de la zarcilla! - Cofre del Tesoro de Luminari (Español)",
-      "image": "https://m.media-amazon.com/images/I/61JTND0Df-L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "59,90 €",
+      "name": "Disney Lorcana Trading Card Game: Winterspell - Booster Pack (en inglés)",
+      "image": "https://m.media-amazon.com/images/I/51a-myllP8L._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "9,27 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "1",
-      "link": "https://www.amazon.es/dp/B0H8S9YZQH?tag=enkairito-21",
-      "first_seen": "2026-09-07T17:42:06.427643+00:00",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GK896YXF?tag=enkairito-21",
+      "first_seen": "2026-09-07T17:42:12.274380+00:00",
       "marketplace": "ES",
       "categories": [
-        "Otros"
+        "Sobre"
       ],
       "game": "Lorcana"
     },
@@ -200,24 +218,6 @@
       "game": "Lorcana"
     },
     {
-      "asin": "B0GK896YXF",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Disney Lorcana Trading Card Game: Winterspell - Booster Pack (en inglés)",
-      "image": "https://m.media-amazon.com/images/I/51a-myllP8L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "9,27 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0GK896YXF?tag=enkairito-21",
-      "first_seen": "2026-09-07T17:42:12.274380+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Sobre"
-      ],
-      "game": "Lorcana"
-    },
-    {
       "asin": "B0GZWFQMDV",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -229,6 +229,24 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B0GZWFQMDV?tag=enkairito-21",
       "first_seen": "2026-09-08T04:49:59.026479+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Otros"
+      ],
+      "game": "Lorcana"
+    },
+    {
+      "asin": "B0DDL8HJ2M",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Ravensburger - Disney Lorcana TCG: Set 7 Bella Y Bestia | Juegos De Cartas Adultos Y Niños con 60 Cartas Disney Lorcana | Juegos Niños 8 Años O Más Coleccionables | Regalos Originales",
+      "image": "https://m.media-amazon.com/images/I/81lahqUD+LL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "19,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DDL8HJ2M?tag=enkairito-21",
+      "first_seen": "2026-09-07T17:42:20.342685+00:00",
       "marketplace": "ES",
       "categories": [
         "Otros"
@@ -254,17 +272,17 @@
       "game": "Lorcana"
     },
     {
-      "asin": "B0DDL8HJ2M",
+      "asin": "B0FTGDNGS9",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Ravensburger - Disney Lorcana TCG: Set 7 Bella Y Bestia | Juegos De Cartas Adultos Y Niños con 60 Cartas Disney Lorcana | Juegos Niños 8 Años O Más Coleccionables | Regalos Originales",
-      "image": "https://m.media-amazon.com/images/I/81lahqUD+LL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "19,99 €",
+      "name": "Juego de Cartas coleccionables Ravensburger, Disney Lorcana TCG, Set de Regalo de Elsa, Caja de Almacenamiento de Tarjetas Disney Lorcana, a Partir de 8 años, versión en francés",
+      "image": "https://m.media-amazon.com/images/I/81-gywHs7TL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "29,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0DDL8HJ2M?tag=enkairito-21",
-      "first_seen": "2026-09-07T17:42:20.342685+00:00",
+      "link": "https://www.amazon.es/dp/B0FTGDNGS9?tag=enkairito-21",
+      "first_seen": "2026-09-07T17:42:50.102330+00:00",
       "marketplace": "ES",
       "categories": [
         "Otros"
@@ -308,24 +326,6 @@
       "game": "Lorcana"
     },
     {
-      "asin": "B0FTGDNGS9",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Juego de Cartas coleccionables Ravensburger, Disney Lorcana TCG, Set de Regalo de Elsa, Caja de Almacenamiento de Tarjetas Disney Lorcana, a Partir de 8 años, versión en francés",
-      "image": "https://m.media-amazon.com/images/I/81-gywHs7TL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "29,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FTGDNGS9?tag=enkairito-21",
-      "first_seen": "2026-09-07T17:42:50.102330+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Otros"
-      ],
-      "game": "Lorcana"
-    },
-    {
       "asin": "B0DDL6BJDS",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -362,17 +362,17 @@
       "game": "Lorcana"
     },
     {
-      "asin": "B0BT6NK58G",
+      "asin": "B0GWH99LCS",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Disney Lorcana Trading Card Game: The Primer Capítulo Starter Deck Esmeralda y Rubí (Inglés)",
-      "image": "https://m.media-amazon.com/images/I/61prDg6SdDL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "24,95 €",
+      "name": "Disney Lorcana TCG: Desconocido Wild - Mazo de Inicio para Dos Jugadores Inglés",
+      "image": "https://m.media-amazon.com/images/I/610SzD6o7CL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "29,99 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0BT6NK58G?tag=enkairito-21",
-      "first_seen": "2026-09-07T17:42:26.624096+00:00",
+      "stock": "4",
+      "link": "https://www.amazon.es/dp/B0GWH99LCS?tag=enkairito-21",
+      "first_seen": "2026-09-07T17:43:01.799827+00:00",
       "marketplace": "ES",
       "categories": [
         "Mazo Inicial"

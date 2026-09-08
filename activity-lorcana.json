@@ -67,5 +67,51 @@
     "prev_price": null,
     "_src": "lorcana.json",
     "id": "ES-B0DDPH3JQB:2026-09-08T11:29:23.664201+00:00:restock"
+  },
+  {
+    "asin": "B0H8S82717",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Disney Lorcana TCG - Kit de iniciación para coleccionistas Rapunzel Edition",
+    "image": "https://m.media-amazon.com/images/I/614-e5ZNXkL._AC_UL320_AIweblab1378949,T1_.jpg",
+    "price": "25,41 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0H8S82717?tag=enkairito-21",
+    "first_seen": "2026-09-07T17:41:10.610203+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Lorcana",
+    "ts": "2026-09-08T16:44:20.345297+00:00",
+    "type": "price_drop",
+    "prev_price": "30,20 €",
+    "_src": "lorcana.json",
+    "id": "ES-B0H8S82717:2026-09-08T16:44:20.345297+00:00:price_drop"
+  },
+  {
+    "asin": "B0GWH99LCS",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Disney Lorcana TCG: Desconocido Wild - Mazo de Inicio para Dos Jugadores Inglés",
+    "image": "https://m.media-amazon.com/images/I/610SzD6o7CL._AC_UL320_AIweblab1378949,T1_.jpg",
+    "price": "29,99 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": "4",
+    "link": "https://www.amazon.es/dp/B0GWH99LCS?tag=enkairito-21",
+    "first_seen": "2026-09-07T17:43:01.799827+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Mazo Inicial"
+    ],
+    "game": "Lorcana",
+    "ts": "2026-09-08T16:44:20.345297+00:00",
+    "type": "restock",
+    "prev_price": "29,99 €",
+    "_src": "lorcana.json",
+    "id": "ES-B0GWH99LCS:2026-09-08T16:44:20.345297+00:00:restock"
   }
 ]
