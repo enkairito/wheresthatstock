@@ -1,1 +1,71 @@
-[]
+[
+  {
+    "asin": "B0GWDXZ12H",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Ravensburger Disney Lorcana - Juego de cartas coleccionables para adultos y niños a partir de 8 años - Set 12: Wilds Unknown - Deck para 2 jugadores",
+    "image": "https://m.media-amazon.com/images/I/7141S2B-z-L._AC_UL320_AIweblab1378949,T1_.jpg",
+    "price": "39,01 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": "3",
+    "link": "https://www.amazon.es/dp/B0GWDXZ12H?tag=enkairito-21",
+    "first_seen": "2026-09-07T17:41:04.537441+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Mazo Inicial"
+    ],
+    "game": "Lorcana",
+    "ts": "2026-09-08T11:29:23.664201+00:00",
+    "type": "price_drop",
+    "prev_price": "39,79 €",
+    "_src": "lorcana.json",
+    "id": "ES-B0GWDXZ12H:2026-09-08T11:29:23.664201+00:00:price_drop"
+  },
+  {
+    "asin": "B0H6NNRWMQ",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Ravensburger Disney Lorcana TCG: Attack of the Vine! Booster Pack Display - 24 paquetes con 12 tarjetas coleccionables cada uno - 288 cartas en total - Ideal para coleccionistas y fans de Disney",
+    "image": "https://m.media-amazon.com/images/I/81WLdtGHV2L._AC_UL320_AIweblab1378949,T1_.jpg",
+    "price": "256,58 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": "2",
+    "link": "https://www.amazon.es/dp/B0H6NNRWMQ?tag=enkairito-21",
+    "first_seen": "2026-09-08T11:29:11.493181+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Caja de Sobres"
+    ],
+    "game": "Lorcana",
+    "ts": "2026-09-08T11:29:23.664201+00:00",
+    "type": "restock",
+    "prev_price": null,
+    "_src": "lorcana.json",
+    "id": "ES-B0H6NNRWMQ:2026-09-08T11:29:23.664201+00:00:restock"
+  },
+  {
+    "asin": "B0DDPH3JQB",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Disney Lorcana Trading Card Game: Archazias Isla – Booster Display con 24 Booster Packs (en inglés)",
+    "image": "https://m.media-amazon.com/images/I/71ND1QEJLKL._AC_UL320_AIweblab1378949,T1_.jpg",
+    "price": "157,36 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0DDPH3JQB?tag=enkairito-21",
+    "first_seen": "2026-09-08T11:29:17.563714+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Caja de Sobres"
+    ],
+    "game": "Lorcana",
+    "ts": "2026-09-08T11:29:23.664201+00:00",
+    "type": "restock",
+    "prev_price": null,
+    "_src": "lorcana.json",
+    "id": "ES-B0DDPH3JQB:2026-09-08T11:29:23.664201+00:00:restock"
+  }
+]
