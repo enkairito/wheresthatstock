@@ -7,7 +7,9 @@ function render(products) {
   if (!products.length) {
     grid.innerHTML = "";
     empty.style.display = "block";
-    count.textContent = "";
+    count.textContent = "0 productos";
+    empty.innerHTML = '<p>No se encontraron productos. Prueba con otro nombre o amplía los filtros.</p><button type="button" class="utility-button" id="reset-empty-filters">Limpiar filtros</button>';
+    empty.querySelector("button").addEventListener("click", resetFilters);
     return;
   }
   empty.style.display = "none";
@@ -51,8 +53,7 @@ const filterGroups = [
 let filtersReady = false;
 let catalogPriceMax = 200;
 
-function restoreFilterUrl() {
-  const params = new URLSearchParams(location.search);
+function restoreFilterUrl(params = new URLSearchParams(location.search)) {
   document.getElementById("search").value = params.get("q") || "";
   filterGroups.forEach(group => {
     const allowed = group.inputs.map(input => input.dataset[group.attr]);
@@ -74,11 +75,20 @@ function restoreFilterUrl() {
   maxPrice = numberParam("price", catalogPriceMax);
   priceRange.max = Math.max(catalogPriceMax, maxPrice);
   priceInput.max = priceRange.max;
+  priceRange.step = "0.01";
+  priceInput.step = "0.01";
   priceRange.value = maxPrice;
   priceInput.value = maxPrice;
+  priceInput.removeAttribute("aria-invalid");
   const requestedSort = params.get("sort");
   sortMode = [...sortSelectEl.options].some(option => option.value === requestedSort) ? requestedSort : filterDefaults.sort;
   sortSelectEl.value = sortMode;
+}
+
+function resetFilters() {
+  restoreFilterUrl(new URLSearchParams());
+  applyFilter();
+  document.getElementById("search").focus();
 }
 
 function writeFilterUrl() {
@@ -146,7 +156,7 @@ function applyFilter() {
     const matchesSearch = !q || normalizeSearch(p.name).includes(q);
     const matchesDiscount = discountPercent(p) >= minDiscount;
     const price = parsePrice(p.price);
-    const matchesPrice = price === null || price <= maxPrice;
+    const matchesPrice = maxPrice === catalogPriceMax || (price !== null && price <= maxPrice);
     return matchesStatus && matchesMarketplace && matchesCategory && matchesGame && matchesSearch && matchesDiscount && matchesPrice;
   });
   render(sortProducts(filtered));
@@ -281,16 +291,26 @@ const priceInput = document.getElementById("price-input");
 priceRange.addEventListener("input", (e) => {
   maxPrice = Number(e.target.value);
   priceInput.value = maxPrice;
+  priceInput.removeAttribute("aria-invalid");
   applyFilter();
 });
 
-priceInput.addEventListener("input", (e) => {
-  const value = Number(e.target.value);
-  if (!Number.isFinite(value) || value < 0 || e.target.value.trim() === "") return;
-  maxPrice = value;
-  const clamped = Math.min(value, Number(priceRange.max));
-  priceRange.value = clamped;
+priceInput.addEventListener("input", () => {
+  const value = Number(priceInput.value);
+  if (!Number.isFinite(value) || value < 0 || priceInput.value.trim() === "") {
+    priceInput.setAttribute("aria-invalid", "true");
+    return;
+  }
+  priceInput.removeAttribute("aria-invalid");
+  maxPrice = Math.round(value * 100) / 100;
+  priceRange.max = Math.max(catalogPriceMax, maxPrice);
+  priceInput.max = priceRange.max;
+  priceRange.value = maxPrice;
   applyFilter();
+});
+priceInput.addEventListener("change", () => {
+  priceInput.value = maxPrice;
+  priceInput.removeAttribute("aria-invalid");
 });
 
 function setupCheckboxGroup(containerSelector, dataAttr, activeSet) {
@@ -312,6 +332,16 @@ setupCheckboxGroup(".sidebar", "marketplace", activeMarketplaces);
 setupCheckboxGroup(".sidebar", "category", activeCategories);
 setupCheckboxGroup(".sidebar", "game", activeGames);
 
+const resultCount = document.getElementById("count");
+resultCount.setAttribute("role", "status");
+resultCount.setAttribute("aria-live", "polite");
+const resetButton = document.createElement("button");
+resetButton.type = "button";
+resetButton.className = "utility-button";
+resetButton.id = "reset-filters";
+resetButton.textContent = "Limpiar filtros";
+resetButton.addEventListener("click", resetFilters);
+resultCount.after(resetButton);
 const grid = document.getElementById("grid");
 const viewButtons = document.querySelectorAll(".view-btn");
 
@@ -373,7 +403,9 @@ const PRODUCTS_URLS = document.body.dataset.productsUrls
   ? document.body.dataset.productsUrls.split(",").map(u => u.trim())
   : [document.body.dataset.productsUrl || "products.json"];
 
-Promise.allSettled(PRODUCTS_URLS.map(fetchStock))
+function loadCatalog() {
+resetButton.disabled = true;
+return Promise.allSettled(PRODUCTS_URLS.map(fetchStock))
   .then(results => {
     updateStockLabel(PRODUCTS_URLS, results);
     const okResults = results.filter(r => r.status === "fulfilled").map(r => r.value);
@@ -395,11 +427,16 @@ Promise.allSettled(PRODUCTS_URLS.map(fetchStock))
     catalogPriceMax = dataMax;
     restoreFilterUrl();
     filtersReady = true;
+    resetButton.disabled = false;
 
     applyFilter();
   })
   .catch(() => {
     document.getElementById("live-text").textContent = "sin datos";
     document.getElementById("empty").style.display = "block";
-    document.getElementById("empty").textContent = "No se pudo cargar el listado de productos.";
+    document.getElementById("empty").innerHTML = '<p>No se pudo cargar el listado de productos.</p><button type="button" class="utility-button" id="retry-catalog">Reintentar</button>';
+    document.getElementById("retry-catalog").addEventListener("click", event => { event.target.disabled = true; loadCatalog(); });
   });
+
+}
+loadCatalog();

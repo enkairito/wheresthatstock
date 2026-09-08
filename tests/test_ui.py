@@ -329,6 +329,38 @@ class WebTests(unittest.TestCase):
         self.page.locator('#favorite-search').fill('POKEMON')
         expect(self.page.locator('#favorite-grid .card')).to_have_count(1)
 
+    def test_price_parsing_and_invalid_limit_recovery(self):
+        self.visit('/ofertas')
+        parsed = self.page.evaluate("['1234,56 €', '1.234,56 €', 'EUR 1234.56', '-12,00 €', '12,34,56 €', '$12.34'].map(parsePrice)", isolated_context=False)
+        self.assertEqual(parsed, [1234.56, 1234.56, 1234.56, None, None, None])
+        self.assertEqual(self.page.evaluate("discountPercent({price:'10,00 €',original_price:'$20.00'})", isolated_context=False), 0)
+        field = self.page.locator('#price-input')
+        field.fill('5.25')
+        expect(self.page.locator('#grid .card')).to_have_count(0)
+        field.fill('-1')
+        expect(field).to_have_attribute('aria-invalid', 'true')
+        self.page.locator('#search').click()
+        expect(field).to_have_value('5.25')
+        expect(self.page.locator('#price-range')).to_have_value('5.25')
+        field.fill('1234.56')
+        self.page.reload(wait_until='networkidle')
+        expect(field).to_have_value('1234.56')
+        expect(self.page.locator('#price-range')).to_have_value('1234.56')
+
+    def test_zero_results_reset_keeps_page_defaults(self):
+        self.visit('/ofertas?q=missing&price=5')
+        expect(self.page.locator('#count')).to_have_text('0 productos')
+        self.page.locator('#reset-empty-filters').click()
+        expect(self.page.locator('#grid .card')).to_have_count(5)
+        expect(self.page.locator('#discount-range')).to_have_value('1')
+        self.assertEqual(urlparse(self.page.url).query, '')
+        self.visit('/cajas-de-coleccion?q=missing&category=Otros')
+        self.page.locator('#reset-filters').click()
+        expect(self.page.locator('input[data-category="Cajas de Colección"]')).to_be_checked()
+        expect(self.page.locator('input[data-category="Otros"]')).not_to_be_checked()
+        expect(self.page.locator('#search')).to_have_value('')
+        self.assertEqual(urlparse(self.page.url).query, '')
+
     def test_invalid_timestamp_does_not_claim_a_recent_update(self):
         self.mode = 'invalid'
         self.visit('/magic')

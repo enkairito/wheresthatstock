@@ -1158,3 +1158,9 @@ footer { border-top: 1px solid var(--border); font-weight: 400; padding: 36px 24
   .brand-name { font-size: clamp(.85rem, 3.7vw, 1.1rem); }
   .brand-logo { width: 36px; height: 36px; }
 }
+
+.utility-button { display: inline-flex; align-items: center; justify-content: center; gap: 6px; min-height: 40px; padding: 9px 13px; border: 1px solid var(--border); border-radius: 8px; background: var(--card, var(--bg)); color: var(--fg); font: inherit; font-size: .8rem; cursor: pointer; text-decoration: none; }
+.utility-button:hover { border-color: var(--muted); }
+.utility-button:disabled { opacity: .5; cursor: default; }
+[aria-invalid="true"] { outline: 2px solid #b72f52; }
+.detail-actions { flex-wrap: wrap; }

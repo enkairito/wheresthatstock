@@ -49,18 +49,34 @@ function escapeHtml(value) {
   return String(value ?? "").replace(/[&<>"']/g, c => HTML_ESCAPES[c]);
 }
 
-function parsePrice(value) {
-  if (!value) return null;
-  const match = String(value).match(/(\d{1,3}(?:\.\d{3})*),(\d{2})/);
+function parseMoney(value) {
+  const match = String(value || "").trim().match(/^(?:(EUR|GBP|USD|€|£|\$)\s*)?([0-9][0-9., \u00a0\u202f]*?)(?:\s*(EUR|GBP|USD|€|£|\$))?$/i);
   if (!match) return null;
-  return parseFloat(match[1].replace(/\./g, "") + "." + match[2]);
+  const currencyOf = c => ({ "€": "EUR", "£": "GBP", "$": "USD" }[c] || (c || "EUR").toUpperCase());
+  if (match[1] && match[3] && currencyOf(match[1]) !== currencyOf(match[3])) return null;
+  const currency = currencyOf(match[1] || match[3]);
+  const number = match[2].trim().replace(/[ \u00a0\u202f]/g, "");
+  const comma = /^(?:\d+|\d{1,3}(?:\.\d{3})+),\d{2}$/;
+  const dot = /^(?:\d+|\d{1,3}(?:,\d{3})+)\.\d{2}$/;
+  let amount;
+  if (comma.test(number)) amount = Number(number.replace(/\./g, "").replace(",", "."));
+  else if (dot.test(number)) amount = Number(number.replace(/,/g, ""));
+  else if (/^\d+$/.test(number)) amount = Number(number);
+  else return null;
+  return Number.isFinite(amount) ? { amount, currency } : null;
+}
+
+// Catalog price controls are in euros; never compare another currency as EUR.
+function parsePrice(value) {
+  const money = parseMoney(value);
+  return money && money.currency === "EUR" ? money.amount : null;
 }
 
 function discountPercent(p) {
-  const orig = parsePrice(p.original_price);
-  const cur = parsePrice(p.price);
-  if (!orig || !cur || orig <= cur) return 0;
-  return Math.round(((orig - cur) / orig) * 100);
+  const orig = parseMoney(p.original_price);
+  const cur = parseMoney(p.price);
+  if (!orig || !cur || orig.currency !== cur.currency || !orig.amount || orig.amount <= cur.amount) return 0;
+  return Math.round(((orig.amount - cur.amount) / orig.amount) * 100);
 }
 
 function firstSeenTime(p) {
