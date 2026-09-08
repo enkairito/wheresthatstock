@@ -67,5 +67,28 @@
     "prev_price": "121,33 €",
     "_src": "magic.json",
     "id": "ES-B0G86Z91GX:2026-09-08T11:19:35.373863+00:00:price_drop"
+  },
+  {
+    "asin": "B0G86Z91GX",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Draft Night de Secretos de Strixhaven, de Magic: The Gathering (Versión en Inglés)",
+    "image": "https://m.media-amazon.com/images/I/816wq4IFX+L._AC_UL320_AIweblab1378949,T1_.jpg",
+    "price": "108,48 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0G86Z91GX?tag=enkairito-21",
+    "first_seen": "2026-09-07T10:47:55.002254+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Magic",
+    "ts": "2026-09-08T16:38:48.049153+00:00",
+    "type": "price_drop",
+    "prev_price": "121,32 €",
+    "_src": "magic.json",
+    "id": "ES-B0G86Z91GX:2026-09-08T16:38:48.049153+00:00:price_drop"
   }
 ]
