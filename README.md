@@ -44,3 +44,5 @@ un marcador si falta la imagen o falla. Las visibles se cargan de inmediato
 diferida. La transición respeta la preferencia de reducir movimiento.
 
 Los listados conservan búsqueda, orden y filtros en la URL (`q`, `sort`, `store`, `status`, `category`, `game`, `price`, `discount`). Los grupos admiten parámetros repetidos y un valor vacío para seleccionar ninguno. Se restauran tras cargar los datos; los valores desconocidos usan los valores por defecto de la página. La búsqueda del catálogo y favoritos ignora mayúsculas y tildes.
+
+Identidad: nombre en Manrope 500/800, mayúsculas y sin acento de color. Fuente alojada en `assets/brand/` con licencia OFL. Símbolo, favicon, imagen social y avatares aprobados en esa carpeta. Las fichas futuras heredan la cabecera de `producto.html`.

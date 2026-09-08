@@ -1141,3 +1141,20 @@ footer { border-top: 1px solid var(--border); font-weight: 400; padding: 36px 24
 .product-image-frame .product-image[hidden] { display: none; }
 @media (max-width: 520px) { .product-image-frame .product-image { padding: 14px; } }
 @media (prefers-reduced-motion: reduce) { .product-image-frame .product-image, .product-image-placeholder { transition: none; } }
+
+/* Approved identity: Manrope uppercase, monochrome name and card alert symbol. */
+@font-face {
+  font-family: "WTS Manrope";
+  src: url("/assets/brand/manrope.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 200 800;
+  font-display: swap;
+}
+.brand-name { font-family: "WTS Manrope", Inter, sans-serif; font-size: 1.18rem; font-weight: 500; letter-spacing: .005em; text-transform: uppercase; line-height: 1.2; }
+.brand-name .accent { font-weight: 800; color: inherit; text-decoration: none; -webkit-text-stroke: 0; }
+.brand-logo { width: 42px; height: 42px; object-fit: contain; border-radius: 8px; padding: 3px; background: #fff; }
+@media (max-width: 520px) {
+  .brand { gap: 9px; }
+  .brand-name { font-size: clamp(.85rem, 3.7vw, 1.1rem); }
+  .brand-logo { width: 36px; height: 36px; }
+}
