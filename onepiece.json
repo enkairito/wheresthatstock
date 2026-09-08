@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T23:25:54.733424+00:00",
+  "updated_at": "2026-09-08T04:19:40.620499+00:00",
   "products": [
     {
       "asin": "B0HFD53BDB",
@@ -128,6 +128,24 @@
       "game": "One Piece"
     },
     {
+      "asin": "B0CRY385YN",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "One Piece TCG: Two Legends - Booster Box (OP-08) (JP) (TCG)",
+      "image": "https://m.media-amazon.com/images/I/81+5FGyfxEL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "149,30 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CRY385YN?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:09:10.514835+00:00",
+      "categories": [
+        "Booster Box"
+      ],
+      "game": "One Piece"
+    },
+    {
       "asin": "B0HF1Z72XW",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -140,24 +158,6 @@
       "stock": "1",
       "link": "https://www.amazon.es/dp/B0HF1Z72XW?tag=enkairito-21",
       "first_seen": "2026-09-05T20:33:38.638411+00:00",
-      "categories": [
-        "Booster Box"
-      ],
-      "game": "One Piece"
-    },
-    {
-      "asin": "B0CRY385YN",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "One Piece TCG: Two Legends - Booster Box (OP-08) (JP) (TCG)",
-      "image": "https://m.media-amazon.com/images/I/81+5FGyfxEL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "89,90 €",
-      "original_price": "114,99 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0CRY385YN?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:09:10.514835+00:00",
       "categories": [
         "Booster Box"
       ],
@@ -224,10 +224,10 @@
       "flag": "🇪🇸",
       "name": "One Piece TCG Starter Deck: Ace & Newgate (ST-22) - 51 Tarjetas",
       "image": "https://m.media-amazon.com/images/I/71-ebfbhV6L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "42,88 €",
+      "price": "51,45 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": null,
+      "stock": "5",
       "link": "https://www.amazon.es/dp/B0FL83L295?tag=enkairito-21",
       "first_seen": "2026-08-29T18:09:29.426544+00:00",
       "categories": [
@@ -263,7 +263,7 @@
       "price": "87,95 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": null,
+      "stock": "1",
       "link": "https://www.amazon.es/dp/B0DZ25YM9N?tag=enkairito-21",
       "first_seen": "2026-09-03T14:54:32.874380+00:00",
       "categories": [
@@ -332,7 +332,7 @@
       "flag": "🇪🇸",
       "name": "BANDAI Juego de cartas de una pieza más antiguo (OP-13) (caja) de 24 unidades",
       "image": "https://m.media-amazon.com/images/I/81uxMM80r7L._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "289,79 €",
+      "price": "289,78 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -416,24 +416,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0GBY85556",
-      "marketplace": "ES",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "One Piece TCG Japanese Carry On His Will Booster Pack - Juego de 2 (10 tarjetas en total)",
-      "image": "https://m.media-amazon.com/images/I/61HyR+C-CyL._AC_UL320_AIweblab1378949,T1_.jpg",
-      "price": "38,72 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0GBY85556?tag=enkairito-21",
-      "first_seen": "2026-09-02T17:02:35.147234+00:00",
-      "categories": [
-        "Sobre"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0GDHHS7CR",
       "marketplace": "ES",
       "store_label": "Amazon ES",
@@ -448,6 +430,24 @@
       "first_seen": "2026-08-31T22:30:46.273546+00:00",
       "categories": [
         "Otros"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0GBY85556",
+      "marketplace": "ES",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "One Piece TCG Japanese Carry On His Will Booster Pack - Juego de 2 (10 tarjetas en total)",
+      "image": "https://m.media-amazon.com/images/I/61HyR+C-CyL._AC_UL320_AIweblab1378949,T1_.jpg",
+      "price": "38,72 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GBY85556?tag=enkairito-21",
+      "first_seen": "2026-09-02T17:02:35.147234+00:00",
+      "categories": [
+        "Sobre"
       ],
       "game": "One Piece"
     }
