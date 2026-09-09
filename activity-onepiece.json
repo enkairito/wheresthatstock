@@ -435,5 +435,74 @@
     "prev_price": null,
     "_src": "onepiece.json",
     "id": "ES-B0FX1Z5SPZ:2026-09-09T14:23:16.832359+00:00:restock"
+  },
+  {
+    "asin": "B0HC746FKY",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Juego de cartas de una pieza ST-34 Purple Charlotte Katakuri | Baraja de inicio, ST-34, Charlotte Katakuri, morado, juego de cartas coleccionables",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61sCSCulXuL._AC_UL320_.jpg",
+    "price": "32,62 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": "3",
+    "link": "https://www.amazon.es/dp/B0HC746FKY?tag=enkairito-21",
+    "first_seen": "2026-08-29T18:08:49.282666+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Starter Deck"
+    ],
+    "game": "One Piece",
+    "ts": "2026-09-09T18:29:30.823528+00:00",
+    "type": "price_drop",
+    "prev_price": "38,47 €",
+    "_src": "onepiece.json",
+    "id": "ES-B0HC746FKY:2026-09-09T18:29:30.823528+00:00:price_drop"
+  },
+  {
+    "asin": "B0D69TF558",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "One Piece TCG: Two Legends - Booster Pack (OP-08) (JP) (TCG)",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/818wUBVRF+L._AC_UL320_.jpg",
+    "price": "8,46 €",
+    "original_price": "8,79 €",
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0D69TF558?tag=enkairito-21",
+    "first_seen": "2026-08-29T18:09:54.795240+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Sobre"
+    ],
+    "game": "One Piece",
+    "ts": "2026-09-09T18:29:30.823528+00:00",
+    "type": "price_drop",
+    "prev_price": "15,19 €",
+    "_src": "onepiece.json",
+    "id": "ES-B0D69TF558:2026-09-09T18:29:30.823528+00:00:price_drop"
+  },
+  {
+    "asin": "B0GDHHS7CR",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "One Piece TCG - Juego de Lata Vol. 2-2 Paquetes (Arte al Azar)",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51y8FNPfD0L._AC_UL320_.jpg",
+    "price": "101,01 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": "1",
+    "link": "https://www.amazon.es/dp/B0GDHHS7CR?tag=enkairito-21",
+    "first_seen": "2026-08-31T22:30:46.273546+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Otros"
+    ],
+    "game": "One Piece",
+    "ts": "2026-09-09T18:29:30.823528+00:00",
+    "type": "restock",
+    "prev_price": "101,01 €",
+    "_src": "onepiece.json",
+    "id": "ES-B0GDHHS7CR:2026-09-09T18:29:30.823528+00:00:restock"
   }
 ]
