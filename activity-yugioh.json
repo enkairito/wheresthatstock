@@ -1,1 +1,48 @@
-[]
+[
+  {
+    "asin": "B0FRMXTR7S",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Yu-Gi-Oh! JCC Protocolo de Explosión Display (24) (Versión en español)",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51GFIrGHnBL._AC_UL320_.jpg",
+    "price": "97,38 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": "1",
+    "link": "https://www.amazon.es/dp/B0FRMXTR7S?tag=enkairito-21",
+    "first_seen": "2026-09-07T17:41:40.189032+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Caja de Sobres"
+    ],
+    "game": "Yu-Gi-Oh!",
+    "ts": "2026-09-09T16:51:53.988176+00:00",
+    "type": "price_drop",
+    "prev_price": "103,00 €",
+    "_src": "yugioh.json",
+    "id": "ES-B0FRMXTR7S:2026-09-09T16:51:53.988176+00:00:price_drop"
+  },
+  {
+    "asin": "B0FMKLDV5X",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Yu-Gi-Oh! JCC Venganza Fantasma Display (24)",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51EYCF9XUIL._AC_UL320_.jpg",
+    "price": "96,42 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0FMKLDV5X?tag=enkairito-21",
+    "first_seen": "2026-09-07T17:41:58.230224+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Caja de Sobres"
+    ],
+    "game": "Yu-Gi-Oh!",
+    "ts": "2026-09-09T16:51:53.988176+00:00",
+    "type": "price_drop",
+    "prev_price": "98,17 €",
+    "_src": "yugioh.json",
+    "id": "ES-B0FMKLDV5X:2026-09-09T16:51:53.988176+00:00:price_drop"
+  }
+]
