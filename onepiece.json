@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T18:29:30.823528+00:00",
+  "updated_at": "2026-09-09T21:39:06.504697+00:00",
   "products": [
     {
       "asin": "B0F1SJY5S3",
@@ -79,10 +79,10 @@
       "flag": "🇪🇸",
       "name": "Juego de cartas de una pieza ST-35 rojo y negro Sabo | Baraja de inicio, ST-35, rojo y negro, Sabo, juego de cartas coleccionables",
       "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61FYUZUbUoL._AC_UL320_.jpg",
-      "price": "36,87 €",
+      "price": "32,00 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "2",
+      "stock": "1",
       "link": "https://www.amazon.es/dp/B0HC7Q9P41?tag=enkairito-21",
       "first_seen": "2026-08-29T18:08:37.714905+00:00",
       "marketplace": "ES",
@@ -97,10 +97,10 @@
       "flag": "🇪🇸",
       "name": "Juego de cartas de una pieza ST-34 Purple Charlotte Katakuri | Baraja de inicio, ST-34, Charlotte Katakuri, morado, juego de cartas coleccionables",
       "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61sCSCulXuL._AC_UL320_.jpg",
-      "price": "32,62 €",
+      "price": "30,00 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "3",
+      "stock": "1",
       "link": "https://www.amazon.es/dp/B0HC746FKY?tag=enkairito-21",
       "first_seen": "2026-08-29T18:08:49.282666+00:00",
       "marketplace": "ES",
@@ -205,7 +205,7 @@
       "flag": "🇪🇸",
       "name": "Awakening of the New Era Booster Pack OP-05 - One Piece Juego de Cartas - JP",
       "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81UaMJMtddL._AC_UL320_.jpg",
-      "price": "38,10 €",
+      "price": "38,08 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -226,7 +226,7 @@
       "price": "87,95 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "2",
+      "stock": "5",
       "link": "https://www.amazon.es/dp/B0DZ25YM9N?tag=enkairito-21",
       "first_seen": "2026-09-03T14:54:32.874380+00:00",
       "marketplace": "ES",
@@ -326,24 +326,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0F8V1YTSP",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "BANDAI Juego de cartas de una pieza más antiguo (OP-13) (caja) de 24 unidades",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81uxMM80r7L._AC_UL320_.jpg",
-      "price": "265,48 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F8V1YTSP?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:10:47.849793+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Booster Box"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0G2YV88DN",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -358,6 +340,24 @@
       "marketplace": "ES",
       "categories": [
         "Sobre"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0F8V1YTSP",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "BANDAI Juego de cartas de una pieza más antiguo (OP-13) (caja) de 24 unidades",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81uxMM80r7L._AC_UL320_.jpg",
+      "price": "285,27 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F8V1YTSP?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:10:47.849793+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Booster Box"
       ],
       "game": "One Piece"
     },
@@ -406,7 +406,7 @@
       "price": "32,62 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "5",
+      "stock": "3",
       "link": "https://www.amazon.es/dp/B0HC79T34C?tag=enkairito-21",
       "first_seen": "2026-08-29T18:09:23.560405+00:00",
       "marketplace": "ES",
@@ -434,20 +434,20 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0GDHHS7CR",
+      "asin": "B0GBY85556",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "One Piece TCG - Juego de Lata Vol. 2-2 Paquetes (Arte al Azar)",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51y8FNPfD0L._AC_UL320_.jpg",
-      "price": "101,01 €",
+      "name": "One Piece TCG Japanese Carry On His Will Booster Pack - Juego de 2 (10 tarjetas en total)",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61HyR+C-CyL._AC_UL320_.jpg",
+      "price": "38,34 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "1",
-      "link": "https://www.amazon.es/dp/B0GDHHS7CR?tag=enkairito-21",
-      "first_seen": "2026-08-31T22:30:46.273546+00:00",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GBY85556?tag=enkairito-21",
+      "first_seen": "2026-09-02T17:02:35.147234+00:00",
       "marketplace": "ES",
       "categories": [
-        "Otros"
+        "Sobre"
       ],
       "game": "One Piece"
     }

@@ -504,5 +504,97 @@
     "prev_price": "101,01 €",
     "_src": "onepiece.json",
     "id": "ES-B0GDHHS7CR:2026-09-09T18:29:30.823528+00:00:restock"
+  },
+  {
+    "asin": "B0HC7Q9P41",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Juego de cartas de una pieza ST-35 rojo y negro Sabo | Baraja de inicio, ST-35, rojo y negro, Sabo, juego de cartas coleccionables",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61FYUZUbUoL._AC_UL320_.jpg",
+    "price": "32,00 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": "1",
+    "link": "https://www.amazon.es/dp/B0HC7Q9P41?tag=enkairito-21",
+    "first_seen": "2026-08-29T18:08:37.714905+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Starter Deck"
+    ],
+    "game": "One Piece",
+    "ts": "2026-09-09T21:39:06.504697+00:00",
+    "type": "price_drop",
+    "prev_price": "36,87 €",
+    "_src": "onepiece.json",
+    "id": "ES-B0HC7Q9P41:2026-09-09T21:39:06.504697+00:00:price_drop"
+  },
+  {
+    "asin": "B0HC746FKY",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Juego de cartas de una pieza ST-34 Purple Charlotte Katakuri | Baraja de inicio, ST-34, Charlotte Katakuri, morado, juego de cartas coleccionables",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61sCSCulXuL._AC_UL320_.jpg",
+    "price": "30,00 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": "1",
+    "link": "https://www.amazon.es/dp/B0HC746FKY?tag=enkairito-21",
+    "first_seen": "2026-08-29T18:08:49.282666+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Starter Deck"
+    ],
+    "game": "One Piece",
+    "ts": "2026-09-09T21:39:06.504697+00:00",
+    "type": "price_drop",
+    "prev_price": "32,62 €",
+    "_src": "onepiece.json",
+    "id": "ES-B0HC746FKY:2026-09-09T21:39:06.504697+00:00:price_drop"
+  },
+  {
+    "asin": "B0CGR4P859",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Awakening of the New Era Booster Pack OP-05 - One Piece Juego de Cartas - JP",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81UaMJMtddL._AC_UL320_.jpg",
+    "price": "38,08 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0CGR4P859?tag=enkairito-21",
+    "first_seen": "2026-08-29T18:09:47.272890+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Sobre"
+    ],
+    "game": "One Piece",
+    "ts": "2026-09-09T21:39:06.504697+00:00",
+    "type": "price_drop",
+    "prev_price": "38,10 €",
+    "_src": "onepiece.json",
+    "id": "ES-B0CGR4P859:2026-09-09T21:39:06.504697+00:00:price_drop"
+  },
+  {
+    "asin": "B0GBY85556",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "One Piece TCG Japanese Carry On His Will Booster Pack - Juego de 2 (10 tarjetas en total)",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61HyR+C-CyL._AC_UL320_.jpg",
+    "price": "38,34 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0GBY85556?tag=enkairito-21",
+    "first_seen": "2026-09-02T17:02:35.147234+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Sobre"
+    ],
+    "game": "One Piece",
+    "ts": "2026-09-09T21:39:06.504697+00:00",
+    "type": "restock",
+    "prev_price": "38,34 €",
+    "_src": "onepiece.json",
+    "id": "ES-B0GBY85556:2026-09-09T21:39:06.504697+00:00:restock"
   }
 ]
