@@ -44,5 +44,97 @@
     "prev_price": "98,17 €",
     "_src": "yugioh.json",
     "id": "ES-B0FMKLDV5X:2026-09-09T16:51:53.988176+00:00:price_drop"
+  },
+  {
+    "asin": "B0G6FW7PFW",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Yu-Gi-Oh! Rarity Collection V Display (24) (Versión en español)",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51EmDZEOJKL._AC_UL320_.jpg",
+    "price": "150,00 €",
+    "original_price": "167,76 €",
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0G6FW7PFW?tag=enkairito-21",
+    "first_seen": "2026-09-07T17:41:22.046401+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Caja de Sobres"
+    ],
+    "game": "Yu-Gi-Oh!",
+    "ts": "2026-09-09T21:08:24.051859+00:00",
+    "type": "price_drop",
+    "prev_price": "167,76 €",
+    "_src": "yugioh.json",
+    "id": "ES-B0G6FW7PFW:2026-09-09T21:08:24.051859+00:00:price_drop"
+  },
+  {
+    "asin": "B0FBWHQ8K6",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Yu-Gi-Oh! Doom of Dimensions 3-Pack Booster",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51SVDCYRGiL._AC_UL320_.jpg",
+    "price": "11,60 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0FBWHQ8K6?tag=enkairito-21",
+    "first_seen": "2026-09-07T17:42:22.065660+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Sobre"
+    ],
+    "game": "Yu-Gi-Oh!",
+    "ts": "2026-09-09T21:08:24.051859+00:00",
+    "type": "price_drop",
+    "prev_price": "12,99 €",
+    "_src": "yugioh.json",
+    "id": "ES-B0FBWHQ8K6:2026-09-09T21:08:24.051859+00:00:price_drop"
+  },
+  {
+    "asin": "B0FBWHJR6W",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Yu-Gi-Oh! Doom of Dimensions Display (24)",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51Y+RGgRDQL._AC_UL320_.jpg",
+    "price": "69,63 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0FBWHJR6W?tag=enkairito-21",
+    "first_seen": "2026-09-07T17:42:27.815808+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Caja de Sobres"
+    ],
+    "game": "Yu-Gi-Oh!",
+    "ts": "2026-09-09T21:08:24.051859+00:00",
+    "type": "price_drop",
+    "prev_price": "105,14 €",
+    "_src": "yugioh.json",
+    "id": "ES-B0FBWHJR6W:2026-09-09T21:08:24.051859+00:00:price_drop"
+  },
+  {
+    "asin": "B0DZ6R366L",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Yu-Gi-Oh! Batallas de Leyenda: Tumulto de Monstruos Display (24)",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51CApHf8zuL._AC_UL320_.jpg",
+    "price": "86,36 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0DZ6R366L?tag=enkairito-21",
+    "first_seen": "2026-09-07T17:42:56.065562+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Caja de Sobres"
+    ],
+    "game": "Yu-Gi-Oh!",
+    "ts": "2026-09-09T21:08:24.051859+00:00",
+    "type": "price_drop",
+    "prev_price": "93,40 €",
+    "_src": "yugioh.json",
+    "id": "ES-B0DZ6R366L:2026-09-09T21:08:24.051859+00:00:price_drop"
   }
 ]
