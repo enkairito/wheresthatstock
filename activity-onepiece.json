@@ -297,5 +297,74 @@
     "prev_price": "101,01 €",
     "_src": "onepiece.json",
     "id": "ES-B0GDHHS7CR:2026-09-09T00:01:14.483879+00:00:restock"
+  },
+  {
+    "asin": "B0FL83L295",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "One Piece TCG Starter Deck: Ace & Newgate (ST-22) - 51 Tarjetas",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71-ebfbhV6L._AC_UL320_.jpg",
+    "price": "42,91 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0FL83L295?tag=enkairito-21",
+    "first_seen": "2026-08-29T18:09:29.426544+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Starter Deck"
+    ],
+    "game": "One Piece",
+    "ts": "2026-09-09T04:27:39.303003+00:00",
+    "type": "price_drop",
+    "prev_price": "48,01 €",
+    "_src": "onepiece.json",
+    "id": "ES-B0FL83L295:2026-09-09T04:27:39.303003+00:00:price_drop"
+  },
+  {
+    "asin": "B0F8V1YTSP",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "BANDAI Juego de cartas de una pieza más antiguo (OP-13) (caja) de 24 unidades",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81uxMM80r7L._AC_UL320_.jpg",
+    "price": "278,75 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": "3",
+    "link": "https://www.amazon.es/dp/B0F8V1YTSP?tag=enkairito-21",
+    "first_seen": "2026-08-29T18:10:47.849793+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Booster Box"
+    ],
+    "game": "One Piece",
+    "ts": "2026-09-09T04:27:39.303003+00:00",
+    "type": "price_drop",
+    "prev_price": "289,79 €",
+    "_src": "onepiece.json",
+    "id": "ES-B0F8V1YTSP:2026-09-09T04:27:39.303003+00:00:price_drop"
+  },
+  {
+    "asin": "B0D6BC4TJ3",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "ONE PIECE TCG: 500 YEARS IN THE FUTURE BOOSTER BOX (OP 07) - 24 Packs",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61lsu2c-WrL._AC_UL320_.jpg",
+    "price": "416,31 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": "1",
+    "link": "https://www.amazon.es/dp/B0D6BC4TJ3?tag=enkairito-21",
+    "first_seen": "2026-08-30T23:39:08.142925+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Booster Box"
+    ],
+    "game": "One Piece",
+    "ts": "2026-09-09T04:27:39.303003+00:00",
+    "type": "restock",
+    "prev_price": "416,31 €",
+    "_src": "onepiece.json",
+    "id": "ES-B0D6BC4TJ3:2026-09-09T04:27:39.303003+00:00:restock"
   }
 ]
