@@ -159,5 +159,28 @@
     "prev_price": "24,95 €",
     "_src": "lorcana.json",
     "id": "ES-B0BT6NK58G:2026-09-08T21:15:56.125609+00:00:restock"
+  },
+  {
+    "asin": "B0DDPH3JQB",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Disney Lorcana Trading Card Game: Archazias Isla – Booster Display con 24 Booster Packs (en inglés)",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71ND1QEJLKL._AC_UL320_.jpg",
+    "price": "157,36 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0DDPH3JQB?tag=enkairito-21",
+    "first_seen": "2026-09-08T11:29:17.563714+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Caja de Sobres"
+    ],
+    "game": "Lorcana",
+    "ts": "2026-09-09T04:52:58.420316+00:00",
+    "type": "restock",
+    "prev_price": "157,36 €",
+    "_src": "lorcana.json",
+    "id": "ES-B0DDPH3JQB:2026-09-09T04:52:58.420316+00:00:restock"
   }
 ]
