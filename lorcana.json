@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T04:52:58.420316+00:00",
+  "updated_at": "2026-09-09T11:34:40.157929+00:00",
   "products": [
     {
       "asin": "B0GWDXZ12H",
@@ -7,10 +7,10 @@
       "flag": "🇪🇸",
       "name": "Ravensburger Disney Lorcana - Juego de cartas coleccionables para adultos y niños a partir de 8 años - Set 12: Wilds Unknown - Deck para 2 jugadores",
       "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/7141S2B-z-L._AC_UL320_.jpg",
-      "price": "39,01 €",
+      "price": "41,72 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "3",
+      "stock": null,
       "link": "https://www.amazon.es/dp/B0GWDXZ12H?tag=enkairito-21",
       "first_seen": "2026-09-07T17:41:04.537441+00:00",
       "marketplace": "ES",
@@ -46,48 +46,12 @@
       "price": "54,99 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": null,
+      "stock": "3",
       "link": "https://www.amazon.es/dp/B0DDL55ND5?tag=enkairito-21",
       "first_seen": "2026-09-07T17:41:19.391879+00:00",
       "marketplace": "ES",
       "categories": [
         "Otros"
-      ],
-      "game": "Lorcana"
-    },
-    {
-      "asin": "B0H6NNRWMQ",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Ravensburger Disney Lorcana TCG: Attack of the Vine! Booster Pack Display - 24 paquetes con 12 tarjetas coleccionables cada uno - 288 cartas en total - Ideal para coleccionistas y fans de Disney",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81WLdtGHV2L._AC_UL320_.jpg",
-      "price": "256,58 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "1",
-      "link": "https://www.amazon.es/dp/B0H6NNRWMQ?tag=enkairito-21",
-      "first_seen": "2026-09-08T11:29:11.493181+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Caja de Sobres"
-      ],
-      "game": "Lorcana"
-    },
-    {
-      "asin": "B0CSZ52NKM",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Ravensburger Disney Lorcana TCG: Shimmering Skies Mazo de Inicio - Esmeralda y Acero, Juego de Cartas para Adultos y Niños +8 años",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/719F-PvrkQL._AC_UL320_.jpg",
-      "price": "18,00 €",
-      "original_price": "19,99 €",
-      "status": "compra_directa",
-      "stock": "3",
-      "link": "https://www.amazon.es/dp/B0CSZ52NKM?tag=enkairito-21",
-      "first_seen": "2026-09-07T17:41:37.181740+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Mazo Inicial"
       ],
       "game": "Lorcana"
     },
@@ -110,6 +74,24 @@
       "game": "Lorcana"
     },
     {
+      "asin": "B0CSZ52NKM",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Ravensburger Disney Lorcana TCG: Shimmering Skies Mazo de Inicio - Esmeralda y Acero, Juego de Cartas para Adultos y Niños +8 años",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/719F-PvrkQL._AC_UL320_.jpg",
+      "price": "18,00 €",
+      "original_price": "19,99 €",
+      "status": "compra_directa",
+      "stock": "3",
+      "link": "https://www.amazon.es/dp/B0CSZ52NKM?tag=enkairito-21",
+      "first_seen": "2026-09-07T17:41:37.181740+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Mazo Inicial"
+      ],
+      "game": "Lorcana"
+    },
+    {
       "asin": "B0H1DNGSJS",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -124,24 +106,6 @@
       "marketplace": "ES",
       "categories": [
         "Sobre"
-      ],
-      "game": "Lorcana"
-    },
-    {
-      "asin": "B0GZWFQMDV",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Disney Lorcana TCG: Wilds Unknown - Illumineers´ Trove (Inglés)",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61ZB+qUgdpL._AC_UL320_.jpg",
-      "price": "128,31 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0GZWFQMDV?tag=enkairito-21",
-      "first_seen": "2026-09-08T04:49:59.026479+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Otros"
       ],
       "game": "Lorcana"
     },
@@ -200,6 +164,24 @@
       "game": "Lorcana"
     },
     {
+      "asin": "B0GZWFQMDV",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Disney Lorcana TCG: Wilds Unknown - Illumineers´ Trove (Inglés)",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61ZB+qUgdpL._AC_UL320_.jpg",
+      "price": "128,31 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GZWFQMDV?tag=enkairito-21",
+      "first_seen": "2026-09-08T04:49:59.026479+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Otros"
+      ],
+      "game": "Lorcana"
+    },
+    {
       "asin": "B0CFRBX7GW",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -214,6 +196,24 @@
       "marketplace": "ES",
       "categories": [
         "Mazo Inicial"
+      ],
+      "game": "Lorcana"
+    },
+    {
+      "asin": "B0GK896YXF",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Disney Lorcana Trading Card Game: Winterspell - Booster Pack (en inglés)",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51a-myllP8L._AC_UL320_.jpg",
+      "price": "9,27 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GK896YXF?tag=enkairito-21",
+      "first_seen": "2026-09-07T17:42:12.274380+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Sobre"
       ],
       "game": "Lorcana"
     },
@@ -236,20 +236,20 @@
       "game": "Lorcana"
     },
     {
-      "asin": "B0GK896YXF",
+      "asin": "B0FTGDNGS9",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Disney Lorcana Trading Card Game: Winterspell - Booster Pack (en inglés)",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51a-myllP8L._AC_UL320_.jpg",
-      "price": "9,27 €",
+      "name": "Juego de Cartas coleccionables Ravensburger, Disney Lorcana TCG, Set de Regalo de Elsa, Caja de Almacenamiento de Tarjetas Disney Lorcana, a Partir de 8 años, versión en francés",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81-gywHs7TL._AC_UL320_.jpg",
+      "price": "29,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0GK896YXF?tag=enkairito-21",
-      "first_seen": "2026-09-07T17:42:12.274380+00:00",
+      "link": "https://www.amazon.es/dp/B0FTGDNGS9?tag=enkairito-21",
+      "first_seen": "2026-09-07T17:42:50.102330+00:00",
       "marketplace": "ES",
       "categories": [
-        "Sobre"
+        "Otros"
       ],
       "game": "Lorcana"
     },
@@ -308,24 +308,6 @@
       "game": "Lorcana"
     },
     {
-      "asin": "B0FTGDNGS9",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Juego de Cartas coleccionables Ravensburger, Disney Lorcana TCG, Set de Regalo de Elsa, Caja de Almacenamiento de Tarjetas Disney Lorcana, a Partir de 8 años, versión en francés",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81-gywHs7TL._AC_UL320_.jpg",
-      "price": "29,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FTGDNGS9?tag=enkairito-21",
-      "first_seen": "2026-09-07T17:42:50.102330+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Otros"
-      ],
-      "game": "Lorcana"
-    },
-    {
       "asin": "B0DDL6BJDS",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -344,24 +326,6 @@
       "game": "Lorcana"
     },
     {
-      "asin": "B0DDPH3JQB",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Disney Lorcana Trading Card Game: Archazias Isla – Booster Display con 24 Booster Packs (en inglés)",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71ND1QEJLKL._AC_UL320_.jpg",
-      "price": "157,36 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0DDPH3JQB?tag=enkairito-21",
-      "first_seen": "2026-09-08T11:29:17.563714+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Caja de Sobres"
-      ],
-      "game": "Lorcana"
-    },
-    {
       "asin": "B0BT6NK58G",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -376,6 +340,42 @@
       "marketplace": "ES",
       "categories": [
         "Mazo Inicial"
+      ],
+      "game": "Lorcana"
+    },
+    {
+      "asin": "B0GWH99LCS",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Disney Lorcana TCG: Desconocido Wild - Mazo de Inicio para Dos Jugadores Inglés",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/610SzD6o7CL._AC_UL320_.jpg",
+      "price": "29,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "4",
+      "link": "https://www.amazon.es/dp/B0GWH99LCS?tag=enkairito-21",
+      "first_seen": "2026-09-07T17:43:01.799827+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Mazo Inicial"
+      ],
+      "game": "Lorcana"
+    },
+    {
+      "asin": "B0CGXJ8244",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Disney Lorcana Disney Lorcana TCG - Ursula's Return Ill",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71cWdtoI0yL._AC_UL320_.jpg",
+      "price": "54,33 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CGXJ8244?tag=enkairito-21",
+      "first_seen": "2026-09-09T11:34:34.043787+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Otros"
       ],
       "game": "Lorcana"
     }

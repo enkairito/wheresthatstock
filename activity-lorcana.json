@@ -182,5 +182,51 @@
     "prev_price": "157,36 €",
     "_src": "lorcana.json",
     "id": "ES-B0DDPH3JQB:2026-09-09T04:52:58.420316+00:00:restock"
+  },
+  {
+    "asin": "B0GWH99LCS",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Disney Lorcana TCG: Desconocido Wild - Mazo de Inicio para Dos Jugadores Inglés",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/610SzD6o7CL._AC_UL320_.jpg",
+    "price": "29,99 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": "4",
+    "link": "https://www.amazon.es/dp/B0GWH99LCS?tag=enkairito-21",
+    "first_seen": "2026-09-07T17:43:01.799827+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Mazo Inicial"
+    ],
+    "game": "Lorcana",
+    "ts": "2026-09-09T11:34:40.157929+00:00",
+    "type": "restock",
+    "prev_price": "29,99 €",
+    "_src": "lorcana.json",
+    "id": "ES-B0GWH99LCS:2026-09-09T11:34:40.157929+00:00:restock"
+  },
+  {
+    "asin": "B0CGXJ8244",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Disney Lorcana Disney Lorcana TCG - Ursula's Return Ill",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71cWdtoI0yL._AC_UL320_.jpg",
+    "price": "54,33 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0CGXJ8244?tag=enkairito-21",
+    "first_seen": "2026-09-09T11:34:34.043787+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Lorcana",
+    "ts": "2026-09-09T11:34:40.157929+00:00",
+    "type": "restock",
+    "prev_price": null,
+    "_src": "lorcana.json",
+    "id": "ES-B0CGXJ8244:2026-09-09T11:34:40.157929+00:00:restock"
   }
 ]
