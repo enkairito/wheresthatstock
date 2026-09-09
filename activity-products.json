@@ -2313,5 +2313,143 @@
     "prev_price": "34,49 €",
     "_src": "products.json",
     "id": "US-B08DVCNV3W:2026-09-09T04:46:22.825970+00:00:restock"
+  },
+  {
+    "asin": "B0C4V8F77B",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Pokémon: Estadio Combina y Combate de Escarlata y Púrpura (2 Barajas, 11 Paquetes de Mejora y más)",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81eF8wu4I1L._AC_UL320_.jpg",
+    "price": "64,98 €",
+    "original_price": "69,99 €",
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0C4V8F77B?tag=enkairito-21",
+    "first_seen": "2026-08-25T20:27:54.285181+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-09T09:20:04.909645+00:00",
+    "type": "price_drop",
+    "prev_price": "65,98 €",
+    "_src": "products.json",
+    "id": "ES-B0C4V8F77B:2026-09-09T09:20:04.909645+00:00:price_drop"
+  },
+  {
+    "asin": "B0CF1MDBS5",
+    "store_label": "Amazon UK",
+    "flag": "🇬🇧",
+    "name": "Pokemon - Scarlet & Violet: High Class Pack Shiny Treasure ex - Booster Box",
+    "image": "https://m.media-amazon.com/images/I/61gL2PWEihL._AC_UL320_.jpg",
+    "price": "219,65 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": "1",
+    "link": "https://www.amazon.es/dp/B0CF1MDBS5?tag=enkairito-21",
+    "first_seen": "2026-09-08T14:34:56.335808+00:00",
+    "marketplace": "UK",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-09T09:20:04.909645+00:00",
+    "type": "price_drop",
+    "prev_price": "219,77 €",
+    "_src": "products.json",
+    "id": "UK-B0CF1MDBS5:2026-09-09T09:20:04.909645+00:00:price_drop"
+  },
+  {
+    "asin": "B0FK2BN732",
+    "store_label": "Amazon UK",
+    "flag": "🇬🇧",
+    "name": "Pokémon Pikachu V-Union Box Edición China Limitada Coleccionista TCG",
+    "image": "https://m.media-amazon.com/images/I/51ZZ9UimtAL._AC_UL320_.jpg",
+    "price": "89,25 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": "1",
+    "link": "https://www.amazon.es/dp/B0FK2BN732?tag=enkairito-21",
+    "first_seen": "2026-09-08T14:34:56.335801+00:00",
+    "marketplace": "UK",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-09T09:20:04.909645+00:00",
+    "type": "restock",
+    "prev_price": "89,25 €",
+    "_src": "products.json",
+    "id": "UK-B0FK2BN732:2026-09-09T09:20:04.909645+00:00:restock"
+  },
+  {
+    "asin": "B0H5RHR55T",
+    "store_label": "Amazon UK",
+    "flag": "🇬🇧",
+    "name": "Pokémon TCG: Mega Evolution - Chaos Rising Premium Checklane Blister Duo Pack | Flygon & Pawmot | 2 ampollas incluyendo 2 paquetes de refuerzo, 2 tarjetas promocionales y 2 monedas coleccionables |",
+    "image": "https://m.media-amazon.com/images/I/71eHi2VzCDL._AC_UL320_.jpg",
+    "price": "32,66 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0H5RHR55T?tag=enkairito-21",
+    "first_seen": "2026-09-04T21:32:58.802771+00:00",
+    "marketplace": "UK",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-09T09:20:04.909645+00:00",
+    "type": "restock",
+    "prev_price": "32,66 €",
+    "_src": "products.json",
+    "id": "UK-B0H5RHR55T:2026-09-09T09:20:04.909645+00:00:restock"
+  },
+  {
+    "asin": "B0C16H3DGV",
+    "store_label": "Amazon USA",
+    "flag": "🇺🇸",
+    "name": "Pokemon Booster Pack - Scarlet & Violet SV1 Base Set - 10 Card Pack - Pack Art Varys",
+    "image": "https://m.media-amazon.com/images/I/71ARA+YjCfL._AC_UL320_.jpg",
+    "price": "33,13 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": "3",
+    "link": "https://www.amazon.es/dp/B0C16H3DGV?tag=enkairito-21",
+    "first_seen": "2026-09-08T00:08:50.343349+00:00",
+    "marketplace": "US",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-09T09:20:04.909645+00:00",
+    "type": "restock",
+    "prev_price": "33,13 €",
+    "_src": "products.json",
+    "id": "US-B0C16H3DGV:2026-09-09T09:20:04.909645+00:00:restock"
+  },
+  {
+    "asin": "B0FHL5PKRR",
+    "store_label": "Amazon USA",
+    "flag": "🇺🇸",
+    "name": "Pokemon TCG: Scarlet & Violet – Destined Rivals Checklane Blister – Zarude",
+    "image": "https://m.media-amazon.com/images/I/61mqEnqTf6L._AC_UL320_.jpg",
+    "price": "36,49 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0FHL5PKRR?tag=enkairito-21",
+    "first_seen": "2026-09-08T14:34:56.335923+00:00",
+    "marketplace": "US",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-09T09:20:04.909645+00:00",
+    "type": "restock",
+    "prev_price": "36,49 €",
+    "_src": "products.json",
+    "id": "US-B0FHL5PKRR:2026-09-09T09:20:04.909645+00:00:restock"
   }
 ]
