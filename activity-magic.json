@@ -182,5 +182,74 @@
     "prev_price": "108,48 €",
     "_src": "magic.json",
     "id": "ES-B0G86Z91GX:2026-09-09T20:57:11.247158+00:00:price_drop"
+  },
+  {
+    "asin": "B0GWS9J9VT",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "sobre de coleccionista de Magic: The Gathering | El Hobbit (Versión en Inglés)",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/719BNIK99iL._AC_UL320_.jpg",
+    "price": "44,94 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0GWS9J9VT?tag=enkairito-21",
+    "first_seen": "2026-09-07T10:43:36.101494+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Sobre"
+    ],
+    "game": "Magic",
+    "ts": "2026-09-10T04:42:33.286348+00:00",
+    "type": "restock",
+    "prev_price": null,
+    "_src": "magic.json",
+    "id": "ES-B0GWS9J9VT:2026-09-10T04:42:33.286348+00:00:restock"
+  },
+  {
+    "asin": "B0GWS8DC8C",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Bundle de Regalo de Magic: The Gathering | El Hobbit | Juego de Cartas Intercambiables y coleccionables (Versión en Inglés)",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71XCJk6aW9L._AC_UL320_.jpg",
+    "price": "158,00 €",
+    "original_price": "199,90 €",
+    "status": "compra_directa",
+    "stock": "1",
+    "link": "https://www.amazon.es/dp/B0GWS8DC8C?tag=enkairito-21",
+    "first_seen": "2026-09-07T10:46:00.374156+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Bundle"
+    ],
+    "game": "Magic",
+    "ts": "2026-09-10T04:42:33.286348+00:00",
+    "type": "price_drop",
+    "prev_price": "164,90 €",
+    "_src": "magic.json",
+    "id": "ES-B0GWS8DC8C:2026-09-10T04:42:33.286348+00:00:price_drop"
+  },
+  {
+    "asin": "B0G87F8D5K",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Mazo de Commander de Secretos de Strixhaven, de Magic: The Gathering - Quándrix sin límite (Versión en Español)",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/712lR7lKPrL._AC_UL320_.jpg",
+    "price": "52,50 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0G87F8D5K?tag=enkairito-21",
+    "first_seen": "2026-09-07T10:47:12.038281+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Mazo Commander"
+    ],
+    "game": "Magic",
+    "ts": "2026-09-10T04:42:33.286348+00:00",
+    "type": "price_drop",
+    "prev_price": "52,97 €",
+    "_src": "magic.json",
+    "id": "ES-B0G87F8D5K:2026-09-10T04:42:33.286348+00:00:price_drop"
   }
 ]
