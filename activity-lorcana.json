@@ -366,5 +366,97 @@
     "prev_price": "77,54 €",
     "_src": "lorcana.json",
     "id": "ES-B0H8S9YZQH:2026-09-09T21:01:16.858428+00:00:price_drop"
+  },
+  {
+    "asin": "B0GWDXZ12H",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Ravensburger Disney Lorcana - Juego de cartas coleccionables para adultos y niños a partir de 8 años - Set 12: Wilds Unknown - Deck para 2 jugadores",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/7141S2B-z-L._AC_UL320_.jpg",
+    "price": "39,79 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": "3",
+    "link": "https://www.amazon.es/dp/B0GWDXZ12H?tag=enkairito-21",
+    "first_seen": "2026-09-07T17:41:04.537441+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Mazo Inicial"
+    ],
+    "game": "Lorcana",
+    "ts": "2026-09-10T04:54:51.916634+00:00",
+    "type": "price_drop",
+    "prev_price": "41,65 €",
+    "_src": "lorcana.json",
+    "id": "ES-B0GWDXZ12H:2026-09-10T04:54:51.916634+00:00:price_drop"
+  },
+  {
+    "asin": "B0FVLFQJXQ",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Ravensburger - Disney Lorcana TCG Set 10: Whispers In The Well | Juegos De Cartas para Adultos Y Niños con 60 Cartas Disney Lorcana | Juegos Niños 10 Años En Coleccionables | Regalo Niño 10 Años",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81qPlU2d2YL._AC_UL320_.jpg",
+    "price": "21,06 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0FVLFQJXQ?tag=enkairito-21",
+    "first_seen": "2026-09-10T04:54:28.484734+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Lorcana",
+    "ts": "2026-09-10T04:54:51.916634+00:00",
+    "type": "restock",
+    "prev_price": null,
+    "_src": "lorcana.json",
+    "id": "ES-B0FVLFQJXQ:2026-09-10T04:54:51.916634+00:00:restock"
+  },
+  {
+    "asin": "B0FSLTCVFJ",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Ravensburger - Disney Lorcana TCG: Set 10 Whispers In The Well | Juegos De Cartas Adultos Y Niños con 60 Cartas Disney Lorcana | Juegos De Mesa Niños 10 Años Coleccionables | Regalos Originales",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81xqzIpfwgL._AC_UL320_.jpg",
+    "price": "19,99 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": "5",
+    "link": "https://www.amazon.es/dp/B0FSLTCVFJ?tag=enkairito-21",
+    "first_seen": "2026-09-07T17:41:03.615084+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Lorcana",
+    "ts": "2026-09-10T04:54:51.916634+00:00",
+    "type": "restock",
+    "prev_price": null,
+    "_src": "lorcana.json",
+    "id": "ES-B0FSLTCVFJ:2026-09-10T04:54:51.916634+00:00:restock"
+  },
+  {
+    "asin": "B0H8S9YZQH",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Disney Lorcana TCG: Ataque de la zarcilla! - Cofre del Tesoro de Luminari (Español)",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61JTND0Df-L._AC_UL320_.jpg",
+    "price": "70,48 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": "1",
+    "link": "https://www.amazon.es/dp/B0H8S9YZQH?tag=enkairito-21",
+    "first_seen": "2026-09-07T17:42:06.427643+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Lorcana",
+    "ts": "2026-09-10T04:54:51.916634+00:00",
+    "type": "price_drop",
+    "prev_price": "76,97 €",
+    "_src": "lorcana.json",
+    "id": "ES-B0H8S9YZQH:2026-09-10T04:54:51.916634+00:00:price_drop"
   }
 ]
