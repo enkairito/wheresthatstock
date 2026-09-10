@@ -1,9 +1,10 @@
 {
-  "updated_at": "2026-09-10T11:19:21.084629+00:00",
+  "updated_at": "2026-09-10T11:31:24.752103+00:00",
   "source_updates": {
     "accessories": "2026-09-10T10:38:50.882755+00:00",
     "onepiece": "2026-09-10T09:34:49.692988+00:00",
-    "magic": "2026-09-10T11:19:21.084629+00:00"
+    "magic": "2026-09-10T11:19:21.084629+00:00",
+    "lorcana": "2026-09-10T11:31:24.752103+00:00"
   },
   "products": [
     {
@@ -635,6 +636,42 @@
         "Sin asociar"
       ],
       "source": "accessories"
+    },
+    {
+      "asin": "B0F4QPH25J",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Ravensburger - Disney Lorcana TCG: Set 9 Album Para Cartas Princesas | Album Cartas De Colección Con Capacidad Para 252 | Disney Lorcana Con Un Diseño Único | Card Sleeves",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81swcEuZIgL._AC_UL320_.jpg",
+      "price": "25,97 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F4QPH25J?tag=enkairito-21",
+      "first_seen": "2026-09-10T11:31:24.750843+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Lorcana"
+      ],
+      "source": "lorcana"
+    },
+    {
+      "asin": "B0DTK163XP",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Ravensburger - Disney Lorcana TCG: Set 9 Caja Cartas Pluto | Caja para Cartas De Colección con Capacidad para 80 | Disney Lorcana con Un Diseño Único | Card Sleeves",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81aGT4D9q1L._AC_UL320_.jpg",
+      "price": "5,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "2",
+      "link": "https://www.amazon.es/dp/B0DTK163XP?tag=enkairito-21",
+      "first_seen": "2026-09-10T11:31:24.750914+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Lorcana"
+      ],
+      "source": "lorcana"
     }
   ]
 }
