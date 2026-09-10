@@ -750,16 +750,19 @@ header.header-hidden { transform: translateY(-100%); }
   gap: 20px;
   align-items: flex-start;
   border: 1px solid var(--border);
+  border-left-width: 4px;
+  border-left-color: var(--game-color, var(--border));
   border-radius: 12px;
   padding: 16px 20px;
   background: var(--card-bg);
   text-decoration: none;
   color: var(--fg);
 }
-a.release-item:hover { border-color: color-mix(in srgb, var(--navy) 35%, var(--border)); }
+a.release-item:hover { border-color: color-mix(in srgb, var(--navy) 35%, var(--border)); border-left-color: var(--game-color, var(--navy)); }
 .release-item.release-pending { opacity: 0.7; }
 .release-date { flex: none; width: 160px; font-weight: 700; color: var(--navy); font-size: 0.9rem; }
-.release-game { font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; color: var(--muted); }
+.release-game { display: inline-flex; align-items: center; gap: 5px; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; color: var(--muted); }
+.release-game-icon { width: 13px; height: 13px; flex: none; color: var(--game-color, var(--muted)); }
 .release-body h2 { margin: 4px 0 6px; font-size: 1.05rem; }
 .release-body p { margin: 0; color: var(--muted); font-size: 0.88rem; line-height: 1.5; }
 @media (max-width: 520px) {
