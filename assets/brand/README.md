@@ -3,7 +3,7 @@
 Símbolo: carta inclinada cuyo borde forma una interrogación. La Poké Ball está dentro del recuadro de ilustración; el punto de la interrogación es circular y sólido.
 
 - `mark.svg`: símbolo para fondo claro; `mark-light.svg`: para fondo oscuro; `mark-mono.svg`: una tinta.
-- `mark-small.svg`: versión sin detalles interiores para 16–32 px. `favicon.svg` añade un fondo blanco para la pestaña del navegador.
+- `mark-small.svg`: versión sin detalles interiores para 16–32 px. `favicon.png` es esa misma versión, rasterizada a 256×256 con fondo transparente (sin el recuadro blanco que llevaba `favicon.svg`), para la pestaña del navegador.
 - `telegram-general.png`: avatar general de 1024 × 1024, preparado para el recorte circular de Telegram. El SVG es el original editable.
 - `telegram-*.png`: los avatares de cada juego conservan su diseño aprobado.
 - `social.png`: imagen de 1200 × 630 para compartir enlaces.
