@@ -293,7 +293,8 @@ function safeListingReturn(value) {
     const url = new URL(value, location.origin);
     const path = url.pathname.replace(/\.html$/, "").replace(/\/$/, "") || "/";
     const listings = ["/", "/index", "/ofertas", "/favoritos", "/pokemontcg", "/onepiece", "/magic", "/lorcana", "/yugioh", "/accesorios", "/cajas-de-coleccion", "/cajas-etb", "/colecciones-premium", "/sobres", "/latas"];
-    if (url.origin !== location.origin || url.username || url.password || !listings.includes(path)) return null;
+    const isSetHub = /^\/set\/[a-z0-9-]+$/.test(path);
+    if (url.origin !== location.origin || url.username || url.password || !(listings.includes(path) || isSetHub)) return null;
     url.searchParams.delete("return");
     return url.pathname + url.search;
   } catch { return null; }

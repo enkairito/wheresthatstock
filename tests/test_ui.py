@@ -374,6 +374,13 @@ class WebTests(unittest.TestCase):
         self.visit('/producto.html?mp=ES&asin=B000000000&return=https%3A%2F%2Fevil.example')
         expect(self.page.locator('#back-link')).to_have_attribute('href', '/pokemontcg')
 
+    def test_set_hub_renders_matched_products_and_return_link(self):
+        self.visit('/set/op17')
+        self.assertNotEqual(self.page.locator('#set-name').inner_text(), '')
+        self.assertGreaterEqual(self.page.locator('#grid .card').count(), 1)
+        href = self.page.locator('#grid .card-img').first.get_attribute('href')
+        self.assertEqual(parse_qs(urlparse(href).query)['return'], ['/set/op17'])
+
     def test_known_product_refresh_does_not_request_other_games(self):
         template = (ROOT / 'producto.html').read_text(encoding='utf-8')
         product = {'asin':'B000000000','marketplace':'ES','name':'Old name','status':'compra_directa','price':'99,00 €','_src':'products.json'}
