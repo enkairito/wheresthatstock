@@ -123,8 +123,8 @@ function cardHtml(p) {
       <a class="card-img" href="${detailUrl}" aria-label="Ver ficha de ${name}">
         ${productImageHtml(p)}
         <div class="card-corner" title="${storeLabel}">
-          ${STORE_ICONS[p.marketplace] ? `<span class="corner-icon"><img src="${STORE_ICONS[p.marketplace]}" alt="${storeLabel}"></span>` : ""}
-          ${FLAG_ICONS[p.marketplace] ? `<span class="corner-icon"><img src="${FLAG_ICONS[p.marketplace]}" alt="${escapeHtml(p.marketplace)}"></span>` : ""}
+          ${STORE_ICONS[p.marketplace] ? `<span class="corner-icon"><img src="${STORE_ICONS[p.marketplace]}" alt="${storeLabel}" width="20" height="20"></span>` : ""}
+          ${FLAG_ICONS[p.marketplace] ? `<span class="corner-icon"><img src="${FLAG_ICONS[p.marketplace]}" alt="${escapeHtml(p.marketplace)}" width="20" height="14"></span>` : ""}
           ${p.status !== "compra_directa" ? `<span class="badge status ${statusInfo.cls}">${statusInfo.text}</span>` : ""}
         </div>
         ${discount > 0 ? `<div class="card-corner-right"><span class="badge discount">-${discount}%</span></div>` : ""}

@@ -126,8 +126,8 @@ function render(p, restockCount) {
       </div>
       <div class="product-detail-body">
         <div class="product-detail-store" title="${storeLabel}">
-          ${STORE_ICONS[p.marketplace] ? `<img src="${STORE_ICONS[p.marketplace]}" alt="">` : ""}
-          ${FLAG_ICONS[p.marketplace] ? `<img src="${FLAG_ICONS[p.marketplace]}" alt="">` : ""}
+          ${STORE_ICONS[p.marketplace] ? `<img src="${STORE_ICONS[p.marketplace]}" alt="" width="20" height="20">` : ""}
+          ${FLAG_ICONS[p.marketplace] ? `<img src="${FLAG_ICONS[p.marketplace]}" alt="" width="20" height="14">` : ""}
           <span>${storeLabel}</span>
           <span class="badge status ${statusInfo.cls}">${statusInfo.text}</span>
         </div>

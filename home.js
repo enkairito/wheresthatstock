@@ -70,7 +70,7 @@ function activityItemHtml(e) {
     : "ya está disponible";
   return `
     <a class="activity-item" href="${link}" target="_blank" rel="noopener">
-      ${e.image ? `<img class="activity-img" src="${image}" alt="" loading="lazy">` : ""}
+      ${e.image ? `<img class="activity-img" src="${image}" alt="" width="40" height="40" loading="lazy">` : ""}
       <div class="activity-body">
         <div class="activity-text"><strong>${name}</strong> ${actionText}</div>
         <div class="activity-meta">${escapeHtml(e.game || "Pokémon")} · ${storeLabel} · ${timeAgo(e.ts)}</div>
