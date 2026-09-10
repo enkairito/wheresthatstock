@@ -5,7 +5,8 @@
     "name": "Magic: The Gathering — Star Trek",
     "release_date": "2026-11-13",
     "match": "star trek",
-    "blurb": "Set tributo de Magic por el 60.º aniversario de Star Trek, presentado en la MagicCon de Atlanta."
+    "blurb": "Set tributo de Magic por el 60.º aniversario de Star Trek, presentado en la MagicCon de Atlanta.",
+    "short_name": "Star Trek"
   },
   "celebracion-30": {
     "game": "Pokémon",
@@ -31,7 +32,8 @@
     "name": "Magic: The Gathering — El Hobbit",
     "release_date": "2026-08-14",
     "match": "hobbit",
-    "blurb": "Expansión de Magic ambientada en la Tierra Media de El Hobbit."
+    "blurb": "Expansión de Magic ambientada en la Tierra Media de El Hobbit.",
+    "short_name": "El Hobbit"
   },
   "chaos-rising": {
     "game": "Pokémon",
@@ -39,7 +41,8 @@
     "name": "Mega Evolution — Chaos Rising",
     "release_date": "2026-05-22",
     "match": "chaos rising",
-    "blurb": "Expansión de la serie Mega Evolution del JCC Pokémon, con Mega-Greninja y Mega-Floette como protagonistas."
+    "blurb": "Expansión de la serie Mega Evolution del JCC Pokémon, con Mega-Greninja y Mega-Floette como protagonistas.",
+    "short_name": "Chaos Rising"
   },
   "strixhaven": {
     "game": "Magic",
@@ -55,6 +58,7 @@
     "name": "Escarlata y Púrpura — Destined Rivals",
     "release_date": "2025-05-30",
     "match": "destined rivals",
-    "blurb": "Décima y última expansión principal de la serie Escarlata y Púrpura, protagonizada por el Team Rocket."
+    "blurb": "Décima y última expansión principal de la serie Escarlata y Púrpura, protagonizada por el Team Rocket.",
+    "short_name": "Destined Rivals"
   }
 }

@@ -374,6 +374,15 @@ class WebTests(unittest.TestCase):
         self.visit('/producto.html?mp=ES&asin=B000000000&return=https%3A%2F%2Fevil.example')
         expect(self.page.locator('#back-link')).to_have_attribute('href', '/pokemontcg')
 
+    def test_product_set_link_survives_hydration(self):
+        target = next(p for p in (ROOT / 'producto').glob('*.html') if 'class="back-link set-link"' in p.read_text(encoding='utf-8'))
+        self.visit('/producto/' + target.stem)
+        # producto.js ya ha reescrito #product-detail para cuando visit()
+        # vuelve; el enlace vive fuera de ese contenedor justamente por esto.
+        expect(self.page.locator('.set-link')).to_be_visible()
+        self.assertTrue(self.page.locator('.set-link').get_attribute('href').startswith('/set/'))
+        self.assertEqual(self.page.locator('#product-detail .set-link').count(), 0)
+
     def test_set_index_lists_every_set_and_links_to_its_hub(self):
         self.visit('/set/')
         items = self.page.locator('#sets-list .release-item')

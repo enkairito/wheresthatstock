@@ -597,6 +597,8 @@ header.header-hidden { transform: translateY(-100%); }
   text-decoration: none;
 }
 .back-link:hover { text-decoration: underline; }
+.set-link { float: right; color: var(--game-color, var(--navy)); }
+@media (max-width: 520px) { .set-link { float: none; display: block; margin-top: -8px; } }
 
 .product-detail { display: flex; gap: 32px; max-width: 900px; }
 .product-detail-img {
