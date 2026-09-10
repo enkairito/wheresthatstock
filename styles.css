@@ -763,6 +763,8 @@ a.release-item:hover { border-color: color-mix(in srgb, var(--navy) 35%, var(--b
 .release-date { flex: none; width: 160px; font-weight: 700; color: var(--navy); font-size: 0.9rem; }
 .release-game { display: inline-flex; align-items: center; gap: 5px; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; color: var(--muted); }
 .release-game-icon { width: 13px; height: 13px; flex: none; color: var(--game-color, var(--muted)); }
+.release-divider { font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); padding-top: 10px; margin-top: 4px; border-top: 1px solid var(--border); }
+.release-divider:first-child { padding-top: 0; margin-top: 0; border-top: none; }
 .release-body h2 { margin: 4px 0 6px; font-size: 1.05rem; }
 .release-body p { margin: 0; color: var(--muted); font-size: 0.88rem; line-height: 1.5; }
 @media (max-width: 520px) {
