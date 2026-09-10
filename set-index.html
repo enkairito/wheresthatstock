@@ -4,8 +4,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="robots" content="noindex">
-<title>Plantilla de set — Where's That Stock</title>
-<meta name="description" content="">
+<title>Expansiones TCG que seguimos — Where's That Stock</title>
+<meta name="description" content="Todas las expansiones de Pokémon TCG, One Piece TCG, Magic, Lorcana y Yu-Gi-Oh! con seguimiento de stock en Where's That Stock.">
 <link rel="icon" type="image/png" href="/assets/brand/favicon.png">
 
 <meta property="og:type" content="website">
@@ -49,22 +49,13 @@
   </div>
 </header>
 
-<main class="content">
-  <div class="category-intro" id="set-intro">
-    <h1 id="set-name">Cargando…</h1>
-    <p id="set-blurb"></p>
-    <p id="set-meta" class="news-source"></p>
+<main class="home-content">
+  <div class="category-intro">
+    <h1>Expansiones con seguimiento de stock</h1>
+    <p>Cada expansión tiene su propia ficha con la fecha de salida y los productos que hay disponibles ahora mismo en las tiendas que rastreamos.</p>
   </div>
-  <div class="toolbar">
-    <div class="toolbar-left">
-      <div class="count-group">
-        <div class="count" id="count"></div>
-      </div>
-    </div>
-  </div>
-  <div class="grid view-5" id="grid"></div>
-  <div class="empty" id="empty" style="display:none;">Todavía no hay productos de esta expansión en las tiendas que seguimos. Aparecerán aquí en cuanto se listen.</div>
-  <p><a href="/set/">← Ver todas las expansiones</a></p>
+  <div class="release-list" id="sets-list"></div>
+  <p><a href="/calendario-lanzamientos">Ver el calendario de lanzamientos →</a></p>
 </main>
 
 <footer>
@@ -87,35 +78,33 @@
 
 <script src="/header-scroll.js"></script>
 <script src="/product-utils.js"></script>
-<script id="set-data" type="application/json">{}</script>
+<script id="sets-data" type="application/json">[]</script>
 <script>
 (function () {
-  const data = JSON.parse(document.getElementById("set-data").textContent);
-  document.getElementById("set-name").textContent = data.name || "";
-  document.getElementById("set-blurb").textContent = data.blurb || "";
-  const metaEl = document.getElementById("set-meta");
-  const metaParts = [];
-  if (data.release_date_human) metaParts.push(data.release_date_human);
-  metaEl.textContent = metaParts.join(" · ");
-  if (data.article) {
-    const link = document.createElement("a");
-    link.href = "/" + data.article;
-    link.textContent = "Leer la noticia completa";
-    metaEl.append(metaParts.length ? " — " : "", link);
-  }
-  const grid = document.getElementById("grid");
-  const empty = document.getElementById("empty");
-  const count = document.getElementById("count");
-  const products = Array.isArray(data.products) ? data.products : [];
-  if (!products.length) {
-    empty.style.display = "block";
-    count.textContent = "0 productos";
-  } else {
-    count.textContent = `${products.length} producto${products.length === 1 ? "" : "s"}`;
-    grid.innerHTML = products.map(cardHtml).join("");
-    hydrateProductImages(grid);
-    syncFavoriteButtons();
-  }
+  const GAMES = {
+    "Pokémon": { color: "#D4A017", icon: '<circle cx="8" cy="8" r="6.3"/><path d="M1.9 8h4.3M9.8 8h4.3"/><circle cx="8" cy="8" r="1.7"/>' },
+    "One Piece": { color: "#C0392B", icon: '<ellipse cx="8" cy="11.3" rx="6.8" ry="1.7"/><path d="M3.9 10.2C4.1 7.3 5.8 4.8 8 4.8s3.9 2.5 4.1 5.4"/><path d="M4.6 9.3h6.8"/>' },
+    "Magic": { color: "#5B3FA6", icon: '<path d="M8 1.5 9.3 6.2 14 7.5 9.3 8.8 8 13.5 6.7 8.8 2 7.5 6.7 6.2Z"/>' },
+    "Lorcana": { color: "#B23A6B", icon: '<path d="M8 3.6C6.3 2.6 3.8 2.2 2 2.6v9.3c1.8-.4 4.3 0 6 1 1.7-1 4.2-1.4 6-1V2.6c-1.8-.4-4.3 0-6 1Z"/><path d="M8 3.6v9.3"/>' },
+    "Yu-Gi-Oh!": { color: "#8B5A2B", icon: '<path d="M8 2 14.2 12.8H1.8Z"/><circle cx="8" cy="9.6" r="1.3"/>' },
+  };
+  const sets = JSON.parse(document.getElementById("sets-data").textContent);
+  const list = document.getElementById("sets-list");
+  list.innerHTML = sets.map(s => {
+    const game = GAMES[s.game] || { color: "", icon: "" };
+    const stock = s.available
+      ? `${s.available} ${s.available === 1 ? "producto disponible" : "productos disponibles"}`
+      : "sin stock ahora mismo";
+    return `<a class="release-item" href="/set/${encodeURIComponent(s.slug)}" style="--game-color:${game.color}">
+      <div class="release-date">${escapeHtml(s.release_date_human || "")}</div>
+      <div class="release-body">
+        <span class="release-game"><svg class="release-game-icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round">${game.icon}</svg>${escapeHtml(s.game || "")}</span>
+        <h2>${escapeHtml(s.name || s.slug)}</h2>
+        <p>${escapeHtml(s.blurb || "")}</p>
+        <span class="release-stock">${escapeHtml(stock)}</span>
+      </div>
+    </a>`;
+  }).join("");
   fetch("/products.json?t=" + Date.now())
     .then(r => r.json())
     .then(d => { const el = document.getElementById("live-text"); if (el) el.textContent = timeAgo(d.updated_at); })

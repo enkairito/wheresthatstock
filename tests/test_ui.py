@@ -374,6 +374,14 @@ class WebTests(unittest.TestCase):
         self.visit('/producto.html?mp=ES&asin=B000000000&return=https%3A%2F%2Fevil.example')
         expect(self.page.locator('#back-link')).to_have_attribute('href', '/pokemontcg')
 
+    def test_set_index_lists_every_set_and_links_to_its_hub(self):
+        self.visit('/set/')
+        items = self.page.locator('#sets-list .release-item')
+        self.assertGreaterEqual(items.count(), 2)
+        hrefs = [items.nth(i).get_attribute('href') for i in range(items.count())]
+        self.assertTrue(all(h.startswith('/set/') for h in hrefs), hrefs)
+        self.assertIn('/set/op17', hrefs)
+
     def test_set_hub_renders_matched_products_and_return_link(self):
         self.visit('/set/op17')
         self.assertNotEqual(self.page.locator('#set-name').inner_text(), '')

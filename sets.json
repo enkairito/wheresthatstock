@@ -1,11 +1,60 @@
 {
+  "star-trek": {
+    "game": "Magic",
+    "source": "magic.json",
+    "name": "Magic: The Gathering — Star Trek",
+    "release_date": "2026-11-13",
+    "match": "star trek",
+    "blurb": "Set tributo de Magic por el 60.º aniversario de Star Trek, presentado en la MagicCon de Atlanta."
+  },
+  "celebracion-30": {
+    "game": "Pokémon",
+    "source": "products.json",
+    "name": "Celebración 30.º Aniversario",
+    "release_date": "2026-09-16",
+    "article": "noticia-celebracion-30-aniversario",
+    "match": "celebracion 30",
+    "blurb": "Primer lanzamiento simultáneo mundial de la historia del JCC Pokémon. Todos los sobres son holográficos y traen una de 30 ilustraciones de Pikachu."
+  },
   "op17": {
-    "game": "One Piece TCG",
+    "game": "One Piece",
     "source": "onepiece.json",
     "name": "OP-17: The World's Strongest Warriors",
     "release_date": "2026-08-28",
     "article": "noticia-op17",
     "match": "op-17",
     "blurb": "Set del 4.º aniversario del One Piece Card Game, ambientado en Elbaph. Primer lanzamiento simultáneo mundial de la franquicia."
+  },
+  "hobbit": {
+    "game": "Magic",
+    "source": "magic.json",
+    "name": "Magic: The Gathering — El Hobbit",
+    "release_date": "2026-08-14",
+    "match": "hobbit",
+    "blurb": "Expansión de Magic ambientada en la Tierra Media de El Hobbit."
+  },
+  "chaos-rising": {
+    "game": "Pokémon",
+    "source": "products.json",
+    "name": "Mega Evolution — Chaos Rising",
+    "release_date": "2026-05-22",
+    "match": "chaos rising",
+    "blurb": "Expansión de la serie Mega Evolution del JCC Pokémon, con Mega-Greninja y Mega-Floette como protagonistas."
+  },
+  "strixhaven": {
+    "game": "Magic",
+    "source": "magic.json",
+    "name": "Secretos de Strixhaven",
+    "release_date": "2026-04-24",
+    "match": "strixhaven",
+    "blurb": "Vuelta a Strixhaven, la universidad de magia, cinco años después del set original."
+  },
+  "destined-rivals": {
+    "game": "Pokémon",
+    "source": "products.json",
+    "name": "Escarlata y Púrpura — Destined Rivals",
+    "release_date": "2025-05-30",
+    "match": "destined rivals",
+    "blurb": "Décima y última expansión principal de la serie Escarlata y Púrpura, protagonizada por el Team Rocket."
   }
 }
