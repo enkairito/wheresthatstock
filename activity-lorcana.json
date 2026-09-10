@@ -504,5 +504,51 @@
     "prev_price": "9,27 €",
     "_src": "lorcana.json",
     "id": "ES-B0GK896YXF:2026-09-10T11:31:24.751476+00:00:restock"
+  },
+  {
+    "asin": "B0H6NNRWMQ",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Ravensburger Disney Lorcana TCG: Attack of the Vine! Booster Pack Display - 24 paquetes con 12 tarjetas coleccionables cada uno - 288 cartas en total - Ideal para coleccionistas y fans de Disney",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81WLdtGHV2L._AC_UL320_.jpg",
+    "price": "256,54 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": "1",
+    "link": "https://www.amazon.es/dp/B0H6NNRWMQ?tag=enkairito-21",
+    "first_seen": "2026-09-08T11:29:11.493181+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Caja de Sobres"
+    ],
+    "game": "Lorcana",
+    "ts": "2026-09-10T16:32:33.328099+00:00",
+    "type": "restock",
+    "prev_price": "256,58 €",
+    "_src": "lorcana.json",
+    "id": "ES-B0H6NNRWMQ:2026-09-10T16:32:33.328099+00:00:restock"
+  },
+  {
+    "asin": "B0H6JGF65L",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Disney Lorcana TCG: Álbum de Recortes, diseño de Mickey y Minnie",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81K6Di4DGGL._AC_UL320_.jpg",
+    "price": "24,99 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0H6JGF65L?tag=enkairito-21",
+    "first_seen": "2026-09-10T16:32:27.086465+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Lorcana",
+    "ts": "2026-09-10T16:32:33.328099+00:00",
+    "type": "restock",
+    "prev_price": null,
+    "_src": "lorcana.json",
+    "id": "ES-B0H6JGF65L:2026-09-10T16:32:33.328099+00:00:restock"
   }
 ]
