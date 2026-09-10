@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T11:19:21.083761+00:00",
+  "updated_at": "2026-09-10T16:24:49.427274+00:00",
   "products": [
     {
       "asin": "B0H6KKQZLT",
@@ -596,6 +596,24 @@
       "game": "Magic"
     },
     {
+      "asin": "B0G8781J5W",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Mazo de Commander de Secretos de Strixhaven, de Magic: The Gathering - Influencia de Plumargéntum (Versión en Español)",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71uetQRrPyL._AC_UL320_.jpg",
+      "price": "52,50 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "1",
+      "link": "https://www.amazon.es/dp/B0G8781J5W?tag=enkairito-21",
+      "first_seen": "2026-09-07T10:46:54.506895+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Mazo Commander"
+      ],
+      "game": "Magic"
+    },
+    {
       "asin": "B0G86TG887",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -745,7 +763,7 @@
       "flag": "🇪🇸",
       "name": "Draft Night de Secretos de Strixhaven, de Magic: The Gathering (Versión en Inglés)",
       "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/816wq4IFX+L._AC_UL320_.jpg",
-      "price": "110,43 €",
+      "price": "124,93 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
