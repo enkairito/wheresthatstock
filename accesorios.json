@@ -1,11 +1,12 @@
 {
-  "updated_at": "2026-09-11T19:07:08.981018+00:00",
+  "updated_at": "2026-09-11T19:18:12.686486+00:00",
   "source_updates": {
     "accessories": "2026-09-11T06:03:24.402058+00:00",
     "onepiece": "2026-09-11T19:07:08.981018+00:00",
     "magic": "2026-09-11T18:17:56.951508+00:00",
     "lorcana": "2026-09-11T18:17:14.739518+00:00",
-    "yugioh": "2026-09-11T18:17:41.527165+00:00"
+    "yugioh": "2026-09-11T18:17:41.527165+00:00",
+    "playstation": "2026-09-11T19:18:12.686486+00:00"
   },
   "products": [
     {
@@ -691,6 +692,114 @@
         "Yu-Gi-Oh!"
       ],
       "source": "yugioh"
+    },
+    {
+      "asin": "B0DKP1FZM5",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Mochila para Consola PS5/ Slim/ Pro, Bolsa PS5 de Viaje con Protección Total, Funda ps5 Almacenamiento de Gran Capacidad, PS Portal, Portátil, Tarjeta de Juego, Maletin PS 5 con Bolsa 3 Cable- Blanco",
+      "image": "https://m.media-amazon.com/images/I/81TTVxCA9qL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "32,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DKP1FZM5?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:18:12.685967+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0BJW7XKY2",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Playstation 5 DualSense Edge Controller - kabelloser PS5 Controller mit insgesamt 16 Tasten und austauschbaren Analog Sticks",
+      "image": "https://m.media-amazon.com/images/I/614v99L42vL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "214,98 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0BJW7XKY2?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:18:12.685970+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B07W4X1F21",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Sony PlayStation DualShock 4 Controller - Glacier White (Renewed)",
+      "image": "https://m.media-amazon.com/images/I/51PkqE9Kb6L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "62,48 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B07W4X1F21?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:18:12.685972+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0F1QWSCVH",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Turtle Beach Airlite Fit Auriculares con Cable para Juegos en Morado fantasmal con Licencia Oficial para Todos los Nintendo Switch",
+      "image": "https://m.media-amazon.com/images/I/61X4xz-lyuL._AC_SX569_.jpg",
+      "price": "12,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F1QWSCVH?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:18:12.685974+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B084WQXL2N",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "GXTrust Forze Cascos PS4 y PS5 Auriculares de Gaming, Gris",
+      "image": "https://m.media-amazon.com/images/I/71gfdGLmqiL._AC_SX569_.jpg",
+      "price": "28,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B084WQXL2N?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:18:12.685976+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0C813CQ2Y",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Soporte Auriculares Gaming y Soporte Mando PS5, PS4, Xbox... One More Life : Regalo Gamer │ Sujección Universal de Resina y Base Antideslizante : Accesorios escritorio para Decoracion Set UP",
+      "image": "https://m.media-amazon.com/images/I/61aOSFQG5bL._AC_SX569_.jpg",
+      "price": "34,95 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0C813CQ2Y?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:18:12.685978+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
     }
   ]
 }
