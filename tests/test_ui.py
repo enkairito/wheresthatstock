@@ -76,8 +76,8 @@ class WebTests(unittest.TestCase):
         # petición real no caiga al servidor de ficheros estático (sin
         # nintendo.json) ni reviente SOURCES.index() en el bloque de abajo,
         # lo que dejaría la ruta sin resolver y networkidle nunca se cumpliría.
-        if name in ('nintendo.json', 'activity-nintendo.json'):
-            return route.fulfill(json={'updated_at': self.now.isoformat(), 'products': []} if name == 'nintendo.json' else [])
+        if name in ('nintendo.json', 'activity-nintendo.json', 'playstation.json', 'activity-playstation.json', 'xbox.json', 'activity-xbox.json'):
+            return route.fulfill(json={'updated_at': self.now.isoformat(), 'products': []} if name.endswith('.json') and not name.startswith('activity-') else [])
         if name in SOURCES:
             index = SOURCES.index(name)
             if self.mode == 'partial' and name == 'yugioh.json':

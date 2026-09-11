@@ -19,6 +19,14 @@
 })();
 
 (function () {
+  // Un solo array compartido: el trigger de cada desplegable hace
+  // stopPropagation() en su propio click (para que el listener de "click
+  // fuera cierra esto" no se dispare sobre sí mismo), lo que también le
+  // impide llegar a document — así que el cierre de los DEMÁS desplegables
+  // no puede delegarse en ese listener global y hay que hacerlo a mano
+  // aquí antes de abrir el propio.
+  const dropdowns = [];
+
   document.querySelectorAll(".topnav-dropdown").forEach(dd => {
     const trigger = dd.querySelector(".topnav-dropdown-trigger");
     const menu = dd.querySelector(".topnav-dropdown-menu");
@@ -29,6 +37,7 @@
       menu.hidden = true;
     }
     function open() {
+      dropdowns.forEach(other => other !== entry && other.close());
       // position: fixed (ver styles.css) necesita coordenadas de
       // viewport puestas a mano. Pegado del todo (sin hueco) para que
       // se vea como una continuación del botón, no una tarjeta flotante.
@@ -38,6 +47,9 @@
       trigger.setAttribute("aria-expanded", "true");
       menu.hidden = false;
     }
+
+    const entry = { close };
+    dropdowns.push(entry);
 
     trigger.addEventListener("click", e => {
       e.stopPropagation();
