@@ -70,6 +70,14 @@ class WebTests(unittest.TestCase):
             if self.image_behavior == 'broken':
                 return route.fulfill(status=200, content_type='image/jpeg', body='not an image')
             return route.fulfill(path=str(ROOT / 'assets' / 'logo.jpg'), content_type='image/jpeg')
+        # Nuevas verticales (Gaming...) aún no forman parte de SOURCES/GAMES
+        # aquí a propósito: esas listas fijan las "5 juegos" que varias
+        # pruebas dan por hecho en la portada. Se sirven vacías para que la
+        # petición real no caiga al servidor de ficheros estático (sin
+        # nintendo.json) ni reviente SOURCES.index() en el bloque de abajo,
+        # lo que dejaría la ruta sin resolver y networkidle nunca se cumpliría.
+        if name in ('nintendo.json', 'activity-nintendo.json'):
+            return route.fulfill(json={'updated_at': self.now.isoformat(), 'products': []} if name == 'nintendo.json' else [])
         if name in SOURCES:
             index = SOURCES.index(name)
             if self.mode == 'partial' and name == 'yugioh.json':
@@ -165,14 +173,17 @@ class WebTests(unittest.TestCase):
                 with self.subTest(width=width, path=path):
                     self.visit(path)
                     self.assertTrue(self.page.evaluate('document.documentElement.scrollWidth <= innerWidth'))
-            self.page.locator('.topnav-dropdown-trigger').click()
-            menu = self.page.locator('.topnav-dropdown-menu')
-            self.assertTrue(menu.is_visible())
-            rect = menu.bounding_box()
-            self.assertGreaterEqual(rect['x'], 0)
-            self.assertLessEqual(rect['x'] + rect['width'], width)
-            self.page.keyboard.press('Escape')
-            self.assertFalse(menu.is_visible())
+            triggers = self.page.locator('.topnav-dropdown-trigger')
+            for i in range(triggers.count()):
+                trigger = triggers.nth(i)
+                trigger.click()
+                menu = self.page.locator('.topnav-dropdown-menu').nth(i)
+                self.assertTrue(menu.is_visible())
+                rect = menu.bounding_box()
+                self.assertGreaterEqual(rect['x'], 0)
+                self.assertLessEqual(rect['x'] + rect['width'], width)
+                self.page.keyboard.press('Escape')
+                self.assertFalse(menu.is_visible())
 
     def test_favorites_persist_filter_and_remove_without_navigation(self):
         self.visit('/')

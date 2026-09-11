@@ -3,22 +3,37 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="robots" content="noindex">
-<title>Plantilla de set — Where's That Stock</title>
-<meta name="description" content="">
+<title>Nintendo en stock en la última comprobación — Where's That Stock</title>
+<meta name="description" content="Consulta el stock de Nintendo en Amazon España: consolas Nintendo Switch 2 y Nintendo Switch, videojuegos y accesorios.">
 <link rel="icon" type="image/png" href="/assets/brand/favicon.png">
 
 <meta property="og:type" content="website">
-<meta property="og:site_name" content="Where's That Stock">
+<link rel="canonical" href="https://wheresthatstock.com/nintendo">
+<meta property="og:url" content="https://wheresthatstock.com/nintendo">
+<meta property="og:title" content="Nintendo en stock en la última comprobación — Where's That Stock">
+<meta property="og:description" content="Consulta el stock de Nintendo en Amazon España: consolas Nintendo Switch 2 y Nintendo Switch, videojuegos y accesorios.">
 <meta property="og:image" content="https://wheresthatstock.com/assets/brand/social.png">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Nintendo en stock en la última comprobación — Where's That Stock">
+<meta name="twitter:description" content="Consulta el stock de Nintendo en Amazon España: consolas Nintendo Switch 2 y Nintendo Switch, videojuegos y accesorios.">
+<meta name="twitter:image" content="https://wheresthatstock.com/assets/brand/social.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet"></noscript>
-<link rel="stylesheet" href="/styles.css">
+<link rel="stylesheet" href="styles.css">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": "Inicio", "item": "https://wheresthatstock.com/"},
+    {"@type": "ListItem", "position": 2, "name": "Nintendo", "item": "https://wheresthatstock.com/nintendo"}
+  ]
+}
+</script>
 </head>
-<body>
+<body data-products-url="nintendo.json">
 
 <header>
   <div class="topbar-inner">
@@ -44,7 +59,7 @@
       <div class="topnav-dropdown">
         <button type="button" class="topnav-link topnav-dropdown-trigger" aria-haspopup="true" aria-expanded="false">Gaming<svg class="dropdown-caret" viewBox="0 0 10 6" width="9" height="6" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M1 1.2 5 5 9 1.2"/></svg></button>
         <div class="topnav-dropdown-menu" hidden>
-      <a href="/nintendo" class="topnav-dropdown-item"><svg class="nav-icon" viewBox="0 0 16 16" width="15" height="15" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4.5" width="12" height="7" rx="3.5"/><circle cx="5.2" cy="8" r="0.9" fill="currentColor" stroke="none"/><circle cx="10.8" cy="8" r="0.9" fill="currentColor" stroke="none"/></svg>Nintendo</a>
+      <a href="/nintendo" class="topnav-dropdown-item active" aria-current="page"><svg class="nav-icon" viewBox="0 0 16 16" width="15" height="15" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4.5" width="12" height="7" rx="3.5"/><circle cx="5.2" cy="8" r="0.9" fill="currentColor" stroke="none"/><circle cx="10.8" cy="8" r="0.9" fill="currentColor" stroke="none"/></svg>Nintendo</a>
         </div>
       </div>
       <a href="/ofertas" class="topnav-link"><svg class="nav-icon" viewBox="0 0 16 16" width="15" height="15" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M2 2h5.3L14 8.7l-5.3 5.3L2 7.3V2Z"/><circle cx="5.3" cy="5.3" r="0.9" fill="currentColor" stroke="none"/></svg>Ofertas</a>
@@ -55,23 +70,99 @@
   </div>
 </header>
 
-<main class="content">
-  <div class="category-intro" id="set-intro">
-    <h1 id="set-name">Cargando…</h1>
-    <p id="set-blurb"></p>
-    <p id="set-meta" class="news-source"></p>
-  </div>
-  <div class="toolbar">
-    <div class="toolbar-left">
-      <div class="count-group">
-        <div class="count" id="count"></div>
+<div class="layout">
+  <div class="filters-col">
+    <button class="filter-toggle-btn" id="filter-toggle" type="button">Ocultar filtros</button>
+  <aside class="sidebar">
+    <div class="sidebar-section">
+      <label class="sidebar-label" for="sort-select">Ordenar por</label>
+      <select id="sort-select">
+        <option value="newest" selected>Novedades</option>
+        <option value="default">Recomendado</option>
+        <option value="price-asc">Precio: menor a mayor</option>
+        <option value="price-desc">Precio: mayor a menor</option>
+        <option value="discount">Mayor descuento</option>
+        <option value="name">Nombre A-Z</option>
+      </select>
+    </div>
+
+    <div class="sidebar-section">
+      <label class="sidebar-label" for="discount-range">Descuento mínimo</label>
+      <input type="range" id="discount-range" min="0" max="50" step="5" value="0">
+      <div class="range-value" id="discount-value">0% de descuento</div>
+    </div>
+
+    <div class="sidebar-section">
+      <label class="sidebar-label" for="price-range">Precio máximo</label>
+      <input type="range" id="price-range" min="0" max="600" step="10" value="600">
+      <div class="range-value-row">
+        <input type="number" id="price-input" min="0" max="600" step="1" value="600" inputmode="numeric">
+        <span>€</span>
       </div>
     </div>
+
+    <div class="sidebar-section">
+      <div class="sidebar-label">Tipo de compra</div>
+      <label class="filter-option">
+        <input type="checkbox" data-status="compra_directa" checked>
+        <span>Disponible</span>
+      </label>
+      <label class="filter-option">
+        <input type="checkbox" data-status="invitacion" checked>
+        <span>Invitación</span>
+      </label>
+      <label class="filter-option">
+        <input type="checkbox" data-status="preventa" checked>
+        <span>Preventa</span>
+      </label>
+    </div>
+
+    <div class="sidebar-section">
+      <div class="sidebar-label">Categoría</div>
+      <label class="filter-option">
+        <input type="checkbox" data-category="Consola" checked>
+        <span>Consola</span>
+      </label>
+      <label class="filter-option">
+        <input type="checkbox" data-category="Videojuego" checked>
+        <span>Videojuego</span>
+      </label>
+    </div>
+  </aside>
   </div>
-  <div class="grid view-5" id="grid"></div>
-  <div class="empty" id="empty" style="display:none;">Todavía no hay productos de esta expansión en las tiendas que seguimos. Aparecerán aquí en cuanto se listen.</div>
-  <p><a href="/set/">← Ver todas las expansiones</a></p>
-</main>
+
+  <main class="content">
+    <div class="category-intro">
+      <h1>Nintendo en stock en la última comprobación</h1>
+      <p>Consolas Nintendo Switch 2 y Nintendo Switch, videojuegos físicos y accesorios. Consulta qué hay disponible en la última comprobación en Amazon España.</p>
+    </div>
+    <div class="toolbar">
+      <div class="toolbar-left">
+        <div class="search-box">
+          <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+          <input type="text" id="search" placeholder="Buscar producto..." autocomplete="off" aria-label="Buscar producto">
+        </div>
+        <div class="count-group">
+          <div class="count" id="count"></div>
+          <div class="active-filters" id="active-filters"></div>
+        </div>
+      </div>
+      <div class="view-toggle" role="group" aria-label="Vista de productos">
+        <button class="view-btn" data-view="view-5" aria-label="5 por fila" aria-pressed="true">
+          <span class="view-icon"><span></span><span></span><span></span><span></span><span></span></span>
+        </button>
+        <button class="view-btn" data-view="view-3" aria-label="3 por fila" aria-pressed="false">
+          <span class="view-icon"><span></span><span></span><span></span></span>
+        </button>
+        <button class="view-btn" data-view="view-list" aria-label="Lista" aria-pressed="false">
+          <span class="view-icon list-icon"><span></span><span></span><span></span></span>
+        </button>
+      </div>
+    </div>
+    <div class="grid view-5" id="grid"></div>
+    <div class="empty" id="empty" style="display:none;">No se encontraron productos.</div>
+  </main>
+</div>
 
 <footer>
   <div class="footer-social">
@@ -91,42 +182,8 @@
   Where's That Stock · Enlaces de afiliado de Amazon
 </footer>
 
-<script src="/header-scroll.js"></script>
-<script src="/product-utils.js"></script>
-<script id="set-data" type="application/json">{}</script>
-<script>
-(function () {
-  const data = JSON.parse(document.getElementById("set-data").textContent);
-  document.getElementById("set-name").textContent = data.name || "";
-  document.getElementById("set-blurb").textContent = data.blurb || "";
-  const metaEl = document.getElementById("set-meta");
-  const metaParts = [];
-  if (data.release_date_human) metaParts.push(data.release_date_human);
-  metaEl.textContent = metaParts.join(" · ");
-  if (data.article) {
-    const link = document.createElement("a");
-    link.href = "/" + data.article;
-    link.textContent = "Leer la noticia completa";
-    metaEl.append(metaParts.length ? " — " : "", link);
-  }
-  const grid = document.getElementById("grid");
-  const empty = document.getElementById("empty");
-  const count = document.getElementById("count");
-  const products = Array.isArray(data.products) ? data.products : [];
-  if (!products.length) {
-    empty.style.display = "block";
-    count.textContent = "0 productos";
-  } else {
-    count.textContent = `${products.length} producto${products.length === 1 ? "" : "s"}`;
-    grid.innerHTML = products.map(cardHtml).join("");
-    hydrateProductImages(grid);
-    syncFavoriteButtons();
-  }
-  fetch("/products.json?t=" + Date.now())
-    .then(r => r.json())
-    .then(d => { const el = document.getElementById("live-text"); if (el) el.textContent = timeAgo(d.updated_at); })
-    .catch(() => {});
-})();
-</script>
+<script src="header-scroll.js"></script>
+<script src="product-utils.js"></script>
+<script src="app.js"></script>
 </body>
 </html>

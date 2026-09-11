@@ -141,7 +141,7 @@ function cardHtml(p) {
 }
 
 
-const GAME_SOURCES = ["products.json", "onepiece.json", "magic.json", "lorcana.json", "yugioh.json"];
+const GAME_SOURCES = ["products.json", "onepiece.json", "magic.json", "lorcana.json", "yugioh.json", "nintendo.json"];
 
 async function fetchJson(url) {
   const controller = new AbortController();
