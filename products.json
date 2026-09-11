@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T10:20:13.853072+00:00",
+  "updated_at": "2026-09-11T11:20:12.447392+00:00",
   "products": [
     {
       "asin": "B0H8SZ9F99",
@@ -42,7 +42,7 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Pokémon: Caja de Entrenador Élite de Celebración 30.º Aniversario de JCC Pokémon (1 Carta de promoción con ilustración expandida, 9 Sobres de Mejora y Accesorios prémium)",
-      "image": "https://m.media-amazon.com/images/I/61wLraxwYwL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "image": "https://m.media-amazon.com/images/I/81ukPbI8eBL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
       "price": "52,99 €",
       "original_price": null,
       "status": "preventa",
@@ -132,7 +132,7 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Pokémon: Colección con póster de Celebración 30.º Aniversario de JCC Pokémon (3 Cartas de promoción, 1 póster y 3 Sobres de Mejora)",
-      "image": "https://m.media-amazon.com/images/I/71OoX43a8cL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "image": "https://m.media-amazon.com/images/I/913GxyrrNAL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
       "price": "23,99 €",
       "original_price": null,
       "status": "preventa",
@@ -867,42 +867,6 @@
       "game": "Pokémon"
     },
     {
-      "asin": "B0BJ7C2F88",
-      "store_label": "Amazon UK",
-      "flag": "🇬🇧",
-      "name": "Pokémon TCG: Zeraora V Battle Deck (60 Cartas, Listo para Jugar)",
-      "image": "https://m.media-amazon.com/images/I/815bkUc90CL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "24,91 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0BJ7C2F88?tag=enkairito-21",
-      "first_seen": "2026-09-05T05:18:07.280932+00:00",
-      "marketplace": "UK",
-      "categories": [
-        "Otros"
-      ],
-      "game": "Pokémon"
-    },
-    {
-      "asin": "B0BJ7F5RNY",
-      "store_label": "Amazon UK",
-      "flag": "🇬🇧",
-      "name": "Pokémon- Deoxys (60 Cards, Ready to Play) Baraja de Batalla V, Multicolor, zeraora (699-17149)",
-      "image": "https://m.media-amazon.com/images/I/81pTrbT77WL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "24,72 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0BJ7F5RNY?tag=enkairito-21",
-      "first_seen": "2026-09-04T21:32:58.802813+00:00",
-      "marketplace": "UK",
-      "categories": [
-        "Otros"
-      ],
-      "game": "Pokémon"
-    },
-    {
       "asin": "B0FS98MMML",
       "store_label": "Amazon UK",
       "flag": "🇬🇧",
@@ -1011,6 +975,24 @@
       "game": "Pokémon"
     },
     {
+      "asin": "B0DG8VNG1F",
+      "store_label": "Amazon UK",
+      "flag": "🇬🇧",
+      "name": "Pokémon TCG: Scarlet & Violet—Shrouded Fable Booster Bundle (6 Booster Packs)",
+      "image": "https://m.media-amazon.com/images/I/81PYT9ru31L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "97,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "4",
+      "link": "https://www.amazon.es/dp/B0DG8VNG1F?tag=enkairito-21",
+      "first_seen": "2026-09-08T14:34:56.335794+00:00",
+      "marketplace": "UK",
+      "categories": [
+        "Otros"
+      ],
+      "game": "Pokémon"
+    },
+    {
       "asin": "B0FVYJPBWW",
       "store_label": "Amazon UK",
       "flag": "🇬🇧",
@@ -1065,24 +1047,6 @@
       "game": "Pokémon"
     },
     {
-      "asin": "B0CK8JM32H",
-      "store_label": "Amazon UK",
-      "flag": "🇬🇧",
-      "name": "Pokémon TCG: Baraja de batalla Greninja ex (mazo de 60 cartas listo para jugar)",
-      "image": "https://m.media-amazon.com/images/I/81QkRDu7X0L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "43,35 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "2",
-      "link": "https://www.amazon.es/dp/B0CK8JM32H?tag=enkairito-21",
-      "first_seen": "2026-09-08T14:34:56.335833+00:00",
-      "marketplace": "UK",
-      "categories": [
-        "Otros"
-      ],
-      "game": "Pokémon"
-    },
-    {
       "asin": "B0CTTRH7NL",
       "store_label": "Amazon UK",
       "flag": "🇬🇧",
@@ -1094,6 +1058,24 @@
       "stock": "3",
       "link": "https://www.amazon.es/dp/B0CTTRH7NL?tag=enkairito-21",
       "first_seen": "2026-09-08T14:34:56.335859+00:00",
+      "marketplace": "UK",
+      "categories": [
+        "Otros"
+      ],
+      "game": "Pokémon"
+    },
+    {
+      "asin": "B0CK8JM32H",
+      "store_label": "Amazon UK",
+      "flag": "🇬🇧",
+      "name": "Pokémon TCG: Baraja de batalla Greninja ex (mazo de 60 cartas listo para jugar)",
+      "image": "https://m.media-amazon.com/images/I/81QkRDu7X0L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "43,35 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "2",
+      "link": "https://www.amazon.es/dp/B0CK8JM32H?tag=enkairito-21",
+      "first_seen": "2026-09-08T14:34:56.335833+00:00",
       "marketplace": "UK",
       "categories": [
         "Otros"
@@ -1173,24 +1155,6 @@
       "game": "Pokémon"
     },
     {
-      "asin": "B0BPJZXH8W",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokemon TCG: disparador de paradigma de espada y escudo, paquete promocional (Lugia Get Challenge 2022)",
-      "image": "https://m.media-amazon.com/images/I/41hpHl5dlgL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "36,07 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0BPJZXH8W?tag=enkairito-21",
-      "first_seen": "2026-09-08T14:34:56.335970+00:00",
-      "marketplace": "US",
-      "categories": [
-        "Otros"
-      ],
-      "game": "Pokémon"
-    },
-    {
       "asin": "B0F67LMLFY",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
@@ -1209,42 +1173,6 @@
       "game": "Pokémon"
     },
     {
-      "asin": "B0F2BFSPBN",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Scarlet & Violet - Destined Rivals - Paquete de 3 blíster - Zebstrika (3 Paquetes de Refuerzo y 1 Tarjeta Promocional de Aluminio)",
-      "image": "https://m.media-amazon.com/images/I/81vjKrzT81L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "72,65 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F2BFSPBN?tag=enkairito-21",
-      "first_seen": "2026-09-04T21:32:58.802941+00:00",
-      "marketplace": "US",
-      "categories": [
-        "Otros"
-      ],
-      "game": "Pokémon"
-    },
-    {
-      "asin": "B0CJB9D88Q",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokemon TCG: Colección Knock Out (Shaymin, Zeraora y Marshadow)",
-      "image": "https://m.media-amazon.com/images/I/51hGJzozSFL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "63,77 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "2",
-      "link": "https://www.amazon.es/dp/B0CJB9D88Q?tag=enkairito-21",
-      "first_seen": "2026-09-08T14:34:56.335957+00:00",
-      "marketplace": "US",
-      "categories": [
-        "Otros"
-      ],
-      "game": "Pokémon"
-    },
-    {
       "asin": "B0F6PGX3SQ",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
@@ -1256,6 +1184,42 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B0F6PGX3SQ?tag=enkairito-21",
       "first_seen": "2026-09-05T18:46:43.703340+00:00",
+      "marketplace": "US",
+      "categories": [
+        "Otros"
+      ],
+      "game": "Pokémon"
+    },
+    {
+      "asin": "B0F2BDKJ9Q",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Scarlet & Violet - Destined Rivals - Paquete de 3 blíster - Kangaskhan (3 Paquetes de Refuerzo y 1 Tarjeta Promocional de Aluminio)",
+      "image": "https://m.media-amazon.com/images/I/81WFivcdnML._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "70,00 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F2BDKJ9Q?tag=enkairito-21",
+      "first_seen": "2026-09-05T20:58:26.290849+00:00",
+      "marketplace": "US",
+      "categories": [
+        "Otros"
+      ],
+      "game": "Pokémon"
+    },
+    {
+      "asin": "B0F2BFSPBN",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Scarlet & Violet - Destined Rivals - Paquete de 3 blíster - Zebstrika (3 Paquetes de Refuerzo y 1 Tarjeta Promocional de Aluminio)",
+      "image": "https://m.media-amazon.com/images/I/81vjKrzT81L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "72,65 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F2BFSPBN?tag=enkairito-21",
+      "first_seen": "2026-09-04T21:32:58.802941+00:00",
       "marketplace": "US",
       "categories": [
         "Otros"
@@ -1292,6 +1256,24 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B0F1GXTFGL?tag=enkairito-21",
       "first_seen": "2026-09-08T14:34:56.335889+00:00",
+      "marketplace": "US",
+      "categories": [
+        "Otros"
+      ],
+      "game": "Pokémon"
+    },
+    {
+      "asin": "B0DG8VNG1F",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Scarlet & Violet—Shrouded Fable Booster Bundle (6 Booster Packs)",
+      "image": "https://m.media-amazon.com/images/I/81PYT9ru31L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "103,35 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DG8VNG1F?tag=enkairito-21",
+      "first_seen": "2026-09-08T21:53:40.425353+00:00",
       "marketplace": "US",
       "categories": [
         "Otros"
@@ -1400,24 +1382,6 @@
       "stock": "1",
       "link": "https://www.amazon.es/dp/B0FHL5PKRR?tag=enkairito-21",
       "first_seen": "2026-09-08T14:34:56.335923+00:00",
-      "marketplace": "US",
-      "categories": [
-        "Otros"
-      ],
-      "game": "Pokémon"
-    },
-    {
-      "asin": "B0DX79MM56",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Azure Legends Tin - Xerneas ex (4 Paquetes de Refuerzo y 1 Tarjeta Promocional de Aluminio)",
-      "image": "https://m.media-amazon.com/images/I/71IlmzJMvsL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "78,27 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0DX79MM56?tag=enkairito-21",
-      "first_seen": "2026-09-08T14:34:56.335902+00:00",
       "marketplace": "US",
       "categories": [
         "Otros"
