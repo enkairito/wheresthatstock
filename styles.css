@@ -657,6 +657,37 @@ header.header-hidden { transform: translateY(-100%); }
   padding: 60px 20px;
 }
 
+.arcade {
+  border: 1px solid color-mix(in srgb, var(--navy) 18%, transparent);
+  border-radius: 12px;
+  padding: 16px 18px 20px;
+  margin-bottom: 22px;
+  background: color-mix(in srgb, var(--navy) 4%, var(--bg));
+}
+.arcade-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 10px;
+  margin-bottom: 10px;
+  flex-wrap: wrap;
+}
+.arcade-head h2 { font-size: 0.9rem; margin: 0; color: var(--fg); }
+.arcade-scores { font-size: 0.78rem; color: var(--muted); font-weight: 700; white-space: nowrap; }
+.arcade-scores b { color: var(--navy); }
+#arcade-canvas {
+  width: 100%;
+  max-width: 640px;
+  height: auto;
+  aspect-ratio: 640 / 200;
+  display: block;
+  border-radius: 8px;
+  background: color-mix(in srgb, var(--navy) 3%, var(--bg));
+  cursor: pointer;
+  touch-action: manipulation;
+}
+.arcade-hint { margin: 8px 0 0; font-size: 0.74rem; color: var(--muted); }
+
 .faq-section { margin-bottom: 8px; }
 .faq-list { display: flex; flex-direction: column; gap: 10px; max-width: 760px; }
 .faq-item {
