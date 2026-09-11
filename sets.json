@@ -1,4 +1,14 @@
 {
+  "eb05": {
+    "game": "One Piece",
+    "source": "onepiece.json",
+    "name": "EB-05: One Piece Heroines Edition vol.2",
+    "release_date": "2026-10-30",
+    "match": "eb-05",
+    "blurb": "Segundo Extra Booster de la línea Heroines Edition, centrado en las protagonistas femeninas de One Piece. Nico Robin vuelve como Líder.",
+    "article": "noticia-eb05",
+    "short_name": "Heroines Edition vol.2"
+  },
   "star-trek": {
     "game": "Magic",
     "source": "magic.json",
