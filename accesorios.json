@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T18:20:42.210915+00:00",
+  "updated_at": "2026-09-12T18:25:00.269512+00:00",
   "source_updates": {
     "accessories": "2026-09-12T06:04:57.503869+00:00",
     "onepiece": "2026-09-12T18:07:34.383328+00:00",
@@ -7,7 +7,7 @@
     "lorcana": "2026-09-12T18:17:51.967948+00:00",
     "yugioh": "2026-09-12T18:17:30.365599+00:00",
     "playstation": "2026-09-12T18:20:05.506488+00:00",
-    "nintendo": "2026-09-12T12:27:48.388458+00:00",
+    "nintendo": "2026-09-12T18:25:00.269512+00:00",
     "xbox": "2026-09-12T18:20:42.210915+00:00"
   },
   "products": [
@@ -570,78 +570,6 @@
       "source": "accessories"
     },
     {
-      "asin": "B0BW3T9YBP",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "8Bitdo Controlador de Juego Bluetooth SN30 PRO Compatible con Switch PC, Upgrade Hall Effect Joystick Gamepad Inalámbrico para PC, Windows, Android, macOS, Steam, Raspberry Pi (Transparencia Púrpura)",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71yYM3uVJOL._AC_SX466_.jpg",
-      "price": "48,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0BW3T9YBP?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.912132+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B0D8KXMCTC",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "GameSir G7 SE Mando con Cable para Xbox Series X|S, Xbox One & Windows 10/11, Plug and Play Gamepad para Juegos con Joysticks de Efecto Hall, Conector de Audio de 3,5 mm (Naranja)",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51CstRjd6RL._AC_SX466_.jpg",
-      "price": "53,43 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0D8KXMCTC?tag=enkairito-21",
-      "first_seen": "2026-09-12T12:27:48.387076+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B0DM96HQPY",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Tatybo Cascos Gaming Inalámbricos 7.1 para Ps5/Ps4/PC, Auriculares Bluetooth con Micrófono con Cancelación de Ruido, 2.4GHz USB-C, 40H+ Batería para Switch/Mac/Portátil (Azul Cielo)",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61a14idpH8L._AC_SX569_.jpg",
-      "price": "33,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0DM96HQPY?tag=enkairito-21",
-      "first_seen": "2026-09-12T12:27:48.387083+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B0F3D26B9J",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Tatybo Cascos Gaming Inalámbricos para PC/Ps5/Ps4, Auriculares Gaming Inalámbricos con 2,4 GHz+Bluetooth 5,3 Modo Dual, 7.1 Sonido Envolvente, Duración 40Hr+",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61-ijD4p14L._AC_SX569_.jpg",
-      "price": "33,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F3D26B9J?tag=enkairito-21",
-      "first_seen": "2026-09-12T12:27:48.387093+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
       "asin": "B0DK1NY4LW",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -652,7 +580,259 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0DK1NY4LW?tag=enkairito-21",
-      "first_seen": "2026-09-12T12:31:08.174525+00:00",
+      "first_seen": "2026-09-12T18:25:00.266921+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B0FD41XC3P",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "GameSir G7 Pro Mando 1000Hz con Estación de Carga: Xbox Series X|S, Xbox One, Win 10/11 & Android - Joysticks TMR, Gatillos Ajustables & 4 Botones Programables - Blanco Mec",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/719XHbmvmBL._AC_SX679_.jpg",
+      "price": "99,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FD41XC3P?tag=enkairito-21",
+      "first_seen": "2026-09-12T12:31:08.174522+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0F8NRC5WT",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Yu-Gi-Oh! Chronicles:Fallen & Virtuous Card Sleeves(50)",
+      "image": "https://m.media-amazon.com/images/I/51u0Cjf3W5L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "10,58 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "2",
+      "link": "https://www.amazon.es/dp/B0F8NRC5WT?tag=enkairito-21",
+      "first_seen": "2026-09-10T11:45:06.861286+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Yu-Gi-Oh!"
+      ],
+      "source": "yugioh"
+    },
+    {
+      "asin": "B0F4QPH25J",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Ravensburger - Disney Lorcana TCG: Set 9 Album Para Cartas Princesas | Album Cartas De Colección Con Capacidad Para 252 | Disney Lorcana Con Un Diseño Único | Card Sleeves",
+      "image": "https://m.media-amazon.com/images/I/81swcEuZIgL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "25,95 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F4QPH25J?tag=enkairito-21",
+      "first_seen": "2026-09-10T11:31:24.750843+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Lorcana"
+      ],
+      "source": "lorcana"
+    },
+    {
+      "asin": "B0DTK163XP",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Ravensburger - Disney Lorcana TCG: Set 9 Caja Cartas Pluto | Caja para Cartas De Colección con Capacidad para 80 | Disney Lorcana con Un Diseño Único | Card Sleeves",
+      "image": "https://m.media-amazon.com/images/I/81aGT4D9q1L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "5,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "1",
+      "link": "https://www.amazon.es/dp/B0DTK163XP?tag=enkairito-21",
+      "first_seen": "2026-09-10T11:31:24.750914+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Lorcana"
+      ],
+      "source": "lorcana"
+    },
+    {
+      "asin": "B08DLWRZ8V",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "VENTION Cable Micro USB 2m Cable Mando ps4 Cable Cargador ebook Kindle Tejido de Nylon Cable Cargador Android Micro usb",
+      "image": "https://m.media-amazon.com/images/I/61manEUHmgS._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "7,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B08DLWRZ8V?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018964+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B017BRXU1A",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Ultra Pro - 1000 fundas suaves -",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71dlTRxRrAL._AC_SX679_.jpg",
+      "price": "12,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B017BRXU1A?tag=enkairito-21",
+      "first_seen": "2026-09-12T18:25:00.266918+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B084WQXL2N",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "GXTrust Forze Cascos PS4 y PS5 Auriculares de Gaming, Gris",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71gfdGLmqiL._AC_SX569_.jpg",
+      "price": "28,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "1",
+      "link": "https://www.amazon.es/dp/B084WQXL2N?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:18:12.685976+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0FB3T6JYJ",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Pack de 10 Protectores Gold para Pokemon Elite Trainer Box - Funda Caja Pokemon ETB 0,5mm Grosor - Protección UV para Tus Cajas PKMN",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71Gv5mqqENL._AC_SX425_.jpg",
+      "price": "24,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FB3T6JYJ?tag=enkairito-21",
+      "first_seen": "2026-09-12T18:25:00.266931+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B0FHHFBDNQ",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "GameSir G7 Pro Mando 1000Hz con Estación de Carga para Xbox Series X|S, Xbox One, Windows 10/11 & Android – Joysticks TMR, Gatillos Ajustables & 4 Botones Programables – Shadow Ember",
+      "image": "https://m.media-amazon.com/images/I/71-wtZ5RihL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "99,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FHHFBDNQ?tag=enkairito-21",
+      "first_seen": "2026-09-12T12:31:08.174481+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B075S7LG8X",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Thrustmaster T.Flight Hotas One - Joystick y Acelerador - XBOX y PC",
+      "image": "https://m.media-amazon.com/images/I/514tCnffsSL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "89,99 €",
+      "original_price": "99,99 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B075S7LG8X?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:25:04.811682+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B07HYNJ3SY",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Xbox One S - Consola 1 TB + 2 Mandos a Distancia",
+      "image": "https://m.media-amazon.com/images/I/51RGmUn2YUL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "639,91 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "1",
+      "link": "https://www.amazon.es/dp/B07HYNJ3SY?tag=enkairito-21",
+      "first_seen": "2026-09-12T18:20:42.209712+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0FHQ6P7TQ",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "8BitDo Ultimate 3-mode Wireless Controller for Xbox, Hall Effect Joysticks, Pro Back Buttons, Compatibility with Xbox Series X|S & Xbox One, Apple, Windows PC & Android - Rare 40th Anniversary Edition",
+      "image": "https://m.media-amazon.com/images/I/71oeYI-TlQL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "74,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FHQ6P7TQ?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:25:04.811690+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0H28Q22N1",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "GameSir G7 Pro Mando Xbox Cable/PC Inalámbrico, TMR, 1000Hz,Plata",
+      "image": "https://m.media-amazon.com/images/I/71TDM34ZP6L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "127,24 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0H28Q22N1?tag=enkairito-21",
+      "first_seen": "2026-09-12T18:20:42.209727+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B085DNDLC1",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Ultra Pro Penny Fundas para tarjetas, estándar, blandas, para cartas coleccionables, como Pokemon Magic, tamaño estándar, transparentes, 400 unidades",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61wDnEEGSPL._AC_SX679_.jpg",
+      "price": "8,39 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B085DNDLC1?tag=enkairito-21",
+      "first_seen": "2026-09-12T06:28:31.691547+00:00",
       "marketplace": "ES",
       "categories": [
         "Xbox"
@@ -794,7 +974,7 @@
       "price": "23,10 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "5",
+      "stock": "3",
       "link": "https://www.amazon.es/dp/B084DJ9J8C?tag=enkairito-21",
       "first_seen": "2026-09-11T19:20:15.912103+00:00",
       "marketplace": "ES",
@@ -822,6 +1002,24 @@
       "source": "nintendo"
     },
     {
+      "asin": "B0F3JT1NT8",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Nintendo Switch 2 Carrying Case + protector pantalla",
+      "image": "https://m.media-amazon.com/images/I/713LuDMYBfL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "20,99 €",
+      "original_price": "25,99 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F3JT1NT8?tag=enkairito-21",
+      "first_seen": "2026-09-12T18:25:00.266890+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
       "asin": "B0F5LJZ7GM",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -840,17 +1038,35 @@
       "source": "nintendo"
     },
     {
-      "asin": "B08FCW9VVX",
+      "asin": "B0F3JVK9N6",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "PDP Cable Carga y Juega con Licencia Oficial (Nintendo Switch)",
-      "image": "https://m.media-amazon.com/images/I/51P3H582YSL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "7,91 €",
-      "original_price": "9,99 €",
+      "name": "Joy-Con 2 Wheel (2 uds)",
+      "image": "https://m.media-amazon.com/images/I/61SOlR1tYAL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "18,99 €",
+      "original_price": "19,90 €",
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B08FCW9VVX?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:58.478369+00:00",
+      "link": "https://www.amazon.es/dp/B0F3JVK9N6?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:20:15.912108+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B0H9R91725",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Joy-Con (set Izda/Dcha) Azul/Amarillo Neón BTR",
+      "image": "https://m.media-amazon.com/images/I/61vGwbKTXGL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "74,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0H9R91725?tag=enkairito-21",
+      "first_seen": "2026-09-12T18:25:00.266895+00:00",
       "marketplace": "ES",
       "categories": [
         "Nintendo"
@@ -876,17 +1092,17 @@
       "source": "nintendo"
     },
     {
-      "asin": "B076HT7KL3",
+      "asin": "B0DJ2PLH9G",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Orzly Pack Esencial de Accesorios para Nintendo Switch [Incluye: Protectores de Pantalla, Cable USB, Funda para Consola, Estuche Tarjetas de Juego, Funda Comfort Grip, Auriculares] – Negro",
-      "image": "https://m.media-amazon.com/images/I/81e6se9NAuL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "27,19 €",
-      "original_price": "29,99 €",
+      "name": "MYSTILUCK Mando Pro Inalámbrico para Switch/Switch 2/Lite/OLED/PC",
+      "image": "https://m.media-amazon.com/images/I/61L1EEEsT-L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "22,99 €",
+      "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B076HT7KL3?tag=enkairito-21",
-      "first_seen": "2026-09-12T12:27:48.387073+00:00",
+      "link": "https://www.amazon.es/dp/B0DJ2PLH9G?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:58.478367+00:00",
       "marketplace": "ES",
       "categories": [
         "Nintendo"
@@ -894,17 +1110,17 @@
       "source": "nintendo"
     },
     {
-      "asin": "B0F7RNNYZY",
+      "asin": "B0DRX5SZQZ",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "playvital Funda Protectora para Nintendo Switch 2 (2025)",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61a8lD-FVKL._AC_SX679_.jpg",
-      "price": "22,99 €",
+      "name": "daydayup Funda Compatible con Nintendo Switch 2 Consola, Funda de Transporte Dura para Nintendo Switch 2, Funda Protectora con Almacenamiento para 20 Juegos, Consola y Accesorios, Color Negro",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81Af0s2j+yL._AC_SX466_.jpg",
+      "price": "14,56 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0F7RNNYZY?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.912119+00:00",
+      "link": "https://www.amazon.es/dp/B0DRX5SZQZ?tag=enkairito-21",
+      "first_seen": "2026-09-12T18:25:00.266901+00:00",
       "marketplace": "ES",
       "categories": [
         "Nintendo"
@@ -930,17 +1146,143 @@
       "source": "nintendo"
     },
     {
-      "asin": "B0HDQ2LRS9",
+      "asin": "B0F49FWKWZ",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Xbox Mando inalámbrico Gears of War: Edición Limitada E-Day Series X|S, One, PCs, televisores, móviles y más",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/716kFNJ20xL._AC_SX679_.jpg",
-      "price": "89,99 €",
+      "name": "Orzly Funda de Transporte para Consola Nintendo Switch 2 2025 de 7.9 Pulgadas, Funda rígida con Almacenamiento Inteligente para Accesorios y Bolsillos de Juegos, Edición de Caja de Regalo",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71nEd--ORXL._AC_SY445_.jpg",
+      "price": "29,99 €",
       "original_price": null,
-      "status": "preventa",
+      "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0HDQ2LRS9?tag=enkairito-21",
-      "first_seen": "2026-09-12T12:27:48.387090+00:00",
+      "link": "https://www.amazon.es/dp/B0F49FWKWZ?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:20:15.912145+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B0FS1JVBBZ",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "MYSTILUCK Mando Pro Inalámbrico para Switch/Switch 2/Lite/OLED/PC, Blanco",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/617Wl+fKQ6L._AC_SX466_.jpg",
+      "price": "23,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FS1JVBBZ?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:58.478379+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B0F49Y9WH2",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Orzly Funda de Transporte para Consola Nintendo Switch 2 2025 de 7.9 Pulgadas, Funda rígida con Almacenamiento Inteligente para Accesorios y Bolsillos de Juegos, Edición de Caja de Regalo",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71cWqXrp-2L._AC_SY445_.jpg",
+      "price": "29,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F49Y9WH2?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:20:15.912138+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B0F7RNNYZY",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "playvital Funda Protectora para Nintendo Switch 2 (2025)",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61a8lD-FVKL._AC_SX679_.jpg",
+      "price": "22,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F7RNNYZY?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:20:15.912119+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B0F49F1Y99",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Orzly Funda de Transporte para Consola Nintendo Switch 2 2025 de 7.9 Pulgadas, Funda rígida con Almacenamiento Inteligente para Accesorios y Bolsillos de Juegos, Edición de Caja de Regalo",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71gzlTkNEiL._AC_SY445_.jpg",
+      "price": "39,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F49F1Y99?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:20:15.912140+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B0F49RD95B",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Orzly Funda de Transporte para Consola Nintendo Switch 2 2025 de 7.9 Pulgadas, Funda rígida con Almacenamiento Inteligente para Accesorios y Bolsillos de Juegos, Edición de Caja de Regalo",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71lk---v84L._AC_SY445_.jpg",
+      "price": "29,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F49RD95B?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:20:15.912144+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B0F8BKBG3K",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "3 en 1 para Nintendo Switch 2 Protector de pantalla,2 piezas de película templada HD 9H + ayuda de montaje,fácil de instalar, sin burbujas,Sensible al tacto,Resistente a los arañazos",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71YHegHl-3L._AC_SX679_.jpg",
+      "price": "6,78 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F8BKBG3K?tag=enkairito-21",
+      "first_seen": "2026-09-12T18:25:00.266915+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B0F49CTJBW",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Orzly Funda de Transporte para Consola Nintendo Switch 2 2025 de 7.9 Pulgadas, Funda rígida con Almacenamiento Inteligente para Accesorios y Bolsillos de Juegos, Edición de Caja de Regalo",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71AGhkGwIhL._AC_SY445_.jpg",
+      "price": "29,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F49CTJBW?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:20:15.912125+00:00",
       "marketplace": "ES",
       "categories": [
         "Nintendo"
@@ -984,256 +1326,40 @@
       "source": "nintendo"
     },
     {
-      "asin": "B0FD41XC3P",
+      "asin": "B0FVXJ8VK3",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "GameSir G7 Pro Mando 1000Hz con Estación de Carga: Xbox Series X|S, Xbox One, Win 10/11 & Android - Joysticks TMR, Gatillos Ajustables & 4 Botones Programables - Blanco Mec",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/719XHbmvmBL._AC_SX679_.jpg",
-      "price": "99,99 €",
+      "name": "ivoler Carcasa Protectora para Nintendo Switch 2﻿, Funda Agarre Acoplable con Magnético, Grip Case y 2 Protectores de Pantalla - Translúcida",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61u2bmfGdQL._AC_SX569_.jpg",
+      "price": "16,95 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0FD41XC3P?tag=enkairito-21",
-      "first_seen": "2026-09-12T12:31:08.174522+00:00",
+      "link": "https://www.amazon.es/dp/B0FVXJ8VK3?tag=enkairito-21",
+      "first_seen": "2026-09-12T18:25:00.266928+00:00",
       "marketplace": "ES",
       "categories": [
-        "Xbox"
+        "Nintendo"
       ],
-      "source": "xbox"
+      "source": "nintendo"
     },
     {
-      "asin": "B0F8NRC5WT",
+      "asin": "B0BW3T9YBP",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Yu-Gi-Oh! Chronicles:Fallen & Virtuous Card Sleeves(50)",
-      "image": "https://m.media-amazon.com/images/I/51u0Cjf3W5L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "10,58 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "2",
-      "link": "https://www.amazon.es/dp/B0F8NRC5WT?tag=enkairito-21",
-      "first_seen": "2026-09-10T11:45:06.861286+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Yu-Gi-Oh!"
-      ],
-      "source": "yugioh"
-    },
-    {
-      "asin": "B0F4QPH25J",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Ravensburger - Disney Lorcana TCG: Set 9 Album Para Cartas Princesas | Album Cartas De Colección Con Capacidad Para 252 | Disney Lorcana Con Un Diseño Único | Card Sleeves",
-      "image": "https://m.media-amazon.com/images/I/81swcEuZIgL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "25,95 €",
+      "name": "8Bitdo Controlador de Juego Bluetooth SN30 PRO Compatible con Switch PC, Upgrade Hall Effect Joystick Gamepad Inalámbrico para PC, Windows, Android, macOS, Steam, Raspberry Pi (Transparencia Púrpura)",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71yYM3uVJOL._AC_SX466_.jpg",
+      "price": "48,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0F4QPH25J?tag=enkairito-21",
-      "first_seen": "2026-09-10T11:31:24.750843+00:00",
+      "link": "https://www.amazon.es/dp/B0BW3T9YBP?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:20:15.912132+00:00",
       "marketplace": "ES",
       "categories": [
-        "Lorcana"
+        "Nintendo"
       ],
-      "source": "lorcana"
-    },
-    {
-      "asin": "B0DTK163XP",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Ravensburger - Disney Lorcana TCG: Set 9 Caja Cartas Pluto | Caja para Cartas De Colección con Capacidad para 80 | Disney Lorcana con Un Diseño Único | Card Sleeves",
-      "image": "https://m.media-amazon.com/images/I/81aGT4D9q1L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "5,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "1",
-      "link": "https://www.amazon.es/dp/B0DTK163XP?tag=enkairito-21",
-      "first_seen": "2026-09-10T11:31:24.750914+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Lorcana"
-      ],
-      "source": "lorcana"
-    },
-    {
-      "asin": "B08DLWRZ8V",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "VENTION Cable Micro USB 2m Cable Mando ps4 Cable Cargador ebook Kindle Tejido de Nylon Cable Cargador Android Micro usb",
-      "image": "https://m.media-amazon.com/images/I/61manEUHmgS._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "7,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B08DLWRZ8V?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:04.018964+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
-      "asin": "B017BRXU1A",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Ultra Pro - 1000 fundas suaves -",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71dlTRxRrAL._AC_SX679_.jpg",
-      "price": "12,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B017BRXU1A?tag=enkairito-21",
-      "first_seen": "2026-09-12T18:20:42.209734+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B084WQXL2N",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "GXTrust Forze Cascos PS4 y PS5 Auriculares de Gaming, Gris",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71gfdGLmqiL._AC_SX569_.jpg",
-      "price": "28,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "1",
-      "link": "https://www.amazon.es/dp/B084WQXL2N?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:18:12.685976+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
-      "asin": "B0FB3T6JYJ",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Pack de 10 Protectores Gold para Pokemon Elite Trainer Box - Funda Caja Pokemon ETB 0,5mm Grosor - Protección UV para Tus Cajas PKMN",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71Gv5mqqENL._AC_SX425_.jpg",
-      "price": "24,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FB3T6JYJ?tag=enkairito-21",
-      "first_seen": "2026-09-12T18:20:42.209730+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0FHHFBDNQ",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "GameSir G7 Pro Mando 1000Hz con Estación de Carga para Xbox Series X|S, Xbox One, Windows 10/11 & Android – Joysticks TMR, Gatillos Ajustables & 4 Botones Programables – Shadow Ember",
-      "image": "https://m.media-amazon.com/images/I/71-wtZ5RihL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "99,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FHHFBDNQ?tag=enkairito-21",
-      "first_seen": "2026-09-12T12:31:08.174481+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B075S7LG8X",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Thrustmaster T.Flight Hotas One - Joystick y Acelerador - XBOX y PC",
-      "image": "https://m.media-amazon.com/images/I/514tCnffsSL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "89,99 €",
-      "original_price": "99,99 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B075S7LG8X?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:25:04.811682+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B07HYNJ3SY",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Xbox One S - Consola 1 TB + 2 Mandos a Distancia",
-      "image": "https://m.media-amazon.com/images/I/51RGmUn2YUL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "639,91 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "1",
-      "link": "https://www.amazon.es/dp/B07HYNJ3SY?tag=enkairito-21",
-      "first_seen": "2026-09-12T18:20:42.209712+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0FHQ6P7TQ",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "8BitDo Ultimate 3-mode Wireless Controller for Xbox, Hall Effect Joysticks, Pro Back Buttons, Compatibility with Xbox Series X|S & Xbox One, Apple, Windows PC & Android - Rare 40th Anniversary Edition",
-      "image": "https://m.media-amazon.com/images/I/71oeYI-TlQL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "74,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FHQ6P7TQ?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:25:04.811690+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0H28Q22N1",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "GameSir G7 Pro Mando Xbox Cable/PC Inalámbrico, TMR, 1000Hz,Plata",
-      "image": "https://m.media-amazon.com/images/I/71TDM34ZP6L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "127,24 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0H28Q22N1?tag=enkairito-21",
-      "first_seen": "2026-09-12T18:20:42.209727+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B085DNDLC1",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Ultra Pro Penny Fundas para tarjetas, estándar, blandas, para cartas coleccionables, como Pokemon Magic, tamaño estándar, transparentes, 400 unidades",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61wDnEEGSPL._AC_SX679_.jpg",
-      "price": "8,39 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B085DNDLC1?tag=enkairito-21",
-      "first_seen": "2026-09-12T06:28:31.691547+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
+      "source": "nintendo"
     }
   ]
 }
