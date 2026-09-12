@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-12T00:22:12.807486+00:00",
+  "updated_at": "2026-09-12T00:28:04.020020+00:00",
   "source_updates": {
     "accessories": "2026-09-11T06:03:24.402058+00:00",
     "onepiece": "2026-09-12T00:07:10.018092+00:00",
     "magic": "2026-09-12T00:17:55.810425+00:00",
     "lorcana": "2026-09-12T00:17:43.097454+00:00",
     "yugioh": "2026-09-12T00:17:27.225881+00:00",
-    "playstation": "2026-09-12T00:19:36.049163+00:00",
+    "playstation": "2026-09-12T00:28:04.020020+00:00",
     "nintendo": "2026-09-12T00:22:12.807486+00:00",
     "xbox": "2026-09-12T00:20:45.702147+00:00"
   },
@@ -750,132 +750,6 @@
       "source": "lorcana"
     },
     {
-      "asin": "B0BMG2LH3W",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Playstation - Realidad Virtual VR2 | Gafas de Realidad Virtual Originales de Sony para PS5 con Imágenes HDR en 4K. Incluye Casco de Realidad Virtual VR2 y Mandos VR2 Sense",
-      "image": "https://m.media-amazon.com/images/I/41Lx7odhhGL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "449,00 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0BMG2LH3W?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:19:36.048073+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
-      "asin": "B0DSPX3R62",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "PlayStation 5 - Mando inalámbrico DualSense Edge® – Midnight Black",
-      "image": "https://m.media-amazon.com/images/I/61dsEJl7yNL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "204,99 €",
-      "original_price": "219,99 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0DSPX3R62?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:19:36.048076+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
-      "asin": "B0BJW7XKY2",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Playstation 5 DualSense Edge Controller - kabelloser PS5 Controller mit insgesamt 16 Tasten und austauschbaren Analog Sticks",
-      "image": "https://m.media-amazon.com/images/I/614v99L42vL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "214,98 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0BJW7XKY2?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:18:12.685970+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
-      "asin": "B0BKW3BYFR",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "AceGamer Controlador Inalámbrico Para Ps4, Controlador De Juego Compatible Con Ps4/Pro/Slim/Pc, Con Turbobotón/Botón Trasero/Doble Vibración/Sensor De Giroscopio De 6 Ejes/Panel Táctil",
-      "image": "https://m.media-amazon.com/images/I/71h+Ho0v55L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "23,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0BKW3BYFR?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:19:36.048080+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
-      "asin": "B07W4X1F21",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Sony PlayStation DualShock 4 Controller - Glacier White (Renewed)",
-      "image": "https://m.media-amazon.com/images/I/51PkqE9Kb6L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "62,48 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B07W4X1F21?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:18:12.685972+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
-      "asin": "B0GLJNCWZD",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Thrustmaster EVO Racing 31U - Add-On de Volante Cuero PS5/XBOX/PC",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81uCS4K6ebL._AC_SX466_.jpg",
-      "price": "269,00 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0GLJNCWZD?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:19:36.048084+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
-      "asin": "B0CG931L9Q",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "AceGamer Controlador Inalámbrico Para Ps4, Controlador De Juego Compatible Con Ps4/Pro/Slim/Pc, Con Turbobotón/Botón Trasero/Doble Vibración/Sensor De Giroscopio De 6 Ejes/Panel Táctil",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71h+Ho0v55L._AC_SX466_.jpg",
-      "price": "23,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0CG931L9Q?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:19:36.048086+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
       "asin": "B08F4444HM",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -886,61 +760,7 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B08F4444HM?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:22:12.806056+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B0BKGKMLH2",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Playstation - Mando Inalámbrico DualSense Edge | Mando Original Sony para PS5 con Botones y Joysticks Ultracustomizables y Perfiles de Controles Personalizados. - Color Blanco",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51SimHCC1GL._AC_SX466_.jpg",
-      "price": "209,90 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0BKGKMLH2?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:19:36.048091+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
-      "asin": "B0FBMGPL61",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Thrustmaster T248R Force Feedback Volante y Pedalier - PS5 y PC",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81mZYGYgPeL._AC_SX466_.jpg",
-      "price": "269,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FBMGPL61?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:19:36.048098+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
-      "asin": "B0CSFRYL7C",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Ozeino Cascos Gaming Inalámbricos para PC/Ps5/Ps4, Auriculares Gaming Inalámbricos de 2,4GHz Wireless+Bluetooth, Baja Latencia Calidad de Sonido sin Pérdidas, Duración 30Hr+ Blanco",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71MtuoeFemL._AC_SX569_.jpg",
-      "price": "36,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0CSFRYL7C?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:19:36.048100+00:00",
+      "first_seen": "2026-09-12T00:28:04.018974+00:00",
       "marketplace": "ES",
       "categories": [
         "PlayStation"
@@ -1426,12 +1246,12 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0DB2M9X8Q?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:22:12.806078+00:00",
+      "first_seen": "2026-09-12T00:28:04.019000+00:00",
       "marketplace": "ES",
       "categories": [
-        "Nintendo"
+        "PlayStation"
       ],
-      "source": "nintendo"
+      "source": "playstation"
     },
     {
       "asin": "B0GMRB7W9V",
@@ -1462,12 +1282,12 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0F1QWSCVH?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.912117+00:00",
+      "first_seen": "2026-09-11T19:18:12.685974+00:00",
       "marketplace": "ES",
       "categories": [
-        "Nintendo"
+        "PlayStation"
       ],
-      "source": "nintendo"
+      "source": "playstation"
     },
     {
       "asin": "B0FDTLRZSH",
@@ -1558,6 +1378,456 @@
         "Nintendo"
       ],
       "source": "nintendo"
+    },
+    {
+      "asin": "B0DSPX3R62",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "PlayStation 5 - Mando inalámbrico DualSense Edge® – Midnight Black",
+      "image": "https://m.media-amazon.com/images/I/61dsEJl7yNL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "204,99 €",
+      "original_price": "219,99 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DSPX3R62?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018951+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0BMG2LH3W",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Playstation - Realidad Virtual VR2 | Gafas de Realidad Virtual Originales de Sony para PS5 con Imágenes HDR en 4K. Incluye Casco de Realidad Virtual VR2 y Mandos VR2 Sense",
+      "image": "https://m.media-amazon.com/images/I/41Lx7odhhGL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "449,00 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0BMG2LH3W?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018953+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0DKP1FZM5",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Mochila para Consola PS5/ Slim/ Pro, Bolsa PS5 de Viaje con Protección Total, Funda ps5 Almacenamiento de Gran Capacidad, PS Portal, Portátil, Tarjeta de Juego, Maletin PS 5 con Bolsa 3 Cable- Blanco",
+      "image": "https://m.media-amazon.com/images/I/81TTVxCA9qL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "32,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DKP1FZM5?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:18:12.685967+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0F3DFKKY8",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Tatybo Cascos Gaming Inalámbricos 7.1 para Ps5/Ps4/PC, Auriculares Bluetooth con Micrófono con Cancelación de Ruido, 2.4GHz USB-C, 40H+ Batería para Switch/Mac/Portátil",
+      "image": "https://m.media-amazon.com/images/I/71TOZtYqAVL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "32,99 €",
+      "original_price": "35,99 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F3DFKKY8?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018957+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0BKW3BYFR",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "AceGamer Controlador Inalámbrico Para Ps4, Controlador De Juego Compatible Con Ps4/Pro/Slim/Pc, Con Turbobotón/Botón Trasero/Doble Vibración/Sensor De Giroscopio De 6 Ejes/Panel Táctil",
+      "image": "https://m.media-amazon.com/images/I/71h+Ho0v55L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "23,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0BKW3BYFR?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018959+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B07W4X1F21",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Sony PlayStation DualShock 4 Controller - Glacier White (Renewed)",
+      "image": "https://m.media-amazon.com/images/I/51PkqE9Kb6L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "62,48 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B07W4X1F21?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:18:12.685972+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B09PX6GHJ7",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "HORI - Volante Apex (PS5/PS4/PC) - Licencia oficial",
+      "image": "https://m.media-amazon.com/images/I/51K7NjO5enL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "90,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B09PX6GHJ7?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018962+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B08DLWRZ8V",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "VENTION Cable Micro USB 2m Cable Mando ps4 Cable Cargador ebook Kindle Tejido de Nylon Cable Cargador Android Micro usb",
+      "image": "https://m.media-amazon.com/images/I/61manEUHmgS._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "7,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B08DLWRZ8V?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018964+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0DT1C2X3F",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Superer 3,0M Cable Micro USB Compatible con Sony Mando PS4",
+      "image": "https://m.media-amazon.com/images/I/518x+IZ08EL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "10,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DT1C2X3F?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018966+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0DBJ5PBLT",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Logitech G Astro A50 Lightspeed Auriculares inalámbricos de Gaming + Base",
+      "image": "https://m.media-amazon.com/images/I/71I-Vg61hZL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "227,00 €",
+      "original_price": "299,99 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DBJ5PBLT?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018968+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B01LBH9ILW",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Dualshock 4 Wireless Controller - Jet Black - PlayStation 4",
+      "image": "https://m.media-amazon.com/images/I/71d9U+F5lbL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "119,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B01LBH9ILW?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018969+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0FNCTWV6L",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Tatybo Cascos Gaming Inalámbricos 7.1 para Ps5/Ps4/PC, Auriculares Bluetooth con Micrófono con Cancelación de Ruido, 2.4GHz USB-C, 40H+ Batería para Switch/Mac/Portátil",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71iNSIWFgJL._AC_SX569_.jpg",
+      "price": "37,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FNCTWV6L?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018971+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0CG931L9Q",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "AceGamer Controlador Inalámbrico Para Ps4, Controlador De Juego Compatible Con Ps4/Pro/Slim/Pc, Con Turbobotón/Botón Trasero/Doble Vibración/Sensor De Giroscopio De 6 Ejes/Panel Táctil",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71h+Ho0v55L._AC_SX466_.jpg",
+      "price": "23,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CG931L9Q?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018972+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0FR8ZTJV6",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Tatybo Cascos Gaming Inalámbricos 7.1 para Ps5/Ps4/PC, Auriculares Bluetooth con Micrófono con Cancelación de Ruido, 2.4GHz USB-C, 40H+ Batería para Switch/Mac/Portátil",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71Er-qgqHfL._AC_SX569_.jpg",
+      "price": "37,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FR8ZTJV6?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018976+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0FR91TPJ3",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Tatybo Cascos Gaming Inalámbricos 7.1 para Ps5/Ps4/PC, Auriculares Bluetooth con Micrófono con Cancelación de Ruido, 2.4GHz USB-C, 40H+ Batería para Switch/Mac/Portátil",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71TeEJNaujL._AC_SX569_.jpg",
+      "price": "36,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FR91TPJ3?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018979+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0FJ23MY4G",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Logitech G Astro A20 X Lightspeed Auriculares inalámbricos para Gaming",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71CZn1Ys8wL._AC_SX569_.jpg",
+      "price": "154,83 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FJ23MY4G?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018981+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0CSFRYL7C",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Ozeino Cascos Gaming Inalámbricos para PC/Ps5/Ps4, Auriculares Gaming Inalámbricos de 2,4GHz Wireless+Bluetooth, Baja Latencia Calidad de Sonido sin Pérdidas, Duración 30Hr+ Blanco",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71MtuoeFemL._AC_SX569_.jpg",
+      "price": "36,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CSFRYL7C?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018983+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0FNCRX771",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Tatybo Cascos Gaming Inalámbricos 7.1 para Ps5/Ps4/PC, Auriculares Bluetooth con Micrófono con Cancelación de Ruido, 2.4GHz USB-C, 40H+ Batería para Switch/Mac/Portátil",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71hReODJxwL._AC_SX569_.jpg",
+      "price": "36,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FNCRX771?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018984+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0BJW7XKY2",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Playstation 5 DualSense Edge Controller - kabelloser PS5 Controller mit insgesamt 16 Tasten und austauschbaren Analog Sticks",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/614v99L42vL._AC_SX679_.jpg",
+      "price": "214,98 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0BJW7XKY2?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:18:12.685970+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0DM96HQPY",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Tatybo Cascos Gaming Inalámbricos 7.1 para Ps5/Ps4/PC, Auriculares Bluetooth con Micrófono con Cancelación de Ruido, 2.4GHz USB-C, 40H+ Batería para Switch/Mac/Portátil (Azul Cielo)",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61a14idpH8L._AC_SX569_.jpg",
+      "price": "33,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DM96HQPY?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018988+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0GLJNCWZD",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Thrustmaster EVO Racing 31U - Add-On de Volante Cuero PS5/XBOX/PC",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81uCS4K6ebL._AC_SX466_.jpg",
+      "price": "269,00 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GLJNCWZD?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018990+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0BKGKMLH2",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Playstation - Mando Inalámbrico DualSense Edge | Mando Original Sony para PS5 con Botones y Joysticks Ultracustomizables y Perfiles de Controles Personalizados. - Color Blanco",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51SimHCC1GL._AC_SX466_.jpg",
+      "price": "209,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0BKGKMLH2?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018992+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0FBMGPL61",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Thrustmaster T248R Force Feedback Volante y Pedalier - PS5 y PC",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81mZYGYgPeL._AC_SX466_.jpg",
+      "price": "269,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FBMGPL61?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018995+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B084WQXL2N",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "GXTrust Forze Cascos PS4 y PS5 Auriculares de Gaming, Gris",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71gfdGLmqiL._AC_SX569_.jpg",
+      "price": "28,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B084WQXL2N?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:18:12.685976+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0FLDXCWRL",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Logitech G Astro A50 X Lightspeed, Auriculares inalámbricos para Gaming + estación Base, Pro-G Graphene, PLAYSYNC en Xbox Series X|S + PS5 + PC/Mac, Bluetooth, Paso de HDMI 2.1 - Papaya Naranja",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/715LtINUZlL._AC_SX569_.jpg",
+      "price": "369,00 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FLDXCWRL?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.019002+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
     }
   ]
 }

@@ -1,18 +1,54 @@
 {
-  "updated_at": "2026-09-12T00:19:36.048799+00:00",
+  "updated_at": "2026-09-12T00:28:04.019527+00:00",
   "products": [
     {
-      "asin": "B0GP25C41K",
+      "asin": "B0CMXL75GH",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "PlayStation 5-MARVEL Tōkon: Fighting Souls - Edición Estándar",
-      "image": "https://m.media-amazon.com/images/I/81MXZWAtNpL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "53,90 €",
+      "name": "Unidad de disco para consolas PS5® Edición Digital (grupo de modelos slim)",
+      "image": "https://m.media-amazon.com/images/I/415S-Puzd8L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "79,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CMXL75GH?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018716+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Consola"
+      ],
+      "game": "PlayStation"
+    },
+    {
+      "asin": "B0CD2R5CD3",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Videojuego PlayStation 5 Ubisoft Assassin's Creed Mirage",
+      "image": "https://m.media-amazon.com/images/I/81tSC34DQFL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "18,97 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CD2R5CD3?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:18:12.685827+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation"
+    },
+    {
+      "asin": "B08B4HHNNM",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Playstation Sackboy: Una Aventura a lo Grande - PlayStation 5",
+      "image": "https://m.media-amazon.com/images/I/91YXtjRpLoL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "36,56 €",
       "original_price": "69,99 €",
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0GP25C41K?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:19:36.047885+00:00",
+      "link": "https://www.amazon.es/dp/B08B4HHNNM?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:18:12.685872+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -20,17 +56,17 @@
       "game": "PlayStation"
     },
     {
-      "asin": "B0DCPB9J7K",
+      "asin": "B09X5TX9CN",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Minecraft - PS5",
-      "image": "https://m.media-amazon.com/images/I/81eXDWE6nIL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "26,99 €",
-      "original_price": "29,99 €",
+      "name": "Grand Theft Auto V - PlayStation 5",
+      "image": "https://m.media-amazon.com/images/I/717n2jHZ7pL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "18,99 €",
+      "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0DCPB9J7K?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:19:36.047936+00:00",
+      "link": "https://www.amazon.es/dp/B09X5TX9CN?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018779+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -38,35 +74,17 @@
       "game": "PlayStation"
     },
     {
-      "asin": "B0GQHLFRMV",
+      "asin": "B0F6D5BS17",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Starfield™: Edición estándar – PlayStation 5© [Disco físico - Requiere descarga de contenido]",
-      "image": "https://m.media-amazon.com/images/I/716aEFT5YIL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "36,90 €",
-      "original_price": "49,99 €",
-      "status": "compra_directa",
-      "stock": "5",
-      "link": "https://www.amazon.es/dp/B0GQHLFRMV?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:19:36.047954+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B0G6ZHJ9X9",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "PlayStation 5-Saros- Edición Estándar",
-      "image": "https://m.media-amazon.com/images/I/51Da0Wa5L0L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "61,90 €",
+      "name": "PlayStation 5-Ghost of Yotei - Edición Estándar",
+      "image": "https://m.media-amazon.com/images/I/81xdKX5ydlL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "57,99 €",
       "original_price": "79,99 €",
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0G6ZHJ9X9?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:19:36.047970+00:00",
+      "link": "https://www.amazon.es/dp/B0F6D5BS17?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018791+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -74,53 +92,17 @@
       "game": "PlayStation"
     },
     {
-      "asin": "B0CGHPFJPQ",
+      "asin": "B0D98BDG3S",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "EA SPORTS UFC 5 Standard Edition PS5 | Videojuegos | Castellano",
-      "image": "https://m.media-amazon.com/images/I/71jzOMSYSfL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "17,99 €",
-      "original_price": "19,99 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0CGHPFJPQ?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:19:36.047983+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B0FKN5F96V",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Logitech G G29 SE Driving Force Wheel and Shifter para Playstation & PC",
-      "image": "https://m.media-amazon.com/images/I/71+2ayyCN7L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "331,66 €",
-      "original_price": "349,99 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FKN5F96V?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:19:36.047995+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B0FGDV57YV",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Jurassic World Evolution 3 (Playstation 5)",
-      "image": "https://m.media-amazon.com/images/I/61b9ATBK1vL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "49,99 €",
+      "name": "EA SPORTS FC 25 Standard Edition PS4 | Videojuegos | Castellano",
+      "image": "https://m.media-amazon.com/images/I/81yQn-UnPSL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "29,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0FGDV57YV?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:19:36.048008+00:00",
+      "link": "https://www.amazon.es/dp/B0D98BDG3S?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:18:12.685903+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -128,71 +110,89 @@
       "game": "PlayStation"
     },
     {
-      "asin": "B0H4HMPT95",
+      "asin": "B01M9COSMD",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Fable – PlayStation® 5 | Disco físico – Requiere descarga de contenido",
-      "image": "https://m.media-amazon.com/images/I/8193xU9IEgL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "59,90 €",
-      "original_price": "69,99 €",
-      "status": "preventa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0H4HMPT95?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:18:12.685957+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B0D63D729Q",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "PlayStation 5- AstroBot™",
-      "image": "https://m.media-amazon.com/images/I/71rClGS09QL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "54,99 €",
-      "original_price": "69,99 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0D63D729Q?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:19:36.048026+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B09GSPDV8K",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Playstation Gran Turismo 7 [PS4]",
-      "image": "https://m.media-amazon.com/images/I/81sGfyRD3eL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "36,50 €",
-      "original_price": "69,99 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B09GSPDV8K?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:19:36.048037+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B0G1NBTBC4",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Thrustmaster GT Wheel Add-On Aro con Licencia Gran Turismo - PS5 y PC",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71cChuUlZhL._AC_SX466_.jpg",
-      "price": "249,00 €",
+      "name": "Red Dead Redemption 2 (PS4)",
+      "image": "https://m.media-amazon.com/images/I/81GbRS6qEoL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "18,90 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0G1NBTBC4?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:19:36.048046+00:00",
+      "link": "https://www.amazon.es/dp/B01M9COSMD?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018808+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation"
+    },
+    {
+      "asin": "B084WLMKGT",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "GXTrust Forze Cascos Gaming con Licencia Oficial para PlayStation, Negro",
+      "image": "https://m.media-amazon.com/images/I/71imJ86VwDL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "24,99 €",
+      "original_price": "49,99 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B084WLMKGT?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:18:12.685912+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation"
+    },
+    {
+      "asin": "B09KTGP5C2",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Grand Theft Auto: The Trilogy – The Definitive Edition, PlayStation 4",
+      "image": "https://m.media-amazon.com/images/I/81sWtmFwp9L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "19,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B09KTGP5C2?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018821+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation"
+    },
+    {
+      "asin": "B07HNR4ZZD",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Sony PlayStation 4 Slim 500 Go, Avec 1 manette sans fil DUALSHOCK 4 V2, Châssis F, Noir (Jet Black) [Importación francesa]",
+      "image": "https://m.media-amazon.com/images/I/51x2uufH6SL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "494,08 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "2",
+      "link": "https://www.amazon.es/dp/B07HNR4ZZD?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018828+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation"
+    },
+    {
+      "asin": "B0CD2RBQ68",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Videojuego PlayStation 4 Ubisoft Assassin's Creed Mirage",
+      "image": "https://m.media-amazon.com/images/I/81tSe7S313L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "18,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CD2RBQ68?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:18:12.685939+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -210,7 +210,7 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0GRWCXP1F?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:19:36.048055+00:00",
+      "first_seen": "2026-09-12T00:28:04.018842+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -218,17 +218,323 @@
       "game": "PlayStation"
     },
     {
-      "asin": "B0BZJFZH8C",
+      "asin": "B0G6ZHJ9X9",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Sonic Origins Plus (PlayStation 5)",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81e8lc1Bq+L._AC_SX385_.jpg",
+      "name": "PlayStation 5-Saros- Edición Estándar",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51Da0Wa5L0L._AC_SX522_.jpg",
+      "price": "61,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0G6ZHJ9X9?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018849+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation"
+    },
+    {
+      "asin": "B0D98BGQRW",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "EA SPORTS FC 25 Standard Edition PS5 | Videojuegos | Castellano",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81iAfj6SgYL._AC_SX385_.jpg",
+      "price": "29,97 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0D98BGQRW?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:18:12.685931+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation"
+    },
+    {
+      "asin": "B084X9L2Q4",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "GXTrust Forze-B Cascos Gaming con Licencia Oficial para PlayStation, Azul",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71tqw5hvwPL._AC_SX569_.jpg",
       "price": "24,99 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "3",
-      "link": "https://www.amazon.es/dp/B0BZJFZH8C?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:19:36.048064+00:00",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B084X9L2Q4?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:18:12.685923+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation"
+    },
+    {
+      "asin": "B0H4HMPT95",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Fable – PlayStation® 5 | Disco físico – Requiere descarga de contenido",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/8193xU9IEgL._AC_SX385_.jpg",
+      "price": "59,90 €",
+      "original_price": null,
+      "status": "preventa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0H4HMPT95?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:18:12.685957+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation"
+    },
+    {
+      "asin": "B0CGHPFJPQ",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "EA SPORTS UFC 5 Standard Edition PS5 | Videojuegos | Castellano",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71jzOMSYSfL._AC_SX385_.jpg",
+      "price": "17,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CGHPFJPQ?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018864+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation"
+    },
+    {
+      "asin": "B0GNKRMWMS",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Metal Gear Solid: Master Collection Volume 2 – Day One Edition - PS5",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81-GGeMn-UL._AC_SX385_.jpg",
+      "price": "42,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GNKRMWMS?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018871+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation"
+    },
+    {
+      "asin": "B0FKN5F96V",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Logitech G G29 SE Driving Force Wheel and Shifter para Playstation & PC",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71+2ayyCN7L._AC_SX569_.jpg",
+      "price": "331,66 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FKN5F96V?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018877+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation"
+    },
+    {
+      "asin": "B0BQJQZQ54",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Videojuego PlayStation 5 Bandai Namco The Witcher 3: Wild Hunt Complete Edition",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81OzY7w8EaL._AC_SY445_.jpg",
+      "price": "37,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0BQJQZQ54?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018884+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation"
+    },
+    {
+      "asin": "B0DCPB9J7K",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Minecraft - PS5",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81eXDWE6nIL._AC_SX569_.jpg",
+      "price": "26,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DCPB9J7K?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018892+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation"
+    },
+    {
+      "asin": "B09KTPJQ7V",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Grand Theft Auto: The Trilogy – The Definitive Edition, PlayStation 4",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81sWtmFwp9L._AC_SX569_.jpg",
+      "price": "19,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B09KTPJQ7V?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018898+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation"
+    },
+    {
+      "asin": "B0GP25C41K",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "PlayStation 5-MARVEL Tōkon: Fighting Souls - Edición Estándar",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81MXZWAtNpL._AC_SX679_.jpg",
+      "price": "53,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GP25C41K?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018904+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation"
+    },
+    {
+      "asin": "B0BF4L2FDY",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Ubisoft Assassin's Creed Mirage [PlayStation 5] - Sin cortar",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81nrl3JMRtL._AC_SX385_.jpg",
+      "price": "24,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "5",
+      "link": "https://www.amazon.es/dp/B0BF4L2FDY?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018909+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation"
+    },
+    {
+      "asin": "B0GQHLFRMV",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Starfield™: Edición estándar – PlayStation 5© [Disco físico - Requiere descarga de contenido]",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/716aEFT5YIL._AC_SX466_.jpg",
+      "price": "36,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "5",
+      "link": "https://www.amazon.es/dp/B0GQHLFRMV?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018916+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation"
+    },
+    {
+      "asin": "B0FGDV57YV",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Jurassic World Evolution 3 (Playstation 5)",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61b9ATBK1vL._AC_SX569_.jpg",
+      "price": "49,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FGDV57YV?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018923+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation"
+    },
+    {
+      "asin": "B0CQD377LS",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Seagate 5TB Game Drive para PlayStation | USB 3.0 (STLV5000202)",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/41tWz2UuLaL._AC_SX569_.jpg",
+      "price": "195,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CQD377LS?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:18:12.685892+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation"
+    },
+    {
+      "asin": "B0D63D729Q",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "PlayStation 5- AstroBot™",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71rClGS09QL._AC_SX569_.jpg",
+      "price": "54,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0D63D729Q?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018932+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation"
+    },
+    {
+      "asin": "B0H4GT8TXL",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Halo: Campaign Evolved - Standard Edition – PlayStation®5 | Disco físico + descarga de contenido requerida",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81XJpSfHRtL._AC_SX466_.jpg",
+      "price": "50,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0H4GT8TXL?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018938+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation"
+    },
+    {
+      "asin": "B0G1NBTBC4",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Thrustmaster GT Wheel Add-On Aro con Licencia Gran Turismo - PS5 y PC",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71cChuUlZhL._AC_SX466_.jpg",
+      "price": "249,00 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0G1NBTBC4?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018945+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
