@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T18:25:09.103656+00:00",
+  "updated_at": "2026-09-12T18:26:21.310285+00:00",
   "products": [
     {
       "asin": "B0CLRRG72H",
@@ -1668,7 +1668,7 @@
       "image": "https://m.media-amazon.com/images/I/81NCw8ixKOL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
       "price": "119,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0G2XZXL63?tag=enkairito-21",
       "first_seen": "2026-09-11T19:25:04.811670+00:00",
@@ -1678,8 +1678,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-12T12:31:08.175757+00:00",
-      "checked_at": "2026-09-12T18:20:42.210915+00:00"
+      "last_seen": "2026-09-12T18:26:21.310285+00:00",
+      "checked_at": "2026-09-12T18:26:21.310285+00:00"
     },
     {
       "asin": "B0CJVQFZ1S",
@@ -1689,7 +1689,7 @@
       "image": "https://m.media-amazon.com/images/I/7120-u+4TTL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
       "price": "155,00 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0CJVQFZ1S?tag=enkairito-21",
       "first_seen": "2026-09-11T19:25:04.811674+00:00",
@@ -1699,8 +1699,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-12T12:31:08.175757+00:00",
-      "checked_at": "2026-09-12T18:20:42.210915+00:00"
+      "last_seen": "2026-09-12T18:26:21.310285+00:00",
+      "checked_at": "2026-09-12T18:26:21.310285+00:00"
     },
     {
       "asin": "B0GJZ8WJD9",
@@ -1731,7 +1731,7 @@
       "image": "https://m.media-amazon.com/images/I/514tCnffsSL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
       "price": "89,99 €",
       "original_price": "99,99 €",
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B075S7LG8X?tag=enkairito-21",
       "first_seen": "2026-09-11T19:25:04.811682+00:00",
@@ -1742,7 +1742,7 @@
       "source": "xbox",
       "_src": "accesorios.json",
       "last_seen": "2026-09-12T18:20:42.210915+00:00",
-      "checked_at": "2026-09-12T18:20:42.210915+00:00"
+      "checked_at": "2026-09-12T18:26:21.310285+00:00"
     },
     {
       "asin": "B09F2ZMTBN",
@@ -1773,7 +1773,7 @@
       "image": "https://m.media-amazon.com/images/I/71oeYI-TlQL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
       "price": "74,99 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0FHQ6P7TQ?tag=enkairito-21",
       "first_seen": "2026-09-11T19:25:04.811690+00:00",
@@ -1784,7 +1784,7 @@
       "source": "xbox",
       "_src": "accesorios.json",
       "last_seen": "2026-09-12T18:20:42.210915+00:00",
-      "checked_at": "2026-09-12T18:20:42.210915+00:00"
+      "checked_at": "2026-09-12T18:26:21.310285+00:00"
     },
     {
       "asin": "B0F1RB87RR",
@@ -2371,8 +2371,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-12T18:20:42.210915+00:00",
-      "checked_at": "2026-09-12T18:20:42.210915+00:00"
+      "last_seen": "2026-09-12T18:26:21.310285+00:00",
+      "checked_at": "2026-09-12T18:26:21.310285+00:00"
     },
     {
       "asin": "B0B9GJLV2D",
@@ -2413,8 +2413,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-12T18:20:42.210915+00:00",
-      "checked_at": "2026-09-12T18:20:42.210915+00:00"
+      "last_seen": "2026-09-12T18:26:21.310285+00:00",
+      "checked_at": "2026-09-12T18:26:21.310285+00:00"
     },
     {
       "asin": "B07SR4R8K1",
@@ -3372,15 +3372,15 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0DK1NY4LW?tag=enkairito-21",
-      "first_seen": "2026-09-12T12:27:13.469392+00:00",
+      "first_seen": "2026-09-12T12:31:08.174525+00:00",
       "marketplace": "ES",
       "categories": [
-        "PlayStation"
+        "Xbox"
       ],
-      "source": "playstation",
+      "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-12T18:25:09.103656+00:00",
-      "checked_at": "2026-09-12T18:25:09.103656+00:00"
+      "last_seen": "2026-09-12T18:26:21.310285+00:00",
+      "checked_at": "2026-09-12T18:26:21.310285+00:00"
     },
     {
       "asin": "B07L7W4SRT",
@@ -3663,7 +3663,7 @@
       "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61wDnEEGSPL._AC_SX679_.jpg",
       "price": "8,39 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B085DNDLC1?tag=enkairito-21",
       "first_seen": "2026-09-12T06:28:31.691547+00:00",
@@ -3674,7 +3674,7 @@
       "source": "xbox",
       "_src": "accesorios.json",
       "last_seen": "2026-09-12T18:20:42.210915+00:00",
-      "checked_at": "2026-09-12T18:20:42.210915+00:00"
+      "checked_at": "2026-09-12T18:26:21.310285+00:00"
     },
     {
       "asin": "B0DDTPX5DY",
@@ -3957,8 +3957,8 @@
       "image": "https://m.media-amazon.com/images/I/51RGmUn2YUL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
       "price": "639,91 €",
       "original_price": null,
-      "status": "compra_directa",
-      "stock": "1",
+      "status": "sin_confirmar",
+      "stock": null,
       "link": "https://www.amazon.es/dp/B07HYNJ3SY?tag=enkairito-21",
       "first_seen": "2026-09-12T18:20:42.209712+00:00",
       "marketplace": "ES",
@@ -3968,7 +3968,7 @@
       "source": "xbox",
       "_src": "accesorios.json",
       "last_seen": "2026-09-12T18:20:42.210915+00:00",
-      "checked_at": "2026-09-12T18:20:42.210915+00:00"
+      "checked_at": "2026-09-12T18:26:21.310285+00:00"
     },
     {
       "asin": "B0H28Q22N1",
@@ -3981,15 +3981,15 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0H28Q22N1?tag=enkairito-21",
-      "first_seen": "2026-09-12T18:20:42.209727+00:00",
+      "first_seen": "2026-09-12T18:26:21.308895+00:00",
       "marketplace": "ES",
       "categories": [
         "Xbox"
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-12T18:20:42.210915+00:00",
-      "checked_at": "2026-09-12T18:20:42.210915+00:00"
+      "last_seen": "2026-09-12T18:26:21.310285+00:00",
+      "checked_at": "2026-09-12T18:26:21.310285+00:00"
     },
     {
       "asin": "B0F3JT1NT8",
