@@ -1,74 +1,5 @@
 [
   {
-    "asin": "B0FK2BN732",
-    "store_label": "Amazon UK",
-    "flag": "🇬🇧",
-    "name": "Pokémon Pikachu V-Union Box Edición China Limitada Coleccionista TCG",
-    "image": "https://m.media-amazon.com/images/I/51ZZ9UimtAL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "89,25 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": "1",
-    "link": "https://www.amazon.es/dp/B0FK2BN732?tag=enkairito-21",
-    "first_seen": "2026-09-08T14:34:56.335801+00:00",
-    "marketplace": "UK",
-    "categories": [
-      "Otros"
-    ],
-    "game": "Pokémon",
-    "ts": "2026-09-12T05:19:49.888155+00:00",
-    "type": "restock",
-    "prev_price": "89,25 €",
-    "_src": "products.json",
-    "id": "UK-B0FK2BN732:2026-09-12T05:19:49.888155+00:00:restock"
-  },
-  {
-    "asin": "B0G5FWJ8NL",
-    "store_label": "Amazon USA",
-    "flag": "🇺🇸",
-    "name": "Pokémon TCG: Mega Charizard Tin",
-    "image": "https://m.media-amazon.com/images/I/81fmjlAy2qL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "77,95 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0G5FWJ8NL?tag=enkairito-21",
-    "first_seen": "2026-09-04T21:32:58.802936+00:00",
-    "marketplace": "US",
-    "categories": [
-      "Otros"
-    ],
-    "game": "Pokémon",
-    "ts": "2026-09-12T05:19:49.888155+00:00",
-    "type": "restock",
-    "prev_price": "77,95 €",
-    "_src": "products.json",
-    "id": "US-B0G5FWJ8NL:2026-09-12T05:19:49.888155+00:00:restock"
-  },
-  {
-    "asin": "B08DVCNV3W",
-    "store_label": "Amazon USA",
-    "flag": "🇺🇸",
-    "name": "Pokemon Sword and Shield Darkness Ablaze Booster Pack (1 Booster Pack)",
-    "image": "https://m.media-amazon.com/images/I/61+bgCiyXlL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "34,78 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": "5",
-    "link": "https://www.amazon.es/dp/B08DVCNV3W?tag=enkairito-21",
-    "first_seen": "2026-09-08T14:34:56.335940+00:00",
-    "marketplace": "US",
-    "categories": [
-      "Otros"
-    ],
-    "game": "Pokémon",
-    "ts": "2026-09-12T05:19:49.888155+00:00",
-    "type": "price_drop",
-    "prev_price": "34,85 €",
-    "_src": "products.json",
-    "id": "US-B08DVCNV3W:2026-09-12T05:19:49.888155+00:00:price_drop"
-  },
-  {
     "asin": "B0G72SPRP6",
     "store_label": "Amazon USA",
     "flag": "🇺🇸",
@@ -4598,5 +4529,74 @@
     "prev_price": "50,12 €",
     "_src": "products.json",
     "id": "US-B0F6PGX3SQ:2026-09-12T20:19:56.867624+00:00:restock"
+  },
+  {
+    "asin": "B0DMDPGWWY",
+    "store_label": "Amazon UK",
+    "flag": "🇬🇧",
+    "name": "Pokemon TCG: Battle Deck Tapu Koko ex",
+    "image": "https://m.media-amazon.com/images/I/71YHO0uhYcL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "35,07 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": "2",
+    "link": "https://www.amazon.es/dp/B0DMDPGWWY?tag=enkairito-21",
+    "first_seen": "2026-09-05T18:46:43.703251+00:00",
+    "marketplace": "UK",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-12T20:22:49.296882+00:00",
+    "type": "restock",
+    "prev_price": "35,07 €",
+    "_src": "products.json",
+    "id": "UK-B0DMDPGWWY:2026-09-12T20:22:49.296882+00:00:restock"
+  },
+  {
+    "asin": "B0FNLMQ5RN",
+    "store_label": "Amazon UK",
+    "flag": "🇬🇧",
+    "name": "Pokémon TCG: Scarlet & Violet Expansion – Glory of Team Rocket (SV10) Booster Pack – JPN",
+    "image": "https://m.media-amazon.com/images/I/61qIUzADSlL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "26,93 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0FNLMQ5RN?tag=enkairito-21",
+    "first_seen": "2026-09-08T14:34:56.335840+00:00",
+    "marketplace": "UK",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-12T20:22:49.296882+00:00",
+    "type": "restock",
+    "prev_price": "26,93 €",
+    "_src": "products.json",
+    "id": "UK-B0FNLMQ5RN:2026-09-12T20:22:49.296882+00:00:restock"
+  },
+  {
+    "asin": "B0FNLMQ5RN",
+    "store_label": "Amazon USA",
+    "flag": "🇺🇸",
+    "name": "Pokémon TCG: Scarlet & Violet Expansion – Glory of Team Rocket (SV10) Booster Pack – JPN",
+    "image": "https://m.media-amazon.com/images/I/61qIUzADSlL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "29,31 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": "1",
+    "link": "https://www.amazon.es/dp/B0FNLMQ5RN?tag=enkairito-21",
+    "first_seen": "2026-09-08T14:34:56.335896+00:00",
+    "marketplace": "US",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-12T20:22:49.296882+00:00",
+    "type": "restock",
+    "prev_price": "29,31 €",
+    "_src": "products.json",
+    "id": "US-B0FNLMQ5RN:2026-09-12T20:22:49.296882+00:00:restock"
   }
 ]
