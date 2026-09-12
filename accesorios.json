@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-12T18:25:00.269512+00:00",
+  "updated_at": "2026-09-12T18:25:09.103656+00:00",
   "source_updates": {
     "accessories": "2026-09-12T06:04:57.503869+00:00",
     "onepiece": "2026-09-12T18:07:34.383328+00:00",
     "magic": "2026-09-12T18:18:22.491423+00:00",
     "lorcana": "2026-09-12T18:17:51.967948+00:00",
     "yugioh": "2026-09-12T18:17:30.365599+00:00",
-    "playstation": "2026-09-12T18:20:05.506488+00:00",
+    "playstation": "2026-09-12T18:25:09.103656+00:00",
     "nintendo": "2026-09-12T18:25:00.269512+00:00",
     "xbox": "2026-09-12T18:20:42.210915+00:00"
   },
@@ -580,12 +580,12 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0DK1NY4LW?tag=enkairito-21",
-      "first_seen": "2026-09-12T18:25:00.266921+00:00",
+      "first_seen": "2026-09-12T12:27:13.469392+00:00",
       "marketplace": "ES",
       "categories": [
-        "Nintendo"
+        "PlayStation"
       ],
-      "source": "nintendo"
+      "source": "playstation"
     },
     {
       "asin": "B0FD41XC3P",
@@ -660,24 +660,6 @@
       "source": "lorcana"
     },
     {
-      "asin": "B08DLWRZ8V",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "VENTION Cable Micro USB 2m Cable Mando ps4 Cable Cargador ebook Kindle Tejido de Nylon Cable Cargador Android Micro usb",
-      "image": "https://m.media-amazon.com/images/I/61manEUHmgS._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "7,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B08DLWRZ8V?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:04.018964+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
       "asin": "B017BRXU1A",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -694,24 +676,6 @@
         "Nintendo"
       ],
       "source": "nintendo"
-    },
-    {
-      "asin": "B084WQXL2N",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "GXTrust Forze Cascos PS4 y PS5 Auriculares de Gaming, Gris",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71gfdGLmqiL._AC_SX569_.jpg",
-      "price": "28,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "1",
-      "link": "https://www.amazon.es/dp/B084WQXL2N?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:18:12.685976+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
     },
     {
       "asin": "B0FB3T6JYJ",
@@ -1246,12 +1210,12 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0F49RD95B?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.912144+00:00",
+      "first_seen": "2026-09-12T18:25:09.102658+00:00",
       "marketplace": "ES",
       "categories": [
-        "Nintendo"
+        "PlayStation"
       ],
-      "source": "nintendo"
+      "source": "playstation"
     },
     {
       "asin": "B0F8BKBG3K",
@@ -1360,6 +1324,222 @@
         "Nintendo"
       ],
       "source": "nintendo"
+    },
+    {
+      "asin": "B0BJW7XKY2",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Playstation 5 DualSense Edge Controller - kabelloser PS5 Controller mit insgesamt 16 Tasten und austauschbaren Analog Sticks",
+      "image": "https://m.media-amazon.com/images/I/614v99L42vL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "214,98 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0BJW7XKY2?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:18:12.685970+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0HFNW25H5",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Stage Tour Game + Kramer Wireless Guitar Controller Bundle para PlayStation 5",
+      "image": "https://m.media-amazon.com/images/I/61llA43svZL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "134,99 €",
+      "original_price": null,
+      "status": "preventa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0HFNW25H5?tag=enkairito-21",
+      "first_seen": "2026-09-12T18:25:09.102649+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0FH7FZQ36",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "PlayStation 5 - Auriculares inalámbricos PULSE Elite White con estuche",
+      "image": "https://m.media-amazon.com/images/I/71bUCIZHN-L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "145,00 €",
+      "original_price": "149,99 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FH7FZQ36?tag=enkairito-21",
+      "first_seen": "2026-09-12T18:25:09.102651+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0F9YCF9WD",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Mcbazel Base de Carga y Refrigeración para PS5/PS5 Pro, Estación de Carga y Refrigeración con 3 Velocidades y Luz LED para PlayStation 5 & PlayStation 5 Pro Digitales y de Discos - Blanco",
+      "image": "https://m.media-amazon.com/images/I/61yq4lYHaEL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "22,79 €",
+      "original_price": "23,99 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F9YCF9WD?tag=enkairito-21",
+      "first_seen": "2026-09-12T18:25:09.102652+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B08DLWRZ8V",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "VENTION Cable Micro USB 2m Cable Mando ps4 Cable Cargador ebook Kindle Tejido de Nylon Cable Cargador Android Micro usb",
+      "image": "https://m.media-amazon.com/images/I/61manEUHmgS._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "7,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B08DLWRZ8V?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018964+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B07W4X1F21",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Sony PlayStation DualShock 4 Controller - Glacier White (Renewed)",
+      "image": "https://m.media-amazon.com/images/I/51PkqE9Kb6L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "62,48 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B07W4X1F21?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:18:12.685972+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B01LBH9ILW",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Dualshock 4 Wireless Controller - Jet Black - PlayStation 4",
+      "image": "https://m.media-amazon.com/images/I/71d9U+F5lbL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "119,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B01LBH9ILW?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018969+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B07D28WVGG",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Sony - Wireless Controller V2 Dualshock 4, Color Jet Black [Middle East] (PS4)",
+      "image": "https://m.media-amazon.com/images/I/61RTcBJWQVL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "116,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B07D28WVGG?tag=enkairito-21",
+      "first_seen": "2026-09-12T12:27:13.469390+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0DT1C2X3F",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Superer 3,0M Cable Micro USB Compatible con Sony Mando PS4",
+      "image": "https://m.media-amazon.com/images/I/518x+IZ08EL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "10,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DT1C2X3F?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018966+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0C813CQ2Y",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Soporte Auriculares Gaming y Soporte Mando PS5, PS4, Xbox... One More Life : Regalo Gamer │ Sujección Universal de Resina y Base Antideslizante : Accesorios escritorio para Decoracion Set UP",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61aOSFQG5bL._AC_SX569_.jpg",
+      "price": "34,95 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0C813CQ2Y?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:18:12.685978+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B084WQXL2N",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "GXTrust Forze Cascos PS4 y PS5 Auriculares de Gaming, Gris",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71gfdGLmqiL._AC_SX569_.jpg",
+      "price": "28,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "1",
+      "link": "https://www.amazon.es/dp/B084WQXL2N?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:18:12.685976+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B07WHZ4PM7",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Sony Rose Gold DualShock 4 Wireless Controller (PS4) (Exclusive to Amazon.co.uk) [Importación inglesa]",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/710DQEwx5bL._AC_SX679_.jpg",
+      "price": "307,76 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B07WHZ4PM7?tag=enkairito-21",
+      "first_seen": "2026-09-12T18:25:09.102663+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
     }
   ]
 }
