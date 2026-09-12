@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T18:22:33.809307+00:00",
+  "updated_at": "2026-09-12T19:20:03.755650+00:00",
   "products": [
     {
       "asin": "B0H8SZ9F99",
@@ -373,6 +373,24 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B0GSSJ9RB1?tag=enkairito-21",
       "first_seen": "2026-08-25T20:27:53.163283+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Sobres"
+      ],
+      "game": "Pokémon"
+    },
+    {
+      "asin": "B0FXTY9D99",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Pokémon: Blíster de 3 Sobres de Mejora de Megaevolución-Caos Creciente (1 Carta holográfica de promoción y 3 Sobres de Mejora)",
+      "image": "https://m.media-amazon.com/images/I/91W3mb5XG7L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "25,00 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "1",
+      "link": "https://www.amazon.es/dp/B0FXTY9D99?tag=enkairito-21",
+      "first_seen": "2026-08-25T20:27:15.542164+00:00",
       "marketplace": "ES",
       "categories": [
         "Sobres"
@@ -1119,38 +1137,74 @@
       "game": "Pokémon"
     },
     {
-      "asin": "B0BZJWNBRZ",
-      "store_label": "Amazon UK",
-      "flag": "🇬🇧",
-      "name": "Pokemon Ampharos ex/Lucario ex Battle Deck",
-      "image": "https://m.media-amazon.com/images/I/81GugWJXftL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "47,52 €",
+      "asin": "B0D92YXKBH",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokemon TCG: Scarlet & Violet—151 Mini Tin – Electabuzz and Magnemite (2 Booster Packs, 1 Coin & 1 Art Card)",
+      "image": "https://m.media-amazon.com/images/I/61L2TafIcOL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "89,75 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "1",
-      "link": "https://www.amazon.es/dp/B0BZJWNBRZ?tag=enkairito-21",
-      "first_seen": "2026-09-08T14:34:56.335866+00:00",
-      "marketplace": "UK",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0D92YXKBH?tag=enkairito-21",
+      "first_seen": "2026-09-04T21:32:58.802947+00:00",
+      "marketplace": "US",
       "categories": [
         "Otros"
       ],
       "game": "Pokémon"
     },
     {
-      "asin": "B0D4B515H1",
+      "asin": "B0CQD9VBWS",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
-      "name": "Pokémon TCG: Escarlata y Violeta - Mini Lata de fábula Envuelta - Okidogi (2 Paquetes de Refuerzo y 1 Hoja de calcomanías)",
-      "image": "https://m.media-amazon.com/images/I/71bnvFQsfFL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "54,87 €",
+      "name": "Pokemon Scarlet & Violet 151 | Booster Pack",
+      "image": "https://m.media-amazon.com/images/I/71OpkVSvZ1L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "65,01 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CQD9VBWS?tag=enkairito-21",
+      "first_seen": "2026-09-04T21:32:58.802915+00:00",
+      "marketplace": "US",
+      "categories": [
+        "Otros"
+      ],
+      "game": "Pokémon"
+    },
+    {
+      "asin": "B0CJB9D88Q",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokemon TCG: Colección Knock Out (Shaymin, Zeraora y Marshadow)",
+      "image": "https://m.media-amazon.com/images/I/51hGJzozSFL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "63,77 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": "2",
-      "link": "https://www.amazon.es/dp/B0D4B515H1?tag=enkairito-21",
-      "first_seen": "2026-09-08T14:34:56.335952+00:00",
+      "link": "https://www.amazon.es/dp/B0CJB9D88Q?tag=enkairito-21",
+      "first_seen": "2026-09-08T14:34:56.335957+00:00",
       "marketplace": "US",
       "categories": [
-        "Latas"
+        "Otros"
+      ],
+      "game": "Pokémon"
+    },
+    {
+      "asin": "B0F67M1VGX",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokemon TCG: Scarlet & Violet Azure Legends Tin - Dialga ex (5 Packs)",
+      "image": "https://m.media-amazon.com/images/I/61cS+ncUpWL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "76,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F67M1VGX?tag=enkairito-21",
+      "first_seen": "2026-09-07T19:01:37.274384+00:00",
+      "marketplace": "US",
+      "categories": [
+        "Otros"
       ],
       "game": "Pokémon"
     },
@@ -1173,53 +1227,17 @@
       "game": "Pokémon"
     },
     {
-      "asin": "B0DGY4Z6V3",
+      "asin": "B0F67LMLFY",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
-      "name": "Pokemon TCG: Paradox Destinies Tin - Raging Bolt EX",
-      "image": "https://m.media-amazon.com/images/I/81VZxx1AlNL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "73,77 €",
+      "name": "Pokemon TCG: Scarlet & Violet Azure Legends Tin - Xerneas ex (5 Packs)",
+      "image": "https://m.media-amazon.com/images/I/61i+ey4w2IL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "90,69 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0DGY4Z6V3?tag=enkairito-21",
-      "first_seen": "2026-09-12T09:23:08.319159+00:00",
-      "marketplace": "US",
-      "categories": [
-        "Otros"
-      ],
-      "game": "Pokémon"
-    },
-    {
-      "asin": "B0F2BDKJ9Q",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Scarlet & Violet - Destined Rivals - Paquete de 3 blíster - Kangaskhan (3 Paquetes de Refuerzo y 1 Tarjeta Promocional de Aluminio)",
-      "image": "https://m.media-amazon.com/images/I/81WFivcdnML._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "69,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F2BDKJ9Q?tag=enkairito-21",
-      "first_seen": "2026-09-05T20:58:26.290849+00:00",
-      "marketplace": "US",
-      "categories": [
-        "Otros"
-      ],
-      "game": "Pokémon"
-    },
-    {
-      "asin": "B0D92YXKBH",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokemon TCG: Scarlet & Violet—151 Mini Tin – Electabuzz and Magnemite (2 Booster Packs, 1 Coin & 1 Art Card)",
-      "image": "https://m.media-amazon.com/images/I/61L2TafIcOL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "89,75 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0D92YXKBH?tag=enkairito-21",
-      "first_seen": "2026-09-04T21:32:58.802947+00:00",
+      "link": "https://www.amazon.es/dp/B0F67LMLFY?tag=enkairito-21",
+      "first_seen": "2026-09-08T14:34:56.335933+00:00",
       "marketplace": "US",
       "categories": [
         "Otros"
@@ -1263,17 +1281,17 @@
       "game": "Pokémon"
     },
     {
-      "asin": "B0F67M1VGX",
+      "asin": "B0BPJZXH8W",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
-      "name": "Pokemon TCG: Scarlet & Violet Azure Legends Tin - Dialga ex (5 Packs)",
-      "image": "https://m.media-amazon.com/images/I/61cS+ncUpWL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "76,90 €",
+      "name": "Pokemon TCG: disparador de paradigma de espada y escudo, paquete promocional (Lugia Get Challenge 2022)",
+      "image": "https://m.media-amazon.com/images/I/41hpHl5dlgL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "36,07 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0F67M1VGX?tag=enkairito-21",
-      "first_seen": "2026-09-07T19:01:37.274384+00:00",
+      "link": "https://www.amazon.es/dp/B0BPJZXH8W?tag=enkairito-21",
+      "first_seen": "2026-09-08T14:34:56.335970+00:00",
       "marketplace": "US",
       "categories": [
         "Otros"
@@ -1299,42 +1317,6 @@
       "game": "Pokémon"
     },
     {
-      "asin": "B08DVCNV3W",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokemon Sword and Shield Darkness Ablaze Booster Pack (1 Booster Pack)",
-      "image": "https://m.media-amazon.com/images/I/61+bgCiyXlL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "34,23 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "5",
-      "link": "https://www.amazon.es/dp/B08DVCNV3W?tag=enkairito-21",
-      "first_seen": "2026-09-08T14:34:56.335940+00:00",
-      "marketplace": "US",
-      "categories": [
-        "Otros"
-      ],
-      "game": "Pokémon"
-    },
-    {
-      "asin": "B0BPJZXH8W",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokemon TCG: disparador de paradigma de espada y escudo, paquete promocional (Lugia Get Challenge 2022)",
-      "image": "https://m.media-amazon.com/images/I/41hpHl5dlgL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "36,07 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0BPJZXH8W?tag=enkairito-21",
-      "first_seen": "2026-09-08T14:34:56.335970+00:00",
-      "marketplace": "US",
-      "categories": [
-        "Otros"
-      ],
-      "game": "Pokémon"
-    },
-    {
       "asin": "B0FHL5PKRR",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
@@ -1346,24 +1328,6 @@
       "stock": "1",
       "link": "https://www.amazon.es/dp/B0FHL5PKRR?tag=enkairito-21",
       "first_seen": "2026-09-08T14:34:56.335923+00:00",
-      "marketplace": "US",
-      "categories": [
-        "Otros"
-      ],
-      "game": "Pokémon"
-    },
-    {
-      "asin": "B0F67LMLFY",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokemon TCG: Scarlet & Violet Azure Legends Tin - Xerneas ex (5 Packs)",
-      "image": "https://m.media-amazon.com/images/I/61i+ey4w2IL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "90,69 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F67LMLFY?tag=enkairito-21",
-      "first_seen": "2026-09-08T14:34:56.335933+00:00",
       "marketplace": "US",
       "categories": [
         "Otros"
@@ -1389,17 +1353,17 @@
       "game": "Pokémon"
     },
     {
-      "asin": "B0FNLMQ5RN",
+      "asin": "B08DVCNV3W",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
-      "name": "Pokémon TCG: Scarlet & Violet Expansion – Glory of Team Rocket (SV10) Booster Pack – JPN",
-      "image": "https://m.media-amazon.com/images/I/61qIUzADSlL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "29,31 €",
+      "name": "Pokemon Sword and Shield Darkness Ablaze Booster Pack (1 Booster Pack)",
+      "image": "https://m.media-amazon.com/images/I/61+bgCiyXlL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "34,23 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "1",
-      "link": "https://www.amazon.es/dp/B0FNLMQ5RN?tag=enkairito-21",
-      "first_seen": "2026-09-08T14:34:56.335896+00:00",
+      "stock": "5",
+      "link": "https://www.amazon.es/dp/B08DVCNV3W?tag=enkairito-21",
+      "first_seen": "2026-09-08T14:34:56.335940+00:00",
       "marketplace": "US",
       "categories": [
         "Otros"
@@ -1418,6 +1382,24 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B0DX79MM56?tag=enkairito-21",
       "first_seen": "2026-09-08T14:34:56.335902+00:00",
+      "marketplace": "US",
+      "categories": [
+        "Otros"
+      ],
+      "game": "Pokémon"
+    },
+    {
+      "asin": "B0FNLMQ5RN",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Scarlet & Violet Expansion – Glory of Team Rocket (SV10) Booster Pack – JPN",
+      "image": "https://m.media-amazon.com/images/I/61qIUzADSlL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "29,31 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "1",
+      "link": "https://www.amazon.es/dp/B0FNLMQ5RN?tag=enkairito-21",
+      "first_seen": "2026-09-08T14:34:56.335896+00:00",
       "marketplace": "US",
       "categories": [
         "Otros"
