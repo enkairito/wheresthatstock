@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-09-12T06:20:56.352342+00:00",
+  "updated_at": "2026-09-12T06:29:23.883140+00:00",
   "products": [
     {
-      "asin": "B0F7L7V7W3",
+      "asin": "B0F3P4FB73",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Star Wars Outlaws Gold Edition (Switch 2)",
-      "image": "https://m.media-amazon.com/images/I/81QLi6ddvgL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "33,99 €",
-      "original_price": "59,99 €",
+      "name": "Samsung Micro SD Express Card for Nintendo Switch 2",
+      "image": "https://m.media-amazon.com/images/I/71f+SDA0xwL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "51,99 €",
+      "original_price": "59,95 €",
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0F7L7V7W3?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:58.478175+00:00",
+      "link": "https://www.amazon.es/dp/B0F3P4FB73?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:58.478133+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -38,60 +38,6 @@
       "game": "Nintendo"
     },
     {
-      "asin": "B0FJM752T3",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Nintendo Switch 2 con Pokémon Legends Z-A",
-      "image": "https://m.media-amazon.com/images/I/5167Yp9RHNL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "599,90 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FJM752T3?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:58.478216+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Nintendo"
-    },
-    {
-      "asin": "B0FK8TQP47",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Nintendo Switch 2 + Pokemon Legends: Z-A bundle",
-      "image": "https://m.media-amazon.com/images/I/61WX411CfKL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "619,90 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FK8TQP47?tag=enkairito-21",
-      "first_seen": "2026-09-12T06:20:56.351345+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Nintendo"
-    },
-    {
-      "asin": "B0F3P4FB73",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Samsung Micro SD Express Card for Nintendo Switch 2",
-      "image": "https://m.media-amazon.com/images/I/71f+SDA0xwL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "51,99 €",
-      "original_price": "59,95 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F3P4FB73?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:58.478133+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Nintendo"
-    },
-    {
       "asin": "B0FQWBD5MT",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -103,24 +49,6 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B0FQWBD5MT?tag=enkairito-21",
       "first_seen": "2026-09-12T00:28:58.478184+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Nintendo"
-    },
-    {
-      "asin": "B0F2N8LBQN",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Zelda Breath of the Wild - Nintendo Switch 2 Edition",
-      "image": "https://m.media-amazon.com/images/I/81LChsqrJ6L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "68,90 €",
-      "original_price": "79,99 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F2N8LBQN?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.911922+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -146,17 +74,35 @@
       "game": "Nintendo"
     },
     {
-      "asin": "B0DS1S2Z7L",
+      "asin": "B0F7L7V7W3",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "ivoler 4 Piezas Protector Pantalla para Nintendo Switch 2 Model 2025, instalación en 30 segundos Incluye Marco de Instalación Fácil, Cristal Vidrio Templado Premium",
-      "image": "https://m.media-amazon.com/images/I/71cEA2Ucd1L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "9,95 €",
-      "original_price": null,
+      "name": "Star Wars Outlaws Gold Edition (Switch 2)",
+      "image": "https://m.media-amazon.com/images/I/81QLi6ddvgL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "33,99 €",
+      "original_price": "59,99 €",
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0DS1S2Z7L?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:58.478284+00:00",
+      "link": "https://www.amazon.es/dp/B0F7L7V7W3?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:58.478175+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Nintendo"
+    },
+    {
+      "asin": "B0FXHDBB1R",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Assassin's Creed Shadows (Switch 2)",
+      "image": "https://m.media-amazon.com/images/I/71Dzk+xwnVL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "34,90 €",
+      "original_price": "59,99 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FXHDBB1R?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:58.478229+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -182,24 +128,6 @@
       "game": "Nintendo"
     },
     {
-      "asin": "B0977RRHJG",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Videojuego para Switch Ubisoft Mario+Rabbids Sparks of Hope",
-      "image": "https://m.media-amazon.com/images/I/81zgWwSnVfL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "29,68 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0977RRHJG?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:58.478293+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Nintendo"
-    },
-    {
       "asin": "B0D98BJ7SH",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -211,6 +139,60 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B0D98BJ7SH?tag=enkairito-21",
       "first_seen": "2026-09-12T00:28:58.478247+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Nintendo"
+    },
+    {
+      "asin": "B01N1081RO",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Nintendo Mario Kart 8 Deluxe Nintendo Switch",
+      "image": "https://m.media-amazon.com/images/I/91vd7WQ1acL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "58,28 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B01N1081RO?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:58.478258+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Nintendo"
+    },
+    {
+      "asin": "B0DS1S2Z7L",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "ivoler 4 Piezas Protector Pantalla para Nintendo Switch 2 Model 2025, instalación en 30 segundos Incluye Marco de Instalación Fácil, Cristal Vidrio Templado Premium",
+      "image": "https://m.media-amazon.com/images/I/71cEA2Ucd1L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "9,95 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DS1S2Z7L?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:58.478284+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Nintendo"
+    },
+    {
+      "asin": "B0BV27FTTF",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "RCM Jig para Nintendo Switch, Herramientas de Cortocircuito de Herramienta RCM utilizadas para Cambiar el Juego de Archivo GBA/FBA",
+      "image": "https://m.media-amazon.com/images/I/514tGgFGuYL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "6,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0BV27FTTF?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:58.478238+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -236,17 +218,17 @@
       "game": "Nintendo"
     },
     {
-      "asin": "B0F2JC9HMR",
+      "asin": "B08WR7WH4R",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Nintendo Kirby and the Forgotten Land Switch 2 Edition",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81d2TT-G0bL._AC_SY741_.jpg",
-      "price": "69,99 €",
+      "name": "NEW'C 2 Piezas, Protector Pantalla para Nintendo Switch, Cristal templado Antiarañazos, Antihuellas, Sin Burbujas, Dureza 9H, 0.33 mm Ultra Transparente, Ultra Resistente",
+      "image": "https://m.media-amazon.com/images/I/61N9BpqzITL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "5,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0F2JC9HMR?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:58.478344+00:00",
+      "link": "https://www.amazon.es/dp/B08WR7WH4R?tag=enkairito-21",
+      "first_seen": "2026-09-12T06:29:23.882070+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -254,17 +236,89 @@
       "game": "Nintendo"
     },
     {
-      "asin": "B0F6NVSY7V",
+      "asin": "B0DFD3S5LM",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "smartect Cristal Templado 2 Piezas para Nintendo Switch 2",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71PP-yHVTfL._AC_SX679_.jpg",
-      "price": "12,99 €",
+      "name": "MySims: Colección Sofá y Mantita Switch / Switch 2 | Videojuegos | Castellano",
+      "image": "https://m.media-amazon.com/images/I/71c8OaXidfL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "39,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0F6NVSY7V?tag=enkairito-21",
-      "first_seen": "2026-09-12T06:20:56.351435+00:00",
+      "link": "https://www.amazon.es/dp/B0DFD3S5LM?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:58.478301+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Nintendo"
+    },
+    {
+      "asin": "B0FR451FFZ",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Nintendo Super Mario Galaxy + Super Mario Galaxy 2",
+      "image": "https://m.media-amazon.com/images/I/71rfpfHdi7L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "71,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FR451FFZ?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:58.478323+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Nintendo"
+    },
+    {
+      "asin": "B0DN6G6FJP",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "POPPY PLAYTIME TRIPLE PACK - NINTENDO SWITCH",
+      "image": "https://m.media-amazon.com/images/I/71R010yUWaL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "36,02 €",
+      "original_price": "39,99 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DN6G6FJP?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:58.478316+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Nintendo"
+    },
+    {
+      "asin": "B071H4KD7W",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Nintendo Switch Consola Rojo Neón/Azul neón 32 GB + Mario Kart 8 Deluxe",
+      "image": "https://m.media-amazon.com/images/I/71KrfLpEMML._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "376,65 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B071H4KD7W?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:20:15.912014+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Consola"
+      ],
+      "game": "Nintendo"
+    },
+    {
+      "asin": "B0HGMBCRQ1",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Dispatch Deluxe Edition - Switch 2",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/712P+wpewSL._AC_SY445_.jpg",
+      "price": "49,99 €",
+      "original_price": null,
+      "status": "preventa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0HGMBCRQ1?tag=enkairito-21",
+      "first_seen": "2026-09-12T06:29:23.882113+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
