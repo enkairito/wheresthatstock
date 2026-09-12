@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T06:18:05.762093+00:00",
+  "updated_at": "2026-09-12T06:20:24.810197+00:00",
   "source_updates": {
     "accessories": "2026-09-12T06:04:57.503869+00:00",
     "onepiece": "2026-09-12T06:07:31.096346+00:00",
@@ -8,45 +8,9 @@
     "yugioh": "2026-09-12T06:18:05.762093+00:00",
     "playstation": "2026-09-12T00:28:04.020020+00:00",
     "nintendo": "2026-09-12T00:28:58.479677+00:00",
-    "xbox": "2026-09-12T00:28:11.205791+00:00"
+    "xbox": "2026-09-12T06:20:24.810197+00:00"
   },
   "products": [
-    {
-      "asin": "B0D8KXMCTC",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "GameSir G7 SE Mando con Cable para Xbox Series X|S, Xbox One & Windows 10/11, Plug and Play Gamepad para Juegos con Joysticks de Efecto Hall, Conector de Audio de 3,5 mm (Naranja)",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51CstRjd6RL._AC_SX466_.jpg",
-      "price": "53,43 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0D8KXMCTC?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:25:04.811751+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0B3VNQ94T",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "PDP AFTERGLOW XBX WAVE WIRED mando WHITE for Xbox Series X|S, Xbox One, Officially Licensed",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/514231qWlqL._AC_SX466_.jpg",
-      "price": "49,62 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0B3VNQ94T?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:25:04.811765+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
     {
       "asin": "B08F4444HM",
       "store_label": "Amazon ES",
@@ -100,24 +64,6 @@
         "Nintendo"
       ],
       "source": "nintendo"
-    },
-    {
-      "asin": "B0H6PR59NX",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "NK Mando Switch Inalámbrico - Switch/OLED/Lite/Pro con Función Wake, Ajustes Macro,Bluetooth, 6 ejes, Función Turbo, Dual Shock Doble Vibración, LED Indicadores - Color Blanco",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/715LmtZNZXL._AC_SX466_.jpg",
-      "price": "20,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0H6PR59NX?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:11.204509+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
     },
     {
       "asin": "B0DSPX3R62",
@@ -480,24 +426,6 @@
       "source": "playstation"
     },
     {
-      "asin": "B0GLJNCWZD",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Thrustmaster EVO Racing 31U - Add-On de Volante Cuero PS5/XBOX/PC",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81uCS4K6ebL._AC_SX466_.jpg",
-      "price": "269,00 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0GLJNCWZD?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:11.204504+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
       "asin": "B0BKGKMLH2",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -570,96 +498,6 @@
       "source": "playstation"
     },
     {
-      "asin": "B0D8KXR131",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "GameSir G7 SE Mando con Cable para Xbox Series X|S, Xbox One & Windows 10/11, Plug and Play Gamepad para Juegos con Joysticks de Efecto Hall, Conector de Audio de 3,5 mm (Azul)",
-      "image": "https://m.media-amazon.com/images/I/61L7REgitEL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "51,99 €",
-      "original_price": "59,99 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0D8KXR131?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:25:04.811715+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B08FCTBC2D",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "PDP Mando con cable Afterglow para Xbox y Series X/S Azul (Prismatic)",
-      "image": "https://m.media-amazon.com/images/I/71lL0afyLrL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "37,99 €",
-      "original_price": "39,99 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B08FCTBC2D?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:25:04.811667+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0F1R9WVGN",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Turtle Beach Rematch Core Camo Negro/Verde - Gamepad con cable - Con licencia para Xbox Series XS, Xbox One y PC - Botones de audio, motores de vibración y disparadores de pulso, cable de 3 m",
-      "image": "https://m.media-amazon.com/images/I/61KomYEkQmL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "24,99 €",
-      "original_price": "29,99 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F1R9WVGN?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:11.204489+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0CMGN9Z8H",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "HELLCOOL Play y Kit de Carga USB Bateria para Mando Xbox One/Xbox Series, 2X4800mWh Bateria Compatible con la Mando Xbox One S/X/Elite, Xbox Series X/S, 12 Horas de Juego",
-      "image": "https://m.media-amazon.com/images/I/81kFG3GED-L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "19,93 €",
-      "original_price": "21,99 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0CMGN9Z8H?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:11.204492+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0CGY46386",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "PDP Xbox Afterglow Wave Wired Controller Blue",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61B+hme4ncL._AC_SX466_.jpg",
-      "price": "38,65 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "1",
-      "link": "https://www.amazon.es/dp/B0CGY46386?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:25:04.811729+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
       "asin": "B0CDBY25QX",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -678,42 +516,6 @@
       "source": "nintendo"
     },
     {
-      "asin": "B0D8KXFHJ1",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "GameSir G7 SE Mando con Cable para Xbox Series X|S, Xbox One & Windows 10/11, Plug and Play Gamepad para Juegos con Joysticks de Efecto Hall, Conector de Audio de 3,5 mm (Púrpura)",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51QHtfWQsSL._AC_SX466_.jpg",
-      "price": "59,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0D8KXFHJ1?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:25:04.811742+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0CDC98QZJ",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "PDP Xbox Mando con cable Afterglow Wave Morado",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61Gyfl9J1sL._AC_SX466_.jpg",
-      "price": "54,70 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "1",
-      "link": "https://www.amazon.es/dp/B0CDC98QZJ?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:25:04.811711+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
       "asin": "B09DPR2LZW",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -730,24 +532,6 @@
         "Nintendo"
       ],
       "source": "nintendo"
-    },
-    {
-      "asin": "B0C7GW9F88",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "GameSir G7 SE Mando con Cable para Xbox Series X|S, Xbox One & Windows 10/11, Plug and Play Gamepad para Juegos con Joysticks de Efecto Hall, Conector de Audio de 3,5 mm (Blanco)",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51KL3KdKLkL._AC_SX466_.jpg",
-      "price": "59,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0C7GW9F88?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:25:04.811698+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
     },
     {
       "asin": "B01N5OORGV",
@@ -1720,6 +1504,420 @@
         "Yu-Gi-Oh!"
       ],
       "source": "yugioh"
+    },
+    {
+      "asin": "B0D8KXR131",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "GameSir G7 SE Mando con Cable para Xbox Series X|S, Xbox One & Windows 10/11, Plug and Play Gamepad para Juegos con Joysticks de Efecto Hall, Conector de Audio de 3,5 mm (Azul)",
+      "image": "https://m.media-amazon.com/images/I/61L7REgitEL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "51,99 €",
+      "original_price": "59,99 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0D8KXR131?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:25:04.811715+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0FP2KDJJ7",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Corsair Void v2 MAX Wireless Bluetooth Auriculares Gaming – Carbono",
+      "image": "https://m.media-amazon.com/images/I/71VxHjHOflL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "139,97 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FP2KDJJ7?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:25:04.811654+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0G2XZXL63",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "GameSir G7 Pro Mando de Juego Inalámbrico para Xbox Series X|S, Xbox One, Windows PC, Android, Mando con Jack de Audio 3.5mm, Gatillos Analógicos de Efecto Hall, Palancas TMR【Edición Wuchang: Fallen】",
+      "image": "https://m.media-amazon.com/images/I/81NCw8ixKOL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "119,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0G2XZXL63?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:25:04.811670+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B09F2ZMTBN",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "HELLCOOL Bateria para Mando Xbox, 2x6200mWh Pilas Recargables con Cargador Pilas/Cable Carga/Display LED, Compatible Xbox Series X|S/Xbox OneX|S|Elite Controller - 25 Horas de Juego",
+      "image": "https://m.media-amazon.com/images/I/71SHQivVwXL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "19,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B09F2ZMTBN?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:25:04.811686+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0FHQ6P7TQ",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "8BitDo Ultimate 3-mode Wireless Controller for Xbox, Hall Effect Joysticks, Pro Back Buttons, Compatibility with Xbox Series X|S & Xbox One, Apple, Windows PC & Android - Rare 40th Anniversary Edition",
+      "image": "https://m.media-amazon.com/images/I/71oeYI-TlQL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "74,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FHQ6P7TQ?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:25:04.811690+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0GFF8KY1Z",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Scuf VALOR PRO WIRELESS Mando Xbox Performance, TMR Anti-Drift – Gris Claro",
+      "image": "https://m.media-amazon.com/images/I/61Tgs-NLlJL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "209,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GFF8KY1Z?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:25:04.811659+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0D1T96W4L",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "8Bitdo Ultimate C Wired Controller for Xbox, RGB Lighting Fire Ring and Hall Effect Joysticks, Compatible with Xbox Series X|S, Xbox One, Windows 10/11 - Officially Licensed (Dark Green)",
+      "image": "https://m.media-amazon.com/images/I/61RnvZzI7qL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "34,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0D1T96W4L?tag=enkairito-21",
+      "first_seen": "2026-09-12T06:20:24.807853+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B075S7LG8X",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Thrustmaster T.Flight Hotas One - Joystick y Acelerador - XBOX y PC",
+      "image": "https://m.media-amazon.com/images/I/514tCnffsSL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "89,99 €",
+      "original_price": "99,99 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B075S7LG8X?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:25:04.811682+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0DNQBQNG7",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "8Bitdo Ultimate Mini Wired Controller for Xbox with RGB Lighting Fire Ring, Hall Effect Joysticks and Triggers, for Xbox Series X|S, Xbox One, Windows 10/11 - Officially Licensed (Translucent Green)",
+      "image": "https://m.media-amazon.com/images/I/51pKJSDLcqL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "34,34 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DNQBQNG7?tag=enkairito-21",
+      "first_seen": "2026-09-12T06:20:24.807858+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0CJVQFZ1S",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Turtle Beach Stealth Ultra Controlador de Juegos Inalámbrico con Base de Carga Rápida, Gatillos Ajustables y Pantalla de Comando. Licencia Oficial para Xbox Series X|S, Xbox One y PC",
+      "image": "https://m.media-amazon.com/images/I/7120-u+4TTL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "155,00 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CJVQFZ1S?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:25:04.811674+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0F1V7VGP9",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Xbox Controlador inalámbrico - DOOM: The Dark Ages Limited Edition Series X|S, One, PC y dispositivos habilitados para la nube",
+      "image": "https://m.media-amazon.com/images/I/71ehTh38k7L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "94,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "4",
+      "link": "https://www.amazon.es/dp/B0F1V7VGP9?tag=enkairito-21",
+      "first_seen": "2026-09-12T06:20:24.807861+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B08Y1FGT6D",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Mcbazel Adaptador Inalámbrico Xbox One para PC/Windows 7/8/8.1/10/11, Receptor USB Compatible con Mandos Xbox One/S/X/Elite/Elite 2/Series S/X",
+      "image": "https://m.media-amazon.com/images/I/41uR+hMKWqL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "20,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B08Y1FGT6D?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:25:04.811720+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0FFP61L6C",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Turtle Beach Victrix Gambit Prime Mando para torneos para Xbox Series X/S, Xbox One y PC. Con licencia para Xbox con gatillos Clutch Trigger de fuego rápido, botones extraíbles y aplicación de control",
+      "image": "https://m.media-amazon.com/images/I/71i33myEknL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "79,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FFP61L6C?tag=enkairito-21",
+      "first_seen": "2026-09-12T06:20:24.807865+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0DNQD9HPS",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "8Bitdo Ultimate Mini Wired Controller for Xbox with RGB Lighting Fire Ring, Hall Effect Joysticks and Triggers, for Xbox Series X|S, Xbox One, Windows 10/11 - Officially Licensed (Translucent Pink)",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51C9fPirUuL._AC_SX679_.jpg",
+      "price": "30,88 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DNQD9HPS?tag=enkairito-21",
+      "first_seen": "2026-09-12T06:20:24.807867+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0F1HX3WXX",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Controlador inalámbrico para juegos Xbox (2025) - Negro carbón - Juega en Xbox, Windows, Android, iOS, FireTV Sticks, televisores inteligentes, auriculares VR",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61MepKvTfNL._AC_SX466_.jpg",
+      "price": "110,09 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "4",
+      "link": "https://www.amazon.es/dp/B0F1HX3WXX?tag=enkairito-21",
+      "first_seen": "2026-09-12T06:20:24.807870+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0F1J12R6N",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Xbox Controlador inalámbrico - DOOM: The Dark Ages Limited Edition Series X|S, One, PC y dispositivos habilitados para la nube",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71ehTh38k7L._AC_SX466_.jpg",
+      "price": "94,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "4",
+      "link": "https://www.amazon.es/dp/B0F1J12R6N?tag=enkairito-21",
+      "first_seen": "2026-09-12T06:20:24.807873+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0D8KXMCTC",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "GameSir G7 SE Mando con Cable para Xbox Series X|S, Xbox One & Windows 10/11, Plug and Play Gamepad para Juegos con Joysticks de Efecto Hall, Conector de Audio de 3,5 mm (Naranja)",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51CstRjd6RL._AC_SX466_.jpg",
+      "price": "53,43 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0D8KXMCTC?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:25:04.811751+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0D8KXFHJ1",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "GameSir G7 SE Mando con Cable para Xbox Series X|S, Xbox One & Windows 10/11, Plug and Play Gamepad para Juegos con Joysticks de Efecto Hall, Conector de Audio de 3,5 mm (Púrpura)",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51QHtfWQsSL._AC_SX466_.jpg",
+      "price": "59,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0D8KXFHJ1?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:25:04.811742+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0C7GW9F88",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "GameSir G7 SE Mando con Cable para Xbox Series X|S, Xbox One & Windows 10/11, Plug and Play Gamepad para Juegos con Joysticks de Efecto Hall, Conector de Audio de 3,5 mm (Blanco)",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51KL3KdKLkL._AC_SX466_.jpg",
+      "price": "59,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0C7GW9F88?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:25:04.811698+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0FLLL1ZD8",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Xbox Controlador inalámbrico para juegos - Heart Breaker Special Edition - Xbox Series X|S, Xbox One, PC y dispositivos habilitados para la nube",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71Ufn4QRoQL._AC_SX466_.jpg",
+      "price": "116,45 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FLLL1ZD8?tag=enkairito-21",
+      "first_seen": "2026-09-12T06:20:24.807880+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0DSGDT35G",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Xbox Controlador inalámbrico - DOOM: The Dark Ages Limited Edition Series X|S, One, PC y dispositivos habilitados para la nube",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71ehTh38k7L._AC_SX466_.jpg",
+      "price": "94,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "4",
+      "link": "https://www.amazon.es/dp/B0DSGDT35G?tag=enkairito-21",
+      "first_seen": "2026-09-12T06:20:24.807883+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0GLJNCWZD",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Thrustmaster EVO Racing 31U - Add-On de Volante Cuero PS5/XBOX/PC",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81uCS4K6ebL._AC_SX466_.jpg",
+      "price": "269,00 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GLJNCWZD?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:11.204504+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B09Z7J4L6X",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Xbox Controlador inalámbrico - DOOM: The Dark Ages Limited Edition Series X|S, One, PC y dispositivos habilitados para la nube",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71ehTh38k7L._AC_SX466_.jpg",
+      "price": "94,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "4",
+      "link": "https://www.amazon.es/dp/B09Z7J4L6X?tag=enkairito-21",
+      "first_seen": "2026-09-12T06:20:24.807888+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
     }
   ]
 }
