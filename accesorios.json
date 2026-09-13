@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-13T12:21:12.632646+00:00",
+  "updated_at": "2026-09-13T12:22:28.701675+00:00",
   "source_updates": {
     "accessories": "2026-09-13T06:03:34.958479+00:00",
     "onepiece": "2026-09-13T12:06:58.922506+00:00",
     "magic": "2026-09-13T12:16:52.781357+00:00",
     "lorcana": "2026-09-13T12:16:19.355017+00:00",
     "yugioh": "2026-09-13T12:16:27.806732+00:00",
-    "playstation": "2026-09-13T06:20:27.322938+00:00",
+    "playstation": "2026-09-13T12:22:28.701675+00:00",
     "nintendo": "2026-09-13T12:20:51.138988+00:00",
     "xbox": "2026-09-13T12:21:12.632646+00:00"
   },
@@ -588,60 +588,6 @@
       "source": "accessories"
     },
     {
-      "asin": "B0F9YCF9WD",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Mcbazel Base de Carga y Refrigeración para PS5/PS5 Pro, Estación de Carga y Refrigeración con 3 Velocidades y Luz LED para PlayStation 5 & PlayStation 5 Pro Digitales y de Discos - Blanco",
-      "image": "https://m.media-amazon.com/images/I/61yq4lYHaEL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "22,79 €",
-      "original_price": "23,99 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F9YCF9WD?tag=enkairito-21",
-      "first_seen": "2026-09-12T18:25:09.102652+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
-      "asin": "B0DT1C2X3F",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Superer 3,0M Cable Micro USB Compatible con Sony Mando PS4",
-      "image": "https://m.media-amazon.com/images/I/518x+IZ08EL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "10,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0DT1C2X3F?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:04.018966+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
-      "asin": "B01LBH9ILW",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Dualshock 4 Wireless Controller - Jet Black - PlayStation 4",
-      "image": "https://m.media-amazon.com/images/I/71d9U+F5lbL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "119,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B01LBH9ILW?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:04.018969+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
       "asin": "B0G6FY77KH",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -922,12 +868,12 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B017BRXU1A?tag=enkairito-21",
-      "first_seen": "2026-09-13T00:21:08.267527+00:00",
+      "first_seen": "2026-09-13T00:24:23.874186+00:00",
       "marketplace": "ES",
       "categories": [
-        "Xbox"
+        "PlayStation"
       ],
-      "source": "xbox"
+      "source": "playstation"
     },
     {
       "asin": "B0FS1JVBBZ",
@@ -958,12 +904,12 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B085DNDLC1?tag=enkairito-21",
-      "first_seen": "2026-09-12T06:28:31.691547+00:00",
+      "first_seen": "2026-09-12T06:27:49.066550+00:00",
       "marketplace": "ES",
       "categories": [
-        "Xbox"
+        "PlayStation"
       ],
-      "source": "xbox"
+      "source": "playstation"
     },
     {
       "asin": "B0DXVK7NYQ",
@@ -1306,6 +1252,222 @@
         "Xbox"
       ],
       "source": "xbox"
+    },
+    {
+      "asin": "B0DKP1FZM5",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Mochila para Consola PS5/ Slim/ Pro, Bolsa PS5 de Viaje con Protección Total, Funda ps5 Almacenamiento de Gran Capacidad, PS Portal, Portátil, Tarjeta de Juego, Maletin PS 5 con Bolsa 3 Cable- Blanco",
+      "image": "https://m.media-amazon.com/images/I/81TTVxCA9qL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "32,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DKP1FZM5?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:18:12.685967+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B08DLWRZ8V",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "VENTION Cable Micro USB 2m Cable Mando ps4 Cable Cargador ebook Kindle Tejido de Nylon Cable Cargador Android Micro usb",
+      "image": "https://m.media-amazon.com/images/I/61manEUHmgS._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "7,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B08DLWRZ8V?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018964+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B09PX6GHJ7",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "HORI - Volante Apex (PS5/PS4/PC) - Licencia oficial",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51K7NjO5enL._AC_SX679_.jpg",
+      "price": "90,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B09PX6GHJ7?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018962+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0F3D26B9J",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Tatybo Cascos Gaming Inalámbricos para PC/Ps5/Ps4, Auriculares Gaming Inalámbricos con 2,4 GHz+Bluetooth 5,3 Modo Dual, 7.1 Sonido Envolvente, Duración 40Hr+",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61-ijD4p14L._AC_SX569_.jpg",
+      "price": "33,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F3D26B9J?tag=enkairito-21",
+      "first_seen": "2026-09-12T06:27:49.066563+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B084WQXL2N",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "GXTrust Forze Cascos PS4 y PS5 Auriculares de Gaming, Gris",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71gfdGLmqiL._AC_SX569_.jpg",
+      "price": "28,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "1",
+      "link": "https://www.amazon.es/dp/B084WQXL2N?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:18:12.685976+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0F3D6RMLC",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Tatybo Cascos Gaming Inalámbricos para PC/Ps5/Ps4, Auriculares Gaming Inalámbricos con 2,4 GHz+Bluetooth 5,3 Modo Dual, 7.1 Sonido Envolvente, Duración 40Hr+",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61eYY6xC-GL._AC_SX569_.jpg",
+      "price": "33,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F3D6RMLC?tag=enkairito-21",
+      "first_seen": "2026-09-12T06:27:49.066539+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0D571R8PK",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Volante y Pedales Hori RWA con licencia Sony PlayStation 4/5 [Nuevo modelo compatible con PS4/PS5] + Gran Turismo 7 [Playstation 5]",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71tkwic69UL._AC_SX679_.jpg",
+      "price": "189,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "1",
+      "link": "https://www.amazon.es/dp/B0D571R8PK?tag=enkairito-21",
+      "first_seen": "2026-09-12T12:27:13.469362+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0DT1C2X3F",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Superer 3,0M Cable Micro USB Compatible con Sony Mando PS4",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/518x+IZ08EL._SX466_.jpg",
+      "price": "10,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DT1C2X3F?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018966+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B01LBH9ILW",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Dualshock 4 Wireless Controller - Jet Black - PlayStation 4",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71d9U+F5lbL._AC_SX679_.jpg",
+      "price": "119,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B01LBH9ILW?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018969+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0DDTPX5DY",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Tatybo Cascos Gaming Inalámbricos para PC/Ps5/Ps4, Auriculares Gaming Inalámbricos con 2,4 GHz+Bluetooth 5,3 Modo Dual, 7.1 Sonido Envolvente, Duración 40Hr+",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71aRKGMvszL._AC_SX569_.jpg",
+      "price": "31,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "1",
+      "link": "https://www.amazon.es/dp/B0DDTPX5DY?tag=enkairito-21",
+      "first_seen": "2026-09-12T06:27:49.066555+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0CSFKZRGF",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Tatybo Cascos Gaming Inalámbricos para PC/Ps5/Ps4, Auriculares Gaming Inalámbricos con 2,4 GHz+Bluetooth 5,3 Modo Dual, 7.1 Sonido Envolvente, Duración 40Hr+",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71f15QSbhuL._AC_SX569_.jpg",
+      "price": "29,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CSFKZRGF?tag=enkairito-21",
+      "first_seen": "2026-09-12T06:27:49.066532+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B07W4X1F21",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Sony PlayStation DualShock 4 Controller - Glacier White (Renewed)",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61OnbnGaW-L._AC_SX385_.jpg",
+      "price": "62,48 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "2",
+      "link": "https://www.amazon.es/dp/B07W4X1F21?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:18:12.685972+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
     }
   ]
 }
