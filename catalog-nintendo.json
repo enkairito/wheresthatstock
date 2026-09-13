@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T00:21:41.608265+00:00",
+  "updated_at": "2026-09-13T06:20:32.323864+00:00",
   "products": [
     {
       "asin": "B0GNLCRV5H",
@@ -30,7 +30,7 @@
       "image": "https://m.media-amazon.com/images/I/81LChsqrJ6L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
       "price": "68,90 €",
       "original_price": "79,99 €",
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0F2N8LBQN?tag=enkairito-21",
       "first_seen": "2026-09-11T19:20:15.911922+00:00",
@@ -40,8 +40,8 @@
       ],
       "game": "Nintendo",
       "_src": "nintendo.json",
-      "last_seen": "2026-09-12T18:25:00.268882+00:00",
-      "checked_at": "2026-09-12T18:30:08.919745+00:00"
+      "last_seen": "2026-09-13T06:20:32.323864+00:00",
+      "checked_at": "2026-09-13T06:20:32.323864+00:00"
     },
     {
       "asin": "B0G71JQD6H",
@@ -72,8 +72,8 @@
       "image": "https://m.media-amazon.com/images/I/61blClKSR-L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
       "price": "52,95 €",
       "original_price": null,
-      "status": "compra_directa",
-      "stock": "2",
+      "status": "sin_confirmar",
+      "stock": null,
       "link": "https://www.amazon.es/dp/B0FQWNJFHT?tag=enkairito-21",
       "first_seen": "2026-09-11T19:20:15.911952+00:00",
       "marketplace": "ES",
@@ -83,7 +83,7 @@
       "game": "Nintendo",
       "_src": "nintendo.json",
       "last_seen": "2026-09-13T00:21:41.608265+00:00",
-      "checked_at": "2026-09-13T00:21:41.608265+00:00"
+      "checked_at": "2026-09-13T06:20:32.323864+00:00"
     },
     {
       "asin": "B0F8WRHMGT",
@@ -240,7 +240,7 @@
       "image": "https://m.media-amazon.com/images/I/71KrfLpEMML._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
       "price": "376,65 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B071H4KD7W?tag=enkairito-21",
       "first_seen": "2026-09-11T19:20:15.912014+00:00",
@@ -251,7 +251,7 @@
       "game": "Nintendo",
       "_src": "nintendo.json",
       "last_seen": "2026-09-13T00:21:41.608265+00:00",
-      "checked_at": "2026-09-13T00:21:41.608265+00:00"
+      "checked_at": "2026-09-13T06:20:32.323864+00:00"
     },
     {
       "asin": "B0CFQ99JVQ",
@@ -450,7 +450,7 @@
       "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71YVxGjW1rL._AC_SY445_.jpg",
       "price": "39,99 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B09YYNZJYW?tag=enkairito-21",
       "first_seen": "2026-09-11T19:20:15.912082+00:00",
@@ -461,7 +461,7 @@
       "game": "Nintendo",
       "_src": "nintendo.json",
       "last_seen": "2026-09-13T00:21:41.608265+00:00",
-      "checked_at": "2026-09-13T00:21:41.608265+00:00"
+      "checked_at": "2026-09-13T06:20:32.323864+00:00"
     },
     {
       "asin": "B0FXHDBB1R",
@@ -492,7 +492,7 @@
       "image": "https://m.media-amazon.com/images/I/81QLi6ddvgL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
       "price": "33,99 €",
       "original_price": "59,99 €",
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0F7L7V7W3?tag=enkairito-21",
       "first_seen": "2026-09-12T00:28:58.478175+00:00",
@@ -503,7 +503,7 @@
       "game": "Nintendo",
       "_src": "nintendo.json",
       "last_seen": "2026-09-13T00:21:41.608265+00:00",
-      "checked_at": "2026-09-13T00:21:41.608265+00:00"
+      "checked_at": "2026-09-13T06:20:32.323864+00:00"
     },
     {
       "asin": "B0GLHNN1NK",
@@ -513,7 +513,7 @@
       "image": "https://m.media-amazon.com/images/I/81qadafBqCL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
       "price": "48,50 €",
       "original_price": "59,99 €",
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0GLHNN1NK?tag=enkairito-21",
       "first_seen": "2026-09-12T00:28:58.478206+00:00",
@@ -524,7 +524,7 @@
       "game": "Nintendo",
       "_src": "nintendo.json",
       "last_seen": "2026-09-13T00:21:41.608265+00:00",
-      "checked_at": "2026-09-13T00:21:41.608265+00:00"
+      "checked_at": "2026-09-13T06:20:32.323864+00:00"
     },
     {
       "asin": "B0H4RM453L",
@@ -586,8 +586,8 @@
       ],
       "game": "Nintendo",
       "_src": "nintendo.json",
-      "last_seen": "2026-09-13T00:21:41.608265+00:00",
-      "checked_at": "2026-09-13T00:21:41.608265+00:00"
+      "last_seen": "2026-09-13T06:20:32.323864+00:00",
+      "checked_at": "2026-09-13T06:20:32.323864+00:00"
     },
     {
       "asin": "B0FQWBD5MT",
@@ -597,7 +597,7 @@
       "image": "https://m.media-amazon.com/images/I/810UZa3-MpL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
       "price": "57,90 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0FQWBD5MT?tag=enkairito-21",
       "first_seen": "2026-09-12T00:28:58.478184+00:00",
@@ -607,8 +607,8 @@
       ],
       "game": "Nintendo",
       "_src": "nintendo.json",
-      "last_seen": "2026-09-12T18:25:00.268882+00:00",
-      "checked_at": "2026-09-12T18:30:08.919745+00:00"
+      "last_seen": "2026-09-13T06:20:32.323864+00:00",
+      "checked_at": "2026-09-13T06:20:32.323864+00:00"
     },
     {
       "asin": "B0F3P4FB73",
@@ -628,8 +628,8 @@
       ],
       "game": "Nintendo",
       "_src": "nintendo.json",
-      "last_seen": "2026-09-13T00:21:41.608265+00:00",
-      "checked_at": "2026-09-13T00:21:41.608265+00:00"
+      "last_seen": "2026-09-13T06:20:32.323864+00:00",
+      "checked_at": "2026-09-13T06:20:32.323864+00:00"
     },
     {
       "asin": "B08WR7WH4R",
@@ -639,7 +639,7 @@
       "image": "https://m.media-amazon.com/images/I/61N9BpqzITL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
       "price": "5,99 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B08WR7WH4R?tag=enkairito-21",
       "first_seen": "2026-09-12T06:29:23.882070+00:00",
@@ -650,7 +650,7 @@
       "game": "Nintendo",
       "_src": "nintendo.json",
       "last_seen": "2026-09-13T00:21:41.608265+00:00",
-      "checked_at": "2026-09-13T00:21:41.608265+00:00"
+      "checked_at": "2026-09-13T06:20:32.323864+00:00"
     },
     {
       "asin": "B0DS1S2Z7L",
@@ -660,7 +660,7 @@
       "image": "https://m.media-amazon.com/images/I/71cEA2Ucd1L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
       "price": "9,95 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0DS1S2Z7L?tag=enkairito-21",
       "first_seen": "2026-09-12T00:28:58.478284+00:00",
@@ -670,8 +670,8 @@
       ],
       "game": "Nintendo",
       "_src": "nintendo.json",
-      "last_seen": "2026-09-12T06:29:23.883140+00:00",
-      "checked_at": "2026-09-12T12:20:41.150094+00:00"
+      "last_seen": "2026-09-13T06:20:32.323864+00:00",
+      "checked_at": "2026-09-13T06:20:32.323864+00:00"
     },
     {
       "asin": "B0977RRHJG",
@@ -691,8 +691,8 @@
       ],
       "game": "Nintendo",
       "_src": "nintendo.json",
-      "last_seen": "2026-09-13T00:21:41.608265+00:00",
-      "checked_at": "2026-09-13T00:21:41.608265+00:00"
+      "last_seen": "2026-09-13T06:20:32.323864+00:00",
+      "checked_at": "2026-09-13T06:20:32.323864+00:00"
     },
     {
       "asin": "B0DFD3S5LM",
@@ -702,7 +702,7 @@
       "image": "https://m.media-amazon.com/images/I/71c8OaXidfL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
       "price": "39,99 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0DFD3S5LM?tag=enkairito-21",
       "first_seen": "2026-09-12T00:28:58.478301+00:00",
@@ -713,7 +713,7 @@
       "game": "Nintendo",
       "_src": "nintendo.json",
       "last_seen": "2026-09-13T00:21:41.608265+00:00",
-      "checked_at": "2026-09-13T00:21:41.608265+00:00"
+      "checked_at": "2026-09-13T06:20:32.323864+00:00"
     },
     {
       "asin": "B0FR451FFZ",
@@ -786,7 +786,7 @@
       "image": "https://m.media-amazon.com/images/I/81-mOHTHOxL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
       "price": "53,90 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0G1BDSJ52?tag=enkairito-21",
       "first_seen": "2026-09-12T00:28:58.478085+00:00",
@@ -796,8 +796,8 @@
       ],
       "game": "Nintendo",
       "_src": "nintendo.json",
-      "last_seen": "2026-09-12T12:27:48.388048+00:00",
-      "checked_at": "2026-09-12T18:25:00.268882+00:00"
+      "last_seen": "2026-09-13T06:20:32.323864+00:00",
+      "checked_at": "2026-09-13T06:20:32.323864+00:00"
     },
     {
       "asin": "B0BV27FTTF",
@@ -817,8 +817,8 @@
       ],
       "game": "Nintendo",
       "_src": "nintendo.json",
-      "last_seen": "2026-09-13T00:21:41.608265+00:00",
-      "checked_at": "2026-09-13T00:21:41.608265+00:00"
+      "last_seen": "2026-09-13T06:20:32.323864+00:00",
+      "checked_at": "2026-09-13T06:20:32.323864+00:00"
     },
     {
       "asin": "B0D98BJ7SH",
@@ -826,10 +826,10 @@
       "flag": "🇪🇸",
       "name": "EA SPORTS FC 25 Standard Edition Switch / Switch 2 | Videojuegos | Castellano",
       "image": "https://m.media-amazon.com/images/I/71e2MSe9EqL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "28,29 €",
+      "price": "28,19 €",
       "original_price": "29,99 €",
       "status": "compra_directa",
-      "stock": null,
+      "stock": "4",
       "link": "https://www.amazon.es/dp/B0D98BJ7SH?tag=enkairito-21",
       "first_seen": "2026-09-12T00:28:58.478247+00:00",
       "marketplace": "ES",
@@ -838,8 +838,8 @@
       ],
       "game": "Nintendo",
       "_src": "nintendo.json",
-      "last_seen": "2026-09-13T00:21:41.608265+00:00",
-      "checked_at": "2026-09-13T00:21:41.608265+00:00"
+      "last_seen": "2026-09-13T06:20:32.323864+00:00",
+      "checked_at": "2026-09-13T06:20:32.323864+00:00"
     },
     {
       "asin": "B01N1081RO",
@@ -859,8 +859,8 @@
       ],
       "game": "Nintendo",
       "_src": "nintendo.json",
-      "last_seen": "2026-09-13T00:21:41.608265+00:00",
-      "checked_at": "2026-09-13T00:21:41.608265+00:00"
+      "last_seen": "2026-09-13T06:20:32.323864+00:00",
+      "checked_at": "2026-09-13T06:20:32.323864+00:00"
     },
     {
       "asin": "B09QH6N764",
@@ -889,7 +889,7 @@
       "flag": "🇪🇸",
       "name": "Nintendo Switch Sports Standard Néerlandais, Anglais, Espagnol, Français, Italien, Portugais, Russe Nintendo Switch",
       "image": "https://m.media-amazon.com/images/I/61QgCL-wURL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "41,99 €",
+      "price": "41,90 €",
       "original_price": "44,99 €",
       "status": "compra_directa",
       "stock": null,
@@ -901,8 +901,8 @@
       ],
       "game": "Nintendo",
       "_src": "nintendo.json",
-      "last_seen": "2026-09-13T00:21:41.608265+00:00",
-      "checked_at": "2026-09-13T00:21:41.608265+00:00"
+      "last_seen": "2026-09-13T06:20:32.323864+00:00",
+      "checked_at": "2026-09-13T06:20:32.323864+00:00"
     },
     {
       "asin": "B0F2JC9HMR",
@@ -922,8 +922,8 @@
       ],
       "game": "Nintendo",
       "_src": "nintendo.json",
-      "last_seen": "2026-09-13T00:21:41.608265+00:00",
-      "checked_at": "2026-09-13T00:21:41.608265+00:00"
+      "last_seen": "2026-09-13T06:20:32.323864+00:00",
+      "checked_at": "2026-09-13T06:20:32.323864+00:00"
     },
     {
       "asin": "B0FK8TQP47",
@@ -1027,8 +1027,8 @@
       ],
       "game": "Nintendo",
       "_src": "nintendo.json",
-      "last_seen": "2026-09-13T00:21:41.608265+00:00",
-      "checked_at": "2026-09-13T00:21:41.608265+00:00"
+      "last_seen": "2026-09-13T06:20:32.323864+00:00",
+      "checked_at": "2026-09-13T06:20:32.323864+00:00"
     },
     {
       "asin": "B0GJTJQ8V9",
@@ -1134,6 +1134,48 @@
       "_src": "nintendo.json",
       "last_seen": "2026-09-12T18:30:08.919745+00:00",
       "checked_at": "2026-09-13T00:21:41.608265+00:00"
+    },
+    {
+      "asin": "B0CH1KF3DJ",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Nintendo Switch OLED Rojo (edición Mario)",
+      "image": "https://m.media-amazon.com/images/I/71ZvqI8yj1L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "364,74 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CH1KF3DJ?tag=enkairito-21",
+      "first_seen": "2026-09-13T06:20:32.322702+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Nintendo",
+      "_src": "nintendo.json",
+      "last_seen": "2026-09-13T06:20:32.323864+00:00",
+      "checked_at": "2026-09-13T06:20:32.323864+00:00"
+    },
+    {
+      "asin": "B098TNW7NM",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Nintendo Switch Console - OLED Model - Neon Blue/Neon Red (UK) (Switch)",
+      "image": "https://m.media-amazon.com/images/I/71Q54HnKxwS._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "399,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B098TNW7NM?tag=enkairito-21",
+      "first_seen": "2026-09-13T06:20:32.322767+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Nintendo",
+      "_src": "nintendo.json",
+      "last_seen": "2026-09-13T06:20:32.323864+00:00",
+      "checked_at": "2026-09-13T06:20:32.323864+00:00"
     }
   ]
 }
