@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T15:07:10.844028+00:00",
+  "updated_at": "2026-09-14T16:07:10.814495+00:00",
   "products": [
     {
       "asin": "B0F1SJY5S3",
@@ -25,10 +25,10 @@
       "flag": "🇪🇸",
       "name": "One Piece TCG: The World's Strongest Warriors Booster Box (OP-17) - 24 paquetes",
       "image": "https://m.media-amazon.com/images/I/61CWeLxq3eL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "474,00 €",
+      "price": "459,00 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "1",
+      "stock": null,
       "link": "https://www.amazon.es/dp/B0HF1Z72XW?tag=enkairito-21",
       "first_seen": "2026-09-05T20:33:38.638411+00:00",
       "marketplace": "ES",
@@ -344,24 +344,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0F8V1YTSP",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "BANDAI Juego de cartas de una pieza más antiguo (OP-13) (caja) de 24 unidades",
-      "image": "https://m.media-amazon.com/images/I/81uxMM80r7L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "249,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F8V1YTSP?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:10:47.849793+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Booster Box"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0D46M9DHD",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -373,6 +355,24 @@
       "stock": "1",
       "link": "https://www.amazon.es/dp/B0D46M9DHD?tag=enkairito-21",
       "first_seen": "2026-09-14T13:06:49.208476+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Booster Box"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0F8V1YTSP",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "BANDAI Juego de cartas de una pieza más antiguo (OP-13) (caja) de 24 unidades",
+      "image": "https://m.media-amazon.com/images/I/81uxMM80r7L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "249,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F8V1YTSP?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:10:47.849793+00:00",
       "marketplace": "ES",
       "categories": [
         "Booster Box"
@@ -434,20 +434,20 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0D6BC4TJ3",
+      "asin": "B0GDHHS7CR",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "ONE PIECE TCG: 500 YEARS IN THE FUTURE BOOSTER BOX (OP 07) - 24 Packs",
-      "image": "https://m.media-amazon.com/images/I/61lsu2c-WrL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "416,31 €",
+      "name": "One Piece TCG - Juego de Lata Vol. 2-2 Paquetes (Arte al Azar)",
+      "image": "https://m.media-amazon.com/images/I/51y8FNPfD0L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "101,63 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": "1",
-      "link": "https://www.amazon.es/dp/B0D6BC4TJ3?tag=enkairito-21",
-      "first_seen": "2026-08-30T23:39:08.142925+00:00",
+      "link": "https://www.amazon.es/dp/B0GDHHS7CR?tag=enkairito-21",
+      "first_seen": "2026-08-31T22:30:46.273546+00:00",
       "marketplace": "ES",
       "categories": [
-        "Booster Box"
+        "Otros"
       ],
       "game": "One Piece"
     }
