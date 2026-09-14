@@ -1,74 +1,5 @@
 [
   {
-    "asin": "B0DMDPGWWY",
-    "store_label": "Amazon UK",
-    "flag": "🇬🇧",
-    "name": "Pokemon TCG: Battle Deck Tapu Koko ex",
-    "image": "https://m.media-amazon.com/images/I/71YHO0uhYcL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "35,07 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": "2",
-    "link": "https://www.amazon.es/dp/B0DMDPGWWY?tag=enkairito-21",
-    "first_seen": "2026-09-05T18:46:43.703251+00:00",
-    "marketplace": "UK",
-    "categories": [
-      "Otros"
-    ],
-    "game": "Pokémon",
-    "ts": "2026-09-13T00:20:43.369452+00:00",
-    "type": "restock",
-    "prev_price": "35,07 €",
-    "_src": "products.json",
-    "id": "UK-B0DMDPGWWY:2026-09-13T00:20:43.369452+00:00:restock"
-  },
-  {
-    "asin": "B0FJSCW2VH",
-    "store_label": "Amazon UK",
-    "flag": "🇬🇧",
-    "name": "Pokemon Paradise Dragona sv7a Caja de refuerzo coreana",
-    "image": "https://m.media-amazon.com/images/I/514cvyWrfaL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "75,60 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": "3",
-    "link": "https://www.amazon.es/dp/B0FJSCW2VH?tag=enkairito-21",
-    "first_seen": "2026-09-08T00:08:50.343270+00:00",
-    "marketplace": "UK",
-    "categories": [
-      "Otros"
-    ],
-    "game": "Pokémon",
-    "ts": "2026-09-13T00:20:43.369452+00:00",
-    "type": "restock",
-    "prev_price": "75,60 €",
-    "_src": "products.json",
-    "id": "UK-B0FJSCW2VH:2026-09-13T00:20:43.369452+00:00:restock"
-  },
-  {
-    "asin": "B0DH53TQCC",
-    "store_label": "Amazon UK",
-    "flag": "🇬🇧",
-    "name": "Pokemon Scarlet & Violet Stellar Crown Booster Pack",
-    "image": "https://m.media-amazon.com/images/I/71O6VBum4bL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "18,62 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": "1",
-    "link": "https://www.amazon.es/dp/B0DH53TQCC?tag=enkairito-21",
-    "first_seen": "2026-09-04T22:05:43.537215+00:00",
-    "marketplace": "UK",
-    "categories": [
-      "Otros"
-    ],
-    "game": "Pokémon",
-    "ts": "2026-09-13T00:20:43.369452+00:00",
-    "type": "restock",
-    "prev_price": "18,62 €",
-    "_src": "products.json",
-    "id": "UK-B0DH53TQCC:2026-09-13T00:20:43.369452+00:00:restock"
-  },
-  {
     "asin": "B09M48Z5NW",
     "store_label": "Amazon UK",
     "flag": "🇬🇧",
@@ -4598,5 +4529,74 @@
     "prev_price": "35,24 €",
     "_src": "products.json",
     "id": "US-B0CQD8G93B:2026-09-14T00:20:23.508573+00:00:restock"
+  },
+  {
+    "asin": "B0FS98MMML",
+    "store_label": "Amazon USA",
+    "flag": "🇺🇸",
+    "name": "Pokémon TCG: Booster Pack de 10 Cartas Mega Evolution Flames Phantasmal Mangas",
+    "image": "https://m.media-amazon.com/images/I/71r-eHgKChL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "35,71 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": "1",
+    "link": "https://www.amazon.es/dp/B0FS98MMML?tag=enkairito-21",
+    "first_seen": "2026-09-04T22:05:43.537336+00:00",
+    "marketplace": "US",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-14T01:19:51.430609+00:00",
+    "type": "restock",
+    "prev_price": "35,71 €",
+    "_src": "products.json",
+    "id": "US-B0FS98MMML:2026-09-14T01:19:51.430609+00:00:restock"
+  },
+  {
+    "asin": "B0CQD9VBWS",
+    "store_label": "Amazon USA",
+    "flag": "🇺🇸",
+    "name": "Pokemon Scarlet & Violet 151 | Booster Pack",
+    "image": "https://m.media-amazon.com/images/I/71OpkVSvZ1L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "65,06 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0CQD9VBWS?tag=enkairito-21",
+    "first_seen": "2026-09-04T21:32:58.802915+00:00",
+    "marketplace": "US",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-14T01:19:51.430609+00:00",
+    "type": "restock",
+    "prev_price": "65,06 €",
+    "_src": "products.json",
+    "id": "US-B0CQD9VBWS:2026-09-14T01:19:51.430609+00:00:restock"
+  },
+  {
+    "asin": "B0F6PGX3SQ",
+    "store_label": "Amazon USA",
+    "flag": "🇺🇸",
+    "name": "Pokémon TCG: Unova Mini Tin – Krookodile & Excadrill (2 Paquetes de Refuerzo y 1 Tarjeta Adhesiva)",
+    "image": "https://m.media-amazon.com/images/I/71nltWrobAL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "50,12 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0F6PGX3SQ?tag=enkairito-21",
+    "first_seen": "2026-09-05T18:46:43.703340+00:00",
+    "marketplace": "US",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-14T01:19:51.430609+00:00",
+    "type": "restock",
+    "prev_price": "50,12 €",
+    "_src": "products.json",
+    "id": "US-B0F6PGX3SQ:2026-09-14T01:19:51.430609+00:00:restock"
   }
 ]
