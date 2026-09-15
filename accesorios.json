@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T20:07:02.581647+00:00",
+  "updated_at": "2026-09-15T20:34:05.438132+00:00",
   "source_updates": {
     "accessories": "2026-09-14T06:02:46.086991+00:00",
     "onepiece": "2026-09-15T20:07:02.581647+00:00",
@@ -7,7 +7,7 @@
     "lorcana": "2026-09-15T00:16:46.566328+00:00",
     "yugioh": "2026-09-15T00:17:02.736300+00:00",
     "playstation": "2026-09-15T00:20:12.443887+00:00",
-    "nintendo": "2026-09-15T00:23:08.151548+00:00",
+    "nintendo": "2026-09-15T20:34:05.438132+00:00",
     "xbox": "2026-09-15T00:20:55.337486+00:00"
   },
   "products": [
@@ -804,24 +804,6 @@
       "source": "playstation"
     },
     {
-      "asin": "B085DNDLC1",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Ultra Pro Penny Fundas para tarjetas, estándar, blandas, para cartas coleccionables, como Pokemon Magic, tamaño estándar, transparentes, 400 unidades",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61wDnEEGSPL._AC_SX679_.jpg",
-      "price": "8,21 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B085DNDLC1?tag=enkairito-21",
-      "first_seen": "2026-09-12T06:29:23.882192+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
       "asin": "B0F4YDX9W1",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -1241,10 +1223,10 @@
       "flag": "🇪🇸",
       "name": "Nintendo - Adaptador De Corriente Switch",
       "image": "https://m.media-amazon.com/images/I/61gn0qKDOBL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "34,59 €",
-      "original_price": null,
+      "price": "27,99 €",
+      "original_price": "29,99 €",
       "status": "compra_directa",
-      "stock": null,
+      "stock": "3",
       "link": "https://www.amazon.es/dp/B01N10NX3M?tag=enkairito-21",
       "first_seen": "2026-09-11T19:20:15.362352+00:00",
       "marketplace": "ES",
@@ -1277,10 +1259,10 @@
       "flag": "🇪🇸",
       "name": "Funda + protector LCD para consola Nintendo Switch Lite edición Animal Crossing: New Horizons (Nintendo Switch Lite)",
       "image": "https://m.media-amazon.com/images/I/71u4XqQNeaL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "23,10 €",
+      "price": "24,99 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "1",
+      "stock": null,
       "link": "https://www.amazon.es/dp/B084DJ9J8C?tag=enkairito-21",
       "first_seen": "2026-09-11T19:20:15.912103+00:00",
       "marketplace": "ES",
@@ -1308,17 +1290,17 @@
       "source": "nintendo"
     },
     {
-      "asin": "B0HFNJKX31",
+      "asin": "B0F3JT1NT8",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Stage Tour Game + Kramer Wireless Guitar Controller Bundle para Nintendo Switch 2",
-      "image": "https://m.media-amazon.com/images/I/61XcclUTCqL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "134,99 €",
-      "original_price": null,
-      "status": "preventa",
+      "name": "Nintendo Switch 2 Carrying Case + protector pantalla",
+      "image": "https://m.media-amazon.com/images/I/713LuDMYBfL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "20,90 €",
+      "original_price": "25,99 €",
+      "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0HFNJKX31?tag=enkairito-21",
-      "first_seen": "2026-09-14T18:21:06.097371+00:00",
+      "link": "https://www.amazon.es/dp/B0F3JT1NT8?tag=enkairito-21",
+      "first_seen": "2026-09-15T20:34:05.436537+00:00",
       "marketplace": "ES",
       "categories": [
         "Nintendo"
@@ -1326,71 +1308,17 @@
       "source": "nintendo"
     },
     {
-      "asin": "B0FBRPVFTC",
+      "asin": "B0DRX5SZQZ",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Nintendo Switch 2 Carrying Case Todo en Uno",
-      "image": "https://m.media-amazon.com/images/I/71dQSX9tFKL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "74,90 €",
-      "original_price": "79,99 €",
+      "name": "daydayup Funda Compatible con Nintendo Switch 2 Consola, Funda de Transporte Dura para Nintendo Switch 2, Funda Protectora con Almacenamiento para 20 Juegos, Consola y Accesorios, Color Negro",
+      "image": "https://m.media-amazon.com/images/I/81Af0s2j+yL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "14,56 €",
+      "original_price": "25,99 €",
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0FBRPVFTC?tag=enkairito-21",
-      "first_seen": "2026-09-14T00:22:00.458037+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B0FDTLRZSH",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Turtle Beach Airlite Fit Auriculares con Cable para Juegos en Gris carbón - con Licencia Oficial para los Nintendo Switch 2",
-      "image": "https://m.media-amazon.com/images/I/71AQO1Vfl-L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "21,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FDTLRZSH?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.912112+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B0GTZ2RP98",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "NYXI Hyperion 3 Mando para Switch 2 – Primer Mando Inalámbrico de Terceros para Switch 2, Hall Joystick, Pulsantes Mecánicos, Botón C, Giroscopio de 9 Ejes, Botones Traseros, Ergonomico",
-      "image": "https://m.media-amazon.com/images/I/717mBb4BY-L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "79,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0GTZ2RP98?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.912110+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B0F49DHSHJ",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Orzly Funda de Transporte para Consola Nintendo Switch 2 2025 de 7.9 Pulgadas, Funda rígida con Almacenamiento Inteligente para Accesorios y Bolsillos de Juegos, Edición de Caja de Regalo",
-      "image": "https://m.media-amazon.com/images/I/710-G9UKs4L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "22,48 €",
-      "original_price": "24,91 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F49DHSHJ?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.912114+00:00",
+      "link": "https://www.amazon.es/dp/B0DRX5SZQZ?tag=enkairito-21",
+      "first_seen": "2026-09-14T00:22:00.458029+00:00",
       "marketplace": "ES",
       "categories": [
         "Nintendo"
@@ -1416,17 +1344,17 @@
       "source": "nintendo"
     },
     {
-      "asin": "B09C29Y4D4",
+      "asin": "B076HT7KL3",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Remotto5 - Cargador para Mando de PS5 Inalámbrico - Batería Portátil para DualSense Juega Mientras Carga - Larga Duración +12 Horas de Autonomía - PS5 Accesorios",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51NKWB18ToL._AC_SX569_.jpg",
-      "price": "29,95 €",
+      "name": "Orzly Pack Esencial de Accesorios para Nintendo Switch [Incluye: Protectores de Pantalla, Cable USB, Funda para Consola, Estuche Tarjetas de Juego, Funda Comfort Grip, Auriculares] – Negro",
+      "image": "https://m.media-amazon.com/images/I/81e6se9NAuL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "29,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B09C29Y4D4?tag=enkairito-21",
-      "first_seen": "2026-09-14T18:21:06.097389+00:00",
+      "link": "https://www.amazon.es/dp/B076HT7KL3?tag=enkairito-21",
+      "first_seen": "2026-09-12T12:27:48.387073+00:00",
       "marketplace": "ES",
       "categories": [
         "Nintendo"
@@ -1434,17 +1362,17 @@
       "source": "nintendo"
     },
     {
-      "asin": "B0F1R2437T",
+      "asin": "B0DTQ35NH6",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Turtle Beach Airlite Fit Auriculares con Cable para Juegos en Neón Azul y Rojo con Licencia Oficial para Todos los Nintendo Switch",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/613iQwgjyHL._AC_SX569_.jpg",
-      "price": "24,42 €",
+      "name": "SanDisk Tarjeta microSD Express de 512 GB, hasta 880 MB/s de Velocidad de Lectura y hasta 650 MB/s de Escritura, con Velocidad de Escritura sostenida de 220 MB/s, U3, C10",
+      "image": "https://m.media-amazon.com/images/I/715+gEiTloL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "164,57 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0F1R2437T?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.362342+00:00",
+      "link": "https://www.amazon.es/dp/B0DTQ35NH6?tag=enkairito-21",
+      "first_seen": "2026-09-12T18:30:08.918656+00:00",
       "marketplace": "ES",
       "categories": [
         "Nintendo"
@@ -1452,17 +1380,17 @@
       "source": "nintendo"
     },
     {
-      "asin": "B0H4JHNX1M",
+      "asin": "B01N3374BH",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "NYXI Hyperion 3 Mando para Switch 2 – Primer Mando Inalámbrico de Terceros para Switch 2, Hall Joystick, Pulsantes Mecánicos, Botón C, Giroscopio de 9 Ejes, Botones Traseros, Ergonomico",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61Iv0Ie2xPL._AC_SX466_.jpg",
-      "price": "79,99 €",
+      "name": "Nintendo - Joy-Con Soporte Carga",
+      "image": "https://m.media-amazon.com/images/I/61S+mOZEsgL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "29,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0H4JHNX1M?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.912147+00:00",
+      "link": "https://www.amazon.es/dp/B01N3374BH?tag=enkairito-21",
+      "first_seen": "2026-09-15T20:34:05.436546+00:00",
       "marketplace": "ES",
       "categories": [
         "Nintendo"
@@ -1470,161 +1398,17 @@
       "source": "nintendo"
     },
     {
-      "asin": "B0BW3T9YBP",
+      "asin": "B0DHRWNMV2",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "8Bitdo Controlador de Juego Bluetooth SN30 PRO Compatible con Switch PC, Upgrade Hall Effect Joystick Gamepad Inalámbrico para PC, Windows, Android, macOS, Steam, Raspberry Pi (Transparencia Púrpura)",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71yYM3uVJOL._AC_SX466_.jpg",
-      "price": "48,99 €",
+      "name": "UPGRADE Mando para Switch/ Switch 2, Mando Inalámbrico con Gatillos de Recorrido, Batería 1000mAh, LED RGB/Gyro Axis/Turbo/Vibración/ Botones Programables, Mando Pro para Switch/PC/Android/iOS",
+      "image": "https://m.media-amazon.com/images/I/61gMtUcQScL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "25,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0BW3T9YBP?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.912132+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B0F1QWSCVH",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Turtle Beach Airlite Fit Auriculares con Cable para Juegos en Morado fantasmal con Licencia Oficial para Todos los Nintendo Switch",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61X4xz-lyuL._AC_SX569_.jpg",
-      "price": "18,19 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F1QWSCVH?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.912117+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B0F49RD95B",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Orzly Funda de Transporte para Consola Nintendo Switch 2 2025 de 7.9 Pulgadas, Funda rígida con Almacenamiento Inteligente para Accesorios y Bolsillos de Juegos, Edición de Caja de Regalo",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71lk---v84L._AC_SY445_.jpg",
-      "price": "27,07 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F49RD95B?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.912144+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B0BY8ZB72Z",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Funda protectora para Nintendo Switch OLED, carcasa con purpurina acoplable para PC con carcasa abatible compatible con consola Switch OLED, transparente",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71gqSr8ClBL._AC_SX679_.jpg",
-      "price": "14,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0BY8ZB72Z?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:58.478386+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B0GMRB7W9V",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Turtle Beach Airlite Fit Auriculares con Cable para Juegos en Mario Star con Licencia Oficial para Todos los Nintendo Switch: micrófono abatible y silenciable, Orejeras de Comodidad Superior",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71KlJtCMkaL._AC_SX569_.jpg",
-      "price": "24,90 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "4",
-      "link": "https://www.amazon.es/dp/B0GMRB7W9V?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.912134+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B0GWMFP4JT",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "NYXI Hyperion 3 Mando para Switch 2 – Primer Mando Inalámbrico de Terceros para Switch 2, Hall Joystick, Pulsantes Mecánicos, Botón C, Giroscopio de 9 Ejes, Botones Traseros, Ergonomico",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61Iv0Ie2xPL._AC_SX679_.jpg",
-      "price": "79,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0GWMFP4JT?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.912128+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B0F49FWKWZ",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Orzly Funda de Transporte para Consola Nintendo Switch 2 2025 de 7.9 Pulgadas, Funda rígida con Almacenamiento Inteligente para Accesorios y Bolsillos de Juegos, Edición de Caja de Regalo",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71nEd--ORXL._AC_SY445_.jpg",
-      "price": "27,07 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F49FWKWZ?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.912145+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B0F49CTJBW",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Orzly Funda de Transporte para Consola Nintendo Switch 2 2025 de 7.9 Pulgadas, Funda rígida con Almacenamiento Inteligente para Accesorios y Bolsillos de Juegos, Edición de Caja de Regalo",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71AGhkGwIhL._AC_SY445_.jpg",
-      "price": "27,07 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F49CTJBW?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.912125+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B0F1R6JH6M",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Turtle Beach Airlite Fit Auriculares con Cable para Juegos en Blanco y Negro con Licencia Oficial para Todos los Nintendo Switch",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61f0PijgTrL._AC_SX569_.jpg",
-      "price": "18,36 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F1R6JH6M?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.912123+00:00",
+      "link": "https://www.amazon.es/dp/B0DHRWNMV2?tag=enkairito-21",
+      "first_seen": "2026-09-15T20:34:05.436549+00:00",
       "marketplace": "ES",
       "categories": [
         "Nintendo"
@@ -1650,71 +1434,17 @@
       "source": "nintendo"
     },
     {
-      "asin": "B0F49F1Y99",
+      "asin": "B09V2RQ6R9",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Orzly Funda de Transporte para Consola Nintendo Switch 2 2025 de 7.9 Pulgadas, Funda rígida con Almacenamiento Inteligente para Accesorios y Bolsillos de Juegos, Edición de Caja de Regalo",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71gzlTkNEiL._AC_SY445_.jpg",
-      "price": "36,09 €",
+      "name": "AUTOUTLET Adaptador Wii a HDMI, Convertidor Wii Hdmi Cable Extensión de 20cm 1080P / 720P Full HD, Salida de Audio de 3,5mm y Cable HDMI de 1,8m, Indicador de Luz para Wii, Televisión Blanco",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51uReiljR2L._AC_SX569_.jpg",
+      "price": "14,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0F49F1Y99?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.912140+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B0D83WDY28",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "NYXI Warrior - Controlador Bluetooth para NSwitch/NGC/Wii/PC",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61vHHehhBsL._AC_SX466_.jpg",
-      "price": "69,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0D83WDY28?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.912142+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B0CFTJCFT2",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "NYXI Hyperion 3 Mando para Switch 2 – Primer Mando Inalámbrico de Terceros para Switch 2, Hall Joystick, Pulsantes Mecánicos, Botón C, Giroscopio de 9 Ejes, Botones Traseros, Ergonomico",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61Iv0Ie2xPL._AC_SX466_.jpg",
-      "price": "79,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0CFTJCFT2?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.912127+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B0F49Y9WH2",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Orzly Funda de Transporte para Consola Nintendo Switch 2 2025 de 7.9 Pulgadas, Funda rígida con Almacenamiento Inteligente para Accesorios y Bolsillos de Juegos, Edición de Caja de Regalo",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71cWqXrp-2L._AC_SY445_.jpg",
-      "price": "27,07 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F49Y9WH2?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.912138+00:00",
+      "link": "https://www.amazon.es/dp/B09V2RQ6R9?tag=enkairito-21",
+      "first_seen": "2026-09-15T20:34:05.436553+00:00",
       "marketplace": "ES",
       "categories": [
         "Nintendo"
@@ -1733,6 +1463,42 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B0H7JHWBYN?tag=enkairito-21",
       "first_seen": "2026-09-11T19:20:15.912136+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B09C29Y4D4",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Remotto5 - Cargador para Mando de PS5 Inalámbrico - Batería Portátil para DualSense Juega Mientras Carga - Larga Duración +12 Horas de Autonomía - PS5 Accesorios",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51NKWB18ToL._AC_SX569_.jpg",
+      "price": "29,95 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B09C29Y4D4?tag=enkairito-21",
+      "first_seen": "2026-09-14T18:21:06.097389+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B0BW3T9YBP",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "8Bitdo Controlador de Juego Bluetooth SN30 PRO Compatible con Switch PC, Upgrade Hall Effect Joystick Gamepad Inalámbrico para PC, Windows, Android, macOS, Steam, Raspberry Pi (Transparencia Púrpura)",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71yYM3uVJOL._AC_SX466_.jpg",
+      "price": "48,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0BW3T9YBP?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:20:15.912132+00:00",
       "marketplace": "ES",
       "categories": [
         "Nintendo"
