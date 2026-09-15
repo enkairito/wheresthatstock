@@ -26,6 +26,7 @@ const FLAG_ICONS = {
   ES: "/assets/flags/es.png",
   ECI: "/assets/flags/es.png",
   CAR: "/assets/flags/es.png",
+  FNAC: "/assets/flags/es.png",
   UK: "/assets/flags/gb.png",
   US: "/assets/flags/us.png",
 };
