@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T00:17:18.057669+00:00",
+  "updated_at": "2026-09-15T00:20:12.443887+00:00",
   "products": [
     {
       "asin": "B0CLRRG72H",
@@ -828,7 +828,7 @@
       "image": "https://m.media-amazon.com/images/I/614v99L42vL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
       "price": "214,98 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0BJW7XKY2?tag=enkairito-21",
       "first_seen": "2026-09-11T19:18:12.685970+00:00",
@@ -839,7 +839,7 @@
       "source": "playstation",
       "_src": "accesorios.json",
       "last_seen": "2026-09-14T18:20:43.861635+00:00",
-      "checked_at": "2026-09-14T18:20:43.861635+00:00"
+      "checked_at": "2026-09-15T00:20:12.443887+00:00"
     },
     {
       "asin": "B07W4X1F21",
@@ -849,7 +849,7 @@
       "image": "https://m.media-amazon.com/images/I/51PkqE9Kb6L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
       "price": "62,48 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B07W4X1F21?tag=enkairito-21",
       "first_seen": "2026-09-11T19:18:12.685972+00:00",
@@ -860,7 +860,7 @@
       "source": "playstation",
       "_src": "accesorios.json",
       "last_seen": "2026-09-14T18:20:43.861635+00:00",
-      "checked_at": "2026-09-14T18:20:43.861635+00:00"
+      "checked_at": "2026-09-15T00:20:12.443887+00:00"
     },
     {
       "asin": "B0F1QWSCVH",
@@ -891,8 +891,8 @@
       "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71gfdGLmqiL._AC_SX569_.jpg",
       "price": "28,99 €",
       "original_price": null,
-      "status": "compra_directa",
-      "stock": "1",
+      "status": "sin_confirmar",
+      "stock": null,
       "link": "https://www.amazon.es/dp/B084WQXL2N?tag=enkairito-21",
       "first_seen": "2026-09-11T19:18:12.685976+00:00",
       "marketplace": "ES",
@@ -902,7 +902,7 @@
       "source": "playstation",
       "_src": "accesorios.json",
       "last_seen": "2026-09-14T18:20:43.861635+00:00",
-      "checked_at": "2026-09-14T18:20:43.861635+00:00"
+      "checked_at": "2026-09-15T00:20:12.443887+00:00"
     },
     {
       "asin": "B0C813CQ2Y",
@@ -922,8 +922,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-14T18:20:43.861635+00:00",
-      "checked_at": "2026-09-14T18:20:43.861635+00:00"
+      "last_seen": "2026-09-15T00:20:12.443887+00:00",
+      "checked_at": "2026-09-15T00:20:12.443887+00:00"
     },
     {
       "asin": "B01N5OORGV",
@@ -2319,7 +2319,7 @@
       "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71MtuoeFemL._AC_SX569_.jpg",
       "price": "36,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0CSFRYL7C?tag=enkairito-21",
       "first_seen": "2026-09-12T00:28:04.018983+00:00",
@@ -2329,8 +2329,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-14T00:24:37.966241+00:00",
-      "checked_at": "2026-09-14T06:19:57.559446+00:00"
+      "last_seen": "2026-09-15T00:20:12.443887+00:00",
+      "checked_at": "2026-09-15T00:20:12.443887+00:00"
     },
     {
       "asin": "B0DGQWNTJT",
@@ -2760,7 +2760,7 @@
       "image": "https://m.media-amazon.com/images/I/61manEUHmgS._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
       "price": "7,99 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B08DLWRZ8V?tag=enkairito-21",
       "first_seen": "2026-09-12T00:28:04.018964+00:00",
@@ -2771,7 +2771,7 @@
       "source": "playstation",
       "_src": "accesorios.json",
       "last_seen": "2026-09-14T18:20:43.861635+00:00",
-      "checked_at": "2026-09-14T18:20:43.861635+00:00"
+      "checked_at": "2026-09-15T00:20:12.443887+00:00"
     },
     {
       "asin": "B0DT1C2X3F",
@@ -2800,9 +2800,9 @@
       "flag": "🇪🇸",
       "name": "Logitech G Astro A50 Lightspeed Auriculares inalámbricos de Gaming + Base",
       "image": "https://m.media-amazon.com/images/I/71I-Vg61hZL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "227,00 €",
+      "price": "228,98 €",
       "original_price": "299,99 €",
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0DBJ5PBLT?tag=enkairito-21",
       "first_seen": "2026-09-12T00:28:04.018968+00:00",
@@ -2812,8 +2812,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-12T12:27:13.470687+00:00",
-      "checked_at": "2026-09-12T18:20:05.506488+00:00"
+      "last_seen": "2026-09-15T00:20:12.443887+00:00",
+      "checked_at": "2026-09-15T00:20:12.443887+00:00"
     },
     {
       "asin": "B01LBH9ILW",
@@ -2907,7 +2907,7 @@
       "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71CZn1Ys8wL._AC_SX569_.jpg",
       "price": "154,83 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0FJ23MY4G?tag=enkairito-21",
       "first_seen": "2026-09-12T00:28:04.018981+00:00",
@@ -2917,8 +2917,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-12T12:27:13.470687+00:00",
-      "checked_at": "2026-09-12T18:20:05.506488+00:00"
+      "last_seen": "2026-09-15T00:20:12.443887+00:00",
+      "checked_at": "2026-09-15T00:20:12.443887+00:00"
     },
     {
       "asin": "B0FNCRX771",
@@ -2970,7 +2970,7 @@
       "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/715LtINUZlL._AC_SX569_.jpg",
       "price": "369,00 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0FLDXCWRL?tag=enkairito-21",
       "first_seen": "2026-09-12T00:28:04.019002+00:00",
@@ -2980,8 +2980,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-12T12:27:13.470687+00:00",
-      "checked_at": "2026-09-12T18:20:05.506488+00:00"
+      "last_seen": "2026-09-15T00:20:12.443887+00:00",
+      "checked_at": "2026-09-15T00:20:12.443887+00:00"
     },
     {
       "asin": "B0F1R9WVGN",
@@ -3366,21 +3366,21 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "AceGamer 2 Pack Mando Inalámbrico para PS4，Mando de Juego para PS4/Pro/Slim/PC，Gamepad Joystick con Turbo/Botón Trasero/Doble Vibración/6-Axis Sensor Giroscópico/Panel Táctil (Blanco o negro)",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71fwtZ18eoL._AC_SX569_.jpg",
-      "price": "35,99 €",
+      "image": "https://m.media-amazon.com/images/I/71fwtZ18eoL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "35,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0DK1NY4LW?tag=enkairito-21",
-      "first_seen": "2026-09-12T18:30:08.918658+00:00",
+      "first_seen": "2026-09-12T12:27:13.469392+00:00",
       "marketplace": "ES",
       "categories": [
-        "Nintendo"
+        "PlayStation"
       ],
-      "source": "nintendo",
+      "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-12T18:30:08.920168+00:00",
-      "checked_at": "2026-09-13T00:21:41.608711+00:00"
+      "last_seen": "2026-09-15T00:20:12.443887+00:00",
+      "checked_at": "2026-09-15T00:20:12.443887+00:00"
     },
     {
       "asin": "B07L7W4SRT",
@@ -3474,7 +3474,7 @@
       "image": "https://m.media-amazon.com/images/I/61RTcBJWQVL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
       "price": "116,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B07D28WVGG?tag=enkairito-21",
       "first_seen": "2026-09-12T12:27:13.469390+00:00",
@@ -3484,8 +3484,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-12T18:25:09.103656+00:00",
-      "checked_at": "2026-09-13T00:24:23.876009+00:00"
+      "last_seen": "2026-09-15T00:20:12.443887+00:00",
+      "checked_at": "2026-09-15T00:20:12.443887+00:00"
     },
     {
       "asin": "B0B2SG31P7",
@@ -3516,7 +3516,7 @@
       "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61s0+bu09CL._AC_SX569_.jpg",
       "price": "37,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0FQBGW3QF?tag=enkairito-21",
       "first_seen": "2026-09-12T12:27:13.469398+00:00",
@@ -3526,8 +3526,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-12T12:27:13.470687+00:00",
-      "checked_at": "2026-09-12T18:20:05.506488+00:00"
+      "last_seen": "2026-09-15T00:20:12.443887+00:00",
+      "checked_at": "2026-09-15T00:20:12.443887+00:00"
     },
     {
       "asin": "B0CX4TB46R",
@@ -3663,18 +3663,18 @@
       "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61wDnEEGSPL._AC_SX679_.jpg",
       "price": "8,21 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B085DNDLC1?tag=enkairito-21",
-      "first_seen": "2026-09-12T06:29:23.882192+00:00",
+      "first_seen": "2026-09-12T06:27:49.066550+00:00",
       "marketplace": "ES",
       "categories": [
-        "Nintendo"
+        "PlayStation"
       ],
-      "source": "nintendo",
+      "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-14T06:23:10.442248+00:00",
-      "checked_at": "2026-09-14T12:21:43.541198+00:00"
+      "last_seen": "2026-09-15T00:20:12.443887+00:00",
+      "checked_at": "2026-09-15T00:20:12.443887+00:00"
     },
     {
       "asin": "B0DDTPX5DY",
@@ -3747,7 +3747,7 @@
       "image": "https://m.media-amazon.com/images/I/71bUCIZHN-L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
       "price": "145,00 €",
       "original_price": "149,99 €",
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0FH7FZQ36?tag=enkairito-21",
       "first_seen": "2026-09-12T18:25:09.102651+00:00",
@@ -3758,7 +3758,7 @@
       "source": "playstation",
       "_src": "accesorios.json",
       "last_seen": "2026-09-14T18:20:43.861635+00:00",
-      "checked_at": "2026-09-14T18:20:43.861635+00:00"
+      "checked_at": "2026-09-15T00:20:12.443887+00:00"
     },
     {
       "asin": "B0F9YCF9WD",
@@ -4431,6 +4431,27 @@
       "_src": "accesorios.json",
       "last_seen": "2026-09-14T18:21:06.098886+00:00",
       "checked_at": "2026-09-14T18:21:06.098886+00:00"
+    },
+    {
+      "asin": "B0HFVP4VQS",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Playstation Mando Inalámbrico DualSense® – Edición Especial Icon Blue",
+      "image": "https://m.media-amazon.com/images/I/6156Ryp6L0L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "84,99 €",
+      "original_price": null,
+      "status": "preventa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0HFVP4VQS?tag=enkairito-21",
+      "first_seen": "2026-09-15T00:20:12.441096+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation",
+      "_src": "accesorios.json",
+      "last_seen": "2026-09-15T00:20:12.443887+00:00",
+      "checked_at": "2026-09-15T00:20:12.443887+00:00"
     }
   ]
 }
