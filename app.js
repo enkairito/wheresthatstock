@@ -22,11 +22,14 @@ const discountRangeEl = document.getElementById("discount-range");
 const sortSelectEl = document.getElementById("sort-select");
 
 let activeStatuses = new Set(["compra_directa", "invitacion", "preventa"]);
-let activeMarketplaces = new Set(["ES", "UK", "US", "ECI"]);
-// Las categorías varían según la página (Pokémon TCG, One Piece TCG,
-// Accesorios...), así que se leen directamente de los checkboxes presentes
-// en el sidebar en vez de una lista fija — activeCategories arranca con
-// los que ya vienen marcados como "checked" en el HTML de cada página.
+// Las tiendas y categorías varían según la página (Pokémon TCG tiene
+// Amazon ES/UK/US/ECI/Carrefour/Fnac; otros juegos solo Amazon ES; etc.),
+// así que ambas se leen directamente de los checkboxes presentes en el
+// sidebar en vez de una lista fija — arrancan con los que ya vienen
+// marcados como "checked" en el HTML de cada página.
+let activeMarketplaces = new Set(
+  [...document.querySelectorAll(".sidebar input[data-marketplace]:checked")].map(cb => cb.dataset.marketplace)
+);
 let activeCategories = new Set(
   [...document.querySelectorAll(".sidebar input[data-category]:checked")].map(cb => cb.dataset.category)
 );
@@ -118,7 +121,7 @@ window.addEventListener("popstate", () => {
   applyFilter();
 });
 
-const MARKETPLACE_SORT_PRIORITY = { ES: 0, ECI: 1, US: 2, UK: 3 };
+const MARKETPLACE_SORT_PRIORITY = { ES: 0, ECI: 1, CAR: 2, FNAC: 3, US: 4, UK: 5 };
 
 function sortProducts(products) {
   const sorted = products.slice();
@@ -165,11 +168,11 @@ function applyFilter() {
 }
 
 const ALL_STATUSES = ["compra_directa", "invitacion", "preventa"];
-const ALL_MARKETPLACES = ["ES", "UK", "US", "ECI"];
+const ALL_MARKETPLACES = [...document.querySelectorAll(".sidebar input[data-marketplace]")].map(cb => cb.dataset.marketplace);
 const ALL_GAMES = [...document.querySelectorAll(".sidebar input[data-game]")].map(cb => cb.dataset.game);
 const ALL_CATEGORIES = [...document.querySelectorAll(".sidebar input[data-category]")].map(cb => cb.dataset.category);
 const STATUS_FILTER_LABEL = { compra_directa: "Disponible", invitacion: "Invitación", preventa: "Preventa" };
-const MARKETPLACE_FILTER_LABEL = { ES: "Amazon ES", UK: "Amazon UK", US: "Amazon USA", ECI: "El Corte Inglés" };
+const MARKETPLACE_FILTER_LABEL = { ES: "Amazon ES", UK: "Amazon UK", US: "Amazon USA", ECI: "El Corte Inglés", CAR: "Carrefour", FNAC: "Fnac" };
 
 function renderActiveFilters() {
   const container = document.getElementById("active-filters");
