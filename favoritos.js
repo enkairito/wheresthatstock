@@ -1,6 +1,6 @@
 const favoriteGrid = document.getElementById("favorite-grid");
 const favoriteSearch = document.getElementById("favorite-search");
-const favoriteSources = [...GAME_SOURCES, "accesorios.json"];
+const favoriteSources = [...GAME_SOURCES, ...GAMING_SOURCES, "accesorios.json"];
 const favoriteCatalog = new Map();
 let favoritesLoading = true;
 favoriteSearch.value = new URLSearchParams(location.search).get("q") || "";
