@@ -38,6 +38,8 @@ const STORE_ICONS = {
   UK: "/assets/amazon-logo.png",
   US: "/assets/amazon-logo.png",
   ECI: "/assets/eci-logo.webp",
+  CAR: "/assets/carrefour-logo.svg",
+  FNAC: "/assets/fnac-logo.svg",
 };
 
 const HTML_ESCAPES = { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" };
