@@ -1070,9 +1070,9 @@ header { background: var(--card-bg); }
 .welcome h1 { font-size: clamp(2.2rem, 4.2vw, 3.75rem); letter-spacing: -.055em; line-height: 1.08; font-weight: 650; margin: 0 0 20px; max-width: 700px; }
 .welcome > p:last-child { color: var(--muted); font-size: .95rem; line-height: 1.7; margin: 0; }
 .category-grid { grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 12px; padding-bottom: 40px; margin-bottom: 44px; }
-.category-card { min-height: 156px; padding: 20px 14px; gap: 14px; align-items: center; justify-content: center; border-width: 1px; border-radius: 10px; box-shadow: none; text-align: center; }
+.category-card { min-height: 176px; padding: 20px 14px; gap: 14px; align-items: center; justify-content: center; border-width: 1px; border-radius: 10px; box-shadow: none; text-align: center; }
 .category-card:hover { transform: translateY(-2px); box-shadow: none; }
-.category-img { height: 64px; max-width: 150px; border-radius: 6px; margin: 0; background: #fff; padding: 6px; }
+.category-img { height: 92px; max-width: 200px; border-radius: 6px; margin: 0; background: #fff; padding: 6px; }
 .category-card h2 { font-size: .74rem; font-weight: 550; letter-spacing: -.015em; }
 .category-card p { display: none; }
 .category-placeholder-icon { margin: 0; }
@@ -1134,8 +1134,8 @@ footer { border-top: 1px solid var(--border); font-weight: 400; padding: 36px 24
   .brand-name { font-size: 1.05rem; }
   .brand-tag { font-size: .64rem; }
   .category-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; padding-bottom: 28px; margin-bottom: 32px; }
-  .category-card { min-height: 124px; padding: 16px 12px; }
-  .category-img { height: 52px; }
+  .category-card { min-height: 136px; padding: 16px 12px; }
+  .category-img { height: 68px; }
   .home-section-header { align-items: flex-start; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; }
   .home-section-header h2 { font-size: 1.2rem; }
   .card-body { padding: 12px; gap: 8px; }
