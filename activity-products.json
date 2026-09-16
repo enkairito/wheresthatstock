@@ -1,97 +1,5 @@
 [
   {
-    "asin": "B0D4B515H1",
-    "store_label": "Amazon USA",
-    "flag": "🇺🇸",
-    "name": "Pokémon TCG: Escarlata y Violeta - Mini Lata de fábula Envuelta - Okidogi (2 Paquetes de Refuerzo y 1 Hoja de calcomanías)",
-    "image": "https://m.media-amazon.com/images/I/71bnvFQsfFL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "54,87 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": "2",
-    "link": "https://www.amazon.es/dp/B0D4B515H1?tag=enkairito-21",
-    "first_seen": "2026-09-08T14:34:56.335952+00:00",
-    "marketplace": "US",
-    "categories": [
-      "Latas"
-    ],
-    "game": "Pokémon",
-    "ts": "2026-09-16T05:03:22.113579+00:00",
-    "type": "restock",
-    "prev_price": "54,87 €",
-    "_src": "products.json",
-    "id": "US-B0D4B515H1:2026-09-16T05:03:22.113579+00:00:restock"
-  },
-  {
-    "asin": "B0FS98MMML",
-    "store_label": "Amazon USA",
-    "flag": "🇺🇸",
-    "name": "Pokémon TCG: Booster Pack de 10 Cartas Mega Evolution Flames Phantasmal Mangas",
-    "image": "https://m.media-amazon.com/images/I/71r-eHgKChL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "35,92 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0FS98MMML?tag=enkairito-21",
-    "first_seen": "2026-09-04T22:05:43.537336+00:00",
-    "marketplace": "US",
-    "categories": [
-      "Otros"
-    ],
-    "game": "Pokémon",
-    "ts": "2026-09-16T05:03:22.113579+00:00",
-    "type": "restock",
-    "prev_price": "35,92 €",
-    "_src": "products.json",
-    "id": "US-B0FS98MMML:2026-09-16T05:03:22.113579+00:00:restock"
-  },
-  {
-    "asin": "B0CQD9VBWS",
-    "store_label": "Amazon USA",
-    "flag": "🇺🇸",
-    "name": "Pokemon Scarlet & Violet 151 | Booster Pack",
-    "image": "https://m.media-amazon.com/images/I/71OpkVSvZ1L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "65,73 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0CQD9VBWS?tag=enkairito-21",
-    "first_seen": "2026-09-04T21:32:58.802915+00:00",
-    "marketplace": "US",
-    "categories": [
-      "Otros"
-    ],
-    "game": "Pokémon",
-    "ts": "2026-09-16T05:03:22.113579+00:00",
-    "type": "restock",
-    "prev_price": "65,73 €",
-    "_src": "products.json",
-    "id": "US-B0CQD9VBWS:2026-09-16T05:03:22.113579+00:00:restock"
-  },
-  {
-    "asin": "B0DG6PSWN1",
-    "store_label": "Amazon USA",
-    "flag": "🇺🇸",
-    "name": "Pokemon TCG: Trick or Trade Booster Bundle (2024) - 35 Paquetes",
-    "image": "https://m.media-amazon.com/images/I/51gM1Egne-L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "136,50 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0DG6PSWN1?tag=enkairito-21",
-    "first_seen": "2026-09-04T21:32:58.802853+00:00",
-    "marketplace": "US",
-    "categories": [
-      "Otros"
-    ],
-    "game": "Pokémon",
-    "ts": "2026-09-16T05:03:22.113579+00:00",
-    "type": "restock",
-    "prev_price": "136,50 €",
-    "_src": "products.json",
-    "id": "US-B0DG6PSWN1:2026-09-16T05:03:22.113579+00:00:restock"
-  },
-  {
     "asin": "B0CS12GPTB",
     "store_label": "Amazon USA",
     "flag": "🇺🇸",
@@ -4598,5 +4506,97 @@
     "prev_price": "89,25 €",
     "_src": "products.json",
     "id": "UK-B0FK2BN732:2026-09-16T13:43:02.242810+00:00:restock"
+  },
+  {
+    "asin": "B0DB7C1Z26",
+    "store_label": "Amazon UK",
+    "flag": "🇬🇧",
+    "name": "Pokémon Juego de cartas Pokémon Escarlata y Violeta, paquete de expansión, caja de compañeros de batalla (30 paquetes en japonés)",
+    "image": "https://m.media-amazon.com/images/I/81TD+vNJcJL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "116,27 €",
+    "original_price": "122,62 €",
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0DB7C1Z26?tag=enkairito-21",
+    "first_seen": "2026-09-04T21:32:58.802636+00:00",
+    "marketplace": "UK",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-16T14:03:10.196534+00:00",
+    "type": "price_drop",
+    "prev_price": "116,31 €",
+    "_src": "products.json",
+    "id": "UK-B0DB7C1Z26:2026-09-16T14:03:10.196534+00:00:price_drop"
+  },
+  {
+    "asin": "B0DLTZPNR2",
+    "store_label": "Amazon UK",
+    "flag": "🇬🇧",
+    "name": "Pokemon TCG Surging Spark – Single Booster Pack – Pack Art May Vary",
+    "image": "https://m.media-amazon.com/images/I/51REXB8bUgL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "26,70 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0DLTZPNR2?tag=enkairito-21",
+    "first_seen": "2026-09-06T13:57:50.628806+00:00",
+    "marketplace": "UK",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-16T14:03:10.196534+00:00",
+    "type": "restock",
+    "prev_price": "26,70 €",
+    "_src": "products.json",
+    "id": "UK-B0DLTZPNR2:2026-09-16T14:03:10.196534+00:00:restock"
+  },
+  {
+    "asin": "B0FTSVL3Z6",
+    "store_label": "Amazon UK",
+    "flag": "🇬🇧",
+    "name": "Pokemon Mega Brave m1L Caja Booster Coreana 30 Sobres Cartas Originales",
+    "image": "https://m.media-amazon.com/images/I/61WBVRC6e8L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "77,43 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0FTSVL3Z6?tag=enkairito-21",
+    "first_seen": "2026-09-05T09:45:25.209821+00:00",
+    "marketplace": "UK",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-16T14:03:10.196534+00:00",
+    "type": "restock",
+    "prev_price": "77,43 €",
+    "_src": "products.json",
+    "id": "UK-B0FTSVL3Z6:2026-09-16T14:03:10.196534+00:00:restock"
+  },
+  {
+    "asin": "B0D4B515H1",
+    "store_label": "Amazon USA",
+    "flag": "🇺🇸",
+    "name": "Pokémon TCG: Escarlata y Violeta - Mini Lata de fábula Envuelta - Okidogi (2 Paquetes de Refuerzo y 1 Hoja de calcomanías)",
+    "image": "https://m.media-amazon.com/images/I/71bnvFQsfFL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "54,87 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": "2",
+    "link": "https://www.amazon.es/dp/B0D4B515H1?tag=enkairito-21",
+    "first_seen": "2026-09-08T14:34:56.335952+00:00",
+    "marketplace": "US",
+    "categories": [
+      "Latas"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-16T14:03:10.196534+00:00",
+    "type": "restock",
+    "prev_price": "54,87 €",
+    "_src": "products.json",
+    "id": "US-B0D4B515H1:2026-09-16T14:03:10.196534+00:00:restock"
   }
 ]
