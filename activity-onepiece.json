@@ -1,28 +1,5 @@
 [
   {
-    "asin": "B0GDHHS7CR",
-    "store_label": "Amazon ES",
-    "flag": "🇪🇸",
-    "name": "One Piece TCG - Juego de Lata Vol. 2-2 Paquetes (Arte al Azar)",
-    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51y8FNPfD0L._AC_UL320_.jpg",
-    "price": "101,01 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": "1",
-    "link": "https://www.amazon.es/dp/B0GDHHS7CR?tag=enkairito-21",
-    "first_seen": "2026-08-31T22:30:46.273546+00:00",
-    "marketplace": "ES",
-    "categories": [
-      "Otros"
-    ],
-    "game": "One Piece",
-    "ts": "2026-09-09T18:29:30.823528+00:00",
-    "type": "restock",
-    "prev_price": "101,01 €",
-    "_src": "onepiece.json",
-    "id": "ES-B0GDHHS7CR:2026-09-09T18:29:30.823528+00:00:restock"
-  },
-  {
     "asin": "B0HC7Q9P41",
     "store_label": "Amazon ES",
     "flag": "🇪🇸",
@@ -4598,5 +4575,28 @@
     "prev_price": "135,19 €",
     "_src": "onepiece.json",
     "id": "ES-B0G2VKBZML:2026-09-16T19:06:09.894711+00:00:price_drop"
+  },
+  {
+    "asin": "B0HC7FPQJM",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Juego de cartas de una pieza ST-31 Red Monkey.D.Luffy",
+    "image": "https://m.media-amazon.com/images/I/61vgXOSYfBL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "35,20 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": "2",
+    "link": "https://www.amazon.es/dp/B0HC7FPQJM?tag=enkairito-21",
+    "first_seen": "2026-08-29T18:08:43.440854+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Starter Deck"
+    ],
+    "game": "One Piece",
+    "ts": "2026-09-16T20:06:19.120878+00:00",
+    "type": "restock",
+    "prev_price": "35,20 €",
+    "_src": "onepiece.json",
+    "id": "ES-B0HC7FPQJM:2026-09-16T20:06:19.120878+00:00:restock"
   }
 ]
