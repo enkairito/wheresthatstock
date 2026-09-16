@@ -1,28 +1,5 @@
 [
   {
-    "asin": "B0FHRP6Q4F",
-    "store_label": "Amazon ES",
-    "flag": "🇪🇸",
-    "name": "EA SPORTS FC 26 - Xbox S│X Standard Edition - Código de descarga",
-    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71yxSqPYACL._AC_SY741_.jpg",
-    "price": "79,99 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0FHRP6Q4F?tag=enkairito-21",
-    "first_seen": "2026-09-11T19:25:04.811505+00:00",
-    "marketplace": "ES",
-    "categories": [
-      "Videojuego"
-    ],
-    "game": "Xbox",
-    "ts": "2026-09-12T00:28:11.205292+00:00",
-    "type": "restock",
-    "prev_price": "79,99 €",
-    "_src": "xbox.json",
-    "id": "ES-B0FHRP6Q4F:2026-09-12T00:28:11.205292+00:00:restock"
-  },
-  {
     "asin": "B0H89Y1JST",
     "store_label": "Amazon ES",
     "flag": "🇪🇸",
@@ -4598,5 +4575,28 @@
     "prev_price": "99,99 €",
     "_src": "xbox.json",
     "id": "ES-B0FGLP3YGY:2026-09-16T16:33:33.687385+00:00:restock"
+  },
+  {
+    "asin": "B09C92RJN7",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Xbox Cascos Stereo Series X|S",
+    "image": "https://m.media-amazon.com/images/I/61MGCuPYTHL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "59,99 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": "2",
+    "link": "https://www.amazon.es/dp/B09C92RJN7?tag=enkairito-21",
+    "first_seen": "2026-09-12T00:28:11.204384+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Videojuego"
+    ],
+    "game": "Xbox",
+    "ts": "2026-09-16T18:32:53.596665+00:00",
+    "type": "restock",
+    "prev_price": "59,99 €",
+    "_src": "xbox.json",
+    "id": "ES-B09C92RJN7:2026-09-16T18:32:53.596665+00:00:restock"
   }
 ]

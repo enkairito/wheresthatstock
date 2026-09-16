@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T18:17:09.000057+00:00",
+  "updated_at": "2026-09-16T18:32:53.597051+00:00",
   "source_updates": {
     "accessories": "2026-09-16T06:02:52.069970+00:00",
     "onepiece": "2026-09-16T18:06:18.157608+00:00",
@@ -8,7 +8,7 @@
     "yugioh": "2026-09-16T18:17:09.000057+00:00",
     "playstation": "2026-09-16T16:33:57.521969+00:00",
     "nintendo": "2026-09-16T16:36:07.529443+00:00",
-    "xbox": "2026-09-16T16:33:33.687847+00:00"
+    "xbox": "2026-09-16T18:32:53.597051+00:00"
   },
   "products": [
     {
@@ -586,330 +586,6 @@
         "Sin asociar"
       ],
       "source": "accessories"
-    },
-    {
-      "asin": "B0F2NC69KK",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Xbox Wireless Controller Carbon Black Series X|S, One, Windows 10/11, iOS y Android",
-      "image": "https://m.media-amazon.com/images/I/61UqcXRyUCL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "59,99 €",
-      "original_price": "64,99 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F2NC69KK?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:34:33.318875+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0B7RPXSYB",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Mcbazel Xbox Series X Soporte de refrigeración con luz RGB/ Función de refrigeración ajustable/ Indicador LED / Puertos USB 3.0 /USB 2.0",
-      "image": "https://m.media-amazon.com/images/I/71xnO+TRKyL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "26,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0B7RPXSYB?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:34:33.318878+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B09FGM3DVQ",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Mcbazel Cubierta antipolvo para consola Xbox Series X, funda protectora antiarañazos suave para consola Xbox Series X, color negro",
-      "image": "https://m.media-amazon.com/images/I/71Vx2VzM4YL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "8,49 €",
-      "original_price": "9,99 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B09FGM3DVQ?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:34:33.318882+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B08K9WQ849",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Venom Base de carga doble con 2 paquetes de baterías recargables - Negro (Xbox Series X y S/Xbox One)",
-      "image": "https://m.media-amazon.com/images/I/51X+RWW5d6L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "24,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B08K9WQ849?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:34:33.318887+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B09XMRC72P",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "G-STORY Ventilador para Xbox Serie X con velocidad automática del ventilador ajustable por temperatura, pantalla LED,3 velocidades 1500/1750/2000RPM (140MM)(Negra)",
-      "image": "https://m.media-amazon.com/images/I/61XxnNB9R1L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "35,99 €",
-      "original_price": "45,99 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B09XMRC72P?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:34:33.318889+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0HDQ2LRS9",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Xbox Mando inalámbrico Gears of War: Edición Limitada E-Day Series X|S, One, PCs, televisores, móviles y más",
-      "image": "https://m.media-amazon.com/images/I/716kFNJ20xL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "89,99 €",
-      "original_price": null,
-      "status": "preventa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0HDQ2LRS9?tag=enkairito-21",
-      "first_seen": "2026-09-16T06:35:30.156933+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0B9GJLV2D",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Xbox Wireless Controller Elite Series 2 White Series X|S, One, Windows 10/11, iOS y Android",
-      "image": "https://m.media-amazon.com/images/I/61pkDofPhAL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "139,99 €",
-      "original_price": "149,99 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0B9GJLV2D?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:34:33.318880+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0FHHFBDNQ",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "GameSir G7 Pro Mando 1000Hz con Estación de Carga para Xbox Series X|S, Xbox One, Windows 10/11 & Android – Joysticks TMR, Gatillos Ajustables & 4 Botones Programables – Shadow Ember",
-      "image": "https://m.media-amazon.com/images/I/71-wtZ5RihL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "99,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FHHFBDNQ?tag=enkairito-21",
-      "first_seen": "2026-09-12T12:31:08.174481+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B08TWV3BXB",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "JOREST Kit de Desmontar Xbox one/360/X PS4 PS5 PS3, 25pcs Set Limpieza, Herramienta Reparacion para Mando y Consola, con Destornillador PH0 y Torx T6 T8 T10, Palanca, Pinzas, Cepillo",
-      "image": "https://m.media-amazon.com/images/I/81DIywY2akL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "10,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B08TWV3BXB?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:34:33.318893+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0CMGN9Z8H",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "HELLCOOL Play y Kit de Carga USB Bateria para Mando Xbox One/Xbox Series, 2X4800mWh Bateria Compatible con la Mando Xbox One S/X/Elite, Xbox Series X/S, 12 Horas de Juego",
-      "image": "https://m.media-amazon.com/images/I/81kFG3GED-L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "21,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0CMGN9Z8H?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:11.204492+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0F1R9WVGN",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Turtle Beach Rematch Core Camo Negro/Verde - Gamepad con cable - Con licencia para Xbox Series XS, Xbox One y PC - Botones de audio, motores de vibración y disparadores de pulso, cable de 3 m",
-      "image": "https://m.media-amazon.com/images/I/61KomYEkQmL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "24,99 €",
-      "original_price": "29,99 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F1R9WVGN?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:11.204489+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0F2N88V46",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Xbox Wireless Controller Deep Pink Series X|S, One, Windows 10/11, iOS y Android",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71GXor5xRAL._AC_SX679_.jpg",
-      "price": "64,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F2N88V46?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:34:33.318909+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0F2N8F45T",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Xbox Wireless Controller Green Series X|S, One, Windows 10/11, iOS y Android",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71S4+Yy7SbL._AC_SX679_.jpg",
-      "price": "61,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F2N8F45T?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:34:33.318898+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0FKGT9YN6",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Xbox Mando inalámbrico Heart Breaker Special Edition Series X|S, One, PC y dispositivos habilitados para la nube",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71M7CxIFX6L._AC_SX466_.jpg",
-      "price": "74,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FKGT9YN6?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:34:33.318907+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B07SR4R8K1",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Xbox Wireless Controller Elite Series 2 Black para Xbox Series X|S, Xbox One, Windows 10/11, iOS y Android",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71MzpSkuIRL._AC_SX466_.jpg",
-      "price": "185,00 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B07SR4R8K1?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:34:33.318903+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0F2N6R6WS",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Xbox Wireless Controller Shock Blue Series X|S, One, Windows 10/11, iOS y Android",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71cf+ka9cmL._AC_SX679_.jpg",
-      "price": "64,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F2N6R6WS?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:34:33.318901+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0FKGVK6KK",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Xbox Mando inalámbrico Ice Breaker Special Edition Series X|S, One, PC y dispositivos habilitados para la nube",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71Js3hjffrL._AC_SX466_.jpg",
-      "price": "79,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FKGVK6KK?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:34:33.318911+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0FD41XC3P",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "GameSir G7 Pro Mando 1000Hz con Estación de Carga: Xbox Series X|S, Xbox One, Win 10/11 & Android - Joysticks TMR, Gatillos Ajustables & 4 Botones Programables - Blanco Mec",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/719XHbmvmBL._AC_SX679_.jpg",
-      "price": "99,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FD41XC3P?tag=enkairito-21",
-      "first_seen": "2026-09-12T12:31:08.174522+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
     },
     {
       "asin": "B0BS1MLFML",
@@ -1648,6 +1324,348 @@
         "Yu-Gi-Oh!"
       ],
       "source": "yugioh"
+    },
+    {
+      "asin": "B0F2NC69KK",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Xbox Wireless Controller Carbon Black Series X|S, One, Windows 10/11, iOS y Android",
+      "image": "https://m.media-amazon.com/images/I/61UqcXRyUCL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "59,99 €",
+      "original_price": "64,99 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F2NC69KK?tag=enkairito-21",
+      "first_seen": "2026-09-16T10:34:33.318875+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0B7RPXSYB",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Mcbazel Xbox Series X Soporte de refrigeración con luz RGB/ Función de refrigeración ajustable/ Indicador LED / Puertos USB 3.0 /USB 2.0",
+      "image": "https://m.media-amazon.com/images/I/71xnO+TRKyL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "26,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0B7RPXSYB?tag=enkairito-21",
+      "first_seen": "2026-09-16T10:34:33.318878+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0B9GJLV2D",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Xbox Wireless Controller Elite Series 2 White Series X|S, One, Windows 10/11, iOS y Android",
+      "image": "https://m.media-amazon.com/images/I/61pkDofPhAL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "139,99 €",
+      "original_price": "149,99 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0B9GJLV2D?tag=enkairito-21",
+      "first_seen": "2026-09-16T10:34:33.318880+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B09FGM3DVQ",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Mcbazel Cubierta antipolvo para consola Xbox Series X, funda protectora antiarañazos suave para consola Xbox Series X, color negro",
+      "image": "https://m.media-amazon.com/images/I/71Vx2VzM4YL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "8,49 €",
+      "original_price": "9,99 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B09FGM3DVQ?tag=enkairito-21",
+      "first_seen": "2026-09-16T10:34:33.318882+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0HDQ2LRS9",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Xbox Mando inalámbrico Gears of War: Edición Limitada E-Day Series X|S, One, PCs, televisores, móviles y más",
+      "image": "https://m.media-amazon.com/images/I/716kFNJ20xL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "89,99 €",
+      "original_price": null,
+      "status": "preventa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0HDQ2LRS9?tag=enkairito-21",
+      "first_seen": "2026-09-16T06:35:30.156933+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B09XMRC72P",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "G-STORY Ventilador para Xbox Serie X con velocidad automática del ventilador ajustable por temperatura, pantalla LED,3 velocidades 1500/1750/2000RPM (140MM)(Negra)",
+      "image": "https://m.media-amazon.com/images/I/61XxnNB9R1L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "35,99 €",
+      "original_price": "45,99 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B09XMRC72P?tag=enkairito-21",
+      "first_seen": "2026-09-16T10:34:33.318889+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B08K9WQ849",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Venom Base de carga doble con 2 paquetes de baterías recargables - Negro (Xbox Series X y S/Xbox One)",
+      "image": "https://m.media-amazon.com/images/I/51X+RWW5d6L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "24,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B08K9WQ849?tag=enkairito-21",
+      "first_seen": "2026-09-16T10:34:33.318887+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0DGQWNTJT",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Xbox Auriculares inalámbricos – Series X|S, Xbox One y dispositivos Windows",
+      "image": "https://m.media-amazon.com/images/I/71bRRiH6HDL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "106,00 €",
+      "original_price": "109,99 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DGQWNTJT?tag=enkairito-21",
+      "first_seen": "2026-09-16T10:34:33.318891+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0FHHFBDNQ",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "GameSir G7 Pro Mando 1000Hz con Estación de Carga para Xbox Series X|S, Xbox One, Windows 10/11 & Android – Joysticks TMR, Gatillos Ajustables & 4 Botones Programables – Shadow Ember",
+      "image": "https://m.media-amazon.com/images/I/71-wtZ5RihL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "99,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FHHFBDNQ?tag=enkairito-21",
+      "first_seen": "2026-09-12T12:31:08.174481+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B08TWV3BXB",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "JOREST Kit de Desmontar Xbox one/360/X PS4 PS5 PS3, 25pcs Set Limpieza, Herramienta Reparacion para Mando y Consola, con Destornillador PH0 y Torx T6 T8 T10, Palanca, Pinzas, Cepillo",
+      "image": "https://m.media-amazon.com/images/I/81DIywY2akL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "10,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B08TWV3BXB?tag=enkairito-21",
+      "first_seen": "2026-09-16T10:34:33.318893+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0F1R9WVGN",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Turtle Beach Rematch Core Camo Negro/Verde - Gamepad con cable - Con licencia para Xbox Series XS, Xbox One y PC - Botones de audio, motores de vibración y disparadores de pulso, cable de 3 m",
+      "image": "https://m.media-amazon.com/images/I/61KomYEkQmL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "24,99 €",
+      "original_price": "29,99 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F1R9WVGN?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:11.204489+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0CMGN9Z8H",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "HELLCOOL Play y Kit de Carga USB Bateria para Mando Xbox One/Xbox Series, 2X4800mWh Bateria Compatible con la Mando Xbox One S/X/Elite, Xbox Series X/S, 12 Horas de Juego",
+      "image": "https://m.media-amazon.com/images/I/81kFG3GED-L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "21,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CMGN9Z8H?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:11.204492+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B07SR4R8K1",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Xbox Wireless Controller Elite Series 2 Black para Xbox Series X|S, Xbox One, Windows 10/11, iOS y Android",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71MzpSkuIRL._AC_SX466_.jpg",
+      "price": "185,00 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B07SR4R8K1?tag=enkairito-21",
+      "first_seen": "2026-09-16T10:34:33.318903+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0FD41XC3P",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "GameSir G7 Pro Mando 1000Hz con Estación de Carga: Xbox Series X|S, Xbox One, Win 10/11 & Android - Joysticks TMR, Gatillos Ajustables & 4 Botones Programables - Blanco Mec",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/719XHbmvmBL._AC_SX679_.jpg",
+      "price": "99,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FD41XC3P?tag=enkairito-21",
+      "first_seen": "2026-09-12T12:31:08.174522+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0F2N8F45T",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Xbox Wireless Controller Green Series X|S, One, Windows 10/11, iOS y Android",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71S4+Yy7SbL._AC_SX679_.jpg",
+      "price": "61,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F2N8F45T?tag=enkairito-21",
+      "first_seen": "2026-09-16T10:34:33.318898+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0F2N88V46",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Xbox Wireless Controller Deep Pink Series X|S, One, Windows 10/11, iOS y Android",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71GXor5xRAL._AC_SX679_.jpg",
+      "price": "64,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F2N88V46?tag=enkairito-21",
+      "first_seen": "2026-09-16T10:34:33.318909+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0FKGVK6KK",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Xbox Mando inalámbrico Ice Breaker Special Edition Series X|S, One, PC y dispositivos habilitados para la nube",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71Js3hjffrL._AC_SX466_.jpg",
+      "price": "79,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FKGVK6KK?tag=enkairito-21",
+      "first_seen": "2026-09-16T10:34:33.318911+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0FKGT9YN6",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Xbox Mando inalámbrico Heart Breaker Special Edition Series X|S, One, PC y dispositivos habilitados para la nube",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71M7CxIFX6L._AC_SX466_.jpg",
+      "price": "74,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FKGT9YN6?tag=enkairito-21",
+      "first_seen": "2026-09-16T10:34:33.318907+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0F2N6R6WS",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Xbox Wireless Controller Shock Blue Series X|S, One, Windows 10/11, iOS y Android",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71cf+ka9cmL._AC_SX679_.jpg",
+      "price": "64,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F2N6R6WS?tag=enkairito-21",
+      "first_seen": "2026-09-16T10:34:33.318901+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
     }
   ]
 }
