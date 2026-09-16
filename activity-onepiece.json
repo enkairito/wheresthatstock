@@ -1,74 +1,5 @@
 [
   {
-    "asin": "B0HC7DT1ZY",
-    "store_label": "Amazon ES",
-    "flag": "🇪🇸",
-    "name": "Juego de cartas de una pieza Starter Deck ST-36 amarillo Eustass Captain Kid",
-    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61+m2OBn-EL._AC_UL320_.jpg",
-    "price": "40,01 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0HC7DT1ZY?tag=enkairito-21",
-    "first_seen": "2026-09-08T09:40:16.326555+00:00",
-    "marketplace": "ES",
-    "categories": [
-      "Starter Deck"
-    ],
-    "game": "One Piece",
-    "ts": "2026-09-08T18:30:03.517193+00:00",
-    "type": "restock",
-    "prev_price": "40,01 €",
-    "_src": "onepiece.json",
-    "id": "ES-B0HC7DT1ZY:2026-09-08T18:30:03.517193+00:00:restock"
-  },
-  {
-    "asin": "B0F8V1YTSP",
-    "store_label": "Amazon ES",
-    "flag": "🇪🇸",
-    "name": "BANDAI Juego de cartas de una pieza más antiguo (OP-13) (caja) de 24 unidades",
-    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81uxMM80r7L._AC_UL320_.jpg",
-    "price": "289,78 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": "2",
-    "link": "https://www.amazon.es/dp/B0F8V1YTSP?tag=enkairito-21",
-    "first_seen": "2026-08-29T18:10:47.849793+00:00",
-    "marketplace": "ES",
-    "categories": [
-      "Booster Box"
-    ],
-    "game": "One Piece",
-    "ts": "2026-09-08T18:30:03.517193+00:00",
-    "type": "price_drop",
-    "prev_price": "292,48 €",
-    "_src": "onepiece.json",
-    "id": "ES-B0F8V1YTSP:2026-09-08T18:30:03.517193+00:00:price_drop"
-  },
-  {
-    "asin": "B0GBY85556",
-    "store_label": "Amazon ES",
-    "flag": "🇪🇸",
-    "name": "One Piece TCG Japanese Carry On His Will Booster Pack - Juego de 2 (10 tarjetas en total)",
-    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61HyR+C-CyL._AC_UL320_.jpg",
-    "price": "38,37 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0GBY85556?tag=enkairito-21",
-    "first_seen": "2026-09-02T17:02:35.147234+00:00",
-    "marketplace": "ES",
-    "categories": [
-      "Sobre"
-    ],
-    "game": "One Piece",
-    "ts": "2026-09-08T18:30:03.517193+00:00",
-    "type": "restock",
-    "prev_price": "38,72 €",
-    "_src": "onepiece.json",
-    "id": "ES-B0GBY85556:2026-09-08T18:30:03.517193+00:00:restock"
-  },
-  {
     "asin": "B0HF1Z72XW",
     "store_label": "Amazon ES",
     "flag": "🇪🇸",
@@ -4598,5 +4529,74 @@
     "prev_price": "48,06 €",
     "_src": "onepiece.json",
     "id": "ES-B0FL83L295:2026-09-16T02:06:43.793682+00:00:price_drop"
+  },
+  {
+    "asin": "B0FL83L295",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "One Piece TCG Starter Deck: Ace & Newgate (ST-22) - 51 Tarjetas",
+    "image": "https://m.media-amazon.com/images/I/71-ebfbhV6L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "42,86 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0FL83L295?tag=enkairito-21",
+    "first_seen": "2026-08-29T18:09:29.426544+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Starter Deck"
+    ],
+    "game": "One Piece",
+    "ts": "2026-09-16T03:06:52.097801+00:00",
+    "type": "price_drop",
+    "prev_price": "46,51 €",
+    "_src": "onepiece.json",
+    "id": "ES-B0FL83L295:2026-09-16T03:06:52.097801+00:00:price_drop"
+  },
+  {
+    "asin": "B0G6FWHGQT",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "One Piece TCG: The Azure Sea's Seven Booster Box (OP-14) - 24 Paquetes",
+    "image": "https://m.media-amazon.com/images/I/71vmZEBSkBL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "382,74 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": "1",
+    "link": "https://www.amazon.es/dp/B0G6FWHGQT?tag=enkairito-21",
+    "first_seen": "2026-08-29T18:10:41.534422+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Booster Box"
+    ],
+    "game": "One Piece",
+    "ts": "2026-09-16T03:06:52.097801+00:00",
+    "type": "price_drop",
+    "prev_price": "390,31 €",
+    "_src": "onepiece.json",
+    "id": "ES-B0G6FWHGQT:2026-09-16T03:06:52.097801+00:00:price_drop"
+  },
+  {
+    "asin": "B0F8V1YTSP",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "BANDAI Juego de cartas de una pieza más antiguo (OP-13) (caja) de 24 unidades",
+    "image": "https://m.media-amazon.com/images/I/81uxMM80r7L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "199,90 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0F8V1YTSP?tag=enkairito-21",
+    "first_seen": "2026-08-29T18:10:47.849793+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Booster Box"
+    ],
+    "game": "One Piece",
+    "ts": "2026-09-16T03:06:52.097801+00:00",
+    "type": "price_drop",
+    "prev_price": "249,99 €",
+    "_src": "onepiece.json",
+    "id": "ES-B0F8V1YTSP:2026-09-16T03:06:52.097801+00:00:price_drop"
   }
 ]
