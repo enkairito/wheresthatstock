@@ -27,6 +27,7 @@ const FLAG_ICONS = {
   ECI: "/assets/flags/es.png",
   CAR: "/assets/flags/es.png",
   FNAC: "/assets/flags/es.png",
+  TRU: "/assets/flags/es.png",
   UK: "/assets/flags/gb.png",
   US: "/assets/flags/us.png",
 };
@@ -40,6 +41,7 @@ const STORE_ICONS = {
   ECI: "/assets/eci-logo.webp",
   CAR: "/assets/carrefour-logo.svg",
   FNAC: "/assets/fnac-logo.svg",
+  TRU: "/assets/toysrus-logo.svg",
 };
 
 const HTML_ESCAPES = { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" };
