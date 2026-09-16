@@ -435,5 +435,28 @@
     "prev_price": "108,46 €",
     "_src": "magic.json",
     "id": "ES-B0G86Z91GX:2026-09-14T00:16:27.819244+00:00:price_drop"
+  },
+  {
+    "asin": "B0GXCC47X5",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "sobre de coleccionista de Realidad fracturada de Magic: The Gathering | 1 sobre (15 Cartas) (Versión en Inglés)",
+    "image": "https://m.media-amazon.com/images/I/71h+sbmFlBL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "29,00 €",
+    "original_price": null,
+    "status": "preventa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0GXCC47X5?tag=enkairito-21",
+    "first_seen": "2026-09-12T18:18:11.175086+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Sobre"
+    ],
+    "game": "Magic",
+    "ts": "2026-09-16T00:17:07.984402+00:00",
+    "type": "restock",
+    "prev_price": "29,00 €",
+    "_src": "magic.json",
+    "id": "ES-B0GXCC47X5:2026-09-16T00:17:07.984402+00:00:restock"
   }
 ]
