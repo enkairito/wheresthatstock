@@ -147,7 +147,11 @@ function applyFilter() {
   const q = normalizeSearch(document.getElementById("search").value);
   const filtered = allProducts.filter(p => {
     const matchesStatus = activeStatuses.has(p.status);
-    const matchesMarketplace = activeMarketplaces.has(p.marketplace);
+    // Igual que matchesCategory/matchesGame: si la página no tiene checkboxes
+    // de tienda (solo Pokémon TCG y Ofertas los llevan), el filtro no debe
+    // aplicarse — si no, activeMarketplaces queda vacío y .has() nunca es
+    // true, dejando la página sin productos aunque haya stock real.
+    const matchesMarketplace = ALL_MARKETPLACES.length === 0 || activeMarketplaces.has(p.marketplace);
     // Si la página no tiene checkboxes de categoría (ej. Ofertas, que
     // mezcla los esquemas de dos juegos distintos), ALL_CATEGORIES está
     // vacío y el filtro no debe aplicarse en absoluto. Los productos de
