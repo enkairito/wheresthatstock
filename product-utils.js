@@ -22,12 +22,9 @@ function timeAgo(iso) {
 // tanto las páginas de listado (en la raíz, donde daría igual) como
 // producto.html/404.html, que a veces se sirven bajo /producto/{id} — ahí
 // una ruta relativa se buscaría dentro de esa carpeta y fallaría.
+// ES/ECI/CAR/FNAC/TRU no llevan bandera — se da por hecho que son tiendas
+// españolas, así que solo UK/US (donde sí aporta distinguirlas) la llevan.
 const FLAG_ICONS = {
-  ES: "/assets/flags/es.png",
-  ECI: "/assets/flags/es.png",
-  CAR: "/assets/flags/es.png",
-  FNAC: "/assets/flags/es.png",
-  TRU: "/assets/flags/es.png",
   UK: "/assets/flags/gb.png",
   US: "/assets/flags/us.png",
 };
@@ -39,8 +36,8 @@ const STORE_ICONS = {
   UK: "/assets/amazon-logo.png",
   US: "/assets/amazon-logo.png",
   ECI: "/assets/eci-logo.webp",
-  CAR: "/assets/carrefour-logo.svg",
-  FNAC: "/assets/fnac-logo.svg",
+  CAR: "/assets/carrefour-logo.webp",
+  FNAC: "/assets/fnac-logo.webp",
   TRU: "/assets/toysrus-logo.svg",
 };
 
