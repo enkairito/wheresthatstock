@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T04:35:56.195664+00:00",
+  "updated_at": "2026-09-16T04:36:28.147807+00:00",
   "source_updates": {
     "accessories": "2026-09-14T06:02:46.086991+00:00",
     "onepiece": "2026-09-16T04:06:34.511165+00:00",
@@ -7,7 +7,7 @@
     "lorcana": "2026-09-16T00:17:09.107639+00:00",
     "yugioh": "2026-09-16T00:16:38.701446+00:00",
     "playstation": "2026-09-16T04:35:56.195664+00:00",
-    "nintendo": "2026-09-16T02:35:33.662085+00:00",
+    "nintendo": "2026-09-16T04:36:28.147807+00:00",
     "xbox": "2026-09-16T04:35:42.216482+00:00"
   },
   "products": [
@@ -624,6 +624,366 @@
       "source": "lorcana"
     },
     {
+      "asin": "B0F1RB87RR",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Turtle Beach Afterglow Wave Mando Negro con Cable RGB - con Licencia para Xbox Series XS, Xbox One y Windows - Botones programables, disparadores de Efecto Hall, Controles de Audio",
+      "image": "https://m.media-amazon.com/images/I/71OvtyOyC1L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "34,99 €",
+      "original_price": "44,99 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F1RB87RR?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:25:04.811694+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0F1V7VGP9",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Xbox Controlador inalámbrico - DOOM: The Dark Ages Limited Edition Series X|S, One, PC y dispositivos habilitados para la nube",
+      "image": "https://m.media-amazon.com/images/I/71ehTh38k7L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "99,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "3",
+      "link": "https://www.amazon.es/dp/B0F1V7VGP9?tag=enkairito-21",
+      "first_seen": "2026-09-12T06:28:31.691527+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0F1HX3WXX",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Controlador inalámbrico para juegos Xbox (2025) - Negro carbón - Juega en Xbox, Windows, Android, iOS, FireTV Sticks, televisores inteligentes, auriculares VR",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61MepKvTfNL._AC_SX466_.jpg",
+      "price": "110,32 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "2",
+      "link": "https://www.amazon.es/dp/B0F1HX3WXX?tag=enkairito-21",
+      "first_seen": "2026-09-12T06:28:31.691573+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0F1J12R6N",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Xbox Controlador inalámbrico - DOOM: The Dark Ages Limited Edition Series X|S, One, PC y dispositivos habilitados para la nube",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71ehTh38k7L._AC_SX466_.jpg",
+      "price": "99,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "3",
+      "link": "https://www.amazon.es/dp/B0F1J12R6N?tag=enkairito-21",
+      "first_seen": "2026-09-12T06:28:31.691553+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0D8KXMCTC",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "GameSir G7 SE Mando con Cable para Xbox Series X|S, Xbox One & Windows 10/11, Plug and Play Gamepad para Juegos con Joysticks de Efecto Hall, Conector de Audio de 3,5 mm (Naranja)",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51CstRjd6RL._AC_SX466_.jpg",
+      "price": "53,43 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0D8KXMCTC?tag=enkairito-21",
+      "first_seen": "2026-09-12T12:27:48.387076+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B09DPR2LZW",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Ozeino Cascos Gaming, Auriculares Gaming con Micrófono Rotatorio, Luz RGB, Premium Stereo, Orejeras Ligero Cómodo, para Ps4 Ps5 Xbox PC Switch Tableta Laptop",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61jmLD3hYaL._AC_SX569_.jpg",
+      "price": "24,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B09DPR2LZW?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:11.204501+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0FLLL1ZD8",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Xbox Controlador inalámbrico para juegos - Heart Breaker Special Edition - Xbox Series X|S, Xbox One, PC y dispositivos habilitados para la nube",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71Ufn4QRoQL._AC_SX466_.jpg",
+      "price": "116,45 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FLLL1ZD8?tag=enkairito-21",
+      "first_seen": "2026-09-12T06:28:31.691543+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B09Z7J4L6X",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Xbox Controlador inalámbrico - DOOM: The Dark Ages Limited Edition Series X|S, One, PC y dispositivos habilitados para la nube",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71ehTh38k7L._AC_SX466_.jpg",
+      "price": "99,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "3",
+      "link": "https://www.amazon.es/dp/B09Z7J4L6X?tag=enkairito-21",
+      "first_seen": "2026-09-12T06:28:31.691568+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0FB3T6JYJ",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Pack de 10 Protectores Gold para Pokemon Elite Trainer Box - Funda Caja Pokemon ETB 0,5mm Grosor - Protección UV para Tus Cajas PKMN",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71Gv5mqqENL._AC_SX679_.jpg",
+      "price": "24,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FB3T6JYJ?tag=enkairito-21",
+      "first_seen": "2026-09-14T12:21:43.539312+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B017BRXU1A",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Ultra Pro - 1000 fundas suaves -",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71dlTRxRrAL._AC_SX679_.jpg",
+      "price": "12,49 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B017BRXU1A?tag=enkairito-21",
+      "first_seen": "2026-09-13T00:21:41.607232+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B0DSGDT35G",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Xbox Controlador inalámbrico - DOOM: The Dark Ages Limited Edition Series X|S, One, PC y dispositivos habilitados para la nube",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71ehTh38k7L._AC_SX466_.jpg",
+      "price": "99,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "3",
+      "link": "https://www.amazon.es/dp/B0DSGDT35G?tag=enkairito-21",
+      "first_seen": "2026-09-12T06:28:31.691562+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B09CWDX4K3",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "PowerA Cargador Rápido Dual para 2 x Mandos Inalámbricos DualSense, Estación Doble de Carga para Mandos de Sony PlayStation 5 (Gris/Negro)",
+      "image": "https://m.media-amazon.com/images/I/61E4bTm1QZL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "19,99 €",
+      "original_price": "26,99 €",
+      "status": "compra_directa",
+      "stock": "1",
+      "link": "https://www.amazon.es/dp/B09CWDX4K3?tag=enkairito-21",
+      "first_seen": "2026-09-12T12:27:13.469347+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0F3DFKKY8",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Tatybo Cascos Gaming Inalámbricos 7.1 para Ps5/Ps4/PC, Auriculares Bluetooth con Micrófono con Cancelación de Ruido, 2.4GHz USB-C, 40H+ Batería para Switch/Mac/Portátil",
+      "image": "https://m.media-amazon.com/images/I/71TOZtYqAVL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "32,99 €",
+      "original_price": "35,99 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F3DFKKY8?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018957+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0F6LH8VPJ",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "RGB Base de Carga para PS5, 2H Rápido Cargador de Mando PS5 Originales & Edge, Placas Frontales con Iluminación LED & RGB, Estación de Carga para PS 5 - Blanco",
+      "image": "https://m.media-amazon.com/images/I/71HnAOp+57L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "16,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F6LH8VPJ?tag=enkairito-21",
+      "first_seen": "2026-09-15T20:34:33.327903+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0FNCTWV6L",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Tatybo Cascos Gaming Inalámbricos 7.1 para Ps5/Ps4/PC, Auriculares Bluetooth con Micrófono con Cancelación de Ruido, 2.4GHz USB-C, 40H+ Batería para Switch/Mac/Portátil",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71iNSIWFgJL._AC_SX569_.jpg",
+      "price": "37,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FNCTWV6L?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018971+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0DM96HQPY",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Tatybo Cascos Gaming Inalámbricos 7.1 para Ps5/Ps4/PC, Auriculares Bluetooth con Micrófono con Cancelación de Ruido, 2.4GHz USB-C, 40H+ Batería para Switch/Mac/Portátil (Azul Cielo)",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61a14idpH8L._AC_SX569_.jpg",
+      "price": "33,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DM96HQPY?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018988+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0FNCRX771",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Tatybo Cascos Gaming Inalámbricos 7.1 para Ps5/Ps4/PC, Auriculares Bluetooth con Micrófono con Cancelación de Ruido, 2.4GHz USB-C, 40H+ Batería para Switch/Mac/Portátil",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71hReODJxwL._AC_SX569_.jpg",
+      "price": "36,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FNCRX771?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018984+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0FR91TPJ3",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Tatybo Cascos Gaming Inalámbricos 7.1 para Ps5/Ps4/PC, Auriculares Bluetooth con Micrófono con Cancelación de Ruido, 2.4GHz USB-C, 40H+ Batería para Switch/Mac/Portátil",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71TeEJNaujL._AC_SX569_.jpg",
+      "price": "36,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FR91TPJ3?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018979+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0DKP1FZM5",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Mochila para Consola PS5/ Slim/ Pro, Bolsa PS5 de Viaje con Protección Total, Funda ps5 Almacenamiento de Gran Capacidad, PS Portal, Portátil, Tarjeta de Juego, Maletin PS 5 con Bolsa 3 Cable- Blanco",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81TTVxCA9qL._AC_SX679_.jpg",
+      "price": "32,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DKP1FZM5?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:18:12.685967+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0FR8ZTJV6",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Tatybo Cascos Gaming Inalámbricos 7.1 para Ps5/Ps4/PC, Auriculares Bluetooth con Micrófono con Cancelación de Ruido, 2.4GHz USB-C, 40H+ Batería para Switch/Mac/Portátil",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71Er-qgqHfL._AC_SX569_.jpg",
+      "price": "37,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FR8ZTJV6?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018976+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
       "asin": "B01N5OORGV",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -822,17 +1182,17 @@
       "source": "nintendo"
     },
     {
-      "asin": "B08FCW9VVX",
+      "asin": "B0F3JVK9N6",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "PDP Cable Carga y Juega con Licencia Oficial (Nintendo Switch)",
-      "image": "https://m.media-amazon.com/images/I/51P3H582YSL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "7,89 €",
-      "original_price": "9,99 €",
+      "name": "Joy-Con 2 Wheel (2 uds)",
+      "image": "https://m.media-amazon.com/images/I/61SOlR1tYAL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "18,99 €",
+      "original_price": "19,90 €",
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B08FCW9VVX?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:58.478369+00:00",
+      "link": "https://www.amazon.es/dp/B0F3JVK9N6?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:20:15.912108+00:00",
       "marketplace": "ES",
       "categories": [
         "Nintendo"
@@ -840,71 +1200,17 @@
       "source": "nintendo"
     },
     {
-      "asin": "B0F3WV4WT8",
+      "asin": "B01N3374BH",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "2x Mando Switch Inalámbrico,Mandos Switch para Switc.h/Switch 2/Lite/OLED",
-      "image": "https://m.media-amazon.com/images/I/71og8FhOFEL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "33,98 €",
-      "original_price": "34,98 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F3WV4WT8?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:58.478365+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B0H9R91725",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Joy-Con (set Izda/Dcha) Azul/Amarillo Neón BTR",
-      "image": "https://m.media-amazon.com/images/I/61vGwbKTXGL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "74,99 €",
+      "name": "Nintendo - Joy-Con Soporte Carga",
+      "image": "https://m.media-amazon.com/images/I/61S+mOZEsgL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "29,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0H9R91725?tag=enkairito-21",
-      "first_seen": "2026-09-12T18:30:08.918647+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B0DJ2PLH9G",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "MYSTILUCK Mando Pro Inalámbrico para Switch/Switch 2/Lite/OLED/PC",
-      "image": "https://m.media-amazon.com/images/I/61L1EEEsT-L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "22,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0DJ2PLH9G?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:58.478367+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B0FS1JVBBZ",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "MYSTILUCK Mando Pro Inalámbrico para Switch/Switch 2/Lite/OLED/PC, Blanco",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/617Wl+fKQ6L._AC_SX466_.jpg",
-      "price": "23,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FS1JVBBZ?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:58.478379+00:00",
+      "link": "https://www.amazon.es/dp/B01N3374BH?tag=enkairito-21",
+      "first_seen": "2026-09-15T20:34:05.436546+00:00",
       "marketplace": "ES",
       "categories": [
         "Nintendo"
@@ -930,6 +1236,24 @@
       "source": "nintendo"
     },
     {
+      "asin": "B0F7RQ6LHC",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "playvital Funda Protectora para Nintendo Switch 2 (2025)",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61Jc2TlhhfL._AC_SX679_.jpg",
+      "price": "26,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F7RQ6LHC?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:20:15.912131+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
       "asin": "B0BW3T9YBP",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -948,364 +1272,40 @@
       "source": "nintendo"
     },
     {
-      "asin": "B0F1RB87RR",
+      "asin": "B0F7RMQ9QG",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Turtle Beach Afterglow Wave Mando Negro con Cable RGB - con Licencia para Xbox Series XS, Xbox One y Windows - Botones programables, disparadores de Efecto Hall, Controles de Audio",
-      "image": "https://m.media-amazon.com/images/I/71OvtyOyC1L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "34,99 €",
-      "original_price": "44,99 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F1RB87RR?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:25:04.811694+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0F1V7VGP9",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Xbox Controlador inalámbrico - DOOM: The Dark Ages Limited Edition Series X|S, One, PC y dispositivos habilitados para la nube",
-      "image": "https://m.media-amazon.com/images/I/71ehTh38k7L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "99,90 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "3",
-      "link": "https://www.amazon.es/dp/B0F1V7VGP9?tag=enkairito-21",
-      "first_seen": "2026-09-12T06:28:31.691527+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0F1HX3WXX",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Controlador inalámbrico para juegos Xbox (2025) - Negro carbón - Juega en Xbox, Windows, Android, iOS, FireTV Sticks, televisores inteligentes, auriculares VR",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61MepKvTfNL._AC_SX466_.jpg",
-      "price": "110,32 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "2",
-      "link": "https://www.amazon.es/dp/B0F1HX3WXX?tag=enkairito-21",
-      "first_seen": "2026-09-12T06:28:31.691573+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0F1J12R6N",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Xbox Controlador inalámbrico - DOOM: The Dark Ages Limited Edition Series X|S, One, PC y dispositivos habilitados para la nube",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71ehTh38k7L._AC_SX466_.jpg",
-      "price": "99,90 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "3",
-      "link": "https://www.amazon.es/dp/B0F1J12R6N?tag=enkairito-21",
-      "first_seen": "2026-09-12T06:28:31.691553+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0D8KXMCTC",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "GameSir G7 SE Mando con Cable para Xbox Series X|S, Xbox One & Windows 10/11, Plug and Play Gamepad para Juegos con Joysticks de Efecto Hall, Conector de Audio de 3,5 mm (Naranja)",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51CstRjd6RL._AC_SX466_.jpg",
-      "price": "53,43 €",
+      "name": "playvital Funda Protectora con Agarre Intercambiable para Nintendo Switch 2",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71e+43EXf1L._AC_SX466_.jpg",
+      "price": "27,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0D8KXMCTC?tag=enkairito-21",
-      "first_seen": "2026-09-16T04:35:56.193880+00:00",
+      "link": "https://www.amazon.es/dp/B0F7RMQ9QG?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:20:15.912121+00:00",
       "marketplace": "ES",
       "categories": [
-        "PlayStation"
+        "Nintendo"
       ],
-      "source": "playstation"
+      "source": "nintendo"
     },
     {
-      "asin": "B09DPR2LZW",
+      "asin": "B0F7RNNYZY",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Ozeino Cascos Gaming, Auriculares Gaming con Micrófono Rotatorio, Luz RGB, Premium Stereo, Orejeras Ligero Cómodo, para Ps4 Ps5 Xbox PC Switch Tableta Laptop",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61jmLD3hYaL._AC_SX569_.jpg",
-      "price": "24,99 €",
+      "name": "playvital Funda Protectora para Nintendo Switch 2 (2025)",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61a8lD-FVKL._AC_SX679_.jpg",
+      "price": "22,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B09DPR2LZW?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:11.204501+00:00",
+      "link": "https://www.amazon.es/dp/B0F7RNNYZY?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:20:15.912119+00:00",
       "marketplace": "ES",
       "categories": [
-        "Xbox"
+        "Nintendo"
       ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0FLLL1ZD8",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Xbox Controlador inalámbrico para juegos - Heart Breaker Special Edition - Xbox Series X|S, Xbox One, PC y dispositivos habilitados para la nube",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71Ufn4QRoQL._AC_SX466_.jpg",
-      "price": "116,45 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FLLL1ZD8?tag=enkairito-21",
-      "first_seen": "2026-09-12T06:28:31.691543+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B09Z7J4L6X",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Xbox Controlador inalámbrico - DOOM: The Dark Ages Limited Edition Series X|S, One, PC y dispositivos habilitados para la nube",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71ehTh38k7L._AC_SX466_.jpg",
-      "price": "99,90 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "3",
-      "link": "https://www.amazon.es/dp/B09Z7J4L6X?tag=enkairito-21",
-      "first_seen": "2026-09-12T06:28:31.691568+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0FB3T6JYJ",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Pack de 10 Protectores Gold para Pokemon Elite Trainer Box - Funda Caja Pokemon ETB 0,5mm Grosor - Protección UV para Tus Cajas PKMN",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71Gv5mqqENL._AC_SX679_.jpg",
-      "price": "24,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FB3T6JYJ?tag=enkairito-21",
-      "first_seen": "2026-09-14T12:22:34.377788+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
-      "asin": "B017BRXU1A",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Ultra Pro - 1000 fundas suaves -",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71dlTRxRrAL._AC_SX679_.jpg",
-      "price": "12,49 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B017BRXU1A?tag=enkairito-21",
-      "first_seen": "2026-09-13T00:24:23.874186+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
-      "asin": "B0DSGDT35G",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Xbox Controlador inalámbrico - DOOM: The Dark Ages Limited Edition Series X|S, One, PC y dispositivos habilitados para la nube",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71ehTh38k7L._AC_SX466_.jpg",
-      "price": "99,90 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "3",
-      "link": "https://www.amazon.es/dp/B0DSGDT35G?tag=enkairito-21",
-      "first_seen": "2026-09-12T06:28:31.691562+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B09CWDX4K3",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "PowerA Cargador Rápido Dual para 2 x Mandos Inalámbricos DualSense, Estación Doble de Carga para Mandos de Sony PlayStation 5 (Gris/Negro)",
-      "image": "https://m.media-amazon.com/images/I/61E4bTm1QZL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "19,99 €",
-      "original_price": "26,99 €",
-      "status": "compra_directa",
-      "stock": "1",
-      "link": "https://www.amazon.es/dp/B09CWDX4K3?tag=enkairito-21",
-      "first_seen": "2026-09-12T12:27:13.469347+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
-      "asin": "B0F3DFKKY8",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Tatybo Cascos Gaming Inalámbricos 7.1 para Ps5/Ps4/PC, Auriculares Bluetooth con Micrófono con Cancelación de Ruido, 2.4GHz USB-C, 40H+ Batería para Switch/Mac/Portátil",
-      "image": "https://m.media-amazon.com/images/I/71TOZtYqAVL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "32,99 €",
-      "original_price": "35,99 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F3DFKKY8?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:04.018957+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
-      "asin": "B0F6LH8VPJ",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "RGB Base de Carga para PS5, 2H Rápido Cargador de Mando PS5 Originales & Edge, Placas Frontales con Iluminación LED & RGB, Estación de Carga para PS 5 - Blanco",
-      "image": "https://m.media-amazon.com/images/I/71HnAOp+57L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "16,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F6LH8VPJ?tag=enkairito-21",
-      "first_seen": "2026-09-15T20:34:33.327903+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
-      "asin": "B0FNCTWV6L",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Tatybo Cascos Gaming Inalámbricos 7.1 para Ps5/Ps4/PC, Auriculares Bluetooth con Micrófono con Cancelación de Ruido, 2.4GHz USB-C, 40H+ Batería para Switch/Mac/Portátil",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71iNSIWFgJL._AC_SX569_.jpg",
-      "price": "37,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FNCTWV6L?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:04.018971+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
-      "asin": "B0DM96HQPY",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Tatybo Cascos Gaming Inalámbricos 7.1 para Ps5/Ps4/PC, Auriculares Bluetooth con Micrófono con Cancelación de Ruido, 2.4GHz USB-C, 40H+ Batería para Switch/Mac/Portátil (Azul Cielo)",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61a14idpH8L._AC_SX569_.jpg",
-      "price": "33,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0DM96HQPY?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:04.018988+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
-      "asin": "B0FNCRX771",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Tatybo Cascos Gaming Inalámbricos 7.1 para Ps5/Ps4/PC, Auriculares Bluetooth con Micrófono con Cancelación de Ruido, 2.4GHz USB-C, 40H+ Batería para Switch/Mac/Portátil",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71hReODJxwL._AC_SX569_.jpg",
-      "price": "36,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FNCRX771?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:04.018984+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
-      "asin": "B0FR91TPJ3",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Tatybo Cascos Gaming Inalámbricos 7.1 para Ps5/Ps4/PC, Auriculares Bluetooth con Micrófono con Cancelación de Ruido, 2.4GHz USB-C, 40H+ Batería para Switch/Mac/Portátil",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71TeEJNaujL._AC_SX569_.jpg",
-      "price": "36,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FR91TPJ3?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:04.018979+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
-      "asin": "B0DKP1FZM5",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Mochila para Consola PS5/ Slim/ Pro, Bolsa PS5 de Viaje con Protección Total, Funda ps5 Almacenamiento de Gran Capacidad, PS Portal, Portátil, Tarjeta de Juego, Maletin PS 5 con Bolsa 3 Cable- Blanco",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81TTVxCA9qL._AC_SX679_.jpg",
-      "price": "32,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0DKP1FZM5?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:18:12.685967+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
-      "asin": "B0FR8ZTJV6",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Tatybo Cascos Gaming Inalámbricos 7.1 para Ps5/Ps4/PC, Auriculares Bluetooth con Micrófono con Cancelación de Ruido, 2.4GHz USB-C, 40H+ Batería para Switch/Mac/Portátil",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71Er-qgqHfL._AC_SX569_.jpg",
-      "price": "37,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FR8ZTJV6?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:04.018976+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
+      "source": "nintendo"
     }
   ]
 }
