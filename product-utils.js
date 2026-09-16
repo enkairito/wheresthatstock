@@ -38,7 +38,7 @@ const STORE_ICONS = {
   ECI: "/assets/eci-logo.webp",
   CAR: "/assets/carrefour-logo.webp",
   FNAC: "/assets/fnac-logo.webp",
-  TRU: "/assets/toysrus-logo.svg",
+  TRU: "/assets/toysrus-logo.png",
 };
 
 const HTML_ESCAPES = { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" };
