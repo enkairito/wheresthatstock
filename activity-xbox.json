@@ -1,74 +1,5 @@
 [
   {
-    "asin": "B0GSXYL3SC",
-    "store_label": "Amazon ES",
-    "flag": "🇪🇸",
-    "name": "Forza Horizon 6: Premium Edition | Xbox Series X|S y dispositivos Windows [Código digital]",
-    "image": "https://m.media-amazon.com/images/I/71FT2dg9cUL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "119,99 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0GSXYL3SC?tag=enkairito-21",
-    "first_seen": "2026-09-12T06:20:24.807595+00:00",
-    "marketplace": "ES",
-    "categories": [
-      "Videojuego"
-    ],
-    "game": "Xbox",
-    "ts": "2026-09-12T06:20:24.809759+00:00",
-    "type": "restock",
-    "prev_price": null,
-    "_src": "xbox.json",
-    "id": "ES-B0GSXYL3SC:2026-09-12T06:20:24.809759+00:00:restock"
-  },
-  {
-    "asin": "B0CVVRNDKL",
-    "store_label": "Amazon ES",
-    "flag": "🇪🇸",
-    "name": "Cubierta Antipolvo Negra para Consola Xbox Series X Cubierta Protectora antiarañazos",
-    "image": "https://m.media-amazon.com/images/I/61dqWn2-A+L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "7,99 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0CVVRNDKL?tag=enkairito-21",
-    "first_seen": "2026-09-11T19:25:04.811346+00:00",
-    "marketplace": "ES",
-    "categories": [
-      "Consola"
-    ],
-    "game": "Xbox",
-    "ts": "2026-09-12T06:20:24.809759+00:00",
-    "type": "restock",
-    "prev_price": "7,99 €",
-    "_src": "xbox.json",
-    "id": "ES-B0CVVRNDKL:2026-09-12T06:20:24.809759+00:00:restock"
-  },
-  {
-    "asin": "B0C44XVWCH",
-    "store_label": "Amazon ES",
-    "flag": "🇪🇸",
-    "name": "WD_BLACK C50 1 TB Tarjeta de expansión para Xbox (Compatible con la Serie X|S, Plug-and-Stay, Velocity Architecture, Reanudación rápida, Subscripción gratuia de 1 Mes de Xbox Game Pass) Black",
-    "image": "https://m.media-amazon.com/images/I/716TJhy4GbL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "149,99 €",
-    "original_price": "207,99 €",
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0C44XVWCH?tag=enkairito-21",
-    "first_seen": "2026-09-12T00:28:10.760406+00:00",
-    "marketplace": "ES",
-    "categories": [
-      "Videojuego"
-    ],
-    "game": "Xbox",
-    "ts": "2026-09-12T06:20:24.809759+00:00",
-    "type": "restock",
-    "prev_price": null,
-    "_src": "xbox.json",
-    "id": "ES-B0C44XVWCH:2026-09-12T06:20:24.809759+00:00:restock"
-  },
-  {
     "asin": "B09JM8SX8G",
     "store_label": "Amazon ES",
     "flag": "🇪🇸",
@@ -4598,5 +4529,74 @@
     "prev_price": "16,99 €",
     "_src": "xbox.json",
     "id": "ES-B0BLZ5HR28:2026-09-16T20:32:38.237379+00:00:restock"
+  },
+  {
+    "asin": "B0FGK7Y5PN",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "EA SPORTS FC 26 Standard Edition XBOX Series X / XBOX One -disco | Videojuegos | Castellano",
+    "image": "https://m.media-amazon.com/images/I/81v9BZ9ATFL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "25,99 €",
+    "original_price": "29,99 €",
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0FGK7Y5PN?tag=enkairito-21",
+    "first_seen": "2026-09-11T19:25:04.811300+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Videojuego"
+    ],
+    "game": "Xbox",
+    "ts": "2026-09-16T22:36:27.863451+00:00",
+    "type": "restock",
+    "prev_price": "25,99 €",
+    "_src": "xbox.json",
+    "id": "ES-B0FGK7Y5PN:2026-09-16T22:36:27.863451+00:00:restock"
+  },
+  {
+    "asin": "B0FHRP6Q4F",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "EA SPORTS FC 26 - Xbox S│X Standard Edition - Código de descarga",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71yxSqPYACL._AC_SY741_.jpg",
+    "price": "79,99 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0FHRP6Q4F?tag=enkairito-21",
+    "first_seen": "2026-09-11T19:25:04.811505+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Videojuego"
+    ],
+    "game": "Xbox",
+    "ts": "2026-09-16T22:36:27.863451+00:00",
+    "type": "restock",
+    "prev_price": "79,99 €",
+    "_src": "xbox.json",
+    "id": "ES-B0FHRP6Q4F:2026-09-16T22:36:27.863451+00:00:restock"
+  },
+  {
+    "asin": "B0FGLP3YGY",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "EA SPORTS FC 26 THE WORLD'S GAME EDITION | Xbox Series X|S - Código de descarga",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/713AkAQLEzL._AC_SY741_.jpg",
+    "price": "99,99 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0FGLP3YGY?tag=enkairito-21",
+    "first_seen": "2026-09-11T19:25:04.811495+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Videojuego"
+    ],
+    "game": "Xbox",
+    "ts": "2026-09-16T22:36:27.863451+00:00",
+    "type": "restock",
+    "prev_price": "99,99 €",
+    "_src": "xbox.json",
+    "id": "ES-B0FGLP3YGY:2026-09-16T22:36:27.863451+00:00:restock"
   }
 ]
