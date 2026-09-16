@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T18:35:57.180507+00:00",
+  "updated_at": "2026-09-16T20:33:29.119783+00:00",
   "products": [
     {
       "asin": "B0HCPTNRZJ",
@@ -110,24 +110,6 @@
       "game": "Nintendo"
     },
     {
-      "asin": "B0F2N91DQ8",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Donkey Kong Bananza- Switch 2",
-      "image": "https://m.media-amazon.com/images/I/813+7CrWOgL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "66,99 €",
-      "original_price": "79,99 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F2N91DQ8?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:34:14.850774+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Nintendo"
-    },
-    {
       "asin": "B0G71JQD6H",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -164,6 +146,24 @@
       "game": "Nintendo"
     },
     {
+      "asin": "B0F3P4FB73",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Samsung Micro SD Express Card for Nintendo Switch 2",
+      "image": "https://m.media-amazon.com/images/I/71f+SDA0xwL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "51,99 €",
+      "original_price": "59,95 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F3P4FB73?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:58.478133+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Nintendo"
+    },
+    {
       "asin": "B0F2N8LBQN",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -182,17 +182,17 @@
       "game": "Nintendo"
     },
     {
-      "asin": "B0F3P4FB73",
+      "asin": "B0HJ8VKG12",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Samsung Micro SD Express Card for Nintendo Switch 2",
-      "image": "https://m.media-amazon.com/images/I/71f+SDA0xwL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "51,99 €",
-      "original_price": "59,95 €",
-      "status": "compra_directa",
+      "name": "Stellar Blade Complete Edition - Switch 2",
+      "image": "https://m.media-amazon.com/images/I/81i42rPNKkL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "59,99 €",
+      "original_price": null,
+      "status": "preventa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0F3P4FB73?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:58.478133+00:00",
+      "link": "https://www.amazon.es/dp/B0HJ8VKG12?tag=enkairito-21",
+      "first_seen": "2026-09-15T20:34:05.436503+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -272,17 +272,35 @@
       "game": "Nintendo"
     },
     {
-      "asin": "B0FQWBD5MT",
+      "asin": "B01IU4B6I2",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Super Mario Galaxy + Super Mario Galaxy 2 - Switch",
-      "image": "https://m.media-amazon.com/images/I/810UZa3-MpL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "57,99 €",
+      "name": "Nintendo Switch Consola 32Gb Azul/Rojo Neón + Mario Kart 8 Deluxe",
+      "image": "https://m.media-amazon.com/images/I/71KrfLpEMML._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "372,65 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0FQWBD5MT?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:58.478184+00:00",
+      "link": "https://www.amazon.es/dp/B01IU4B6I2?tag=enkairito-21",
+      "first_seen": "2026-09-16T10:34:14.850863+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Consola"
+      ],
+      "game": "Nintendo"
+    },
+    {
+      "asin": "B0BZT51WWW",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Nintendo Switch (versión OLED) Edición Limitada The Legend of Zelda: Tears of the Kingdom",
+      "image": "https://m.media-amazon.com/images/I/61hs1+3IURL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "439,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "2",
+      "link": "https://www.amazon.es/dp/B0BZT51WWW?tag=enkairito-21",
+      "first_seen": "2026-09-16T10:34:14.850852+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -308,20 +326,20 @@
       "game": "Nintendo"
     },
     {
-      "asin": "B01IU4B6I2",
+      "asin": "B0FQWBD5MT",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Nintendo Switch Consola 32Gb Azul/Rojo Neón + Mario Kart 8 Deluxe",
-      "image": "https://m.media-amazon.com/images/I/71KrfLpEMML._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "372,65 €",
+      "name": "Super Mario Galaxy + Super Mario Galaxy 2 - Switch",
+      "image": "https://m.media-amazon.com/images/I/810UZa3-MpL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "57,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B01IU4B6I2?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:34:14.850863+00:00",
+      "link": "https://www.amazon.es/dp/B0FQWBD5MT?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:58.478184+00:00",
       "marketplace": "ES",
       "categories": [
-        "Consola"
+        "Videojuego"
       ],
       "game": "Nintendo"
     },
@@ -344,17 +362,17 @@
       "game": "Nintendo"
     },
     {
-      "asin": "B0BZT51WWW",
+      "asin": "B0DYPGBT8G",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Nintendo Switch (versión OLED) Edición Limitada The Legend of Zelda: Tears of the Kingdom",
-      "image": "https://m.media-amazon.com/images/I/61hs1+3IURL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "439,90 €",
+      "name": "Terminator 2D: NO FATE - Day One Edition (Nintendo Switch)",
+      "image": "https://m.media-amazon.com/images/I/81SP0hjwKdL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "59,65 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "2",
-      "link": "https://www.amazon.es/dp/B0BZT51WWW?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:34:14.850852+00:00",
+      "stock": "1",
+      "link": "https://www.amazon.es/dp/B0DYPGBT8G?tag=enkairito-21",
+      "first_seen": "2026-09-16T10:34:14.850896+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -398,24 +416,6 @@
       "game": "Nintendo"
     },
     {
-      "asin": "B0DYPGBT8G",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Terminator 2D: NO FATE - Day One Edition (Nintendo Switch)",
-      "image": "https://m.media-amazon.com/images/I/81SP0hjwKdL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "59,65 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "1",
-      "link": "https://www.amazon.es/dp/B0DYPGBT8G?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:34:14.850896+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Nintendo"
-    },
-    {
       "asin": "B09727G9FS",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -427,42 +427,6 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B09727G9FS?tag=enkairito-21",
       "first_seen": "2026-09-16T10:34:14.850932+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Nintendo"
-    },
-    {
-      "asin": "B0F2N69SGN",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Zelda Tears of the Kingdom - Nintendo Switch 2 Edition",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81rHCVjj8nL._AC_SY741_.jpg",
-      "price": "69,90 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F2N69SGN?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:34:14.565927+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Nintendo"
-    },
-    {
-      "asin": "B07V4S2W94",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "The Legend of Zelda: Link’s Awakening | Switch - Download Code",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71WaIh4GtYL._AC_SY445_.jpg",
-      "price": "59,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B07V4S2W94?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:34:14.850910+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -488,6 +452,24 @@
       "game": "Nintendo"
     },
     {
+      "asin": "B0F2N69SGN",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Zelda Tears of the Kingdom - Nintendo Switch 2 Edition",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81rHCVjj8nL._AC_SY741_.jpg",
+      "price": "69,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F2N69SGN?tag=enkairito-21",
+      "first_seen": "2026-09-16T10:34:14.565927+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Nintendo"
+    },
+    {
       "asin": "B07T4Q53ZL",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -499,6 +481,24 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B07T4Q53ZL?tag=enkairito-21",
       "first_seen": "2026-09-16T10:34:14.850920+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Nintendo"
+    },
+    {
+      "asin": "B07V4S2W94",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "The Legend of Zelda: Link’s Awakening | Switch - Download Code",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71WaIh4GtYL._AC_SY445_.jpg",
+      "price": "59,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B07V4S2W94?tag=enkairito-21",
+      "first_seen": "2026-09-16T10:34:14.850910+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"

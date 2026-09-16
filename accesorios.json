@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T20:32:38.237675+00:00",
+  "updated_at": "2026-09-16T20:33:29.120312+00:00",
   "source_updates": {
     "accessories": "2026-09-16T06:02:52.069970+00:00",
     "onepiece": "2026-09-16T20:06:19.121216+00:00",
@@ -7,7 +7,7 @@
     "lorcana": "2026-09-16T18:16:13.718843+00:00",
     "yugioh": "2026-09-16T18:17:09.000057+00:00",
     "playstation": "2026-09-16T18:35:45.961532+00:00",
-    "nintendo": "2026-09-16T18:35:57.180971+00:00",
+    "nintendo": "2026-09-16T20:33:29.120312+00:00",
     "xbox": "2026-09-16T20:32:38.237675+00:00"
   },
   "products": [
@@ -822,42 +822,6 @@
       "source": "playstation"
     },
     {
-      "asin": "B017BRXU1A",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Ultra Pro - 1000 fundas suaves -",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71dlTRxRrAL._AC_SX679_.jpg",
-      "price": "13,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B017BRXU1A?tag=enkairito-21",
-      "first_seen": "2026-09-13T00:21:41.607232+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B085DNDLC1",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Ultra Pro Penny Fundas para tarjetas, estándar, blandas, para cartas coleccionables, como Pokemon Magic, tamaño estándar, transparentes, 400 unidades",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61wDnEEGSPL._AC_SX679_.jpg",
-      "price": "8,38 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B085DNDLC1?tag=enkairito-21",
-      "first_seen": "2026-09-12T06:29:23.882192+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
       "asin": "B094WLFGD3",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -928,438 +892,6 @@
         "PlayStation"
       ],
       "source": "playstation"
-    },
-    {
-      "asin": "B0HJ9SJF63",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Apple Funda de Silicona con MagSafe para el iPhone 18 Pro - Burdeos",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61yvKVy68QL._AC_SX466_.jpg",
-      "price": "49,00 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0HJ9SJF63?tag=enkairito-21",
-      "first_seen": "2026-09-16T18:35:57.179214+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B0FB3T6JYJ",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Pack de 10 Protectores Gold para Pokemon Elite Trainer Box - Funda Caja Pokemon ETB 0,5mm Grosor - Protección UV para Tus Cajas PKMN",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71Gv5mqqENL._AC_SX679_.jpg",
-      "price": "24,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FB3T6JYJ?tag=enkairito-21",
-      "first_seen": "2026-09-14T12:21:43.539312+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B01N5OORGV",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Nintendo Joy-Con Controller Neon Blue/Neon Red für Console Switch",
-      "image": "https://m.media-amazon.com/images/I/61-rfeUW-gL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "74,99 €",
-      "original_price": "79,99 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B01N5OORGV?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.912089+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B07VGY2LWT",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "GAMEPAD NINTENDO SWITCH JOY-CON MORADO/NARANJA",
-      "image": "https://m.media-amazon.com/images/I/61lEFR0r8uL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "74,99 €",
-      "original_price": "89,99 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B07VGY2LWT?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.912091+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B07VFTVVWX",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Nintendo Switch Joy-Con-Controller, links blau/rechts, neongelb [Videospiel]",
-      "image": "https://m.media-amazon.com/images/I/51zrgZx4+lL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "80,43 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B07VFTVVWX?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.912093+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B072BZ66JL",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Nintendo Par Joy-Con, verde/rosa, Bluetooth Interruptor",
-      "image": "https://m.media-amazon.com/images/I/51LpPa5diyL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "70,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "1",
-      "link": "https://www.amazon.es/dp/B072BZ66JL?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.912095+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B01N7RIIR2",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Nintendo Switch Joy-Con Wheel (Volante)",
-      "image": "https://m.media-amazon.com/images/I/61hSpg-bYRL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "13,99 €",
-      "original_price": "14,90 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B01N7RIIR2?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.912097+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B01N4ND1T2",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Nintendo Switch - Mando Pro Controller, Con Cable USB",
-      "image": "https://m.media-amazon.com/images/I/61xhzvDIRKL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "64,99 €",
-      "original_price": "69,99 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B01N4ND1T2?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.912100+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B01N10NX3M",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Nintendo - Adaptador De Corriente Switch",
-      "image": "https://m.media-amazon.com/images/I/61gn0qKDOBL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "27,99 €",
-      "original_price": "29,99 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B01N10NX3M?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.362352+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B071992NQ2",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Nintendo - Dock Set Con Base Switch, Adaptador De Corriente Y Cable HDMI Switch",
-      "image": "https://m.media-amazon.com/images/I/61ipdRXCiwL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "79,90 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B071992NQ2?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.912102+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B084DJ9J8C",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Funda + protector LCD para consola Nintendo Switch Lite edición Animal Crossing: New Horizons (Nintendo Switch Lite)",
-      "image": "https://m.media-amazon.com/images/I/71u4XqQNeaL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "24,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B084DJ9J8C?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.912103+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B07ZRL65YK",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Nintendo - Funda Plegable (Nintendo Switch Lite)",
-      "image": "https://m.media-amazon.com/images/I/71dcDJxKUjL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "35,99 €",
-      "original_price": "38,59 €",
-      "status": "compra_directa",
-      "stock": "4",
-      "link": "https://www.amazon.es/dp/B07ZRL65YK?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.912105+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B0F3JR79YY",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Nintendo Switch 2 Pro Controller",
-      "image": "https://m.media-amazon.com/images/I/61i4WR7HNFL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "74,99 €",
-      "original_price": "89,99 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F3JR79YY?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:34:14.850955+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B0GTZ2RP98",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "NYXI Hyperion 3 Mando para Switch 2 – Primer Mando Inalámbrico de Terceros para Switch 2, Hall Joystick, Pulsantes Mecánicos, Botón C, Giroscopio de 9 Ejes, Botones Traseros, Ergonomico",
-      "image": "https://m.media-amazon.com/images/I/717mBb4BY-L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "79,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0GTZ2RP98?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.912110+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B07KXQX3S3",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "SANDISK Tarjeta microSD con licencia oficial para Nintendo Switch, Super Mario Mushroom 128GB (Velocidad de Lectura hasta 100 MB/s, UHS-I, V30, C10, U3)",
-      "image": "https://m.media-amazon.com/images/I/810o-i5jpiL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "36,90 €",
-      "original_price": "42,99 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B07KXQX3S3?tag=enkairito-21",
-      "first_seen": "2026-09-14T06:23:10.440676+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B0GWMFP4JT",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "NYXI Hyperion 3 Mando para Switch 2 – Primer Mando Inalámbrico de Terceros para Switch 2, Hall Joystick, Pulsantes Mecánicos, Botón C, Giroscopio de 9 Ejes, Botones Traseros, Ergonomico",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61Iv0Ie2xPL._AC_SX466_.jpg",
-      "price": "79,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0GWMFP4JT?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.912128+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B0BW3T9YBP",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "8Bitdo Controlador de Juego Bluetooth SN30 PRO Compatible con Switch PC, Upgrade Hall Effect Joystick Gamepad Inalámbrico para PC, Windows, Android, macOS, Steam, Raspberry Pi (Transparencia Púrpura)",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71yYM3uVJOL._AC_SX466_.jpg",
-      "price": "48,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0BW3T9YBP?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.912132+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B0F49DHSHJ",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Orzly Funda de Transporte para Consola Nintendo Switch 2 2025 de 7.9 Pulgadas, Funda rígida con Almacenamiento Inteligente para Accesorios y Bolsillos de Juegos, Edición de Caja de Regalo",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/710-G9UKs4L._AC_SX425_.jpg",
-      "price": "22,48 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F49DHSHJ?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.912114+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B0H4JHNX1M",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "NYXI Hyperion 3 Mando para Switch 2 – Primer Mando Inalámbrico de Terceros para Switch 2, Hall Joystick, Pulsantes Mecánicos, Botón C, Giroscopio de 9 Ejes, Botones Traseros, Ergonomico",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61Iv0Ie2xPL._AC_SX466_.jpg",
-      "price": "79,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0H4JHNX1M?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.912147+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B0CFTJCFT2",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "NYXI Hyperion 3 Mando para Switch 2 – Primer Mando Inalámbrico de Terceros para Switch 2, Hall Joystick, Pulsantes Mecánicos, Botón C, Giroscopio de 9 Ejes, Botones Traseros, Ergonomico",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61Iv0Ie2xPL._AC_SX466_.jpg",
-      "price": "79,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0CFTJCFT2?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.912127+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B09C29Y4D4",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Remotto5 - Cargador para Mando de PS5 Inalámbrico - Batería Portátil para DualSense Juega Mientras Carga - Larga Duración +12 Horas de Autonomía - PS5 Accesorios",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51NKWB18ToL._AC_SX569_.jpg",
-      "price": "29,95 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B09C29Y4D4?tag=enkairito-21",
-      "first_seen": "2026-09-14T18:21:06.097389+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B0H7JHWBYN",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "NYXI Hyperion 3 Mando para Switch 2 – Primer Mando Inalámbrico de Terceros para Switch 2, Hall Joystick, Pulsantes Mecánicos, Botón C, Giroscopio de 9 Ejes, Botones Traseros, Ergonomico",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/714GF18hERL._AC_SX466_.jpg",
-      "price": "79,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0H7JHWBYN?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.912136+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B0FYHR3MYZ",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Nintendo Switch 2 - Pro Controller Resident Evil Requiem Edition",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71IaGprQkzL._AC_SX679_.jpg",
-      "price": "99,90 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FYHR3MYZ?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:34:14.850963+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
-      "asin": "B0D83WDY28",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "NYXI Warrior - Controlador Bluetooth para NSwitch/NGC/Wii/PC",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61vHHehhBsL._AC_SX466_.jpg",
-      "price": "69,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0D83WDY28?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.912142+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
     },
     {
       "asin": "B0F2NC69KK",
@@ -1648,6 +1180,366 @@
         "Xbox"
       ],
       "source": "xbox"
+    },
+    {
+      "asin": "B01N5OORGV",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Nintendo Joy-Con Controller Neon Blue/Neon Red für Console Switch",
+      "image": "https://m.media-amazon.com/images/I/61-rfeUW-gL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "74,99 €",
+      "original_price": "79,99 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B01N5OORGV?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:20:15.912089+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B07VGY2LWT",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "GAMEPAD NINTENDO SWITCH JOY-CON MORADO/NARANJA",
+      "image": "https://m.media-amazon.com/images/I/61lEFR0r8uL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "74,99 €",
+      "original_price": "89,99 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B07VGY2LWT?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:20:15.912091+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B07VFTVVWX",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Nintendo Switch Joy-Con-Controller, links blau/rechts, neongelb [Videospiel]",
+      "image": "https://m.media-amazon.com/images/I/51zrgZx4+lL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "80,43 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B07VFTVVWX?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:20:15.912093+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B072BZ66JL",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Nintendo Par Joy-Con, verde/rosa, Bluetooth Interruptor",
+      "image": "https://m.media-amazon.com/images/I/51LpPa5diyL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "70,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "1",
+      "link": "https://www.amazon.es/dp/B072BZ66JL?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:20:15.912095+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B01N7RIIR2",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Nintendo Switch Joy-Con Wheel (Volante)",
+      "image": "https://m.media-amazon.com/images/I/61hSpg-bYRL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "13,99 €",
+      "original_price": "14,90 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B01N7RIIR2?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:20:15.912097+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B01N4ND1T2",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Nintendo Switch - Mando Pro Controller, Con Cable USB",
+      "image": "https://m.media-amazon.com/images/I/61xhzvDIRKL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "64,99 €",
+      "original_price": "69,99 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B01N4ND1T2?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:20:15.912100+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B01N10NX3M",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Nintendo - Adaptador De Corriente Switch",
+      "image": "https://m.media-amazon.com/images/I/61gn0qKDOBL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "27,99 €",
+      "original_price": "29,99 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B01N10NX3M?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:20:15.362352+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B071992NQ2",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Nintendo - Dock Set Con Base Switch, Adaptador De Corriente Y Cable HDMI Switch",
+      "image": "https://m.media-amazon.com/images/I/61ipdRXCiwL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "79,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B071992NQ2?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:20:15.912102+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B084DJ9J8C",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Funda + protector LCD para consola Nintendo Switch Lite edición Animal Crossing: New Horizons (Nintendo Switch Lite)",
+      "image": "https://m.media-amazon.com/images/I/71u4XqQNeaL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "24,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B084DJ9J8C?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:20:15.912103+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B07ZRL65YK",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Nintendo - Funda Plegable (Nintendo Switch Lite)",
+      "image": "https://m.media-amazon.com/images/I/71dcDJxKUjL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "35,99 €",
+      "original_price": "38,59 €",
+      "status": "compra_directa",
+      "stock": "4",
+      "link": "https://www.amazon.es/dp/B07ZRL65YK?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:20:15.912105+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B0F3JR79YY",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Nintendo Switch 2 Pro Controller",
+      "image": "https://m.media-amazon.com/images/I/61i4WR7HNFL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "74,99 €",
+      "original_price": "89,99 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F3JR79YY?tag=enkairito-21",
+      "first_seen": "2026-09-16T10:34:14.850955+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B0GTZ2RP98",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "NYXI Hyperion 3 Mando para Switch 2 – Primer Mando Inalámbrico de Terceros para Switch 2, Hall Joystick, Pulsantes Mecánicos, Botón C, Giroscopio de 9 Ejes, Botones Traseros, Ergonomico",
+      "image": "https://m.media-amazon.com/images/I/717mBb4BY-L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "79,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GTZ2RP98?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:20:15.912110+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B0FYHR3MYZ",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Nintendo Switch 2 - Pro Controller Resident Evil Requiem Edition",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71IaGprQkzL._AC_SX679_.jpg",
+      "price": "99,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FYHR3MYZ?tag=enkairito-21",
+      "first_seen": "2026-09-16T10:34:14.850963+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B0H4JHNX1M",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "NYXI Hyperion 3 Mando para Switch 2 – Primer Mando Inalámbrico de Terceros para Switch 2, Hall Joystick, Pulsantes Mecánicos, Botón C, Giroscopio de 9 Ejes, Botones Traseros, Ergonomico",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61Iv0Ie2xPL._AC_SX466_.jpg",
+      "price": "79,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0H4JHNX1M?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:20:15.912147+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B0CFTJCFT2",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "NYXI Hyperion 3 Mando para Switch 2 – Primer Mando Inalámbrico de Terceros para Switch 2, Hall Joystick, Pulsantes Mecánicos, Botón C, Giroscopio de 9 Ejes, Botones Traseros, Ergonomico",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61Iv0Ie2xPL._AC_SX466_.jpg",
+      "price": "79,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CFTJCFT2?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:20:15.912127+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B0F49DHSHJ",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Orzly Funda de Transporte para Consola Nintendo Switch 2 2025 de 7.9 Pulgadas, Funda rígida con Almacenamiento Inteligente para Accesorios y Bolsillos de Juegos, Edición de Caja de Regalo",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/710-G9UKs4L._AC_SX425_.jpg",
+      "price": "22,48 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F49DHSHJ?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:20:15.912114+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B0GWMFP4JT",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "NYXI Hyperion 3 Mando para Switch 2 – Primer Mando Inalámbrico de Terceros para Switch 2, Hall Joystick, Pulsantes Mecánicos, Botón C, Giroscopio de 9 Ejes, Botones Traseros, Ergonomico",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61Iv0Ie2xPL._AC_SX466_.jpg",
+      "price": "79,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GWMFP4JT?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:20:15.912128+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B0BW3T9YBP",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "8Bitdo Controlador de Juego Bluetooth SN30 PRO Compatible con Switch PC, Upgrade Hall Effect Joystick Gamepad Inalámbrico para PC, Windows, Android, macOS, Steam, Raspberry Pi (Transparencia Púrpura)",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71yYM3uVJOL._AC_SX466_.jpg",
+      "price": "48,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0BW3T9YBP?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:20:15.912132+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B0D83WDY28",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "NYXI Warrior - Controlador Bluetooth para NSwitch/NGC/Wii/PC",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61vHHehhBsL._AC_SX466_.jpg",
+      "price": "69,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0D83WDY28?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:20:15.912142+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B0H7JHWBYN",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "NYXI Hyperion 3 Mando para Switch 2 – Primer Mando Inalámbrico de Terceros para Switch 2, Hall Joystick, Pulsantes Mecánicos, Botón C, Giroscopio de 9 Ejes, Botones Traseros, Ergonomico",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/714GF18hERL._AC_SX466_.jpg",
+      "price": "79,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0H7JHWBYN?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:20:15.912136+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
     }
   ]
 }
