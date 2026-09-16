@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-16T16:33:33.687847+00:00",
+  "updated_at": "2026-09-16T16:33:57.521969+00:00",
   "source_updates": {
     "accessories": "2026-09-16T06:02:52.069970+00:00",
     "onepiece": "2026-09-16T16:06:07.887192+00:00",
     "magic": "2026-09-16T12:16:27.763500+00:00",
     "lorcana": "2026-09-16T12:16:13.956034+00:00",
     "yugioh": "2026-09-16T12:16:47.486035+00:00",
-    "playstation": "2026-09-16T14:36:36.036625+00:00",
+    "playstation": "2026-09-16T16:33:57.521969+00:00",
     "nintendo": "2026-09-16T14:34:54.023160+00:00",
     "xbox": "2026-09-16T16:33:33.687847+00:00"
   },
@@ -624,24 +624,6 @@
       "source": "yugioh"
     },
     {
-      "asin": "B094WLFGD3",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "PlayStation 5 - Mando inalámbrico DualSense Midnight Black - Exclusivo para PS5",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51r36T4s31L._AC_SX679_.jpg",
-      "price": "76,90 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B094WLFGD3?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:36:52.714203+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
       "asin": "B01N5OORGV",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -928,294 +910,6 @@
         "Nintendo"
       ],
       "source": "nintendo"
-    },
-    {
-      "asin": "B08H99BPJN",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Playstation 5 - Mando inalámbrico DualSense",
-      "image": "https://m.media-amazon.com/images/I/61tpbGZhxBL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "71,99 €",
-      "original_price": "74,99 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B08H99BPJN?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:36:52.714177+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
-      "asin": "B0BS1MLFML",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Playstation 5 Standard Consola + 2 Mandos Inalámbrico Dualsense blanco",
-      "image": "https://m.media-amazon.com/images/I/61Rwl7JyDdL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "789,91 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0BS1MLFML?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:36:52.714181+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
-      "asin": "B0DSPX3R62",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "PlayStation 5 - Mando inalámbrico DualSense Edge® – Midnight Black",
-      "image": "https://m.media-amazon.com/images/I/61dsEJl7yNL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "204,99 €",
-      "original_price": "219,99 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0DSPX3R62?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:04.018951+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
-      "asin": "B0BMG2LH3W",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Playstation - Realidad Virtual VR2 | Gafas de Realidad Virtual Originales de Sony para PS5 con Imágenes HDR en 4K. Incluye Casco de realidad Virtual VR2 y Mandos VR2 Sense",
-      "image": "https://m.media-amazon.com/images/I/41Lx7odhhGL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "449,00 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0BMG2LH3W?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:04.018953+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
-      "asin": "B09CWDX4K3",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "PowerA Cargador Rápido Dual para 2 x Mandos Inalámbricos DualSense, Estación Doble de Carga para Mandos de Sony PlayStation 5 (Gris/Negro)",
-      "image": "https://m.media-amazon.com/images/I/61E4bTm1QZL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "19,99 €",
-      "original_price": "26,99 €",
-      "status": "compra_directa",
-      "stock": "1",
-      "link": "https://www.amazon.es/dp/B09CWDX4K3?tag=enkairito-21",
-      "first_seen": "2026-09-12T12:27:13.469347+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
-      "asin": "B0FPD23NY6",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Razer Raiju V3 Pro - Mando inalámbrico e-sports para PlayStation 5 y PC - 4 botones extraíbles y 2 garras de agarre - sticks analógicos TMR - Pro HyperTrigger - Botones Mecha-Táctiles | Blanco",
-      "image": "https://m.media-amazon.com/images/I/71SpU-AaiaL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "188,00 €",
-      "original_price": "209,99 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FPD23NY6?tag=enkairito-21",
-      "first_seen": "2026-09-16T02:36:01.860289+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
-      "asin": "B01LYWPQUN",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Playstation Sony - Dualshock 4 V2 Mando Inalámbrico, Color Negro V2 (PS4)",
-      "image": "https://m.media-amazon.com/images/I/51PTzBAJ1mL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "119,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B01LYWPQUN?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:36:52.714191+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
-      "asin": "B0C9YS6H22",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "2x cable de carga para mando PS4, cable de 2m para Playstation 4, Sony PS4, PS4 Slim, mandos Microsoft Xbox One, cable de carga micro USB, azul-negro",
-      "image": "https://m.media-amazon.com/images/I/71hqE6GVnXL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "9,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0C9YS6H22?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:36:52.714188+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
-      "asin": "B01LBH9ILW",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Dualshock 4 Wireless Controller - Jet Black - PlayStation 4",
-      "image": "https://m.media-amazon.com/images/I/71d9U+F5lbL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "119,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B01LBH9ILW?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:04.018969+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
-      "asin": "B0BKW3BYFR",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "AceGamer Controlador Inalámbrico Para Ps4, Controlador De Juego Compatible Con Ps4/Pro/Slim/Pc, Con Turbobotón/Botón Trasero/Doble Vibración/Sensor De Giroscopio De 6 Ejes/Panel Táctil",
-      "image": "https://m.media-amazon.com/images/I/71h+Ho0v55L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "23,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0BKW3BYFR?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:04.018959+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
-      "asin": "B0CG931L9Q",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "AceGamer Controlador Inalámbrico Para Ps4, Controlador De Juego Compatible Con Ps4/Pro/Slim/Pc, Con Turbobotón/Botón Trasero/Doble Vibración/Sensor De Giroscopio De 6 Ejes/Panel Táctil",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71h+Ho0v55L._AC_SX466_.jpg",
-      "price": "23,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0CG931L9Q?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:04.018972+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
-      "asin": "B0BKGKMLH2",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Playstation - Mando Inalámbrico DualSense Edge | Mando Original Sony para PS5 con Botones y Joysticks Ultracustomizables y Perfiles de Controles Personalizados. - Color Blanco",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51SimHCC1GL._AC_SX466_.jpg",
-      "price": "209,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0BKGKMLH2?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:04.018992+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
-      "asin": "B0C813CQ2Y",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Soporte Auriculares Gaming y Soporte Mando PS5, PS4, Xbox... One More Life : Regalo Gamer │ Sujección Universal de Resina y Base Antideslizante : Accesorios escritorio para Decoracion Set UP",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61aOSFQG5bL._AC_SX569_.jpg",
-      "price": "34,95 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0C813CQ2Y?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:18:12.685978+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
-      "asin": "B0BCK2483B",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Razer Wolverine V2 Pro - Mando inalámbrico para PS5 y PC (HyperSpeed Wireless, botones de acción mecatáctiles, D-Pad de microinterruptor de 8 direcciones, HyperTrigger) Negro",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71GiI405I8L._AC_SX466_.jpg",
-      "price": "177,00 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "2",
-      "link": "https://www.amazon.es/dp/B0BCK2483B?tag=enkairito-21",
-      "first_seen": "2026-09-16T02:36:01.860296+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
-      "asin": "B0FMYJ5GSZ",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Playstation Mando inalámbrico DualSense®: edición limitada Gold Ghost of Yōtei™",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71z3DyN05aL._AC_SX679_.jpg",
-      "price": "174,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FMYJ5GSZ?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:36:52.714196+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
-    },
-    {
-      "asin": "B0CJYB56BF",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "PlayStation 5- Mando inalámbrico DualSense, color Cobalt Blue",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61nQGukkRFL._AC_SX679_.jpg",
-      "price": "90,51 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0CJYB56BF?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:36:52.714206+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "PlayStation"
-      ],
-      "source": "playstation"
     },
     {
       "asin": "B0F2NC69KK",
@@ -1540,6 +1234,258 @@
         "Xbox"
       ],
       "source": "xbox"
+    },
+    {
+      "asin": "B0BS1MLFML",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Playstation 5 Standard Consola + 2 Mandos Inalámbrico Dualsense blanco",
+      "image": "https://m.media-amazon.com/images/I/61Rwl7JyDdL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "789,91 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0BS1MLFML?tag=enkairito-21",
+      "first_seen": "2026-09-16T10:36:52.714181+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B08H99BPJN",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Playstation 5 - Mando inalámbrico DualSense",
+      "image": "https://m.media-amazon.com/images/I/61tpbGZhxBL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "71,99 €",
+      "original_price": "74,99 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B08H99BPJN?tag=enkairito-21",
+      "first_seen": "2026-09-16T10:36:52.714177+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0FPD23NY6",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Razer Raiju V3 Pro - Mando inalámbrico e-sports para PlayStation 5 y PC - 4 botones extraíbles y 2 garras de agarre - sticks analógicos TMR - Pro HyperTrigger - Botones Mecha-Táctiles | Blanco",
+      "image": "https://m.media-amazon.com/images/I/71SpU-AaiaL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "188,00 €",
+      "original_price": "209,99 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FPD23NY6?tag=enkairito-21",
+      "first_seen": "2026-09-16T02:36:01.860289+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0BMG2LH3W",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Playstation - Realidad Virtual VR2 | Gafas de Realidad Virtual Originales de Sony para PS5 con Imágenes HDR en 4K. Incluye Casco de realidad Virtual VR2 y Mandos VR2 Sense",
+      "image": "https://m.media-amazon.com/images/I/41Lx7odhhGL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "449,00 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0BMG2LH3W?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018953+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B09CWDX4K3",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "PowerA Cargador Rápido Dual para 2 x Mandos Inalámbricos DualSense, Estación Doble de Carga para Mandos de Sony PlayStation 5 (Gris/Negro)",
+      "image": "https://m.media-amazon.com/images/I/61E4bTm1QZL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "19,99 €",
+      "original_price": "26,99 €",
+      "status": "compra_directa",
+      "stock": "1",
+      "link": "https://www.amazon.es/dp/B09CWDX4K3?tag=enkairito-21",
+      "first_seen": "2026-09-12T12:27:13.469347+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B01LYWPQUN",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Playstation Sony - Dualshock 4 V2 Mando Inalámbrico, Color Negro V2 (PS4)",
+      "image": "https://m.media-amazon.com/images/I/51PTzBAJ1mL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "119,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B01LYWPQUN?tag=enkairito-21",
+      "first_seen": "2026-09-16T10:36:52.714191+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0C9YS6H22",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "2x cable de carga para mando PS4, cable de 2m para Playstation 4, Sony PS4, PS4 Slim, mandos Microsoft Xbox One, cable de carga micro USB, azul-negro",
+      "image": "https://m.media-amazon.com/images/I/71hqE6GVnXL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "9,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0C9YS6H22?tag=enkairito-21",
+      "first_seen": "2026-09-16T10:36:52.714188+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B07W4X1F21",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Sony PlayStation DualShock 4 Controller - Glacier White (Renewed)",
+      "image": "https://m.media-amazon.com/images/I/51PkqE9Kb6L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "62,48 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B07W4X1F21?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:18:12.685972+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B01LBH9ILW",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Dualshock 4 Wireless Controller - Jet Black - PlayStation 4",
+      "image": "https://m.media-amazon.com/images/I/71d9U+F5lbL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "119,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B01LBH9ILW?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018969+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0BCK2483B",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Razer Wolverine V2 Pro - Mando inalámbrico para PS5 y PC (HyperSpeed Wireless, botones de acción mecatáctiles, D-Pad de microinterruptor de 8 direcciones, HyperTrigger) Negro",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71GiI405I8L._AC_SX466_.jpg",
+      "price": "177,00 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "2",
+      "link": "https://www.amazon.es/dp/B0BCK2483B?tag=enkairito-21",
+      "first_seen": "2026-09-16T02:36:01.860296+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0C813CQ2Y",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Soporte Auriculares Gaming y Soporte Mando PS5, PS4, Xbox... One More Life : Regalo Gamer │ Sujección Universal de Resina y Base Antideslizante : Accesorios escritorio para Decoracion Set UP",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61aOSFQG5bL._AC_SX569_.jpg",
+      "price": "34,95 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0C813CQ2Y?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:18:12.685978+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B094WLFGD3",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "PlayStation 5 - Mando inalámbrico DualSense Midnight Black - Exclusivo para PS5",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51r36T4s31L._AC_SX679_.jpg",
+      "price": "76,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B094WLFGD3?tag=enkairito-21",
+      "first_seen": "2026-09-16T10:36:52.714203+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0FMYJ5GSZ",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Playstation Mando inalámbrico DualSense®: edición limitada Gold Ghost of Yōtei™",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71z3DyN05aL._AC_SX679_.jpg",
+      "price": "174,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FMYJ5GSZ?tag=enkairito-21",
+      "first_seen": "2026-09-16T10:36:52.714196+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
+    },
+    {
+      "asin": "B0CJYB56BF",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "PlayStation 5- Mando inalámbrico DualSense, color Cobalt Blue",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61nQGukkRFL._AC_SX679_.jpg",
+      "price": "90,51 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CJYB56BF?tag=enkairito-21",
+      "first_seen": "2026-09-16T10:36:52.714206+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "PlayStation"
+      ],
+      "source": "playstation"
     }
   ]
 }
