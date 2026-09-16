@@ -1,97 +1,5 @@
 [
   {
-    "asin": "B0F6NVSY7V",
-    "store_label": "Amazon ES",
-    "flag": "🇪🇸",
-    "name": "smartect Cristal Templado 2 Piezas para Nintendo Switch 2",
-    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71PP-yHVTfL._AC_SX679_.jpg",
-    "price": "12,99 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0F6NVSY7V?tag=enkairito-21",
-    "first_seen": "2026-09-12T12:20:41.149146+00:00",
-    "marketplace": "ES",
-    "categories": [
-      "Videojuego"
-    ],
-    "game": "Nintendo",
-    "ts": "2026-09-12T12:20:41.150094+00:00",
-    "type": "restock",
-    "prev_price": "12,99 €",
-    "_src": "nintendo.json",
-    "id": "ES-B0F6NVSY7V:2026-09-12T12:20:41.150094+00:00:restock"
-  },
-  {
-    "asin": "B0G1BDSJ52",
-    "store_label": "Amazon ES",
-    "flag": "🇪🇸",
-    "name": "Animal Crossing New Horizons - Nintendo Switch 2 Edition",
-    "image": "https://m.media-amazon.com/images/I/81-mOHTHOxL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "53,90 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0G1BDSJ52?tag=enkairito-21",
-    "first_seen": "2026-09-12T00:28:58.478085+00:00",
-    "marketplace": "ES",
-    "categories": [
-      "Videojuego"
-    ],
-    "game": "Nintendo",
-    "ts": "2026-09-12T12:27:48.388048+00:00",
-    "type": "restock",
-    "prev_price": "53,90 €",
-    "_src": "nintendo.json",
-    "id": "ES-B0G1BDSJ52:2026-09-12T12:27:48.388048+00:00:restock"
-  },
-  {
-    "asin": "B0FXHDBB1R",
-    "store_label": "Amazon ES",
-    "flag": "🇪🇸",
-    "name": "Assassin's Creed Shadows (Switch 2)",
-    "image": "https://m.media-amazon.com/images/I/71Dzk+xwnVL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "34,90 €",
-    "original_price": "59,99 €",
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0FXHDBB1R?tag=enkairito-21",
-    "first_seen": "2026-09-12T00:28:58.478229+00:00",
-    "marketplace": "ES",
-    "categories": [
-      "Videojuego"
-    ],
-    "game": "Nintendo",
-    "ts": "2026-09-12T12:27:48.388048+00:00",
-    "type": "restock",
-    "prev_price": "34,90 €",
-    "_src": "nintendo.json",
-    "id": "ES-B0FXHDBB1R:2026-09-12T12:27:48.388048+00:00:restock"
-  },
-  {
-    "asin": "B0G1ZBQGYF",
-    "store_label": "Amazon ES",
-    "flag": "🇪🇸",
-    "name": "Marvel Cosmic Invasion - Switch 2",
-    "image": "https://m.media-amazon.com/images/I/81qgLc00mxL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "39,99 €",
-    "original_price": "49,99 €",
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0G1ZBQGYF?tag=enkairito-21",
-    "first_seen": "2026-09-11T19:20:15.911970+00:00",
-    "marketplace": "ES",
-    "categories": [
-      "Videojuego"
-    ],
-    "game": "Nintendo",
-    "ts": "2026-09-12T12:27:48.388048+00:00",
-    "type": "restock",
-    "prev_price": "39,99 €",
-    "_src": "nintendo.json",
-    "id": "ES-B0G1ZBQGYF:2026-09-12T12:27:48.388048+00:00:restock"
-  },
-  {
     "asin": "B0D98BJ7SH",
     "store_label": "Amazon ES",
     "flag": "🇪🇸",
@@ -4598,5 +4506,97 @@
     "prev_price": "68,00 €",
     "_src": "nintendo.json",
     "id": "ES-B0GJTJQ8V9:2026-09-16T14:34:54.022754+00:00:restock"
+  },
+  {
+    "asin": "B0FGKFFCJP",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "EA SPORTS FC 26 Standard Edition Switch 2 | Cartucho | Videojuegos | Castellano",
+    "image": "https://m.media-amazon.com/images/I/81+yxzDh0dL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "19,90 €",
+    "original_price": "29,99 €",
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0FGKFFCJP?tag=enkairito-21",
+    "first_seen": "2026-09-11T19:20:15.911978+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Videojuego"
+    ],
+    "game": "Nintendo",
+    "ts": "2026-09-16T16:36:07.528838+00:00",
+    "type": "restock",
+    "prev_price": "19,90 €",
+    "_src": "nintendo.json",
+    "id": "ES-B0FGKFFCJP:2026-09-16T16:36:07.528838+00:00:restock"
+  },
+  {
+    "asin": "B0HJ8VKG12",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Stellar Blade Complete Edition - Switch 2",
+    "image": "https://m.media-amazon.com/images/I/81i42rPNKkL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "59,99 €",
+    "original_price": null,
+    "status": "preventa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0HJ8VKG12?tag=enkairito-21",
+    "first_seen": "2026-09-15T20:34:05.436503+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Videojuego"
+    ],
+    "game": "Nintendo",
+    "ts": "2026-09-16T16:36:07.528838+00:00",
+    "type": "restock",
+    "prev_price": "59,99 €",
+    "_src": "nintendo.json",
+    "id": "ES-B0HJ8VKG12:2026-09-16T16:36:07.528838+00:00:restock"
+  },
+  {
+    "asin": "B0FGK5C8VW",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "EA SPORTS FC 26 Standard Edition Switch | Videojuegos | Castellano",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81jZCpAxktL._AC_SY741_.jpg",
+    "price": "19,90 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0FGK5C8VW?tag=enkairito-21",
+    "first_seen": "2026-09-11T19:20:15.912077+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Videojuego"
+    ],
+    "game": "Nintendo",
+    "ts": "2026-09-16T16:36:07.528838+00:00",
+    "type": "restock",
+    "prev_price": "19,90 €",
+    "_src": "nintendo.json",
+    "id": "ES-B0FGK5C8VW:2026-09-16T16:36:07.528838+00:00:restock"
+  },
+  {
+    "asin": "B0F2N69SGN",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Zelda Tears of the Kingdom - Nintendo Switch 2 Edition",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81rHCVjj8nL._AC_SY741_.jpg",
+    "price": "69,90 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0F2N69SGN?tag=enkairito-21",
+    "first_seen": "2026-09-16T10:34:14.565927+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Videojuego"
+    ],
+    "game": "Nintendo",
+    "ts": "2026-09-16T16:36:07.528838+00:00",
+    "type": "restock",
+    "prev_price": null,
+    "_src": "nintendo.json",
+    "id": "ES-B0F2N69SGN:2026-09-16T16:36:07.528838+00:00:restock"
   }
 ]
