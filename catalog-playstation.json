@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T08:35:37.055043+00:00",
+  "updated_at": "2026-09-16T10:36:52.715681+00:00",
   "products": [
     {
       "asin": "B0CD2R5CD3",
@@ -9,8 +9,8 @@
       "image": "https://m.media-amazon.com/images/I/81tSC34DQFL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
       "price": "19,90 €",
       "original_price": null,
-      "status": "compra_directa",
-      "stock": "5",
+      "status": "sin_confirmar",
+      "stock": null,
       "link": "https://www.amazon.es/dp/B0CD2R5CD3?tag=enkairito-21",
       "first_seen": "2026-09-11T19:18:12.685827+00:00",
       "marketplace": "ES",
@@ -20,7 +20,7 @@
       "game": "PlayStation",
       "_src": "playstation.json",
       "last_seen": "2026-09-16T08:35:37.055043+00:00",
-      "checked_at": "2026-09-16T08:35:37.055043+00:00"
+      "checked_at": "2026-09-16T10:36:52.715681+00:00"
     },
     {
       "asin": "B08B4HHNNM",
@@ -30,7 +30,7 @@
       "image": "https://m.media-amazon.com/images/I/91YXtjRpLoL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
       "price": "36,00 €",
       "original_price": "69,99 €",
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B08B4HHNNM?tag=enkairito-21",
       "first_seen": "2026-09-11T19:18:12.685872+00:00",
@@ -41,7 +41,7 @@
       "game": "PlayStation",
       "_src": "playstation.json",
       "last_seen": "2026-09-16T08:35:37.055043+00:00",
-      "checked_at": "2026-09-16T08:35:37.055043+00:00"
+      "checked_at": "2026-09-16T10:36:52.715681+00:00"
     },
     {
       "asin": "B0CQD377LS",
@@ -61,8 +61,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-16T08:35:37.055043+00:00",
-      "checked_at": "2026-09-16T08:35:37.055043+00:00"
+      "last_seen": "2026-09-16T10:36:52.715681+00:00",
+      "checked_at": "2026-09-16T10:36:52.715681+00:00"
     },
     {
       "asin": "B0D98BDG3S",
@@ -156,7 +156,7 @@
       "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81tSe7S313L._AC_SX385_.jpg",
       "price": "19,90 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0CD2RBQ68?tag=enkairito-21",
       "first_seen": "2026-09-11T19:18:12.685939+00:00",
@@ -167,7 +167,7 @@
       "game": "PlayStation",
       "_src": "playstation.json",
       "last_seen": "2026-09-16T08:35:37.055043+00:00",
-      "checked_at": "2026-09-16T08:35:37.055043+00:00"
+      "checked_at": "2026-09-16T10:36:52.715681+00:00"
     },
     {
       "asin": "B0GHT1SQ3S",
@@ -334,8 +334,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-16T08:35:37.055043+00:00",
-      "checked_at": "2026-09-16T08:35:37.055043+00:00"
+      "last_seen": "2026-09-16T10:36:52.715681+00:00",
+      "checked_at": "2026-09-16T10:36:52.715681+00:00"
     },
     {
       "asin": "B0FGDV57YV",
@@ -387,7 +387,7 @@
       "image": "https://m.media-amazon.com/images/I/81sGfyRD3eL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
       "price": "35,98 €",
       "original_price": "69,99 €",
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B09GSPDV8K?tag=enkairito-21",
       "first_seen": "2026-09-12T18:25:09.102575+00:00",
@@ -398,7 +398,7 @@
       "game": "PlayStation",
       "_src": "playstation.json",
       "last_seen": "2026-09-16T08:35:37.055043+00:00",
-      "checked_at": "2026-09-16T08:35:37.055043+00:00"
+      "checked_at": "2026-09-16T10:36:52.715681+00:00"
     },
     {
       "asin": "B0G1NBTBC4",
@@ -429,7 +429,7 @@
       "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/714PoUvZbYL._AC_SX425_.jpg",
       "price": "79,99 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0GRWCXP1F?tag=enkairito-21",
       "first_seen": "2026-09-12T00:28:04.018842+00:00",
@@ -440,7 +440,7 @@
       "game": "PlayStation",
       "_src": "playstation.json",
       "last_seen": "2026-09-16T08:35:37.055043+00:00",
-      "checked_at": "2026-09-16T08:35:37.055043+00:00"
+      "checked_at": "2026-09-16T10:36:52.715681+00:00"
     },
     {
       "asin": "B0BZJFZH8C",
@@ -471,7 +471,7 @@
       "image": "https://m.media-amazon.com/images/I/415S-Puzd8L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
       "price": "79,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0CMXL75GH?tag=enkairito-21",
       "first_seen": "2026-09-12T00:28:04.018716+00:00",
@@ -481,8 +481,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-12T06:27:49.067489+00:00",
-      "checked_at": "2026-09-12T12:19:57.716317+00:00"
+      "last_seen": "2026-09-16T10:36:52.715681+00:00",
+      "checked_at": "2026-09-16T10:36:52.715681+00:00"
     },
     {
       "asin": "B09X5TX9CN",
@@ -513,7 +513,7 @@
       "image": "https://m.media-amazon.com/images/I/81xdKX5ydlL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
       "price": "57,99 €",
       "original_price": "79,99 €",
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0F6D5BS17?tag=enkairito-21",
       "first_seen": "2026-09-12T00:28:04.018791+00:00",
@@ -524,7 +524,7 @@
       "game": "PlayStation",
       "_src": "playstation.json",
       "last_seen": "2026-09-16T08:35:37.055043+00:00",
-      "checked_at": "2026-09-16T08:35:37.055043+00:00"
+      "checked_at": "2026-09-16T10:36:52.715681+00:00"
     },
     {
       "asin": "B01M9COSMD",
@@ -597,7 +597,7 @@
       "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81-GGeMn-UL._AC_SX385_.jpg",
       "price": "42,99 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0GNKRMWMS?tag=enkairito-21",
       "first_seen": "2026-09-12T00:28:04.018871+00:00",
@@ -608,7 +608,7 @@
       "game": "PlayStation",
       "_src": "playstation.json",
       "last_seen": "2026-09-16T08:35:37.055043+00:00",
-      "checked_at": "2026-09-16T08:35:37.055043+00:00"
+      "checked_at": "2026-09-16T10:36:52.715681+00:00"
     },
     {
       "asin": "B0BQJQZQ54",
@@ -681,7 +681,7 @@
       "image": "https://m.media-amazon.com/images/I/81XJpSfHRtL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
       "price": "54,95 €",
       "original_price": "59,99 €",
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0H4GT8TXL?tag=enkairito-21",
       "first_seen": "2026-09-12T00:28:04.018938+00:00",
@@ -692,7 +692,7 @@
       "game": "PlayStation",
       "_src": "playstation.json",
       "last_seen": "2026-09-16T08:35:37.055043+00:00",
-      "checked_at": "2026-09-16T08:35:37.055043+00:00"
+      "checked_at": "2026-09-16T10:36:52.715681+00:00"
     },
     {
       "asin": "B0D362WFCC",
@@ -702,7 +702,7 @@
       "image": "https://m.media-amazon.com/images/I/81FpupXxD6L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
       "price": "34,99 €",
       "original_price": "39,50 €",
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0D362WFCC?tag=enkairito-21",
       "first_seen": "2026-09-12T12:27:13.469238+00:00",
@@ -713,7 +713,7 @@
       "game": "PlayStation",
       "_src": "playstation.json",
       "last_seen": "2026-09-16T08:35:37.055043+00:00",
-      "checked_at": "2026-09-16T08:35:37.055043+00:00"
+      "checked_at": "2026-09-16T10:36:52.715681+00:00"
     },
     {
       "asin": "B0HJ2FHFY6",
@@ -723,7 +723,7 @@
       "image": "https://m.media-amazon.com/images/I/71WivR4cgXL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
       "price": "49,99 €",
       "original_price": null,
-      "status": "preventa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0HJ2FHFY6?tag=enkairito-21",
       "first_seen": "2026-09-13T12:22:28.699801+00:00",
@@ -734,7 +734,7 @@
       "game": "PlayStation",
       "_src": "playstation.json",
       "last_seen": "2026-09-16T08:35:37.055043+00:00",
-      "checked_at": "2026-09-16T08:35:37.055043+00:00"
+      "checked_at": "2026-09-16T10:36:52.715681+00:00"
     },
     {
       "asin": "B01M75BFQ7",
@@ -1099,9 +1099,9 @@
       "flag": "🇪🇸",
       "name": "EA SPORTS FC 26 Standard Edition PS5 | Disco | Videojuegos | English audio, Spanish subtitles",
       "image": "https://m.media-amazon.com/images/I/81WSUY9gyHL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "29,99 €",
-      "original_price": null,
-      "status": "sin_confirmar",
+      "price": "19,90 €",
+      "original_price": "29,99 €",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0FGK5M2BS?tag=enkairito-21",
       "first_seen": "2026-09-13T00:24:23.874092+00:00",
@@ -1111,8 +1111,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-16T02:36:01.861934+00:00",
-      "checked_at": "2026-09-16T04:35:56.195276+00:00"
+      "last_seen": "2026-09-16T10:36:52.715681+00:00",
+      "checked_at": "2026-09-16T10:36:52.715681+00:00"
     },
     {
       "asin": "B0BX722HFN",
@@ -1183,10 +1183,10 @@
       "flag": "🇪🇸",
       "name": "SONY PS5 with Blu-Ray 1TB SSD D-Chassis Slim EU",
       "image": "https://m.media-amazon.com/images/I/51Q3MtJEJ0L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "819,90 €",
+      "price": "789,00 €",
       "original_price": null,
-      "status": "sin_confirmar",
-      "stock": null,
+      "status": "compra_directa",
+      "stock": "2",
       "link": "https://www.amazon.es/dp/B0CQPMYTVM?tag=enkairito-21",
       "first_seen": "2026-09-13T18:20:21.671515+00:00",
       "marketplace": "ES",
@@ -1195,8 +1195,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-14T00:24:37.964734+00:00",
-      "checked_at": "2026-09-14T06:19:57.559139+00:00"
+      "last_seen": "2026-09-16T10:36:52.715681+00:00",
+      "checked_at": "2026-09-16T10:36:52.715681+00:00"
     },
     {
       "asin": "B0C74Q2GWX",
@@ -1393,9 +1393,9 @@
       "flag": "🇪🇸",
       "name": "Logitech G G923 Racing Wheel and Pedals for Playstation & PC",
       "image": "https://m.media-amazon.com/images/I/61HPuztGCnL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "229,00 €",
+      "price": "219,99 €",
       "original_price": "239,00 €",
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B07W7KFFFF?tag=enkairito-21",
       "first_seen": "2026-09-15T00:20:12.441018+00:00",
@@ -1405,8 +1405,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-15T00:20:12.442494+00:00",
-      "checked_at": "2026-09-15T20:34:33.328686+00:00"
+      "last_seen": "2026-09-16T10:36:52.715681+00:00",
+      "checked_at": "2026-09-16T10:36:52.715681+00:00"
     },
     {
       "asin": "B0BZJFJM16",
@@ -1521,7 +1521,7 @@
       "image": "https://m.media-amazon.com/images/I/81vNgxfUZJL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
       "price": "69,90 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "preventa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0H7KH6117?tag=enkairito-21",
       "first_seen": "2026-09-16T02:36:01.860184+00:00",
@@ -1531,8 +1531,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-16T02:36:01.861934+00:00",
-      "checked_at": "2026-09-16T04:35:56.195276+00:00"
+      "last_seen": "2026-09-16T10:36:52.715681+00:00",
+      "checked_at": "2026-09-16T10:36:52.715681+00:00"
     },
     {
       "asin": "B0FGK4FQR8",
@@ -1540,9 +1540,9 @@
       "flag": "🇪🇸",
       "name": "EA SPORTS FC 26 Standard Edition PS4 | Videojuegos | Castellano",
       "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81K2BOcp1rL._AC_SX569_.jpg",
-      "price": "29,99 €",
+      "price": "19,90 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0FGK4FQR8?tag=enkairito-21",
       "first_seen": "2026-09-16T02:36:01.860249+00:00",
@@ -1552,8 +1552,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-16T02:36:01.861934+00:00",
-      "checked_at": "2026-09-16T04:35:56.195276+00:00"
+      "last_seen": "2026-09-16T10:36:52.715681+00:00",
+      "checked_at": "2026-09-16T10:36:52.715681+00:00"
     },
     {
       "asin": "B0H7KC2LYW",
@@ -1563,7 +1563,7 @@
       "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81Ri7k1jVHL._AC_SX385_.jpg",
       "price": "69,90 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "preventa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0H7KC2LYW?tag=enkairito-21",
       "first_seen": "2026-09-16T02:36:01.860276+00:00",
@@ -1573,8 +1573,113 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-16T02:36:01.861934+00:00",
-      "checked_at": "2026-09-16T04:35:56.195276+00:00"
+      "last_seen": "2026-09-16T10:36:52.715681+00:00",
+      "checked_at": "2026-09-16T10:36:52.715681+00:00"
+    },
+    {
+      "asin": "B0FP2S1MNB",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Playstation Consola 5 Estandar Chassis E",
+      "image": "https://m.media-amazon.com/images/I/41H+rQndLAL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "649,00 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FP2S1MNB?tag=enkairito-21",
+      "first_seen": "2026-09-16T10:36:52.714000+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Consola"
+      ],
+      "game": "PlayStation",
+      "_src": "playstation.json",
+      "last_seen": "2026-09-16T10:36:52.715681+00:00",
+      "checked_at": "2026-09-16T10:36:52.715681+00:00"
+    },
+    {
+      "asin": "B0CJJCZMKJ",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Playstation 5 Portal Remote Player|Reproductor a distancia",
+      "image": "https://m.media-amazon.com/images/I/71vneFQVbDL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "232,00 €",
+      "original_price": "249,99 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CJJCZMKJ?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:18:12.323203+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation",
+      "_src": "playstation.json",
+      "last_seen": "2026-09-16T10:36:52.715681+00:00",
+      "checked_at": "2026-09-16T10:36:52.715681+00:00"
+    },
+    {
+      "asin": "B0GZH9BJYD",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Grand Theft Auto VI - PlayStation 5 (Código de descarga)",
+      "image": "https://m.media-amazon.com/images/I/81Sd2IhEG-L._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "79,90 €",
+      "original_price": null,
+      "status": "preventa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GZH9BJYD?tag=enkairito-21",
+      "first_seen": "2026-09-16T10:36:52.714063+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation",
+      "_src": "playstation.json",
+      "last_seen": "2026-09-16T10:36:52.715681+00:00",
+      "checked_at": "2026-09-16T10:36:52.715681+00:00"
+    },
+    {
+      "asin": "B07HGBNWTY",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Playstation 4 Consola versión Slim (PS4)| Capacidad 500GB | Chasis tipo F | Color negro",
+      "image": "https://m.media-amazon.com/images/I/51X5fQQJmcL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "499,00 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "2",
+      "link": "https://www.amazon.es/dp/B07HGBNWTY?tag=enkairito-21",
+      "first_seen": "2026-09-16T10:36:52.714129+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Consola"
+      ],
+      "game": "PlayStation",
+      "_src": "playstation.json",
+      "last_seen": "2026-09-16T10:36:52.715681+00:00",
+      "checked_at": "2026-09-16T10:36:52.715681+00:00"
+    },
+    {
+      "asin": "B08KKJ37F7",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Playstation 5 Standard Consola",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51JIgN-64UL._AC_SX679_.jpg",
+      "price": "819,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B08KKJ37F7?tag=enkairito-21",
+      "first_seen": "2026-09-13T12:22:28.169361+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Consola"
+      ],
+      "game": "PlayStation",
+      "_src": "playstation.json",
+      "last_seen": "2026-09-16T10:36:52.715681+00:00",
+      "checked_at": "2026-09-16T10:36:52.715681+00:00"
     }
   ]
 }
