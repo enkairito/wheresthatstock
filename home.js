@@ -69,7 +69,7 @@ function activityItemHtml(e) {
         : "bajó de precio")
     : "ya está disponible";
   return `
-    <a class="activity-item" href="${link}" target="_blank" rel="noopener">
+    <a class="activity-item" href="${link}" target="_blank" rel="noopener sponsored">
       ${e.image ? `<img class="activity-img" src="${image}" alt="" width="40" height="40" loading="lazy">` : ""}
       <div class="activity-body">
         <div class="activity-text"><strong>${name}</strong> ${actionText}</div>

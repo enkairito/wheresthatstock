@@ -12,8 +12,12 @@ from patchright.sync_api import sync_playwright, expect
 ROOT = Path(__file__).resolve().parents[1]
 if not (ROOT / 'index.html').exists():
     ROOT = ROOT.parent / 'wheresthatstock'
-SOURCES = ['products.json', 'onepiece.json', 'magic.json', 'lorcana.json', 'yugioh.json']
-GAMES = ['Pokémon', 'One Piece', 'Magic', 'Lorcana', 'Yu-Gi-Oh!']
+SOURCES = [
+    'products.json', 'onepiece.json', 'magic.json', 'lorcana.json',
+    'yugioh.json', 'nintendo.json', 'playstation.json', 'xbox.json',
+]
+GAMES = ['Pokémon', 'One Piece', 'Magic', 'Lorcana', 'Yu-Gi-Oh!', 'Nintendo', 'PlayStation', 'Xbox']
+ASINS = [f'B00000000{i}' for i in range(5)] + ['B000000100', 'B000000101', 'B000000102']
 
 
 class Handler(SimpleHTTPRequestHandler):
@@ -70,24 +74,12 @@ class WebTests(unittest.TestCase):
             if self.image_behavior == 'broken':
                 return route.fulfill(status=200, content_type='image/jpeg', body='not an image')
             return route.fulfill(path=str(ROOT / 'assets' / 'logo.jpg'), content_type='image/jpeg')
-        # Gaming aún no forma parte de SOURCES/GAMES aquí a propósito: esas
-        # listas fijan los cinco TCG que varias pruebas esperan en portada.
-        # Nintendo sirve un producto aislado para probar sus fichas; las otras
-        # fuentes se sirven vacías y ninguna cae al servidor de ficheros real.
-        if name in ('nintendo.json', 'activity-nintendo.json', 'playstation.json', 'activity-playstation.json', 'xbox.json', 'activity-xbox.json'):
-            products = []
-            if name == 'nintendo.json':
-                products = [{'asin':'B000000100','marketplace':'ES','name':'Nintendo Switch 2',
-                             'status':'compra_directa','price':'469,00 €','categories':['Consola'],
-                             'game':'Nintendo','first_seen':self.now.isoformat(),
-                             'link':'https://example.test/nintendo'}]
-            return route.fulfill(json={'updated_at': self.now.isoformat(), 'products': products} if name.endswith('.json') and not name.startswith('activity-') else [])
         if name in SOURCES:
             index = SOURCES.index(name)
             if self.mode == 'partial' and name == 'yugioh.json':
                 return route.fulfill(status=503, body='unavailable')
             stamp = self.now - timedelta(hours=14 if self.mode == 'partial' and name == 'magic.json' else 0)
-            product = {'asin': f'B00000000{index}', 'marketplace': 'ES', 'name': GAMES[index] + ' Booster',
+            product = {'asin': ASINS[index], 'marketplace': 'ES', 'name': GAMES[index] + ' Booster',
                        'status': 'compra_directa', 'price': '10,00 €', 'original_price': '20,00 €',
                        'categories': ['Otros'], 'game': GAMES[index], 'first_seen': stamp.isoformat(),
                        'link': 'https://example.test/product'}
@@ -109,14 +101,18 @@ class WebTests(unittest.TestCase):
         self.assertEqual(response.status, 200)
         self.assertEqual(self.errors, [])
 
-    def test_home_uses_five_games_for_cards_and_activity(self):
+    def test_home_keeps_gaming_out_of_cards_and_activity(self):
         self.visit('/')
         self.assertEqual(self.page.locator('#newest-grid .card').count(), 5)
         self.assertEqual(self.page.locator('#deals-grid .card').count(), 5)
         self.assertEqual(self.page.locator('#activity-list .activity-item').count(), 5)
-        for game in GAMES:
-            self.assertIn(game, self.page.locator('#newest-grid').inner_text())
+        for game in GAMES[:5]:
             self.assertIn(game, self.page.locator('#activity-list').inner_text())
+        for game in GAMES[5:]:
+            self.assertNotIn(game, self.page.locator('#activity-list').inner_text())
+        self.assertEqual(self.page.locator('.category-card[href="nintendo"]').count(), 0)
+        self.assertEqual(self.page.locator('.category-card[href="playstation"]').count(), 0)
+        self.assertEqual(self.page.locator('.category-card[href="xbox"]').count(), 0)
         self.assertEqual(self.page.locator('#stock-freshness').count(), 0)
 
     def test_partial_failure_keeps_products_without_public_health_notice(self):
@@ -124,9 +120,17 @@ class WebTests(unittest.TestCase):
         self.visit('/ofertas')
         self.assertEqual(self.page.locator('#stock-freshness').count(), 0)
         self.assertEqual(self.page.locator('#live-text').inner_text(), 'catálogo de productos')
-        self.assertEqual(self.page.locator('#grid .card').count(), 4)
+        self.assertEqual(self.page.locator('#grid .card').count(), 7)
         self.page.locator('input[data-game="Magic"]').uncheck()
-        self.assertEqual(self.page.locator('#grid .card').count(), 3)
+        self.assertEqual(self.page.locator('#grid .card').count(), 6)
+
+    def test_offers_include_gaming_and_every_supported_store(self):
+        self.visit('/ofertas')
+        self.assertEqual(self.page.locator('#grid .card').count(), 8)
+        for game in GAMES:
+            expect(self.page.locator(f'input[data-game="{game}"]')).to_be_checked()
+        for store in ('ES', 'UK', 'US', 'ECI', 'CAR', 'FNAC', 'TRU'):
+            expect(self.page.locator(f'input[data-marketplace="{store}"]')).to_be_checked()
 
     def test_accessories_uses_a_discreet_header(self):
         self.visit('/accesorios')
@@ -248,7 +252,7 @@ class WebTests(unittest.TestCase):
 
     def test_missing_and_broken_images_show_a_placeholder(self):
         self.visit('/ofertas')
-        self.assertEqual(self.page.locator('#grid [data-image-state="missing"]').count(), 5)
+        self.assertEqual(self.page.locator('#grid [data-image-state="missing"]').count(), 8)
         self.assertEqual(self.page.locator('#grid [data-stock-image]').count(), 0)
         self.mode = 'images'
         self.image_behavior = 'broken'
@@ -309,7 +313,7 @@ class WebTests(unittest.TestCase):
 
     def test_filter_url_validates_values_and_preserves_empty_selection(self):
         self.visit('/ofertas?store=invalid&sort=invalid&price=-3&discount=bad&utm_source=test')
-        expect(self.page.locator('#grid .card')).to_have_count(5)
+        expect(self.page.locator('#grid .card')).to_have_count(8)
         expect(self.page.locator('#discount-range')).to_have_value('1')
         self.assertEqual(parse_qs(urlparse(self.page.url).query), {'utm_source': ['test']})
         for game in GAMES:
@@ -319,7 +323,7 @@ class WebTests(unittest.TestCase):
         expect(self.page.locator('#grid .card')).to_have_count(0)
         expect(self.page.locator('input[data-game]:checked')).to_have_count(0)
         self.page.locator('#active-filters button').click()
-        expect(self.page.locator('#grid .card')).to_have_count(5)
+        expect(self.page.locator('#grid .card')).to_have_count(8)
         self.assertNotIn('game=', self.page.url)
 
     def test_all_filter_groups_and_history_restore(self):
@@ -366,7 +370,7 @@ class WebTests(unittest.TestCase):
         self.visit('/ofertas?q=missing&price=5')
         expect(self.page.locator('#count')).to_have_text('0 productos')
         self.page.locator('#reset-empty-filters').click()
-        expect(self.page.locator('#grid .card')).to_have_count(5)
+        expect(self.page.locator('#grid .card')).to_have_count(8)
         expect(self.page.locator('#discount-range')).to_have_value('1')
         self.assertEqual(urlparse(self.page.url).query, '')
         self.visit('/cajas-de-coleccion?q=missing&category=Otros')
@@ -391,7 +395,7 @@ class WebTests(unittest.TestCase):
 
     def test_gaming_product_uses_its_source_and_preserves_return_link(self):
         self.visit('/producto.html?mp=ES&asin=B000000100&return=%2Fnintendo%3Fcategory%3DConsola')
-        expect(self.page.locator('#product-detail h1')).to_have_text('Nintendo Switch 2')
+        expect(self.page.locator('#product-detail h1')).to_have_text('Nintendo Booster')
         expect(self.page.locator('#back-link')).to_have_attribute('href', '/nintendo?category=Consola')
         expect(self.page.locator('#product-detail .buy-btn')).to_have_attribute('rel', 'noopener sponsored')
 

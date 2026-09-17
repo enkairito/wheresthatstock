@@ -145,11 +145,13 @@ function cardHtml(p) {
 }
 
 
-const GAME_SOURCES = ["products.json", "onepiece.json", "magic.json", "lorcana.json", "yugioh.json"];
-// Gaming (Nintendo/PlayStation/Xbox) existe como sección propia pero
-// todavía no se mezcla con TCG en portada/Novedades/Ofertas — el foco
-// sigue siendo TCG por ahora. Solo se usa donde hace falta explícitamente
-// (favoritos, para que un producto de Gaming ya guardado siga funcionando).
+const GAME_SOURCES = [
+  "products.json",
+  "onepiece.json",
+  "magic.json",
+  "lorcana.json",
+  "yugioh.json",
+];
 const GAMING_SOURCES = ["nintendo.json", "playstation.json", "xbox.json"];
 
 async function fetchJson(url) {
