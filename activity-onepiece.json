@@ -1,28 +1,5 @@
 [
   {
-    "asin": "B0HC7Q9P41",
-    "store_label": "Amazon ES",
-    "flag": "🇪🇸",
-    "name": "Juego de cartas de una pieza ST-35 rojo y negro Sabo | Baraja de inicio, ST-35, rojo y negro, Sabo, juego de cartas coleccionables",
-    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61FYUZUbUoL._AC_UL320_.jpg",
-    "price": "32,00 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": "1",
-    "link": "https://www.amazon.es/dp/B0HC7Q9P41?tag=enkairito-21",
-    "first_seen": "2026-08-29T18:08:37.714905+00:00",
-    "marketplace": "ES",
-    "categories": [
-      "Starter Deck"
-    ],
-    "game": "One Piece",
-    "ts": "2026-09-09T21:39:06.504697+00:00",
-    "type": "price_drop",
-    "prev_price": "36,87 €",
-    "_src": "onepiece.json",
-    "id": "ES-B0HC7Q9P41:2026-09-09T21:39:06.504697+00:00:price_drop"
-  },
-  {
     "asin": "B0HC746FKY",
     "store_label": "Amazon ES",
     "flag": "🇪🇸",
@@ -4598,5 +4575,28 @@
     "prev_price": "35,20 €",
     "_src": "onepiece.json",
     "id": "ES-B0HC7FPQJM:2026-09-16T20:06:19.120878+00:00:restock"
+  },
+  {
+    "asin": "B0GDGRWH54",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "One Piece TCG: Double Pack Set Vol. 9 (DP-09) - The Azure Sea's Seven (2 Paquetes)",
+    "image": "https://m.media-amazon.com/images/I/61kzgGq-ywL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "67,81 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": "1",
+    "link": "https://www.amazon.es/dp/B0GDGRWH54?tag=enkairito-21",
+    "first_seen": "2026-08-29T18:09:35.306058+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Double Pack"
+    ],
+    "game": "One Piece",
+    "ts": "2026-09-17T01:06:58.044909+00:00",
+    "type": "price_drop",
+    "prev_price": "70,37 €",
+    "_src": "onepiece.json",
+    "id": "ES-B0GDGRWH54:2026-09-17T01:06:58.044909+00:00:price_drop"
   }
 ]
