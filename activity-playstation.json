@@ -1,74 +1,5 @@
 [
   {
-    "asin": "B0H3CCM6SL",
-    "store_label": "Amazon ES",
-    "flag": "🇪🇸",
-    "name": "STAR WARS Zero Company Standard Edition PlayStation 5 | Disco | Videojuegos | Idioma: Multilingüe",
-    "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81lgG9JsjLL._AC_UL600_SR600,400_.jpg",
-    "price": "49,99 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0H3CCM6SL?tag=enkairito-21",
-    "first_seen": "2026-09-16T16:33:57.520021+00:00",
-    "marketplace": "ES",
-    "categories": [
-      "Videojuego"
-    ],
-    "game": "PlayStation",
-    "ts": "2026-09-17T00:32:37.502710+00:00",
-    "type": "restock",
-    "prev_price": "49,99 €",
-    "_src": "playstation.json",
-    "id": "ES-B0H3CCM6SL:2026-09-17T00:32:37.502710+00:00:restock"
-  },
-  {
-    "asin": "B0D362WFCC",
-    "store_label": "Amazon ES",
-    "flag": "🇪🇸",
-    "name": "Assassin's Creed Shadows Limited Edition (Exclusivo para Amazon.es) (PS5)",
-    "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81FpupXxD6L._AC_UL600_SR600,400_.jpg",
-    "price": "34,99 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0D362WFCC?tag=enkairito-21",
-    "first_seen": "2026-09-12T12:27:13.469238+00:00",
-    "marketplace": "ES",
-    "categories": [
-      "Videojuego"
-    ],
-    "game": "PlayStation",
-    "ts": "2026-09-17T00:32:37.502710+00:00",
-    "type": "restock",
-    "prev_price": "34,99 €",
-    "_src": "playstation.json",
-    "id": "ES-B0D362WFCC:2026-09-17T00:32:37.502710+00:00:restock"
-  },
-  {
-    "asin": "B0H4HMPT95",
-    "store_label": "Amazon ES",
-    "flag": "🇪🇸",
-    "name": "Fable – PlayStation® 5 | Disco físico – Requiere descarga de contenido",
-    "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/8193xU9IEgL._AC_UL600_SR600,400_.jpg",
-    "price": "59,90 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0H4HMPT95?tag=enkairito-21",
-    "first_seen": "2026-09-11T19:18:12.685957+00:00",
-    "marketplace": "ES",
-    "categories": [
-      "Videojuego"
-    ],
-    "game": "PlayStation",
-    "ts": "2026-09-17T00:32:37.502710+00:00",
-    "type": "restock",
-    "prev_price": "59,90 €",
-    "_src": "playstation.json",
-    "id": "ES-B0H4HMPT95:2026-09-17T00:32:37.502710+00:00:restock"
-  },
-  {
     "asin": "B0F6D5BS17",
     "store_label": "Amazon ES",
     "flag": "🇪🇸",
@@ -4598,5 +4529,74 @@
     "prev_price": null,
     "_src": "playstation.json",
     "id": "ES-B07MG7Y4CB:2026-09-17T15:58:54.217878+00:00:restock"
+  },
+  {
+    "asin": "B09PJ4WZWC",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Far Cry 6 (PS4) (PS4)",
+    "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/811z5rvnySL._AC_UL600_SR600,400_.jpg",
+    "price": "23,98 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B09PJ4WZWC?tag=enkairito-21",
+    "first_seen": "2026-09-17T00:32:37.499011+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Videojuego"
+    ],
+    "game": "PlayStation",
+    "ts": "2026-09-17T16:31:38.786450+00:00",
+    "type": "price_drop",
+    "prev_price": "27,99 €",
+    "_src": "playstation.json",
+    "id": "ES-B09PJ4WZWC:2026-09-17T16:31:38.786450+00:00:price_drop"
+  },
+  {
+    "asin": "B01M5DZ525",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Red Dead Redemption 2 for PlayStation 4",
+    "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81dKP+iFloL._AC_UL600_SR600,400_.jpg",
+    "price": "31,02 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B01M5DZ525?tag=enkairito-21",
+    "first_seen": "2026-09-14T18:20:43.859449+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Videojuego"
+    ],
+    "game": "PlayStation",
+    "ts": "2026-09-17T16:31:38.786450+00:00",
+    "type": "price_drop",
+    "prev_price": "32,53 €",
+    "_src": "playstation.json",
+    "id": "ES-B01M5DZ525:2026-09-17T16:31:38.786450+00:00:price_drop"
+  },
+  {
+    "asin": "B0BGPZ3FWZ",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "SPYCO - Ratón Gaming Ergonómico | 7200 dpi Precisión | Luz RGB 6 Efectos | 7 Botones Programables | Alambre Trenzado 1.6m | Tapete Rato Compatible, RGB, 7200 dpi",
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/51JOuBjyclL._AC_UL300_SR300,200_.jpg",
+    "price": "7,99 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0BGPZ3FWZ?tag=enkairito-21",
+    "first_seen": "2026-09-17T14:31:53.613145+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Videojuego"
+    ],
+    "game": "PlayStation",
+    "ts": "2026-09-17T16:31:38.786450+00:00",
+    "type": "restock",
+    "prev_price": "7,99 €",
+    "_src": "playstation.json",
+    "id": "ES-B0BGPZ3FWZ:2026-09-17T16:31:38.786450+00:00:restock"
   }
 ]
