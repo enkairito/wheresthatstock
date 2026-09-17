@@ -59,7 +59,7 @@ const MAX_FAVORITE_IMPORT = 2000;
 function validateFavoriteImport(data) {
   if (!data || data.version !== 1 || !Array.isArray(data.favorites) || data.favorites.length > MAX_FAVORITE_IMPORT) throw new Error("El archivo no es una copia válida de favoritos de esta web.");
   const rows = data.favorites.map(row => {
-    if (!row || !["ES", "UK", "US", "ECI"].includes(row.marketplace)
+    if (!row || !SUPPORTED_MARKETPLACES.has(row.marketplace)
         || typeof row.asin !== "string" || !/^[A-Za-z0-9_-]{1,80}$/.test(row.asin)
         || typeof row.name !== "string" || !row.name.trim() || row.name.length > 500) throw new Error("El archivo contiene productos no válidos.");
     return { marketplace: row.marketplace, asin: row.asin, name: row.name };

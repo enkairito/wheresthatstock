@@ -70,14 +70,18 @@ class WebTests(unittest.TestCase):
             if self.image_behavior == 'broken':
                 return route.fulfill(status=200, content_type='image/jpeg', body='not an image')
             return route.fulfill(path=str(ROOT / 'assets' / 'logo.jpg'), content_type='image/jpeg')
-        # Nuevas verticales (Gaming...) aún no forman parte de SOURCES/GAMES
-        # aquí a propósito: esas listas fijan las "5 juegos" que varias
-        # pruebas dan por hecho en la portada. Se sirven vacías para que la
-        # petición real no caiga al servidor de ficheros estático (sin
-        # nintendo.json) ni reviente SOURCES.index() en el bloque de abajo,
-        # lo que dejaría la ruta sin resolver y networkidle nunca se cumpliría.
+        # Gaming aún no forma parte de SOURCES/GAMES aquí a propósito: esas
+        # listas fijan los cinco TCG que varias pruebas esperan en portada.
+        # Nintendo sirve un producto aislado para probar sus fichas; las otras
+        # fuentes se sirven vacías y ninguna cae al servidor de ficheros real.
         if name in ('nintendo.json', 'activity-nintendo.json', 'playstation.json', 'activity-playstation.json', 'xbox.json', 'activity-xbox.json'):
-            return route.fulfill(json={'updated_at': self.now.isoformat(), 'products': []} if name.endswith('.json') and not name.startswith('activity-') else [])
+            products = []
+            if name == 'nintendo.json':
+                products = [{'asin':'B000000100','marketplace':'ES','name':'Nintendo Switch 2',
+                             'status':'compra_directa','price':'469,00 €','categories':['Consola'],
+                             'game':'Nintendo','first_seen':self.now.isoformat(),
+                             'link':'https://example.test/nintendo'}]
+            return route.fulfill(json={'updated_at': self.now.isoformat(), 'products': products} if name.endswith('.json') and not name.startswith('activity-') else [])
         if name in SOURCES:
             index = SOURCES.index(name)
             if self.mode == 'partial' and name == 'yugioh.json':
@@ -385,6 +389,16 @@ class WebTests(unittest.TestCase):
         self.visit('/producto.html?mp=ES&asin=B000000000&return=https%3A%2F%2Fevil.example')
         expect(self.page.locator('#back-link')).to_have_attribute('href', '/pokemontcg')
 
+    def test_gaming_product_uses_its_source_and_preserves_return_link(self):
+        self.visit('/producto.html?mp=ES&asin=B000000100&return=%2Fnintendo%3Fcategory%3DConsola')
+        expect(self.page.locator('#product-detail h1')).to_have_text('Nintendo Switch 2')
+        expect(self.page.locator('#back-link')).to_have_attribute('href', '/nintendo?category=Consola')
+        expect(self.page.locator('#product-detail .buy-btn')).to_have_attribute('rel', 'noopener sponsored')
+
+    def test_listing_affiliate_links_are_marked_sponsored(self):
+        self.visit('/')
+        expect(self.page.locator('#newest-grid .buy-btn').first).to_have_attribute('rel', 'noopener sponsored')
+
     def test_product_set_link_survives_hydration(self):
         target = next(p for p in (ROOT / 'producto').glob('*.html') if 'class="back-link set-link"' in p.read_text(encoding='utf-8'))
         self.visit('/producto/' + target.stem)
@@ -432,14 +446,18 @@ class WebTests(unittest.TestCase):
         self.assertEqual(exported['version'], 1)
         self.assertEqual(len(exported['favorites']), 1)
         self.assertEqual(set(exported['favorites'][0]), {'asin', 'marketplace', 'name'})
-        incoming = {'version':1, 'favorites': exported['favorites'] + [{'asin':'B000000002','marketplace':'ES','name':'Magic Booster'}] * 2}
+        incoming = {'version':1, 'favorites': exported['favorites'] + [
+            {'asin':'CAR-1','marketplace':'CAR','name':'Carrefour Booster'},
+            {'asin':'FNAC-1','marketplace':'FNAC','name':'Fnac Booster'},
+            {'asin':'TRU-1','marketplace':'TRU','name':'Toys R Us Booster'},
+        ]}
         self.page.locator('#import-favorites').set_input_files({'name':'favorites.json','mimeType':'application/json','buffer':json.dumps(incoming).encode()})
-        expect(self.page.locator('#import-summary')).to_contain_text('1 favoritos nuevos; 1 ya guardados')
+        expect(self.page.locator('#import-summary')).to_contain_text('3 favoritos nuevos; 1 ya guardados')
         expect(self.page.locator('#favorite-count')).to_have_text('1 producto guardado')
         self.page.locator('#confirm-import').click()
-        expect(self.page.locator('#favorite-count')).to_have_text('2 productos guardados')
+        expect(self.page.locator('#favorite-count')).to_have_text('4 productos guardados')
         self.page.reload(wait_until='networkidle')
-        expect(self.page.locator('#favorite-count')).to_have_text('2 productos guardados')
+        expect(self.page.locator('#favorite-count')).to_have_text('4 productos guardados')
 
     def test_favorites_invalid_import_and_failed_write_preserve_saved(self):
         self.visit('/')
@@ -463,6 +481,7 @@ class WebTests(unittest.TestCase):
         self.assertTrue(self.page.evaluate("font => document.fonts.check(font)", '500 18px "WTS Manrope"'))
         self.assertTrue(self.page.locator('.brand-logo').evaluate('(i)=>i.complete && i.naturalWidth>0'))
         self.assertEqual(self.page.locator('.brand-name .accent').evaluate('(e)=>getComputedStyle(e).fontWeight'), '800')
+        expect(self.page.locator('h1')).to_have_count(1)
         expect(self.page.locator('#choose-favorites')).to_be_visible()
         self.assertTrue(self.page.evaluate('document.documentElement.scrollWidth<=innerWidth'))
 

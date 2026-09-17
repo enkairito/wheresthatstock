@@ -9,6 +9,9 @@ const CATEGORY_LINKS = {
   "magic.json": { href: "/magic", label: "Magic: The Gathering" },
   "lorcana.json": { href: "/lorcana", label: "Disney Lorcana" },
   "yugioh.json": { href: "/yugioh", label: "Yu-Gi-Oh!" },
+  "nintendo.json": { href: "/nintendo", label: "Nintendo" },
+  "playstation.json": { href: "/playstation", label: "PlayStation" },
+  "xbox.json": { href: "/xbox", label: "Xbox" },
   "accesorios.json": { href: "/accesorios", label: "Accesorios" },
 };
 const SOURCE_FILES = Object.keys(CATEGORY_LINKS);
@@ -104,7 +107,7 @@ function render(p, restockCount) {
   const available = p.status === "compra_directa" || p.status === "invitacion" || p.status === "preventa";
   const btnLabel = p.status === "sin_confirmar" ? "Consultar en la tienda" : p.status === "invitacion" ? "Solicitar invitación" : p.status === "preventa" ? "Reservar ahora" : (available ? "Ver en tienda" : "Agotado");
   const buyButton = available || p.status === "sin_confirmar"
-    ? `<a class="buy-btn" href="${link}" target="_blank" rel="noopener">${btnLabel}</a>`
+    ? `<a class="buy-btn" href="${link}" target="_blank" rel="noopener sponsored">${btnLabel}</a>`
     : `<span class="buy-btn disabled" aria-disabled="true">${btnLabel}</span>`;
 
   const priceRow = p.price

@@ -40,6 +40,7 @@ const STORE_ICONS = {
   FNAC: "/assets/fnac-logo.webp",
   TRU: "/assets/toysrus-logo.png",
 };
+const SUPPORTED_MARKETPLACES = new Set(Object.keys(STORE_ICONS));
 
 const HTML_ESCAPES = { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" };
 
@@ -118,7 +119,7 @@ function cardHtml(p) {
   const buyButton = p.status === "sin_confirmar"
     ? `<a class="buy-btn" href="${detailUrl}">Ver ficha</a>`
     : available
-    ? `<a class="buy-btn" href="${link}" target="_blank" rel="noopener">${btnLabel}</a>`
+    ? `<a class="buy-btn" href="${link}" target="_blank" rel="noopener sponsored">${btnLabel}</a>`
     : `<span class="buy-btn disabled" aria-disabled="true">${btnLabel}</span>`;
 
   return `
@@ -300,7 +301,7 @@ function safeListingReturn(value) {
   try {
     const url = new URL(value, location.origin);
     const path = url.pathname.replace(/\.html$/, "").replace(/\/$/, "") || "/";
-    const listings = ["/", "/index", "/ofertas", "/favoritos", "/pokemontcg", "/onepiece", "/magic", "/lorcana", "/yugioh", "/accesorios", "/cajas-de-coleccion", "/cajas-etb", "/colecciones-premium", "/sobres", "/latas"];
+    const listings = ["/", "/index", "/ofertas", "/favoritos", "/pokemontcg", "/onepiece", "/magic", "/lorcana", "/yugioh", "/nintendo", "/playstation", "/xbox", "/accesorios", "/cajas-de-coleccion", "/cajas-etb", "/colecciones-premium", "/sobres", "/latas"];
     const isSetHub = /^\/set\/[a-z0-9-]+$/.test(path);
     if (url.origin !== location.origin || url.username || url.password || !(listings.includes(path) || isSetHub)) return null;
     url.searchParams.delete("return");
