@@ -39,6 +39,7 @@ const STORE_ICONS = {
   CAR: "/assets/carrefour-logo.webp",
   FNAC: "/assets/fnac-logo.webp",
   TRU: "/assets/toysrus-logo.png",
+  GAME: "/assets/game-logo.png",
 };
 const SUPPORTED_MARKETPLACES = new Set(Object.keys(STORE_ICONS));
 

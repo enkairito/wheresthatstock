@@ -121,7 +121,7 @@ window.addEventListener("popstate", () => {
   applyFilter();
 });
 
-const MARKETPLACE_SORT_PRIORITY = { ES: 0, ECI: 1, CAR: 2, FNAC: 3, TRU: 4, US: 5, UK: 6 };
+const MARKETPLACE_SORT_PRIORITY = { ES: 0, ECI: 1, CAR: 2, FNAC: 3, TRU: 4, GAME: 5, US: 6, UK: 7 };
 
 function sortProducts(products) {
   const sorted = products.slice();
@@ -176,7 +176,7 @@ const ALL_MARKETPLACES = [...document.querySelectorAll(".sidebar input[data-mark
 const ALL_GAMES = [...document.querySelectorAll(".sidebar input[data-game]")].map(cb => cb.dataset.game);
 const ALL_CATEGORIES = [...document.querySelectorAll(".sidebar input[data-category]")].map(cb => cb.dataset.category);
 const STATUS_FILTER_LABEL = { compra_directa: "Disponible", invitacion: "Invitación", preventa: "Preventa" };
-const MARKETPLACE_FILTER_LABEL = { ES: "Amazon ES", UK: "Amazon UK", US: "Amazon USA", ECI: "El Corte Inglés", CAR: "Carrefour", FNAC: "Fnac", TRU: 'Toys"R"Us' };
+const MARKETPLACE_FILTER_LABEL = { ES: "Amazon ES", UK: "Amazon UK", US: "Amazon USA", ECI: "El Corte Inglés", CAR: "Carrefour", FNAC: "Fnac", TRU: 'Toys"R"Us', GAME: "GAME" };
 
 function renderActiveFilters() {
   const container = document.getElementById("active-filters");
