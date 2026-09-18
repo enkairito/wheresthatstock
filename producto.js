@@ -135,7 +135,7 @@ function render(p, restockCount) {
           <span class="badge status ${statusInfo.cls}">${statusInfo.text}</span>
         </div>
         <h1>${name}</h1>
-        ${p.status === "sin_confirmar" ? `<p>Ya no aparece en el listado actual. Disponibilidad sin confirmar.</p><p>Última vez visto: ${escapeHtml(p.last_seen || "sin fecha")}. El precio mostrado es el último observado.</p>` : ""}
+        ${p.status === "sin_confirmar" ? `<p>Disponibilidad sin confirmar: no estamos comprobando ahora mismo este producto. Consulta la tienda antes de comprar.</p><p>Última vez visto: ${escapeHtml(p.last_seen || "sin fecha")}. El precio mostrado es el último observado.</p>` : ""}
         ${priceRow}
         ${discount > 0 ? `<span class="badge discount">-${discount}%</span>` : ""}
         ${stockNote}
