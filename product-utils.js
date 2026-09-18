@@ -41,6 +41,7 @@ const STORE_ICONS = {
   TRU: "/assets/toysrus-logo.png",
   GAME: "/assets/game-logo.png",
   MM: "/assets/mediamarkt-logo.png",
+  TC: "/assets/todoconsolas-logo.jpg",
 };
 const SUPPORTED_MARKETPLACES = new Set(Object.keys(STORE_ICONS));
 
