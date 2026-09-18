@@ -1,7 +1,178 @@
 {
   "version": 1,
-  "groups": {},
-  "assign": {},
+  "groups": {
+    "pokemon-pokemon-tcg-mega-zygarde-ex-premium-collection-202-07e82b1325": {
+      "name": "Pokemon: Pokemon TCG - Mega Zygarde EX - Premium Collection 2026 (TCG)",
+      "game": "Pokémon"
+    },
+    "pokemon-baraja-combate-de-liga-mega-lucario-ex-espanol-1ae6470794": {
+      "name": "Pokémon - Baraja Combate de Liga - Mega Lucario ex (Español)",
+      "game": "Pokémon"
+    },
+    "pokemon-megaevolucion-oscuridad-absoluta-pack-3-sobres-esp-598f8aaeab": {
+      "name": "Pokémon - Megaevolución Oscuridad Absoluta - Pack 3 sobres (Español)",
+      "game": "Pokémon"
+    },
+    "pokemon-megaevolucion-oscuridad-absoluta-sobre-de-cartas-e-df6b5f2a1e": {
+      "name": "Pokémon - Megaevolución Oscuridad Absoluta - Sobre de cartas en español (Varios modelos)",
+      "game": "Pokémon"
+    },
+    "pokemon-sobre-cartas-escarlata-y-purpura-juntos-de-aventur-e2da08fd6c": {
+      "name": "Pokémon - Sobre cartas Escarlata y Púrpura - Juntos de Aventuras en español (Varios modelos)",
+      "game": "Pokémon"
+    },
+    "pokemon-lote-de-sobres-de-mejora-de-megaevolucion-oscurida-6b8362ebd6": {
+      "name": "Pokémon: Lote de Sobres de Mejora de Megaevolución-Oscuridad Absoluta (6 Sobres de Mejora)",
+      "game": "Pokémon"
+    },
+    "pokemon-caja-30th-aniversario-coleccion-pegatinas-especial-56718805a8": {
+      "name": "Pokemon Caja 30Th Aniversario Colección Pegatinas Especiales, +6 Años (Unboxing)",
+      "game": "Pokémon"
+    },
+    "pokemon-summer-tin-box-esp-varios-modelos-51b04120b5": {
+      "name": "Pokémon - Summer Tin Box (Esp) (Varios modelos)",
+      "game": "Pokémon"
+    },
+    "pokemon-coleccion-con-pegatinas-especiales-de-celebracion-a45e288d85": {
+      "name": "Pokémon: Colección con Pegatinas Especiales de Celebración 30.º Aniversario: Exeggutor de Alola de JCC Pokémon (1 Carta holográfica de promoción y 3 Sobres de Mejora)",
+      "game": "Pokémon"
+    },
+    "pokemon-coleccion-con-poster-de-celebracion-30-aniversario-4c67ca0239": {
+      "name": "Pokémon: Colección con póster de Celebración 30.º Aniversario de JCC Pokémon (3 Cartas de promoción, 1 póster y 3 Sobres de Mejora)",
+      "game": "Pokémon"
+    },
+    "pokemon-lata-celebracion-30-aniversario-greninja-ex-de-jcc-9d59ce61ce": {
+      "name": "Pokémon: Lata Celebración 30.º Aniversario: Greninja ex de JCC Pokémon (1 Carta holográfica de promoción y 4 Sobres de Mejora)",
+      "game": "Pokémon"
+    }
+  },
+  "assign": {
+    "TRU-K1104392": "pokemon-pokemon-tcg-mega-zygarde-ex-premium-collection-202-07e82b1325",
+    "UK-B0GNCGT9KK": "pokemon-pokemon-tcg-mega-zygarde-ex-premium-collection-202-07e82b1325",
+    "ES-B0GVKFS7KT": "pokemon-baraja-combate-de-liga-mega-lucario-ex-espanol-1ae6470794",
+    "TRU-K1104393": "pokemon-baraja-combate-de-liga-mega-lucario-ex-espanol-1ae6470794",
+    "ECI-A201235761": "pokemon-megaevolucion-oscuridad-absoluta-pack-3-sobres-esp-598f8aaeab",
+    "TRU-K1105107": "pokemon-megaevolucion-oscuridad-absoluta-pack-3-sobres-esp-598f8aaeab",
+    "ECI-A201235763": "pokemon-megaevolucion-oscuridad-absoluta-sobre-de-cartas-e-df6b5f2a1e",
+    "TRU-K1105110": "pokemon-megaevolucion-oscuridad-absoluta-sobre-de-cartas-e-df6b5f2a1e",
+    "TRU-K1091126": "pokemon-sobre-cartas-escarlata-y-purpura-juntos-de-aventur-e2da08fd6c",
+    "ECI-A200971013": "pokemon-sobre-cartas-escarlata-y-purpura-juntos-de-aventur-e2da08fd6c",
+    "ES-B0GZL2WPMF": "pokemon-lote-de-sobres-de-mejora-de-megaevolucion-oscurida-6b8362ebd6",
+    "FNAC-13106194": "pokemon-lote-de-sobres-de-mejora-de-megaevolucion-oscurida-6b8362ebd6",
+    "ECI-A200805922": "pokemon-pokemon-tcg-mega-zygarde-ex-premium-collection-202-07e82b1325",
+    "FNAC-13106193": "pokemon-megaevolucion-oscuridad-absoluta-pack-3-sobres-esp-598f8aaeab",
+    "TRU-K1108950": "pokemon-caja-30th-aniversario-coleccion-pegatinas-especial-56718805a8",
+    "CAR-VC4A-34535257": "pokemon-caja-30th-aniversario-coleccion-pegatinas-especial-56718805a8",
+    "UK-B0GRCDKMSW": "pokemon-baraja-combate-de-liga-mega-lucario-ex-espanol-1ae6470794",
+    "ES-B0GWDS3WTY": "pokemon-pokemon-tcg-mega-zygarde-ex-premium-collection-202-07e82b1325",
+    "FNAC-12912794": "pokemon-summer-tin-box-esp-varios-modelos-51b04120b5",
+    "TRU-K1104394": "pokemon-summer-tin-box-esp-varios-modelos-51b04120b5",
+    "ECI-A202035442": "pokemon-coleccion-con-pegatinas-especiales-de-celebracion-a45e288d85",
+    "ES-B0H8SZX85C": "pokemon-coleccion-con-pegatinas-especiales-de-celebracion-a45e288d85",
+    "ES-B0H8SX7CF6": "pokemon-coleccion-con-pegatinas-especiales-de-celebracion-a45e288d85",
+    "ECI-A202035450": "pokemon-coleccion-con-poster-de-celebracion-30-aniversario-4c67ca0239",
+    "ES-B0H8SXC5L9": "pokemon-coleccion-con-poster-de-celebracion-30-aniversario-4c67ca0239",
+    "ECI-A202035449": "pokemon-lata-celebracion-30-aniversario-greninja-ex-de-jcc-9d59ce61ce",
+    "ES-B0H8T3MP6T": "pokemon-lata-celebracion-30-aniversario-greninja-ex-de-jcc-9d59ce61ce",
+    "ES-B0H8T4RR5S": "pokemon-lata-celebracion-30-aniversario-greninja-ex-de-jcc-9d59ce61ce",
+    "CAR-VC4A-34535235": "pokemon-coleccion-con-poster-de-celebracion-30-aniversario-4c67ca0239",
+    "CAR-VC4A-34535256": "pokemon-coleccion-con-poster-de-celebracion-30-aniversario-4c67ca0239",
+    "FNAC-13196814": "pokemon-summer-tin-box-esp-varios-modelos-51b04120b5"
+  },
   "separate": [],
-  "ignore": []
+  "ignore": [],
+  "reject_pairs": [
+    [
+      "ECI-A200066781",
+      "MM-168046545"
+    ],
+    [
+      "ECI-A200971037",
+      "MM-168046528"
+    ],
+    [
+      "ECI-A52662336",
+      "MM-168046545"
+    ],
+    [
+      "FNAC-13262399",
+      "MM-168046540"
+    ],
+    [
+      "ECI-A200804711",
+      "MM-168046540"
+    ],
+    [
+      "ECI-A201235759",
+      "MM-168046540"
+    ],
+    [
+      "UK-B0F634M6PY",
+      "US-B0FHL5PKRR"
+    ],
+    [
+      "UK-B0F634M6PY",
+      "US-B0F6PMVQWQ"
+    ],
+    [
+      "UK-B0H2N248WM",
+      "US-B0H9D7RQTC"
+    ],
+    [
+      "UK-B0H2N248WM",
+      "US-B0GR6N18F6"
+    ],
+    [
+      "FNAC-12912795",
+      "TRU-K1104395"
+    ],
+    [
+      "ES-B0GVKFS7KT",
+      "UK-B0CK8JM32H"
+    ],
+    [
+      "FNAC-13300140",
+      "US-B0GR6Q72ND"
+    ],
+    [
+      "ES-B0GVKFS7KT",
+      "UK-B0C7QXP3FH"
+    ],
+    [
+      "ES-B0GZL8WKB6",
+      "TRU-K1105110"
+    ],
+    [
+      "ECI-A201235761",
+      "ES-B0GZL8WKB6"
+    ],
+    [
+      "ECI-A202035450",
+      "ES-B0H8SX832W"
+    ],
+    [
+      "UK-B0F741W36F",
+      "US-B0DX79MM56"
+    ],
+    [
+      "UK-B0GWK631XY",
+      "US-B0DX79MM56"
+    ],
+    [
+      "UK-B0GWK631XY",
+      "US-B0G5S61BHK"
+    ],
+    [
+      "UK-B0F741W36F",
+      "US-B0G5S61BHK"
+    ],
+    [
+      "UK-B0GZ9S9KDR",
+      "US-B0GYTRYV7P"
+    ],
+    [
+      "FNAC-12912795",
+      "TRU-K1104394"
+    ]
+  ]
 }
