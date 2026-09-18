@@ -1,74 +1,5 @@
 [
   {
-    "asin": "B0GYTRYV7P",
-    "store_label": "Amazon USA",
-    "flag": "🇺🇸",
-    "name": "Pokémon TCG: Mega Evolution—Pitch Black Booster Bundle",
-    "image": "https://m.media-amazon.com/images/I/81ANtTqGJVL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "56,77 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": "1",
-    "link": "https://www.amazon.es/dp/B0GYTRYV7P?tag=enkairito-21",
-    "first_seen": "2026-08-30T20:46:19.644833+00:00",
-    "marketplace": "US",
-    "categories": [
-      "Otros"
-    ],
-    "game": "Pokémon",
-    "ts": "2026-09-18T09:02:54.009182+00:00",
-    "type": "restock",
-    "prev_price": "56,77 €",
-    "_src": "products.json",
-    "id": "US-B0GYTRYV7P:2026-09-18T09:02:54.009182+00:00:restock"
-  },
-  {
-    "asin": "B0GG11K25W",
-    "store_label": "Amazon USA",
-    "flag": "🇺🇸",
-    "name": "Pokémon TCG: Mega Evolution Order Booster Bundle (6 Booster Packs)",
-    "image": "https://m.media-amazon.com/images/I/81oqIqpLjrL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "63,07 €",
-    "original_price": "65,34 €",
-    "status": "compra_directa",
-    "stock": "2",
-    "link": "https://www.amazon.es/dp/B0GG11K25W?tag=enkairito-21",
-    "first_seen": "2026-08-30T20:46:19.644876+00:00",
-    "marketplace": "US",
-    "categories": [
-      "Otros"
-    ],
-    "game": "Pokémon",
-    "ts": "2026-09-18T09:02:54.009182+00:00",
-    "type": "restock",
-    "prev_price": "63,07 €",
-    "_src": "products.json",
-    "id": "US-B0GG11K25W:2026-09-18T09:02:54.009182+00:00:restock"
-  },
-  {
-    "asin": "B0FPNRG8GS",
-    "store_label": "Amazon USA",
-    "flag": "🇺🇸",
-    "name": "Pokémon TCG: Mega Evolution—Phantasmal Flames Triple Pack Sneasel (1 Carta Promocional holográfica y 3 Sobres potenciadores)",
-    "image": "https://m.media-amazon.com/images/I/91HdZKv9WJL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "69,80 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0FPNRG8GS?tag=enkairito-21",
-    "first_seen": "2026-09-04T21:32:58.802909+00:00",
-    "marketplace": "US",
-    "categories": [
-      "Otros"
-    ],
-    "game": "Pokémon",
-    "ts": "2026-09-18T09:02:54.009182+00:00",
-    "type": "restock",
-    "prev_price": "69,80 €",
-    "_src": "products.json",
-    "id": "US-B0FPNRG8GS:2026-09-18T09:02:54.009182+00:00:restock"
-  },
-  {
     "asin": "B0DLTZPNR2",
     "store_label": "Amazon USA",
     "flag": "🇺🇸",
@@ -4598,5 +4529,74 @@
     "prev_price": "54,87 €",
     "_src": "products.json",
     "id": "US-B0D4B515H1:2026-09-18T17:43:12.770046+00:00:restock"
+  },
+  {
+    "asin": "B0F6PGX3SQ",
+    "store_label": "Amazon UK",
+    "flag": "🇬🇧",
+    "name": "Pokémon TCG: Unova Mini Tin – Krookodile & Excadrill (2 Paquetes de Refuerzo y 1 Tarjeta Adhesiva)",
+    "image": "https://m.media-amazon.com/images/I/71nltWrobAL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "41,48 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": "1",
+    "link": "https://www.amazon.es/dp/B0F6PGX3SQ?tag=enkairito-21",
+    "first_seen": "2026-09-12T20:22:49.294754+00:00",
+    "marketplace": "UK",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-18T17:50:22.705523+00:00",
+    "type": "restock",
+    "prev_price": "41,48 €",
+    "_src": "products.json",
+    "id": "UK-B0F6PGX3SQ:2026-09-18T17:50:22.705523+00:00:restock"
+  },
+  {
+    "asin": "B0DH53TQCC",
+    "store_label": "Amazon UK",
+    "flag": "🇬🇧",
+    "name": "Pokemon Scarlet & Violet Stellar Crown Booster Pack",
+    "image": "https://m.media-amazon.com/images/I/71O6VBum4bL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "26,49 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0DH53TQCC?tag=enkairito-21",
+    "first_seen": "2026-09-04T22:05:43.537215+00:00",
+    "marketplace": "UK",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-18T17:50:22.705523+00:00",
+    "type": "restock",
+    "prev_price": "26,49 €",
+    "_src": "products.json",
+    "id": "UK-B0DH53TQCC:2026-09-18T17:50:22.705523+00:00:restock"
+  },
+  {
+    "asin": "VC4A-34535241",
+    "store_label": "Carrefour",
+    "flag": "",
+    "name": "Pokémon 30Th Aniversario Lata Ex Versión Sylveon/Greninja, +6 Años (Unboxing)",
+    "image": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/783626_00_1.jpg",
+    "price": "34,99 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.carrefour.es/pokemon-30th-aniversario-lata-ex-version-sylveon-greninja-6-anos-unboxing/VC4A-34535241/p",
+    "first_seen": "2026-09-15T20:55:26.061406+00:00",
+    "marketplace": "CAR",
+    "categories": [
+      "Latas"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-18T17:50:22.705523+00:00",
+    "type": "restock",
+    "prev_price": "34,99 €",
+    "_src": "products.json",
+    "id": "CAR-VC4A-34535241:2026-09-18T17:50:22.705523+00:00:restock"
   }
 ]
