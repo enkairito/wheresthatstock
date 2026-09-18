@@ -40,6 +40,7 @@ const STORE_ICONS = {
   FNAC: "/assets/fnac-logo.webp",
   TRU: "/assets/toysrus-logo.png",
   GAME: "/assets/game-logo.png",
+  MM: "/assets/mediamarkt-logo.png",
 };
 const SUPPORTED_MARKETPLACES = new Set(Object.keys(STORE_ICONS));
 
