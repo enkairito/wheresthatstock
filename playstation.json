@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T02:31:35.437560+00:00",
+  "updated_at": "2026-09-18T04:31:18.165223+00:00",
   "products": [
     {
       "asin": "B0FP2S1MNB",
@@ -16,6 +16,24 @@
       "marketplace": "ES",
       "categories": [
         "Consola"
+      ],
+      "game": "PlayStation"
+    },
+    {
+      "asin": "B0HF55Q11W",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "PlayStation®5 Edición Digital: pack Ed. Limitada Marvel: Lobezno Amarillo de Combate",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71xzFIFEZtL._AC_UL600_SR600,400_.jpg",
+      "price": "729,91 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0HF55Q11W?tag=enkairito-21",
+      "first_seen": "2026-09-16T04:35:55.955905+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
       ],
       "game": "PlayStation"
     },
@@ -781,7 +799,7 @@
       "flag": "🇪🇸",
       "name": "Absolum (PS5)",
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/818lvtSOKnL._AC_UL600_SR600,400_.jpg",
-      "price": "31,89 €",
+      "price": "39,39 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -979,7 +997,7 @@
       "flag": "🇪🇸",
       "name": "007 First Light Specialist Edition - PS",
       "image": "https://images-eu.ssl-images-amazon.com/images/I/51oPWIo2+iL._AC_UL300_SR300,200_.jpg",
-      "price": "66,05 €",
+      "price": "65,18 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -1226,96 +1244,6 @@
       "game": "PlayStation"
     },
     {
-      "asin": "B08H97WTBL",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Playstation Estación de recarga DualSense - PlayStation 5",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51r9QEJGoML._AC_UL600_SR600,400_.jpg",
-      "price": "23,49 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B08H97WTBL?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:37.498742+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B0CMXL75GH",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Unidad de disco para consolas PS5® Edición Digital (grupo de modelos slim)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/415S-Puzd8L._AC_UL600_SR600,400_.jpg",
-      "price": "79,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0CMXL75GH?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:04.018716+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Consola"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B07W7KWV2Y",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Logitech Brio 300 Full HD Webcam con Obturador de privacidad | Micrófono reducción ruido, USB-C, certificado Zoom/Teams/Google Meet, corrección de luz automática - Grafito",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61GhU3g1ytL._AC_UL600_SR600,400_.jpg",
-      "price": "52,95 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B07W7KWV2Y?tag=enkairito-21",
-      "first_seen": "2026-09-17T14:31:53.613077+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B0CQD377LS",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Seagate 5TB Game Drive para PlayStation | USB 3.0 (STLV5000202) | Disco duro con licencia oficial para PlayStation. Archive juegos de PS5. Juega juegos de PS4 directamente. LED azul. 3 años",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/41tWz2UuLaL._AC_UL600_SR600,400_.jpg",
-      "price": "195,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0CQD377LS?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:18:12.685892+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B09NM9DTTC",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "KIWIHOME Ventilador para PS5, Silencioso, Velocidad Automática, USB 3.0 | Apto para PS5 Disc/Digital sin Líneas de División en el Panel. No para PS5 Slim 2023 o Pro 2024. Blanco",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/71Aw5mUX4BL._AC_UL300_SR300,200_.jpg",
-      "price": "32,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B09NM9DTTC?tag=enkairito-21",
-      "first_seen": "2026-09-17T14:31:53.613125+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
       "asin": "B07CGNDZR3",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -1334,17 +1262,17 @@
       "game": "PlayStation"
     },
     {
-      "asin": "B0BGPZ3FWZ",
+      "asin": "B0CQD377LS",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "SPYCO - Ratón Gaming Ergonómico | 7200 dpi Precisión | Luz RGB 6 Efectos | 7 Botones Programables | Alambre Trenzado 1.6m | Tapete Rato Compatible, RGB, 7200 dpi",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/51JOuBjyclL._AC_UL300_SR300,200_.jpg",
-      "price": "7,99 €",
+      "name": "Seagate 5TB Game Drive para PlayStation | USB 3.0 (STLV5000202) | Disco duro con licencia oficial para PlayStation. Archive juegos de PS5. Juega juegos de PS4 directamente. LED azul. 3 años",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/41tWz2UuLaL._AC_UL600_SR600,400_.jpg",
+      "price": "195,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0BGPZ3FWZ?tag=enkairito-21",
-      "first_seen": "2026-09-17T14:31:53.613145+00:00",
+      "link": "https://www.amazon.es/dp/B0CQD377LS?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:18:12.685892+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
