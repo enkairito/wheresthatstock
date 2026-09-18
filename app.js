@@ -21,7 +21,12 @@ function render(products) {
 const discountRangeEl = document.getElementById("discount-range");
 const sortSelectEl = document.getElementById("sort-select");
 
-let activeStatuses = new Set(["compra_directa", "invitacion", "preventa"]);
+const statusInputs = [...document.querySelectorAll(".sidebar input[data-status]")];
+let activeStatuses = new Set(
+  statusInputs.length
+    ? statusInputs.filter(cb => cb.checked).map(cb => cb.dataset.status)
+    : ["compra_directa", "invitacion", "preventa"]
+);
 // Las tiendas y categorías varían según la página (Pokémon TCG tiene
 // Amazon ES/UK/US/ECI/Carrefour/Fnac; otros juegos solo Amazon ES; etc.),
 // así que ambas se leen directamente de los checkboxes presentes en el
@@ -171,11 +176,11 @@ function applyFilter() {
   renderActiveFilters();
 }
 
-const ALL_STATUSES = ["compra_directa", "invitacion", "preventa"];
+const ALL_STATUSES = statusInputs.map(cb => cb.dataset.status);
 const ALL_MARKETPLACES = [...document.querySelectorAll(".sidebar input[data-marketplace]")].map(cb => cb.dataset.marketplace);
 const ALL_GAMES = [...document.querySelectorAll(".sidebar input[data-game]")].map(cb => cb.dataset.game);
 const ALL_CATEGORIES = [...document.querySelectorAll(".sidebar input[data-category]")].map(cb => cb.dataset.category);
-const STATUS_FILTER_LABEL = { compra_directa: "Disponible", invitacion: "Invitación", preventa: "Preventa" };
+const STATUS_FILTER_LABEL = { compra_directa: "Disponible", invitacion: "Invitación", preventa: "Preventa", sin_confirmar: "Sin confirmar" };
 const MARKETPLACE_FILTER_LABEL = { ES: "Amazon ES", UK: "Amazon UK", US: "Amazon USA", ECI: "El Corte Inglés", CAR: "Carrefour", FNAC: "Fnac", TRU: 'Toys"R"Us', GAME: "GAME", MM: "MediaMarkt", TC: "TodoConsolas" };
 
 function renderActiveFilters() {

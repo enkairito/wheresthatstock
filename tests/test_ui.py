@@ -85,7 +85,15 @@ class WebTests(unittest.TestCase):
                        'link': 'https://example.test/product'}
             if self.mode == 'images':
                 product['image'] = self.origin + '/test-product-image.jpg?game=' + str(index)
-            return route.fulfill(json={'updated_at': 'bad-date' if self.mode == 'invalid' else stamp.isoformat(), 'products': [] if self.mode == 'missing' else [product]})
+            products = [] if self.mode == 'missing' else [product]
+            if self.mode == 'fnac' and name == 'products.json':
+                products.append({
+                    'asin': '13106193', 'marketplace': 'FNAC', 'store_label': 'Fnac',
+                    'name': 'Pack Pokémon Fnac', 'status': 'sin_confirmar',
+                    'price': '19,99 €', 'categories': ['Otros'], 'game': 'Pokémon',
+                    'first_seen': stamp.isoformat(), 'link': 'https://www.fnac.es/producto/a13106193',
+                })
+            return route.fulfill(json={'updated_at': 'bad-date' if self.mode == 'invalid' else stamp.isoformat(), 'products': products})
         if name.startswith('activity-'):
             index = SOURCES.index(name.removeprefix('activity-'))
             return route.fulfill(json=[{'name': GAMES[index] + ' Restock', 'game': GAMES[index], 'ts': self.now.isoformat(), 'type': 'restock'}])
@@ -136,6 +144,17 @@ class WebTests(unittest.TestCase):
         self.visit('/accesorios')
         self.assertEqual(self.page.locator('#stock-freshness').count(), 0)
         self.assertEqual(self.page.locator('#live-text').inner_text(), 'catálogo de productos')
+
+    def test_pokemon_lists_static_fnac_products_as_unconfirmed(self):
+        self.mode = 'fnac'
+        self.visit('/pokemontcg')
+        expect(self.page.locator('input[data-status="sin_confirmar"]')).to_be_checked()
+        self.assertEqual(self.page.locator('#grid .card').count(), 2)
+        fnac_card = self.page.locator('#grid .card').filter(has_text='Pack Pokémon Fnac')
+        self.assertIn('Sin confirmar', fnac_card.inner_text())
+        self.assertIn('Ver ficha', fnac_card.inner_text())
+        self.page.locator('input[data-status="sin_confirmar"]').uncheck()
+        self.assertEqual(self.page.locator('#grid .card').count(), 1)
 
     def test_archived_product_has_static_content_and_survives_missing_stock(self):
         catalog = json.loads((ROOT / 'catalog-magic.json').read_text(encoding='utf-8'))
