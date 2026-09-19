@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T08:31:34.422840+00:00",
+  "updated_at": "2026-09-19T10:31:30.453121+00:00",
   "products": [
     {
       "asin": "B0GT15C35C",
@@ -9,7 +9,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81hp27jtPSL._AC_UL600_SR600,400_.jpg",
       "price": "49,99 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0GT15C35C?tag=enkairito-21",
       "first_seen": "2026-09-11T19:25:04.811253+00:00",
@@ -20,7 +20,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0FGK7Y5PN",
@@ -30,7 +30,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81v9BZ9ATFL._AC_UL600_SR600,400_.jpg",
       "price": "25,99 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0FGK7Y5PN?tag=enkairito-21",
       "first_seen": "2026-09-11T19:25:04.811300+00:00",
@@ -41,7 +41,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0H4GWZYDP",
@@ -114,7 +114,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/815lNnwKC7L._AC_UL300_SR300,200_.jpg",
       "price": "52,90 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0H3VXSTK5?tag=enkairito-21",
       "first_seen": "2026-09-11T19:25:04.811357+00:00",
@@ -125,7 +125,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0FX3895S9",
@@ -135,7 +135,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81QIjpQ07QL._AC_UL600_SR600,400_.jpg",
       "price": "40,99 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0FX3895S9?tag=enkairito-21",
       "first_seen": "2026-09-11T19:25:04.811370+00:00",
@@ -146,7 +146,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0BZJGVDSR",
@@ -156,7 +156,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81cuFt7M1aL._AC_UL600_SR600,400_.jpg",
       "price": "21,49 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0BZJGVDSR?tag=enkairito-21",
       "first_seen": "2026-09-11T19:25:04.811382+00:00",
@@ -167,7 +167,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0F24WMR8Y",
@@ -229,8 +229,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B09SH8QWFW",
@@ -250,8 +250,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0GHSLCTZ6",
@@ -439,8 +439,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0BHTPP71M",
@@ -481,8 +481,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0D98J8BW4",
@@ -513,7 +513,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81bONIqSdTL._AC_UL600_SR600,400_.jpg",
       "price": "44,69 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0FJXZYXS4?tag=enkairito-21",
       "first_seen": "2026-09-13T00:21:08.267403+00:00",
@@ -524,7 +524,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B09C939ZV9",
@@ -565,8 +565,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B07M7X2JLB",
@@ -586,8 +586,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B00LAAYMUS",
@@ -628,8 +628,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0BHTLMZMC",
@@ -691,8 +691,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B07XTSKC8N",
@@ -712,8 +712,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B07VNB55ZX",
@@ -828,7 +828,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71HZp9EGgXL._AC_UL600_SR600,400_.jpg",
       "price": "59,90 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0H4HB5YTG?tag=enkairito-21",
       "first_seen": "2026-09-12T00:28:11.204304+00:00",
@@ -839,7 +839,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0GGCJRXSX",
@@ -870,7 +870,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81iW6Krnv4L._AC_UL600_SR600,400_.jpg",
       "price": "47,56 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0GXKXMN3X?tag=enkairito-21",
       "first_seen": "2026-09-11T19:25:04.388338+00:00",
@@ -881,7 +881,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0H7K6SJ73",
@@ -891,7 +891,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/814ze9T-0cL._AC_UL600_SR600,400_.jpg",
       "price": "69,90 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0H7K6SJ73?tag=enkairito-21",
       "first_seen": "2026-09-12T00:28:11.204355+00:00",
@@ -902,7 +902,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B08N3J9D55",
@@ -930,8 +930,8 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Xbox Cascos Stereo Series X|S",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61MGCuPYTHL._AC_UL300_SR300,200_.jpg",
-      "price": "59,41 €",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61MGCuPYTHL._AC_UL600_SR600,400_.jpg",
+      "price": "59,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -943,8 +943,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B088JFHB8F",
@@ -1036,7 +1036,7 @@
       "flag": "🇪🇸",
       "name": "WD_BLACK C50 1 TB Tarjeta de expansión para Xbox (Compatible con la Serie X|S, Plug-and-Stay, Velocity Architecture, Reanudación rápida, Subscripción gratuia de 1 Mes de Xbox Game Pass) Black",
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/716TJhy4GbL._AC_UL600_SR600,400_.jpg",
-      "price": "168,86 €",
+      "price": "149,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -1048,8 +1048,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B09JM8SX8G",
@@ -1080,7 +1080,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81RMcja+OSL._AC_UL600_SR600,400_.jpg",
       "price": "43,10 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0BWYWM9V8?tag=enkairito-21",
       "first_seen": "2026-09-12T06:28:31.691493+00:00",
@@ -1091,7 +1091,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0DJPXMB2Q",
@@ -1195,8 +1195,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0B7NTLKF2",
@@ -1248,7 +1248,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/81DBhpoq7KL._AC_UL300_SR300,200_.jpg",
       "price": "75,70 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0GYTDQ1T1?tag=enkairito-21",
       "first_seen": "2026-09-15T00:20:55.336132+00:00",
@@ -1259,7 +1259,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0DBLXZ8HR",
@@ -1279,8 +1279,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0BLZ64C5H",
@@ -1353,7 +1353,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/91-rYQs4AML._AC_UL300_SR300,200_.jpg",
       "price": "27,88 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0CFVZJSHB?tag=enkairito-21",
       "first_seen": "2026-09-11T19:25:04.388322+00:00",
@@ -1364,7 +1364,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0H4GPPKLD",
@@ -1374,7 +1374,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81dIUCsGh7L._AC_UL600_SR600,400_.jpg",
       "price": "59,90 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0H4GPPKLD?tag=enkairito-21",
       "first_seen": "2026-09-16T00:36:35.693126+00:00",
@@ -1385,7 +1385,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0BLZ5HR28",
@@ -1426,15 +1426,15 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B08FCXLB8Z",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Xbox Play y Kit de Carga USB",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/31eyUqo7r7L._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/31eyUqo7r7L._AC_UL600_SR600,400_.jpg",
       "price": "19,99 €",
       "original_price": null,
       "status": "compra_directa",
@@ -1447,8 +1447,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0DQ5NDT75",
@@ -1489,8 +1489,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B06Y36MK86",
@@ -1510,8 +1510,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0DWV5KDS2",
@@ -1552,8 +1552,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0DGXTKZ42",
@@ -1573,8 +1573,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B09VCQXSMP",
@@ -1594,8 +1594,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0CJCHDZ74",
@@ -1615,15 +1615,15 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B09VCL4VRR",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "MotoGP 22, para Xbox Series X",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/716sCsZ+ViL._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/716sCsZ+ViL._AC_UL600_SR600,400_.jpg",
       "price": "17,40 €",
       "original_price": null,
       "status": "compra_directa",
@@ -1636,8 +1636,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0DN1PM22S",
@@ -1657,8 +1657,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0CZHM8K5H",
@@ -1678,8 +1678,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0H46G6YHT",
@@ -1689,7 +1689,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81Zg9Nfh1fL._AC_UL600_SR600,400_.jpg",
       "price": "69,90 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0H46G6YHT?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:42.256215+00:00",
@@ -1700,7 +1700,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B07S7663NV",
@@ -1720,8 +1720,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0GNBHG63X",
@@ -1731,7 +1731,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71srucIJ7hL._AC_UL600_SR600,400_.jpg",
       "price": "34,90 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0GNBHG63X?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:42.256266+00:00",
@@ -1742,7 +1742,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0HHNQ1YTW",
@@ -1752,7 +1752,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81nQRZ924RL._AC_UL600_SR600,400_.jpg",
       "price": "75,90 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0HHNQ1YTW?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:42.256278+00:00",
@@ -1763,7 +1763,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0FDBPPGND",
@@ -1773,7 +1773,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81FDv5VQuJL._AC_UL600_SR600,400_.jpg",
       "price": "24,76 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0FDBPPGND?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:42.256295+00:00",
@@ -1784,7 +1784,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0FZLZ935K",
@@ -1794,7 +1794,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81G4OeNzb5L._AC_UL600_SR600,400_.jpg",
       "price": "44,99 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0FZLZ935K?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:42.256305+00:00",
@@ -1805,7 +1805,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0FBS1LX45",
@@ -1815,7 +1815,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81jmfVCtuDL._AC_UL600_SR600,400_.jpg",
       "price": "25,95 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0FBS1LX45?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:42.256320+00:00",
@@ -1826,7 +1826,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0BJV1V458",
@@ -1836,7 +1836,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71N8vrjkr+L._AC_UL600_SR600,400_.jpg",
       "price": "24,98 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0BJV1V458?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:42.256329+00:00",
@@ -1847,7 +1847,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0H4QL9XMT",
@@ -1857,7 +1857,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81GDD0ZGv+L._AC_UL600_SR600,400_.jpg",
       "price": "59,90 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0H4QL9XMT?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:42.256339+00:00",
@@ -1868,7 +1868,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0GYV53T7C",
@@ -1878,7 +1878,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51nGFvqPXHL._AC_UL600_SR600,400_.jpg",
       "price": "84,90 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0GYV53T7C?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:42.256348+00:00",
@@ -1889,7 +1889,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0F947WN6P",
@@ -1920,7 +1920,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/91NIjNVJ96L._AC_UL600_SR600,400_.jpg",
       "price": "49,90 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0H4QS28Z1?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:42.256367+00:00",
@@ -1931,7 +1931,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0F83XP97Q",
@@ -1983,7 +1983,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81inwtzNA4L._AC_UL600_SR600,400_.jpg",
       "price": "39,99 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0F9PRW9QF?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:42.256399+00:00",
@@ -1994,7 +1994,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0BG4WBV4M",
@@ -2025,7 +2025,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81eVIbKIJBL._AC_UL600_SR600,400_.jpg",
       "price": "22,00 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0CK2H3NPP?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:42.256416+00:00",
@@ -2036,7 +2036,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0FT3K5S46",
@@ -2046,7 +2046,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/91vPWEeQM5L._AC_UL300_SR300,200_.jpg",
       "price": "33,88 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0FT3K5S46?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:42.256426+00:00",
@@ -2057,7 +2057,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0FPMNXV7V",
@@ -2067,7 +2067,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/71ewn9JphuL._AC_UL300_SR300,200_.jpg",
       "price": "66,05 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0FPMNXV7V?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:42.256436+00:00",
@@ -2078,7 +2078,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0DLGRGF9H",
@@ -2088,7 +2088,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81VDlubtsZL._AC_UL300_SR300,200_.jpg",
       "price": "42,99 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0DLGRGF9H?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:42.256445+00:00",
@@ -2099,7 +2099,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0BBRZMFDD",
@@ -2109,7 +2109,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81SNimUYt8L._AC_UL600_SR600,400_.jpg",
       "price": "17,93 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0BBRZMFDD?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:42.256453+00:00",
@@ -2120,7 +2120,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0DCGCMC7B",
@@ -2287,8 +2287,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B095PPY2KN",
@@ -2308,8 +2308,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B082YRCL4T",
@@ -2329,8 +2329,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B08Z5H2H4F",
@@ -2371,8 +2371,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B01M5G69L9",
@@ -2392,8 +2392,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B00KB2WXJ8",
@@ -2413,8 +2413,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B09D9VTB5M",
@@ -2434,8 +2434,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B07252FGBF",
@@ -2455,8 +2455,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B01M5CZKW6",
@@ -2476,8 +2476,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B00ZIW2SB4",
@@ -2497,8 +2497,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B00DDMC72Q",
@@ -2518,8 +2518,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B01M2YUP0S",
@@ -2539,8 +2539,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B00KAI3KW2",
@@ -2560,8 +2560,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B01M69F924",
@@ -2581,8 +2581,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B00DHF39L2",
@@ -2602,8 +2602,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B073FDW6WP",
@@ -2623,8 +2623,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B07K11P1FK",
@@ -2644,8 +2644,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B08LLPD9SZ",
@@ -2665,8 +2665,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B01LTIBIUM",
@@ -2686,8 +2686,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B097ZBFDKW",
@@ -2707,8 +2707,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B07DP9Z1R4",
@@ -2728,8 +2728,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B01GW902DM",
@@ -2749,8 +2749,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B071G3GD64",
@@ -2770,8 +2770,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0H34RTJDG",
@@ -2791,8 +2791,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B086NHGBTK",
@@ -2812,8 +2812,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B071L7VF3G",
@@ -2833,8 +2833,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B00KJFDIP0",
@@ -2854,8 +2854,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B00DW342NI",
@@ -2865,7 +2865,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/71mHm2qqeJL._AC_UL300_SR300,200_.jpg",
       "price": "22,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B00DW342NI?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:42.257026+00:00",
@@ -2875,8 +2875,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T06:31:29.853785+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B077XWR9P8",
@@ -2886,7 +2886,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/81w2B9OpUvL._AC_UL300_SR300,200_.jpg",
       "price": "24,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B077XWR9P8?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:42.257035+00:00",
@@ -2896,8 +2896,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T06:31:29.853785+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B07S55VN6Q",
@@ -2917,8 +2917,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B07X4X8JM4",
@@ -2938,8 +2938,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0BKSHRYVG",
@@ -2959,8 +2959,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B095JK57KX",
@@ -3052,7 +3052,7 @@
       "flag": "🇪🇸",
       "name": "Control Ultimate Edition Xbox One | Series X Game",
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81aLTOcPGVL._AC_UL600_SR600,400_.jpg",
-      "price": "24,14 €",
+      "price": "24,12 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -3064,8 +3064,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B08HZKQDK1",
@@ -3085,8 +3085,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B01N15IP6N",
@@ -3148,8 +3148,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B07NW92Y8Z",
@@ -3358,8 +3358,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0DFTPH8JK",
@@ -3379,8 +3379,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0B4SS2DNS",
@@ -3400,8 +3400,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0B5GXBHDZ",
@@ -3411,7 +3411,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/81JRxEGFtgL._AC_UL300_SR300,200_.jpg",
       "price": "25,66 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0B5GXBHDZ?tag=enkairito-21",
       "first_seen": "2026-09-17T08:32:35.495691+00:00",
@@ -3422,7 +3422,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0H413YMF1",
@@ -3547,8 +3547,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B09TZYYRZS",
@@ -3589,8 +3589,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0FJXYX9V5",
@@ -3600,7 +3600,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/71AJaUGE-ML._AC_UL300_SR300,200_.jpg",
       "price": "47,93 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0FJXYX9V5?tag=enkairito-21",
       "first_seen": "2026-09-17T12:31:47.548425+00:00",
@@ -3611,7 +3611,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0DT4TG862",
@@ -3621,7 +3621,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/81ZeL2ZcPfL._AC_UL300_SR300,200_.jpg",
       "price": "22,94 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0DT4TG862?tag=enkairito-21",
       "first_seen": "2026-09-17T12:31:47.548532+00:00",
@@ -3632,7 +3632,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0GHSYQHP6",
@@ -3673,8 +3673,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0DXLHS258",
@@ -3799,15 +3799,15 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B00ITGZCK0",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Batman Arkham Knight",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61h0AAVOnHL._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61h0AAVOnHL._AC_UL600_SR600,400_.jpg",
       "price": "18,00 €",
       "original_price": null,
       "status": "compra_directa",
@@ -3820,8 +3820,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B087VDG2PB",
@@ -3841,8 +3841,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B01MUEDGG9",
@@ -3862,8 +3862,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B00K4X4EIW",
@@ -3883,8 +3883,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0731BLTC5",
@@ -3904,8 +3904,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B09HD6JK6P",
@@ -3925,8 +3925,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B07S9DR8QG",
@@ -3936,7 +3936,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/5138fK1qKuL._AC_UL300_SR300,200_.jpg",
       "price": "87,98 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B07S9DR8QG?tag=enkairito-21",
       "first_seen": "2026-09-17T12:31:47.549000+00:00",
@@ -3946,8 +3946,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T06:31:29.853785+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0B6G59HVS",
@@ -4083,7 +4083,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61a95kV0tHL._AC_UL600_SR600,400_.jpg",
       "price": "27,31 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0C7QF9LZX?tag=enkairito-21",
       "first_seen": "2026-09-18T12:31:56.790452+00:00",
@@ -4094,7 +4094,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0H37G83HF",
@@ -4104,7 +4104,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71k7mV8t-WL._AC_UL600_SR600,400_.jpg",
       "price": "79,99 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0H37G83HF?tag=enkairito-21",
       "first_seen": "2026-09-18T12:31:56.790523+00:00",
@@ -4115,7 +4115,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0H3ZZZSMJ",
@@ -4125,7 +4125,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/81kV0LCtkBL._AC_UL300_SR300,200_.jpg",
       "price": "59,99 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0H3ZZZSMJ?tag=enkairito-21",
       "first_seen": "2026-09-18T12:31:56.790555+00:00",
@@ -4136,7 +4136,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B08R3YZDS6",
@@ -4146,7 +4146,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/71a5o6MdvYL._AC_UL300_SR300,200_.jpg",
       "price": "21,64 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B08R3YZDS6?tag=enkairito-21",
       "first_seen": "2026-09-18T12:31:56.790575+00:00",
@@ -4157,7 +4157,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0DN6CP9KP",
@@ -4167,7 +4167,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/8124AE7yEhL._AC_UL300_SR300,200_.jpg",
       "price": "27,50 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0DN6CP9KP?tag=enkairito-21",
       "first_seen": "2026-09-18T12:31:56.790586+00:00",
@@ -4178,7 +4178,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0BJTSN9ZC",
@@ -4188,7 +4188,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/71YYP0Sz31L._AC_UL300_SR300,200_.jpg",
       "price": "26,13 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0BJTSN9ZC?tag=enkairito-21",
       "first_seen": "2026-09-18T12:31:56.790594+00:00",
@@ -4199,7 +4199,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0CW3KL79L",
@@ -4209,7 +4209,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/715Oxz3IPGL._AC_UL300_SR300,200_.jpg",
       "price": "32,99 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0CW3KL79L?tag=enkairito-21",
       "first_seen": "2026-09-18T12:31:56.790603+00:00",
@@ -4220,7 +4220,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0CW4C89FN",
@@ -4230,7 +4230,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/81Etnr+MgsL._AC_UL300_SR300,200_.jpg",
       "price": "69,99 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0CW4C89FN?tag=enkairito-21",
       "first_seen": "2026-09-18T12:31:56.790622+00:00",
@@ -4241,7 +4241,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0DT1L4SV2",
@@ -4251,7 +4251,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/81gjw2koEgL._AC_UL300_SR300,200_.jpg",
       "price": "15,90 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0DT1L4SV2?tag=enkairito-21",
       "first_seen": "2026-09-18T12:31:56.790630+00:00",
@@ -4262,7 +4262,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0BYL74Y2R",
@@ -4272,7 +4272,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/71CbgE6d4zL._AC_UL300_SR300,200_.jpg",
       "price": "33,63 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0BYL74Y2R?tag=enkairito-21",
       "first_seen": "2026-09-18T12:31:56.790639+00:00",
@@ -4283,7 +4283,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0CS6SNL48",
@@ -4293,7 +4293,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/81a8Yi0B6jL._AC_UL300_SR300,200_.jpg",
       "price": "85,09 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0CS6SNL48?tag=enkairito-21",
       "first_seen": "2026-09-18T12:31:56.790649+00:00",
@@ -4304,7 +4304,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0948LL1ST",
@@ -4314,7 +4314,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/81Ud2HiwfSS._AC_UL300_SR300,200_.jpg",
       "price": "37,73 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0948LL1ST?tag=enkairito-21",
       "first_seen": "2026-09-18T12:31:56.790656+00:00",
@@ -4325,7 +4325,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0C7WC2CC8",
@@ -4335,7 +4335,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/81bZq7JSDIL._AC_UL300_SR300,200_.jpg",
       "price": "16,63 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0C7WC2CC8?tag=enkairito-21",
       "first_seen": "2026-09-18T12:31:56.790664+00:00",
@@ -4346,7 +4346,7 @@
       "game": "Xbox",
       "_src": "xbox.json",
       "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B077YMP986",
@@ -4366,8 +4366,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B0847NVBHQ",
@@ -4387,8 +4387,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B00KW2FM5E",
@@ -4408,8 +4408,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B00VWGTWU0",
@@ -4429,8 +4429,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B00ZGBBW9G",
@@ -4450,15 +4450,15 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B01IPJC9F6",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Bioshock: The Collection Xbox1",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71q8sMsB+KL._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71q8sMsB+KL._AC_UL600_SR600,400_.jpg",
       "price": "23,17 €",
       "original_price": null,
       "status": "compra_directa",
@@ -4471,15 +4471,15 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     },
     {
       "asin": "B07BNN4M86",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Assassin'S Creed: Origins",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81UhvQ+K2OL._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81UhvQ+K2OL._AC_UL600_SR600,400_.jpg",
       "price": "29,87 €",
       "original_price": null,
       "status": "compra_directa",
@@ -4492,8 +4492,8 @@
       ],
       "game": "Xbox",
       "_src": "xbox.json",
-      "last_seen": "2026-09-19T08:31:34.422840+00:00",
-      "checked_at": "2026-09-19T08:31:34.422840+00:00"
+      "last_seen": "2026-09-19T10:31:30.453121+00:00",
+      "checked_at": "2026-09-19T10:31:30.453121+00:00"
     }
   ]
 }
