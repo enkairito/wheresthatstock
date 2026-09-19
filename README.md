@@ -21,6 +21,13 @@ generados. La plantilla es producto.html y el comportamiento es producto.js.
 
 La migración a una API y almacenamiento persistente sigue aplazada.
 
+Las tarjetas y fichas identifican los precios históricos y ocultan sus descuentos
+y mensajes de pocas unidades. Las fichas muestran la fecha de observación
+cuando existe; los sets usan sus datos incrustados y no la fecha de otro juego.
+Las ofertas sin confirmar no se publican como agotadas ni como comprables en JSON-LD.
+Los filtros resuelven su estado guardado antes del primer renderizado, y los
+listados reservan espacio durante la carga para evitar saltos en móvil.
+
 Pruebas de navegador (también en GitHub Actions al cambiar la interfaz):
 ```
 pip install patchright==1.62.1
@@ -34,6 +41,10 @@ nombre en localStorage (`wts-favorites-v1`). La página /favoritos recupera el
 stock actual; si falta el producto, conserva su nombre y enlace a la ficha,
 sin presentar un precio antiguo como actual. No requiere cuenta ni servidor.
 Los datos pertenecen a ese navegador y no se sincronizan entre dispositivos.
+Al actualizar los catálogos dentro de la misma pestaña se sustituye la observación
+completa: los productos ausentes o de fuentes fallidas pasan a «sin confirmar»,
+sin conservar un precio antiguo como comprable. Las respuestas de cargas anteriores
+no pueden sustituir una actualización más reciente.
 Se sincronizan entre pestañas; las escrituras fallidas se comunican sin fingir
 que el producto se ha guardado. La página personal lleva noindex.
 

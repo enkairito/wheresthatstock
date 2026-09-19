@@ -80,6 +80,7 @@ function parsePrice(value) {
 }
 
 function discountPercent(p) {
+  if (p.status && !["compra_directa", "invitacion", "preventa"].includes(p.status)) return 0;
   const orig = parseMoney(p.original_price);
   const cur = parseMoney(p.price);
   if (!orig || !cur || orig.currency !== cur.currency || !orig.amount || orig.amount <= cur.amount) return 0;
@@ -98,8 +99,25 @@ function productUrl(p) {
   return `/producto/${encodeURIComponent(p.marketplace || "")}-${encodeURIComponent(p.asin || "")}`;
 }
 
-function cardHtml(p) {
-  const statusInfo = STATUS_LABEL[p.status] || STATUS_LABEL.no_disponible;
+function validObservationDate(value) {
+  const stamp = typeof value === "string" && value.trim() ? Date.parse(value) : NaN;
+  return Number.isFinite(stamp) && stamp <= Date.now() + 300000 ? value : null;
+}
+
+function observationHtml(p) {
+  const date = validObservationDate(p.last_seen);
+  if (!date) return "";
+  const label = new Intl.DateTimeFormat("es-ES", { dateStyle: "short", timeStyle: "short" }).format(new Date(date));
+  return `<p class="observation-note">Última observación: <time datetime="${escapeHtml(date)}">${escapeHtml(label)}</time></p>`;
+}
+
+function hasObservedAvailability(p) {
+  return ["compra_directa", "invitacion", "preventa"].includes(p.status);
+}
+
+function cardHtml(p, options = {}) {
+  const statusInfo = STATUS_LABEL[p.status] || STATUS_LABEL.sin_confirmar;
+  const historical = !hasObservedAvailability(p);
   const discount = discountPercent(p);
   const name = escapeHtml(p.name || "");
   const link = escapeHtml(p.link || "");
@@ -108,18 +126,18 @@ function cardHtml(p) {
   const storeLabel = escapeHtml(`${p.store_label || "Amazon"} ${p.flag || ""}`.trim());
   const priceRow = p.price
     ? `<div class="price-row">
-        ${p.original_price && p.original_price !== p.price ? `<span class="price-original">${escapeHtml(p.original_price)}</span>` : ""}
+        ${!historical && p.original_price && p.original_price !== p.price ? `<span class="price-original">${escapeHtml(p.original_price)}</span>` : ""}
         <span class="price">${escapeHtml(p.price)}</span>
        </div>`
     : "";
-  const stockNote = p.stock ? `<div class="stock-note">Solo queda(n) ${escapeHtml(p.stock)} en stock</div>` : "";
+  const stockNote = !historical && p.stock ? `<div class="stock-note">Solo queda(n) ${escapeHtml(p.stock)} en stock</div>` : "";
   const available = p.status === "compra_directa" || p.status === "invitacion" || p.status === "preventa";
   const btnLabel = p.status === "invitacion" ? "Solicitar invitación" : p.status === "preventa" ? "Reservar ahora" : (available ? "Ver en tienda" : "Agotado");
   // Cuando no está disponible, usamos <span> en vez de <a href="#"> — un
   // enlace real seguiría siendo enfocable y "activable" por teclado aunque
   // pointer-events:none bloquee el ratón, llevando a un salto de página sin
   // sentido. Un <span> no entra en el orden de tabulación.
-  const buyButton = p.status === "sin_confirmar"
+  const buyButton = p.status === "sin_confirmar" || !STATUS_LABEL[p.status]
     ? `<a class="buy-btn" href="${detailUrl}">Ver ficha</a>`
     : available
     ? `<a class="buy-btn" href="${link}" target="_blank" rel="noopener sponsored">${btnLabel}</a>`
@@ -139,7 +157,9 @@ function cardHtml(p) {
       <div class="card-body">
         <div class="card-save-row">${p.game ? `<span class="card-game">${escapeHtml(p.game)}</span>` : "<span></span>"}${favoriteButton(p)}</div>
         <a class="card-name" href="${detailUrl}">${name}</a>
+        ${historical && p.price ? '<span class="observation-note">Último precio observado</span>' : ""}
         ${priceRow}
+        ${historical || options.showObservation ? observationHtml(p) : ""}
         ${stockNote}
         ${buyButton}
       </div>
@@ -172,7 +192,15 @@ async function fetchJson(url) {
 async function fetchStock(url) {
   const data = await fetchJson(url);
   if (!data || !Array.isArray(data.products)) throw new Error("Listado inválido");
-  return data;
+  return { ...data, products: data.products.filter(p => p && typeof p === "object").map(p => {
+    const status = STATUS_LABEL[p.status] ? p.status : "sin_confirmar";
+    // Publishing a static/unconfirmed entry is not a new stock observation.
+    const observed = validObservationDate(p.last_seen)
+      || (status !== "sin_confirmar" && (validObservationDate(p.checked_at)
+        || validObservationDate(data.source_updates ? data.source_updates[p.source] : data.updated_at)))
+      || null;
+    return { ...p, status, last_seen: observed };
+  }) };
 }
 
 // Cabecera discreta; los avisos de salud quedan en el monitor interno.

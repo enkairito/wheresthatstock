@@ -434,6 +434,14 @@ header.header-hidden { transform: translateY(-100%); }
 .filter-toggle-btn:hover { border-color: var(--navy); color: var(--navy); }
 
 .layout.sidebar-hidden .sidebar { display: none; }
+html[data-sidebar="hidden"] .layout .sidebar { display: none; }
+/* Keep content below the catalogue outside the first viewport while it loads. */
+.layout .content { min-height: 100vh; }
+.layout #grid:empty:not([hidden]) { min-height: 70vh; }
+.layout #grid[hidden] { display: none; }
+.layout #count { min-width: 85px; min-height: 1.5em; }
+.layout .count-group { min-height: 40px; }
+.observation-note { margin: 0; color: var(--muted); font-size: .72rem; line-height: 1.5; }
 
 /* Control segmentado tipo iOS/macOS: una sola "pastilla" con fondo
    discreto (el "carril") y el botón activo flotando dentro en
@@ -1228,6 +1236,7 @@ footer { border-top: 1px solid var(--border); font-weight: 400; padding: 36px 24
 .group-offer-product a:hover { text-decoration: underline; text-underline-offset: 3px; }
 .group-offer-product span, .group-offer-price span { color: var(--muted); font-size: .68rem; }
 .group-offer-price { display: flex; flex-direction: column; gap: 2px; }
+.group-offer-price .observation-note { font-size: .68rem; }
 .group-offer-price strong { font-size: 1.05rem; font-variant-numeric: tabular-nums; }
 .group-offer-row.is-unavailable .group-offer-price strong { color: var(--muted); }
 .group-offer-actions { display: flex; align-items: center; justify-content: flex-end; gap: 8px; }

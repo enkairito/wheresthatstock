@@ -21,6 +21,16 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet"></noscript>
+<script>
+// Resolve the saved layout before the first paint, including slow connections.
+try {
+  const mobile = matchMedia("(max-width: 860px)").matches;
+  const saved = localStorage.getItem(mobile ? "wts-sidebar-mobile" : "wts-sidebar");
+  document.documentElement.dataset.sidebar = saved === "visible" || saved === "hidden" ? saved : (mobile ? "hidden" : "visible");
+} catch {
+  document.documentElement.dataset.sidebar = matchMedia("(max-width: 860px)").matches ? "hidden" : "visible";
+}
+</script>
 <link rel="stylesheet" href="styles.css">
 <script type="application/ld+json">
 {

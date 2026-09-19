@@ -513,6 +513,82 @@ class WebTests(unittest.TestCase):
         self.visit('/magic')
         self.assertEqual(self.page.locator('#live-text').inner_text(), 'catálogo de productos')
 
+    def test_favorites_refresh_discards_disappeared_and_failed_source_prices(self):
+        self.visit('/')
+        self.page.evaluate("localStorage.setItem('wts-favorites-v1', JSON.stringify([{marketplace:'ES',asin:'B000000004',name:'Saved Yugioh'}]))")
+        self.visit('/favoritos')
+        expect(self.page.locator('#favorite-grid .price')).to_have_count(1)
+        for mode in ('partial', 'missing'):
+            self.mode = mode
+            self.page.evaluate('loadFavoriteCatalog()', isolated_context=False)
+            expect(self.page.locator('#favorite-grid .price')).to_have_count(0)
+            expect(self.page.locator('#favorite-grid .buy-btn')).to_have_text('Ver ficha')
+            expect(self.page.locator('#favorite-grid')).to_contain_text('Sin confirmar')
+            expect(self.page.locator('#favorite-grid')).to_have_attribute('aria-busy', 'false')
+            self.mode = 'healthy'
+            self.page.evaluate('loadFavoriteCatalog()', isolated_context=False)
+            expect(self.page.locator('#favorite-grid .price')).to_have_count(1)
+
+    def test_favorites_older_request_cannot_replace_newer_observation(self):
+        self.visit('/')
+        self.page.evaluate("localStorage.setItem('wts-favorites-v1', JSON.stringify([{marketplace:'ES',asin:'B000000000',name:'Saved'}]))")
+        self.visit('/favoritos')
+        self.page.evaluate('''() => {
+          window.pendingCatalogs = [];
+          fetchStock = () => new Promise(resolve => pendingCatalogs.push(resolve));
+          window.oldLoad = loadFavoriteCatalog();
+          window.newLoad = loadFavoriteCatalog();
+        }''', isolated_context=False)
+        self.page.evaluate('''async () => {
+          pendingCatalogs.slice(9).forEach(resolve => resolve({products: []}));
+          await newLoad;
+          pendingCatalogs.slice(0, 9).forEach(resolve => resolve({products: [{asin:'B000000000',marketplace:'ES',name:'Old',price:'99,00 €',status:'compra_directa'}]}));
+          await oldLoad;
+        }''', isolated_context=False)
+        expect(self.page.locator('#favorite-grid .price')).to_have_count(0)
+        expect(self.page.locator('#favorite-grid')).to_contain_text('Sin confirmar')
+
+    def test_unknown_price_has_no_current_discount_or_stock_urgency(self):
+        self.mode = 'fnac'
+        self.visit('/pokemontcg')
+        card = self.page.locator('.card').filter(has_text='Pack Pokémon Fnac')
+        expect(card).to_contain_text('Último precio observado')
+        self.assertEqual(self.page.evaluate("discountPercent({status:'sin_confirmar',price:'10,00 €',original_price:'20,00 €'})", isolated_context=False), 0)
+        self.assertEqual(card.locator('time').count(), 0)
+
+    def test_unconfirmed_detail_preserves_historical_date_without_using_publication_date(self):
+        template = (ROOT / 'producto.html').read_text(encoding='utf-8')
+        product = {'asin':'13106193','marketplace':'FNAC','name':'Pack Pokémon Fnac','price':'19,99 €','status':'sin_confirmar','last_seen':'2026-09-01T10:00:00Z','_src':'products.json'}
+        template = template.replace('<script src="/producto.js"></script>', '<script id="product-data" type="application/json">' + json.dumps(product) + '</script><script src="/producto.js"></script>')
+        self.page.route('**/producto/FNAC-13106193', lambda route: route.fulfill(body=template, content_type='text/html'))
+        self.mode = 'fnac'
+        self.visit('/producto/FNAC-13106193')
+        expect(self.page.locator('#product-detail time')).to_have_attribute('datetime', '2026-09-01T10:00:00Z')
+        expect(self.page.locator('#product-detail')).to_contain_text('Último precio observado')
+        expect(self.page.locator('#product-detail')).not_to_contain_text('sin fecha')
+
+    def test_mobile_filters_are_closed_before_catalog_script_arrives(self):
+        self.page.set_viewport_size({'width':390,'height':844})
+        pending = []
+        self.page.route('**/app.js', lambda route: pending.append(route))
+        self.page.goto(self.origin + '/pokemontcg', wait_until='commit')
+        self.page.wait_for_selector('.layout')
+        expect(self.page.locator('.sidebar')).not_to_be_visible()
+        before = self.page.locator('main').bounding_box()['y']
+        self.page.wait_for_timeout(100)
+        self.assertEqual(len(pending), 1)
+        pending[0].continue_()
+        expect(self.page.locator('#grid .card')).to_have_count(1)
+        self.assertLess(abs(self.page.locator('main').bounding_box()['y'] - before), 4)
+
+    def test_sets_do_not_use_pokemon_feed_as_their_observation_date(self):
+        requested = []
+        self.page.on('request', lambda request: requested.append(urlparse(request.url).path))
+        self.visit('/set/op17')
+        expect(self.page.locator('#live-text')).to_have_text('catálogo de productos')
+        self.assertNotIn('/products.json', requested)
+        self.assertGreater(self.page.locator('#grid time').count(), 0)
+
 
 if __name__ == '__main__':
     unittest.main()

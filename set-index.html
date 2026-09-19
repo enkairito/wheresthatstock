@@ -60,7 +60,7 @@
 <main class="home-content">
   <div class="category-intro">
     <h1>Expansiones con seguimiento de stock</h1>
-    <p>Cada expansión tiene su propia ficha con la fecha de salida y los productos que hay disponibles ahora mismo en las tiendas que rastreamos.</p>
+    <p>Cada expansión tiene su propia ficha con la fecha de salida y la última disponibilidad observada en las tiendas que rastreamos.</p>
   </div>
   <div class="release-list" id="sets-list"></div>
   <p><a href="/calendario-lanzamientos">Ver el calendario de lanzamientos →</a></p>
@@ -101,8 +101,8 @@
   list.innerHTML = sets.map(s => {
     const game = GAMES[s.game] || { color: "", icon: "" };
     const stock = s.available
-      ? `${s.available} ${s.available === 1 ? "producto disponible" : "productos disponibles"}`
-      : "sin stock ahora mismo";
+      ? `${s.available} ${s.available === 1 ? "producto disponible" : "productos disponibles"} en la última comprobación`
+      : "sin productos con disponibilidad confirmada";
     return `<a class="release-item" href="/set/${encodeURIComponent(s.slug)}" style="--game-color:${game.color}">
       <div class="release-date">${escapeHtml(s.release_date_human || "")}</div>
       <div class="release-body">
@@ -113,10 +113,7 @@
       </div>
     </a>`;
   }).join("");
-  fetch("/products.json?t=" + Date.now())
-    .then(r => r.json())
-    .then(d => { const el = document.getElementById("live-text"); if (el) el.textContent = timeAgo(d.updated_at); })
-    .catch(() => {});
+  document.getElementById("live-text").textContent = "catálogo de productos";
 })();
 </script>
 </body>

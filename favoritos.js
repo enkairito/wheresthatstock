@@ -3,6 +3,7 @@ const favoriteSearch = document.getElementById("favorite-search");
 const favoriteSources = [...GAME_SOURCES, ...GAMING_SOURCES, "accesorios.json"];
 const favoriteCatalog = new Map();
 let favoritesLoading = true;
+let favoriteLoadSequence = 0;
 favoriteSearch.value = new URLSearchParams(location.search).get("q") || "";
 
 function renderFavorites() {
@@ -24,12 +25,21 @@ function renderFavorites() {
 }
 
 async function loadFavoriteCatalog() {
+  const sequence = ++favoriteLoadSequence;
+  favoritesLoading = true;
+  favoriteGrid.setAttribute("aria-busy", String(readFavorites().length > 0));
+  const refreshed = new Map();
   if (readFavorites().length) {
     const results = await Promise.allSettled(favoriteSources.map(source => fetchStock("/" + source)));
+    if (sequence !== favoriteLoadSequence) return;
     results.forEach((result, i) => {
-      if (result.status === "fulfilled") result.value.products.forEach(p => favoriteCatalog.set(favoriteId(p), { ...p, _src: favoriteSources[i] }));
+      if (result.status === "fulfilled") result.value.products.forEach(p => refreshed.set(favoriteId(p), { ...p, _src: favoriteSources[i] }));
     });
   }
+  // Replace the whole observation, including sources that failed or lost a product.
+  // Saved names remain in localStorage, but old purchase claims must not survive.
+  favoriteCatalog.clear();
+  refreshed.forEach((product, key) => favoriteCatalog.set(key, product));
   favoritesLoading = false;
   renderFavorites();
 }

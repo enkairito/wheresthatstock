@@ -4,6 +4,7 @@ function render(products) {
   const grid = document.getElementById("grid");
   const empty = document.getElementById("empty");
   const count = document.getElementById("count");
+  grid.hidden = products.length === 0;
   if (!products.length) {
     grid.innerHTML = "";
     empty.style.display = "block";
@@ -387,6 +388,7 @@ filterToggleBtn.setAttribute("aria-controls", sidebar.id);
 const sidebarPreferenceKey = () => mobileFilters.matches ? "wts-sidebar-mobile" : "wts-sidebar";
 
 function setSidebarVisible(visible) {
+  document.documentElement.dataset.sidebar = visible ? "visible" : "hidden";
   layoutEl.classList.toggle("sidebar-hidden", !visible);
   filterToggleBtn.textContent = visible ? "Ocultar filtros" : "Filtrar productos";
   filterToggleBtn.setAttribute("aria-expanded", String(visible));
@@ -444,6 +446,7 @@ return Promise.allSettled(PRODUCTS_URLS.map(fetchStock))
     applyFilter();
   })
   .catch(() => {
+    grid.hidden = true;
     document.getElementById("live-text").textContent = "sin datos";
     document.getElementById("empty").style.display = "block";
     document.getElementById("empty").innerHTML = '<p>No se pudo cargar el listado de productos.</p><button type="button" class="utility-button" id="retry-catalog">Reintentar</button>';

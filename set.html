@@ -120,14 +120,12 @@
     count.textContent = "0 productos";
   } else {
     count.textContent = `${products.length} producto${products.length === 1 ? "" : "s"}`;
-    grid.innerHTML = products.map(cardHtml).join("");
+    grid.innerHTML = products.map(p => cardHtml(p, { showObservation: true })).join("");
     hydrateProductImages(grid);
     syncFavoriteButtons();
   }
-  fetch("/products.json?t=" + Date.now())
-    .then(r => r.json())
-    .then(d => { const el = document.getElementById("live-text"); if (el) el.textContent = timeAgo(d.updated_at); })
-    .catch(() => {});
+  // Cards carry the observations embedded in this set, not a different feed's date.
+  document.getElementById("live-text").textContent = "catálogo de productos";
 })();
 </script>
 </body>

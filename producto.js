@@ -64,7 +64,9 @@ async function findProduct(mp, asin) {
         found = true;
         setBackLink(source);
         updateStockLabel([source], [result]);
-        render(product, stats[`${mp}:${asin}`]);
+        // Preserve a known historical date only for the same observed price.
+        const lastSeen = product.last_seen || (cached && product.price === cached.price ? cached.last_seen : null);
+        render({ ...product, last_seen: lastSeen }, stats[`${mp}:${asin}`]);
       }
     } catch { results.set(source, { status: "rejected" }); }
   };
@@ -94,7 +96,9 @@ function setBackLink(src) {
 }
 
 function render(p, restockCount) {
-  const statusInfo = STATUS_LABEL[p.status] || STATUS_LABEL.no_disponible;
+  p = { ...p, status: STATUS_LABEL[p.status] ? p.status : "sin_confirmar" };
+  const statusInfo = STATUS_LABEL[p.status] || STATUS_LABEL.sin_confirmar;
+  const historical = !hasObservedAvailability(p);
   const discount = discountPercent(p);
   const name = escapeHtml(p.name || "");
   const link = escapeHtml(p.link || "");
@@ -112,11 +116,11 @@ function render(p, restockCount) {
 
   const priceRow = p.price
     ? `<div class="price-row">
-        ${p.original_price && p.original_price !== p.price ? `<span class="price-original">${escapeHtml(p.original_price)}</span>` : ""}
+        ${!historical && p.original_price && p.original_price !== p.price ? `<span class="price-original">${escapeHtml(p.original_price)}</span>` : ""}
         <span class="price">${escapeHtml(p.price)}</span>
        </div>`
     : "";
-  const stockNote = p.stock ? `<div class="stock-note">Solo queda(n) ${escapeHtml(p.stock)} en stock</div>` : "";
+  const stockNote = !historical && p.stock ? `<div class="stock-note">Solo queda(n) ${escapeHtml(p.stock)} en stock</div>` : "";
   // Solo se muestra a partir de 2: con 1 restock detectado el dato no dice
   // nada útil (todo producto ha restockeado "al menos una vez" si está en
   // la web ahora mismo).
@@ -135,8 +139,10 @@ function render(p, restockCount) {
           <span class="badge status ${statusInfo.cls}">${statusInfo.text}</span>
         </div>
         <h1>${name}</h1>
-        ${p.status === "sin_confirmar" ? `<p>Disponibilidad sin confirmar: no estamos comprobando ahora mismo este producto. Consulta la tienda antes de comprar.</p><p>Última vez visto: ${escapeHtml(p.last_seen || "sin fecha")}. El precio mostrado es el último observado.</p>` : ""}
+        ${p.status === "sin_confirmar" ? '<p>Disponibilidad sin confirmar. Consulta el precio y el stock actuales en la tienda.</p>' : ""}
+        ${historical && p.price ? '<p class="observation-note">Último precio observado</p>' : ""}
         ${priceRow}
+        ${observationHtml(p)}
         ${discount > 0 ? `<span class="badge discount">-${discount}%</span>` : ""}
         ${stockNote}
         <div class="restock-note" id="product-restocks" ${restockCount >= 2 ? "" : "hidden"}>${restockCount >= 2 ? `Visto en stock ${restockCount} veces esta semana` : ""}</div>
