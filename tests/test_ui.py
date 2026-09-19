@@ -76,6 +76,8 @@ class WebTests(unittest.TestCase):
             return route.fulfill(path=str(ROOT / 'assets' / 'logo.jpg'), content_type='image/jpeg')
         if name in SOURCES:
             index = SOURCES.index(name)
+            if self.mode == 'offline':
+                return route.fulfill(status=503, body='unavailable')
             if self.mode == 'partial' and name == 'yugioh.json':
                 return route.fulfill(status=503, body='unavailable')
             stamp = self.now - timedelta(hours=14 if self.mode == 'partial' and name == 'magic.json' else 0)
@@ -86,6 +88,9 @@ class WebTests(unittest.TestCase):
             if self.mode == 'images':
                 product['image'] = self.origin + '/test-product-image.jpg?game=' + str(index)
             products = [] if self.mode == 'missing' else [product]
+            if self.mode == 'stores' and name == 'products.json':
+                products = [dict(product, marketplace=store, name=store + ' Oferta')
+                            for store in ('ES', 'UK', 'US', 'ECI', 'CAR', 'FNAC', 'TRU', 'GAME', 'MM', 'TC')]
             if self.mode == 'fnac' and name == 'products.json':
                 products.append({
                     'asin': '13106193', 'marketplace': 'FNAC', 'store_label': 'Fnac',
@@ -95,6 +100,8 @@ class WebTests(unittest.TestCase):
                 })
             return route.fulfill(json={'updated_at': 'bad-date' if self.mode == 'invalid' else stamp.isoformat(), 'products': products})
         if name.startswith('activity-'):
+            if self.mode == 'activity-offline':
+                return route.fulfill(status=503, body='unavailable')
             index = SOURCES.index(name.removeprefix('activity-'))
             return route.fulfill(json=[{'name': GAMES[index] + ' Restock', 'game': GAMES[index], 'ts': self.now.isoformat(), 'type': 'restock'}])
         if name == 'accesorios.json':
@@ -137,7 +144,7 @@ class WebTests(unittest.TestCase):
         self.assertEqual(self.page.locator('#grid .card').count(), 8)
         for game in GAMES:
             expect(self.page.locator(f'input[data-game="{game}"]')).to_be_checked()
-        for store in ('ES', 'UK', 'US', 'ECI', 'CAR', 'FNAC', 'TRU'):
+        for store in ('ES', 'UK', 'US', 'ECI', 'CAR', 'FNAC', 'TRU', 'GAME', 'MM', 'TC'):
             expect(self.page.locator(f'input[data-marketplace="{store}"]')).to_be_checked()
 
     def test_accessories_uses_a_discreet_header(self):
@@ -588,6 +595,181 @@ class WebTests(unittest.TestCase):
         expect(self.page.locator('#live-text')).to_have_text('catálogo de productos')
         self.assertNotIn('/products.json', requested)
         self.assertGreater(self.page.locator('#grid time').count(), 0)
+
+    def test_offers_do_not_silently_exclude_supported_stores(self):
+        self.mode = 'stores'
+        self.visit('/ofertas')
+        expect(self.page.locator('#grid .card')).to_have_count(17)
+        supported = self.page.evaluate('Object.keys(STORE_ICONS).sort()', isolated_context=False)
+        controls = self.page.locator('[data-marketplace]').evaluate_all('(nodes) => nodes.map(n => n.dataset.marketplace).sort()')
+        self.assertEqual(controls, supported)
+        self.visit('/ofertas?store=MM&store=TC&store=GAME')
+        expect(self.page.locator('#grid .card')).to_have_count(3)
+        for store in ('MM', 'TC', 'GAME'):
+            expect(self.page.locator('#grid')).to_contain_text(store + ' Oferta')
+        self.page.locator('#reset-filters').click()
+        expect(self.page.locator('#grid .card')).to_have_count(17)
+
+    def test_partial_catalog_retry_preserves_filters_and_focus(self):
+        self.mode = 'partial'
+        self.visit('/ofertas?q=Booster&game=Magic&game=Yu-Gi-Oh!')
+        expect(self.page.locator('#grid .card')).to_have_count(1)
+        expect(self.page.locator('#catalog-load-notice')).to_contain_text('Listado incompleto')
+        self.mode = 'healthy'
+        self.page.locator('#catalog-load-notice button').click()
+        expect(self.page.locator('#catalog-load-notice')).to_be_hidden()
+        expect(self.page.locator('#grid .card')).to_have_count(2)
+        expect(self.page.locator('#search')).to_have_value('Booster')
+        expect(self.page.locator('#search')).to_be_focused()
+        self.assertEqual(parse_qs(urlparse(self.page.url).query)['game'], ['Magic', 'Yu-Gi-Oh!'])
+        expect(self.page.locator('#grid')).to_have_attribute('aria-busy', 'false')
+
+    def test_failed_catalog_is_not_zero_results_and_can_recover(self):
+        self.mode = 'offline'
+        self.visit('/magic')
+        expect(self.page.locator('#count')).to_have_text('Sin datos')
+        expect(self.page.locator('#empty')).not_to_contain_text('No se encontraron')
+        for mode in ('offline', 'healthy'):
+            self.mode = mode
+            self.page.locator('#catalog-load-notice button').click()
+            expect(self.page.locator('#grid')).to_have_attribute('aria-busy', 'false')
+        expect(self.page.locator('#grid .card')).to_have_count(1)
+        expect(self.page.locator('#catalog-load-notice')).to_be_hidden()
+
+    def test_partial_zero_results_explains_incomplete_catalog(self):
+        self.mode = 'partial'
+        self.visit('/ofertas?q=NoMatch')
+        expect(self.page.locator('#empty')).to_contain_text('datos que se han podido cargar')
+        expect(self.page.locator('#catalog-load-notice button')).to_be_visible()
+
+    def test_home_catalog_and_activity_retry_without_duplicate_notices(self):
+        self.mode = 'offline'
+        self.visit('/')
+        expect(self.page.locator('#newest-section')).to_be_hidden()
+        expect(self.page.locator('#home-catalog-notice')).to_contain_text('No se pudieron cargar')
+        self.mode = 'healthy'
+        self.page.locator('#home-catalog-notice button').click()
+        expect(self.page.locator('#newest-grid .card')).to_have_count(5)
+        expect(self.page.locator('#home-catalog-notice')).to_be_hidden()
+        expect(self.page.locator('#welcome-title')).to_be_focused()
+        self.mode = 'activity-offline'
+        self.page.evaluate('loadHomeActivity()', isolated_context=False)
+        expect(self.page.locator('#activity-load-notice button')).to_be_visible()
+        expect(self.page.locator('#activity-list .activity-item')).to_have_count(0)
+        self.mode = 'healthy'
+        self.page.locator('#activity-load-notice button').click()
+        expect(self.page.locator('#activity-list .activity-item')).to_have_count(5)
+        expect(self.page.locator('#activity-load-notice')).to_be_hidden()
+        expect(self.page.locator('#activity-section h2')).to_be_focused()
+        self.assertEqual(self.errors, [])
+
+    def test_favorites_failed_sources_offer_a_retry(self):
+        self.visit('/')
+        self.page.evaluate("localStorage.setItem('wts-favorites-v1', JSON.stringify([{marketplace:'ES',asin:'B000000004',name:'Saved'}]))")
+        self.mode = 'partial'
+        self.visit('/favoritos')
+        expect(self.page.locator('#favorites-load-notice')).to_contain_text('No se pudo comprobar')
+        expect(self.page.locator('#favorite-grid')).to_contain_text('Sin confirmar')
+        self.mode = 'healthy'
+        self.page.locator('#favorites-load-notice button').click()
+        expect(self.page.locator('#favorite-grid .price')).to_have_count(1)
+        expect(self.page.locator('#favorites-load-notice')).to_be_hidden()
+        expect(self.page.locator('#favorite-search')).to_be_focused()
+
+    def test_price_fields_are_named_and_validation_is_announced(self):
+        for path in ROOT.glob('*.html'):
+            html = path.read_text(encoding='utf-8')
+            if 'id="price-input"' in html:
+                self.assertIn('aria-label="Precio máximo en euros"', html, path.name)
+                self.assertIn('aria-describedby="price-error"', html, path.name)
+        self.visit('/nintendo')
+        field = self.page.get_by_role('spinbutton', name='Precio máximo en euros')
+        field.fill('-1')
+        expect(field).to_have_attribute('aria-invalid', 'true')
+        expect(self.page.locator('#price-error')).to_be_visible()
+        field.press('Tab')
+        expect(self.page.locator('#price-error')).to_be_hidden()
+
+    def test_removing_filter_chips_keeps_keyboard_focus(self):
+        self.visit('/ofertas?q=Booster&store=ES')
+        first = self.page.locator('#active-filters button').first
+        expect(first).to_have_attribute('aria-label', 'Quitar filtro: Buscar: "Booster"')
+        first.focus()
+        first.press('Enter')
+        expect(self.page.locator('#active-filters button').first).to_be_focused()
+        self.page.keyboard.press('Enter')
+        expect(self.page.locator('#search')).to_be_focused()
+
+    def test_navigation_keyboard_arrows_escape_and_tab(self):
+        self.visit('/')
+        trigger = self.page.locator('.topnav-dropdown-trigger').first
+        links = self.page.locator('.topnav-dropdown-menu').first.locator('a')
+        trigger.focus()
+        trigger.press('ArrowDown')
+        expect(links.first).to_be_focused()
+        self.page.keyboard.press('End')
+        expect(links.last).to_be_focused()
+        self.page.keyboard.press('Escape')
+        expect(trigger).to_be_focused()
+        expect(trigger).to_have_attribute('aria-expanded', 'false')
+        trigger.press('ArrowUp')
+        expect(links.last).to_be_focused()
+        self.page.keyboard.press('Tab')
+        expect(self.page.locator('.topnav-dropdown-trigger').nth(1)).to_be_focused()
+        expect(trigger).to_have_attribute('aria-expanded', 'false')
+
+    def test_mobile_names_are_not_clipped_and_controls_are_touch_sized(self):
+        self.page.set_viewport_size({'width': 390, 'height': 844})
+        self.visit('/pokemontcg')
+        title = self.page.locator('.card-name').first
+        title.evaluate("(node) => node.textContent = 'Pokemon - Coleccion de celebracion treinta aniversario - edicion especial con varios sobres de mejora - idioma castellano'")
+        self.assertTrue(title.evaluate('(node) => node.scrollHeight <= node.clientHeight + 1'))
+        self.assertGreaterEqual(float(title.evaluate('node => parseFloat(getComputedStyle(node).fontSize)')), 14)
+        for selector in ('.favorite-button', '.social-link', '.buy-btn'):
+            for node in self.page.locator(selector).all():
+                if node.is_visible():
+                    rect = node.bounding_box()
+                    self.assertGreaterEqual(rect['height'], 44, selector)
+                    self.assertGreaterEqual(rect['width'], 44, selector)
+        self.assertTrue(self.page.evaluate('document.documentElement.scrollWidth <= innerWidth'))
+
+    def test_first_failed_load_preserves_subsequent_filter_edits(self):
+        self.mode = 'offline'
+        self.visit('/ofertas')
+        self.page.locator('#search').fill('Magic')
+        self.page.locator('input[data-game="Nintendo"]').uncheck()
+        self.mode = 'healthy'
+        self.page.locator('#catalog-load-notice button').click()
+        expect(self.page.locator('#grid .card')).to_have_count(1)
+        expect(self.page.locator('#search')).to_have_value('Magic')
+        expect(self.page.locator('input[data-game="Nintendo"]')).not_to_be_checked()
+
+    def test_mobile_filters_escape_returns_focus(self):
+        self.page.set_viewport_size({'width': 390, 'height': 844})
+        self.visit('/ofertas')
+        self.page.locator('#filter-toggle').click()
+        self.page.locator('#price-input').focus()
+        self.page.keyboard.press('Escape')
+        expect(self.page.locator('.sidebar')).to_be_hidden()
+        expect(self.page.locator('#filter-toggle')).to_be_focused()
+
+    def test_text_palette_contrast_in_light_and_dark(self):
+        def luminance(color):
+            if len(color) == 4:
+                color = '#' + ''.join(channel * 2 for channel in color[1:])
+            values = [int(color[i:i+2], 16) / 255 for i in (1, 3, 5)]
+            return sum((v / 12.92 if v <= .04045 else ((v + .055) / 1.055) ** 2.4) * weight
+                       for v, weight in zip(values, (.2126, .7152, .0722)))
+        self.visit('/ofertas')
+        for theme in ('light', 'dark'):
+            self.page.emulate_media(color_scheme=theme)
+            colors = self.page.evaluate("""() => {
+              const style = getComputedStyle(document.documentElement);
+              return Object.fromEntries(['fg','bg','card-bg','muted','available','available-bg','invitation','invitation-bg','unavailable','unavailable-bg','preventa','preventa-bg'].map(key => [key, style.getPropertyValue('--' + key).trim()]));
+            }""")
+            for fg, bg in [('fg', 'card-bg'), ('muted', 'bg'), ('muted', 'card-bg')] + [(key, key + '-bg') for key in ('available', 'invitation', 'unavailable', 'preventa')]:
+                a, b = sorted((luminance(colors[fg]), luminance(colors[bg])))
+                self.assertGreaterEqual((b + .05) / (a + .05), 4.5, (theme, fg, bg))
 
 
 if __name__ == '__main__':

@@ -203,6 +203,35 @@ async function fetchStock(url) {
   }) };
 }
 
+// Local loading feedback, separate from the deliberately discreet site header.
+function createLoadNotice(id, before, retry, focusTarget) {
+  const notice = document.createElement("div");
+  notice.id = id;
+  notice.className = "load-notice";
+  notice.hidden = true;
+  const message = document.createElement("p");
+  message.setAttribute("role", "status");
+  const button = document.createElement("button");
+  button.type = "button";
+  button.className = "utility-button";
+  button.textContent = "Reintentar";
+  button.addEventListener("click", () => {
+    if (button.getAttribute("aria-disabled") === "true") return;
+    button.setAttribute("aria-disabled", "true");
+    message.textContent = "Reintentando la carga…";
+    retry();
+  });
+  notice.append(message, button);
+  before.before(notice);
+  return (text, canRetry = false, busy = false) => {
+    if ((!text || !canRetry) && notice.contains(document.activeElement)) focusTarget?.focus({ preventScroll: true });
+    notice.hidden = !text;
+    message.textContent = text;
+    button.hidden = !canRetry;
+    button.setAttribute("aria-disabled", String(busy));
+  };
+}
+
 // Cabecera discreta; los avisos de salud quedan en el monitor interno.
 function updateStockLabel(sources, results) {
   const refresh = () => {

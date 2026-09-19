@@ -1,5 +1,19 @@
-Promise.allSettled(GAME_SOURCES.map(fetchStock))
-  .then(results => {
+let homeLoadSequence = 0;
+let activityLoadSequence = 0;
+const homeHeading = document.getElementById("welcome-title");
+homeHeading.tabIndex = -1;
+const homeCatalogNotice = createLoadNotice("home-catalog-notice", document.getElementById("newest-section"), loadHomeCatalog, homeHeading);
+const activityHeading = document.querySelector("#activity-section h2");
+activityHeading.tabIndex = -1;
+const activityNotice = createLoadNotice("activity-load-notice", document.getElementById("activity-list"), loadHomeActivity, activityHeading);
+
+async function loadHomeCatalog() {
+  const sequence = ++homeLoadSequence;
+  const grids = ["newest-grid", "deals-grid"].map(id => document.getElementById(id));
+  grids.forEach(grid => grid.setAttribute("aria-busy", "true"));
+  try {
+    const results = await Promise.allSettled(GAME_SOURCES.map(fetchStock));
+    if (sequence !== homeLoadSequence) return;
     // "_src" viaja con cada producto para poder enlazar a su página
     // individual (producto.html) — ver la misma nota en app.js.
     updateStockLabel(GAME_SOURCES, results);
@@ -15,46 +29,66 @@ Promise.allSettled(GAME_SOURCES.map(fetchStock))
 
     renderSection("newest-grid", "newest-section", newest);
     renderSection("deals-grid", "deals-section", bestDeals);
-  })
-  .catch(() => {
-    const liveText = document.getElementById("live-text");
-    if (liveText) liveText.textContent = "No se pudo cargar el stock";
-  });
+    const failed = results.some(r => r.status === "rejected");
+    homeCatalogNotice(failed ? "Selección incompleta: no se pudieron cargar algunos productos." : "", failed);
+  } catch {
+    if (sequence !== homeLoadSequence) return;
+    renderSection("newest-grid", "newest-section", []);
+    renderSection("deals-grid", "deals-section", []);
+    homeCatalogNotice("No se pudieron cargar las novedades y ofertas. Puedes seguir explorando los juegos.", true);
+  } finally {
+    if (sequence === homeLoadSequence) grids.forEach(grid => grid.setAttribute("aria-busy", "false"));
+  }
+}
 
 function renderSection(gridId, sectionId, items) {
   const grid = document.getElementById(gridId);
   const section = document.getElementById(sectionId);
   if (!items.length) {
+    grid.replaceChildren();
     section.style.display = "none";
     return;
   }
+  section.style.display = "";
   grid.innerHTML = items.map(cardHtml).join("");
   hydrateProductImages(grid);
 }
 
 // Cada juego conserva su propio feed; un fallo no oculta los demás.
-Promise.allSettled(GAME_SOURCES.map(source => fetchJson("activity-" + source)))
-  .then(results => {
+async function loadHomeActivity() {
+  const sequence = ++activityLoadSequence;
+  const list = document.getElementById("activity-list");
+  list.setAttribute("aria-busy", "true");
+  try {
+    const results = await Promise.allSettled(GAME_SOURCES.map(async source => {
+      const events = await fetchJson("activity-" + source);
+      if (!Array.isArray(events)) throw new Error("Actividad inválida");
+      return events.filter(event => event && typeof event === "object");
+    }));
+    if (sequence !== activityLoadSequence) return;
     const events = results.flatMap(r => r.status === "fulfilled" && Array.isArray(r.value) ? r.value : []);
     renderActivity(events.sort((a, b) => Date.parse(b.ts) - Date.parse(a.ts)).slice(0, 8));
     const failed = results.filter(r => r.status === "rejected").length;
-    if (failed) {
-      const section = document.getElementById("activity-section");
-      section.style.display = "";
-      const note = document.createElement("p");
-      note.textContent = "No se pudo cargar toda la actividad reciente.";
-      section.append(note);
-    }
-  });
+    activityNotice(failed ? "No se pudo cargar toda la actividad reciente." : "", failed > 0);
+    document.getElementById("activity-section").style.display = events.length || failed ? "" : "none";
+  } finally {
+    if (sequence === activityLoadSequence) list.setAttribute("aria-busy", "false");
+  }
+}
+
+loadHomeCatalog();
+loadHomeActivity();
 
 function renderActivity(events) {
   const list = document.getElementById("activity-list");
   const section = document.getElementById("activity-section");
   if (!list || !section) return;
   if (!events.length) {
+    list.replaceChildren();
     section.style.display = "none";
     return;
   }
+  section.style.display = "";
   list.innerHTML = events.map(activityItemHtml).join("");
 }
 

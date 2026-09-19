@@ -48,6 +48,20 @@ no pueden sustituir una actualización más reciente.
 Se sincronizan entre pestañas; las escrituras fallidas se comunican sin fingir
 que el producto se ha guardado. La página personal lleva noindex.
 
+Ofertas incluye todas las tiendas soportadas, también GAME, MediaMarkt y
+TodoConsolas. Los fallos de carga se indican dentro del contenido, sin modificar
+la política de cabecera discreta: listados, portada, actividad y favoritos
+permiten reintentar. Una carga parcial se distingue de cero coincidencias;
+el reintento conserva los filtros y las respuestas antiguas no sustituyen las
+nuevas. Las pruebas cubren estos estados con fuentes simuladas.
+
+En móvil, las tarjetas muestran el nombre completo y el comparador dedica
+una fila al precio y su fecha. Los campos de precio tienen nombre accesible
+y error asociado. Menús y filtros conservan el foco al cerrarse o eliminarse;
+los desplegables admiten flechas, Inicio/Fin, Escape y la tabulación habitual.
+Se han ampliado los controles pequeños y reforzado el contraste de formularios
+y textos que antes se atenuaban con opacidad.
+
 Las imágenes de producto comparten estados de carga, imagen lista y fallo en
 portada, listados, favoritos y fichas. Los marcos mantienen su tamaño y muestran
 un marcador si falta la imagen o falla. Las visibles se cargan de inmediato

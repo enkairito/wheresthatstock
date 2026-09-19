@@ -108,9 +108,10 @@ try {
       <label class="sidebar-label" for="price-range">Precio máximo</label>
       <input type="range" id="price-range" min="0" max="600" step="10" value="600">
       <div class="range-value-row">
-        <input type="number" id="price-input" min="0" max="600" step="1" value="600" inputmode="numeric">
+        <input type="number" id="price-input" min="0" max="600" step="1" value="600" inputmode="decimal" aria-label="Precio máximo en euros" aria-describedby="price-error">
         <span>€</span>
       </div>
+      <p class="field-error" id="price-error" role="status" hidden>Introduce un precio igual o mayor que cero.</p>
     </div>
 
     <div class="sidebar-section">

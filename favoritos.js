@@ -4,9 +4,12 @@ const favoriteSources = [...GAME_SOURCES, ...GAMING_SOURCES, "accesorios.json"];
 const favoriteCatalog = new Map();
 let favoritesLoading = true;
 let favoriteLoadSequence = 0;
+let favoriteFailedSources = 0;
+const favoriteNotice = createLoadNotice("favorites-load-notice", favoriteGrid, loadFavoriteCatalog, favoriteSearch);
 favoriteSearch.value = new URLSearchParams(location.search).get("q") || "";
 
 function renderFavorites() {
+  const focusedKey = favoriteGrid.contains(document.activeElement) ? document.activeElement.dataset.favorite : null;
   const saved = readFavorites();
   document.getElementById("export-favorites").disabled = saved.length === 0;
   const url = new URL(location.href);
@@ -22,16 +25,20 @@ function renderFavorites() {
   document.getElementById("favorite-empty").hidden = saved.length > 0;
   if (saved.length && !visible.length) favoriteGrid.textContent = "No hay favoritos que coincidan con tu búsqueda.";
   favoriteGrid.setAttribute("aria-busy", String(favoritesLoading && saved.length > 0));
+  if (focusedKey) ([...favoriteGrid.querySelectorAll("[data-favorite]")].find(button => button.dataset.favorite === focusedKey) || favoriteSearch).focus({ preventScroll: true });
+  if (!saved.length) favoriteNotice("");
 }
 
 async function loadFavoriteCatalog() {
   const sequence = ++favoriteLoadSequence;
   favoritesLoading = true;
   favoriteGrid.setAttribute("aria-busy", String(readFavorites().length > 0));
+  favoriteNotice(favoriteFailedSources && readFavorites().length ? "Actualizando tus favoritos…" : "", favoriteFailedSources > 0 && readFavorites().length > 0, true);
   const refreshed = new Map();
   if (readFavorites().length) {
     const results = await Promise.allSettled(favoriteSources.map(source => fetchStock("/" + source)));
     if (sequence !== favoriteLoadSequence) return;
+    favoriteFailedSources = results.filter(result => result.status === "rejected").length;
     results.forEach((result, i) => {
       if (result.status === "fulfilled") result.value.products.forEach(p => refreshed.set(favoriteId(p), { ...p, _src: favoriteSources[i] }));
     });
@@ -42,6 +49,7 @@ async function loadFavoriteCatalog() {
   refreshed.forEach((product, key) => favoriteCatalog.set(key, product));
   favoritesLoading = false;
   renderFavorites();
+  if (readFavorites().length) favoriteNotice(favoriteFailedSources ? "No se pudo comprobar todo el catálogo. Los favoritos sin datos aparecen como sin confirmar." : "", favoriteFailedSources > 0);
 }
 favoriteSearch.addEventListener("input", renderFavorites);
 document.addEventListener("favorites-changed", () => {

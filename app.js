@@ -1,4 +1,7 @@
 let allProducts = [];
+let catalogFailedSources = 0;
+let catalogLoading = true;
+let catalogLoadSequence = 0;
 
 function render(products) {
   const grid = document.getElementById("grid");
@@ -9,7 +12,17 @@ function render(products) {
     grid.innerHTML = "";
     empty.style.display = "block";
     count.textContent = "0 productos";
-    empty.innerHTML = '<p>No se encontraron productos. Prueba con otro nombre o amplía los filtros.</p><button type="button" class="utility-button" id="reset-empty-filters">Limpiar filtros</button>';
+    if (catalogLoading) {
+      empty.textContent = "Cargando productos…";
+      count.textContent = "Cargando…";
+      return;
+    }
+    if (catalogFailedSources === PRODUCTS_URLS.length) {
+      empty.textContent = "No hay datos disponibles para esta consulta. Puedes reintentar la carga.";
+      count.textContent = "Sin datos";
+      return;
+    }
+    empty.innerHTML = `<p>${catalogFailedSources ? "No hay coincidencias en los datos que se han podido cargar." : "No se encontraron productos."} Prueba con otro nombre o amplía los filtros.</p><button type="button" class="utility-button" id="reset-empty-filters">Limpiar filtros</button>`;
     empty.querySelector("button").addEventListener("click", resetFilters);
     return;
   }
@@ -89,6 +102,7 @@ function restoreFilterUrl(params = new URLSearchParams(location.search)) {
   priceRange.value = maxPrice;
   priceInput.value = maxPrice;
   priceInput.removeAttribute("aria-invalid");
+  document.getElementById("price-error").hidden = true;
   const requestedSort = params.get("sort");
   sortMode = [...sortSelectEl.options].some(option => option.value === requestedSort) ? requestedSort : filterDefaults.sort;
   sortSelectEl.value = sortMode;
@@ -278,10 +292,14 @@ function renderActiveFilters() {
   }
 
   container.innerHTML = chips
-    .map((c, i) => `<span class="filter-chip" data-chip-index="${i}">${c.label}<button type="button" aria-label="Quitar filtro">×</button></span>`)
+    .map((c, i) => `<span class="filter-chip" data-chip-index="${i}">${c.label}<button type="button" aria-label="Quitar filtro: ${c.label.replace(/"/g, "&quot;")}">×</button></span>`)
     .join("");
   [...container.children].forEach((el, i) => {
-    el.querySelector("button").addEventListener("click", () => chips[i].onRemove());
+    el.querySelector("button").addEventListener("click", () => {
+      chips[i].onRemove();
+      const remaining = container.querySelectorAll("button");
+      (remaining[Math.min(i, remaining.length - 1)] || document.getElementById("search")).focus();
+    });
   });
 }
 
@@ -305,6 +323,7 @@ priceRange.addEventListener("input", (e) => {
   maxPrice = Number(e.target.value);
   priceInput.value = maxPrice;
   priceInput.removeAttribute("aria-invalid");
+  document.getElementById("price-error").hidden = true;
   applyFilter();
 });
 
@@ -312,9 +331,11 @@ priceInput.addEventListener("input", () => {
   const value = Number(priceInput.value);
   if (!Number.isFinite(value) || value < 0 || priceInput.value.trim() === "") {
     priceInput.setAttribute("aria-invalid", "true");
+    document.getElementById("price-error").hidden = false;
     return;
   }
   priceInput.removeAttribute("aria-invalid");
+  document.getElementById("price-error").hidden = true;
   maxPrice = Math.round(value * 100) / 100;
   priceRange.max = Math.max(catalogPriceMax, maxPrice);
   priceInput.max = priceRange.max;
@@ -324,6 +345,7 @@ priceInput.addEventListener("input", () => {
 priceInput.addEventListener("change", () => {
   priceInput.value = maxPrice;
   priceInput.removeAttribute("aria-invalid");
+  document.getElementById("price-error").hidden = true;
 });
 
 function setupCheckboxGroup(containerSelector, dataAttr, activeSet) {
@@ -388,6 +410,7 @@ filterToggleBtn.setAttribute("aria-controls", sidebar.id);
 const sidebarPreferenceKey = () => mobileFilters.matches ? "wts-sidebar-mobile" : "wts-sidebar";
 
 function setSidebarVisible(visible) {
+  if (!visible && sidebar.contains(document.activeElement)) filterToggleBtn.focus({ preventScroll: true });
   document.documentElement.dataset.sidebar = visible ? "visible" : "hidden";
   layoutEl.classList.toggle("sidebar-hidden", !visible);
   filterToggleBtn.textContent = visible ? "Ocultar filtros" : "Filtrar productos";
@@ -397,6 +420,9 @@ function setSidebarVisible(visible) {
 
 filterToggleBtn.addEventListener("click", () => {
   setSidebarVisible(layoutEl.classList.contains("sidebar-hidden"));
+});
+sidebar.addEventListener("keydown", event => {
+  if (event.key === "Escape" && mobileFilters.matches) setSidebarVisible(false);
 });
 
 function restoreSidebar() {
@@ -416,11 +442,20 @@ mobileFilters.addEventListener("change", restoreSidebar);
 const PRODUCTS_URLS = document.body.dataset.productsUrls
   ? document.body.dataset.productsUrls.split(",").map(u => u.trim())
   : [document.body.dataset.productsUrl || "products.json"];
+const catalogNotice = createLoadNotice("catalog-load-notice", grid, loadCatalog, document.getElementById("search"));
 
-function loadCatalog() {
-resetButton.disabled = true;
-return Promise.allSettled(PRODUCTS_URLS.map(fetchStock))
-  .then(results => {
+async function loadCatalog() {
+  const sequence = ++catalogLoadSequence;
+  catalogLoading = true;
+  resetButton.disabled = true;
+  grid.setAttribute("aria-busy", "true");
+  catalogNotice(catalogFailedSources ? "Cargando productos…" : "", catalogFailedSources > 0, true);
+  if (!allProducts.length) resultCount.textContent = "Cargando…";
+  try {
+    const results = await Promise.allSettled(PRODUCTS_URLS.map(fetchStock));
+    if (sequence !== catalogLoadSequence) return;
+    catalogLoading = false;
+    catalogFailedSources = results.filter(r => r.status === "rejected").length;
     updateStockLabel(PRODUCTS_URLS, results);
     const okResults = results.filter(r => r.status === "fulfilled").map(r => r.value);
     if (!okResults.length) throw new Error("Ningún origen de productos cargó correctamente");
@@ -444,14 +479,20 @@ return Promise.allSettled(PRODUCTS_URLS.map(fetchStock))
     resetButton.disabled = false;
 
     applyFilter();
-  })
-  .catch(() => {
-    grid.hidden = true;
-    document.getElementById("live-text").textContent = "sin datos";
-    document.getElementById("empty").style.display = "block";
-    document.getElementById("empty").innerHTML = '<p>No se pudo cargar el listado de productos.</p><button type="button" class="utility-button" id="retry-catalog">Reintentar</button>';
-    document.getElementById("retry-catalog").addEventListener("click", event => { event.target.disabled = true; loadCatalog(); });
-  });
-
+    catalogNotice(catalogFailedSources ? "Listado incompleto: no se pudieron cargar algunos productos. Puedes reintentar sin perder los filtros." : "", catalogFailedSources > 0);
+  } catch {
+    if (sequence !== catalogLoadSequence) return;
+    catalogLoading = false;
+    catalogFailedSources = PRODUCTS_URLS.length;
+    allProducts = [];
+    render([]);
+    catalogNotice("No se pudo cargar el listado de productos.", true);
+  } finally {
+    if (sequence === catalogLoadSequence) grid.setAttribute("aria-busy", "false");
+  }
 }
+// Let filter edits survive a failed first load, not only a successful one.
+catalogPriceMax = Number(priceInput.max) || 200;
+restoreFilterUrl();
+filtersReady = true;
 loadCatalog();
