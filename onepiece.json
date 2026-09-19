@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T13:06:19.882105+00:00",
+  "updated_at": "2026-09-19T14:06:40.960819+00:00",
   "products": [
     {
       "asin": "B0F1SJY5S3",
@@ -43,7 +43,7 @@
       "flag": "🇪🇸",
       "name": "One Piece TCG: The World's Strongest Warriors Booster Box (OP-17) - 24 paquetes",
       "image": "https://m.media-amazon.com/images/I/61CWeLxq3eL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "451,00 €",
+      "price": "436,00 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -56,24 +56,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0GW9TXS1Q",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "One Piece TCG: Double Pack Set Vol. 10 (DP-10) - Adventure of Kami's Island (2 Paquetes)",
-      "image": "https://m.media-amazon.com/images/I/6149SXXRkfL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "69,62 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0GW9TXS1Q?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:09:04.551067+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Double Pack"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0GDGRWH54",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -82,7 +64,7 @@
       "price": "69,27 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": null,
+      "stock": "1",
       "link": "https://www.amazon.es/dp/B0GDGRWH54?tag=enkairito-21",
       "first_seen": "2026-08-29T18:09:35.306058+00:00",
       "marketplace": "ES",
@@ -92,20 +74,20 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0DZ25YM9N",
+      "asin": "B0GW9TXS1Q",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "One Piece TCG Starter Deck EX: Gear 5 (ST21) - 51 Cartas, Mangas, Paquete de bonificación",
-      "image": "https://m.media-amazon.com/images/I/6183E7DpPeL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "90,30 €",
+      "name": "One Piece TCG: Double Pack Set Vol. 10 (DP-10) - Adventure of Kami's Island (2 Paquetes)",
+      "image": "https://m.media-amazon.com/images/I/6149SXXRkfL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "69,63 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0DZ25YM9N?tag=enkairito-21",
-      "first_seen": "2026-09-03T14:54:32.874380+00:00",
+      "link": "https://www.amazon.es/dp/B0GW9TXS1Q?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:09:04.551067+00:00",
       "marketplace": "ES",
       "categories": [
-        "Otros"
+        "Double Pack"
       ],
       "game": "One Piece"
     },
@@ -124,6 +106,24 @@
       "marketplace": "ES",
       "categories": [
         "Booster Box"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0DZ25YM9N",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "One Piece TCG Starter Deck EX: Gear 5 (ST21) - 51 Cartas, Mangas, Paquete de bonificación",
+      "image": "https://m.media-amazon.com/images/I/6183E7DpPeL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "90,30 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DZ25YM9N?tag=enkairito-21",
+      "first_seen": "2026-09-03T14:54:32.874380+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Otros"
       ],
       "game": "One Piece"
     },
@@ -164,15 +164,33 @@
       "game": "One Piece"
     },
     {
+      "asin": "B0HC7LPXB4",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Juego de cartas de una pieza ST-32 verde Roronoa Zoro | Baraja de inicio, ST-32, juego de cartas coleccionables, Roronoa Zoro, mazo verde",
+      "image": "https://m.media-amazon.com/images/I/61qHtzqXQpL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "33,00 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "3",
+      "link": "https://www.amazon.es/dp/B0HC7LPXB4?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:09:16.260611+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Starter Deck"
+      ],
+      "game": "One Piece"
+    },
+    {
       "asin": "B0HC7DT1ZY",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Juego de cartas de una pieza Starter Deck ST-36 amarillo Eustass Captain Kid",
       "image": "https://m.media-amazon.com/images/I/61+m2OBn-EL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "27,00 €",
+      "price": "31,55 €",
       "original_price": "40,01 €",
       "status": "compra_directa",
-      "stock": "4",
+      "stock": "2",
       "link": "https://www.amazon.es/dp/B0HC7DT1ZY?tag=enkairito-21",
       "first_seen": "2026-09-08T09:40:16.326555+00:00",
       "marketplace": "ES",
@@ -223,10 +241,10 @@
       "flag": "🇪🇸",
       "name": "Bandai Paquete de refuerzo de juego de cartas One Piece, La aventura de la isla de Dios [OP-15] (Caja) 24 paquetes",
       "image": "https://m.media-amazon.com/images/I/61EvBG8mJ-L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "121,97 €",
+      "price": "136,88 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "2",
+      "stock": null,
       "link": "https://www.amazon.es/dp/B0G2VKBZML?tag=enkairito-21",
       "first_seen": "2026-08-29T18:11:01.747489+00:00",
       "marketplace": "ES",
@@ -236,20 +254,20 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0HC7LPXB4",
+      "asin": "B0F8V1YTSP",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Juego de cartas de una pieza ST-32 verde Roronoa Zoro | Baraja de inicio, ST-32, juego de cartas coleccionables, Roronoa Zoro, mazo verde",
-      "image": "https://m.media-amazon.com/images/I/61qHtzqXQpL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "33,00 €",
+      "name": "BANDAI Juego de cartas de una pieza más antiguo (OP-13) (caja) de 24 unidades",
+      "image": "https://m.media-amazon.com/images/I/81uxMM80r7L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "199,90 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "3",
-      "link": "https://www.amazon.es/dp/B0HC7LPXB4?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:09:16.260611+00:00",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F8V1YTSP?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:10:47.849793+00:00",
       "marketplace": "ES",
       "categories": [
-        "Starter Deck"
+        "Booster Box"
       ],
       "game": "One Piece"
     },
@@ -286,24 +304,6 @@
       "marketplace": "ES",
       "categories": [
         "Starter Deck"
-      ],
-      "game": "One Piece"
-    },
-    {
-      "asin": "B0F8V1YTSP",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "BANDAI Juego de cartas de una pieza más antiguo (OP-13) (caja) de 24 unidades",
-      "image": "https://m.media-amazon.com/images/I/81uxMM80r7L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "199,90 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F8V1YTSP?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:10:47.849793+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Booster Box"
       ],
       "game": "One Piece"
     },
@@ -380,24 +380,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0G2YV88DN",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "BANDAI One Piece TCG: Carry on His Will Booster Pack (OP-13) - 12 cartas",
-      "image": "https://m.media-amazon.com/images/I/51jRJAPOQqL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "37,36 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0G2YV88DN?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:10:26.223493+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Sobre"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0GDHHS7CR",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -412,6 +394,24 @@
       "marketplace": "ES",
       "categories": [
         "Otros"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0G2YV88DN",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "BANDAI One Piece TCG: Carry on His Will Booster Pack (OP-13) - 12 cartas",
+      "image": "https://m.media-amazon.com/images/I/51jRJAPOQqL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "37,36 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0G2YV88DN?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:10:26.223493+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Sobre"
       ],
       "game": "One Piece"
     },
