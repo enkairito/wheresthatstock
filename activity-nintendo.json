@@ -1,28 +1,5 @@
 [
   {
-    "asin": "B0FNCH477M",
-    "store_label": "Amazon ES",
-    "flag": "🇪🇸",
-    "name": "JETech Protector Pantalla para Nintendo Switch 2, 2 Unidades | Alineación Automática Instalación, Cristal Vidrio Templado 9H, HD Transparente, Protección Anti-Arañazos",
-    "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71AjEQ8XvML._AC_UL600_SR600,400_.jpg",
-    "price": "12,99 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0FNCH477M?tag=enkairito-21",
-    "first_seen": "2026-09-11T19:20:15.912028+00:00",
-    "marketplace": "ES",
-    "categories": [
-      "Videojuego"
-    ],
-    "game": "Nintendo",
-    "ts": "2026-09-18T12:31:52.757346+00:00",
-    "type": "restock",
-    "prev_price": "12,99 €",
-    "_src": "nintendo.json",
-    "id": "ES-B0FNCH477M:2026-09-18T12:31:52.757346+00:00:restock"
-  },
-  {
     "asin": "B0BV27FTTF",
     "store_label": "Amazon ES",
     "flag": "🇪🇸",
@@ -4598,5 +4575,28 @@
     "prev_price": "49,99 €",
     "_src": "nintendo.json",
     "id": "ES-B07HD1312V:2026-09-18T22:31:26.320888+00:00:price_drop"
+  },
+  {
+    "asin": "B0H5RLSHZ4",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Nintendo Switch 2 HW + Pokopia (para descargar) Switch 2",
+    "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71ieEef2u6L._AC_UL600_SR600,400_.jpg",
+    "price": "486,55 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0H5RLSHZ4?tag=enkairito-21",
+    "first_seen": "2026-09-17T00:32:50.688070+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Videojuego"
+    ],
+    "game": "Nintendo",
+    "ts": "2026-09-19T00:32:03.328294+00:00",
+    "type": "price_drop",
+    "prev_price": "509,00 €",
+    "_src": "nintendo.json",
+    "id": "ES-B0H5RLSHZ4:2026-09-19T00:32:03.328294+00:00:price_drop"
   }
 ]
