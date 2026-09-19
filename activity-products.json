@@ -1,97 +1,5 @@
 [
   {
-    "asin": "199812",
-    "store_label": "TodoConsolas",
-    "flag": "",
-    "name": "Coleccion Premium Heroes Ascendentes Pokemon TCG (LAT)",
-    "image": "https://www.todoconsolas.com/424372-medium_default/coleccion_premium_heroes_ascendentes_pokemon_tcg_lat_265221.jpg",
-    "price": "84,95 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": 1.0,
-    "link": "https://www.todoconsolas.com/cartas-y-cromos/199812-coleccion_premium_heroes_ascendentes_pokemon_tcg_lat_265221-0196214131088.html",
-    "first_seen": "2026-09-18T22:34:28.415246+00:00",
-    "marketplace": "TC",
-    "categories": [
-      "Colecciones premium"
-    ],
-    "game": "Pokémon",
-    "ts": "2026-09-18T22:42:57.829119+00:00",
-    "type": "restock",
-    "prev_price": null,
-    "_src": "products.json",
-    "id": "TC-199812:2026-09-18T22:42:57.829119+00:00:restock"
-  },
-  {
-    "asin": "207414",
-    "store_label": "TodoConsolas",
-    "flag": "",
-    "name": "Coleccion Coleccionista 2024 Back to School Pokemon TCG (ES)",
-    "image": "https://www.todoconsolas.com/424082-medium_default/coleccion_coleccionista_2024_back_to_school_pokemon_tcg_es_273205.jpg",
-    "price": "34,95 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": 1.0,
-    "link": "https://www.todoconsolas.com/cartas-y-cromos/207414-coleccion_coleccionista_2024_back_to_school_pokemon_tcg_es_273205-820650505331.html",
-    "first_seen": "2026-09-18T22:34:28.415246+00:00",
-    "marketplace": "TC",
-    "categories": [
-      "Otros"
-    ],
-    "game": "Pokémon",
-    "ts": "2026-09-18T22:42:57.829119+00:00",
-    "type": "restock",
-    "prev_price": null,
-    "_src": "products.json",
-    "id": "TC-207414:2026-09-18T22:42:57.829119+00:00:restock"
-  },
-  {
-    "asin": "189375",
-    "store_label": "TodoConsolas",
-    "flag": "",
-    "name": "ETB Corona Astral Pokemon TCG (ES)",
-    "image": "https://www.todoconsolas.com/371931-medium_default/etb_corona_astral_pokemon_tcg_es_252168.jpg",
-    "price": "67,95 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": 1.0,
-    "link": "https://www.todoconsolas.com/cartas-y-cromos/189375-etb_corona_astral_pokemon_tcg_es_252168-820650505539.html",
-    "first_seen": "2026-09-18T22:34:28.415246+00:00",
-    "marketplace": "TC",
-    "categories": [
-      "Otros"
-    ],
-    "game": "Pokémon",
-    "ts": "2026-09-18T22:42:57.829119+00:00",
-    "type": "restock",
-    "prev_price": null,
-    "_src": "products.json",
-    "id": "TC-189375:2026-09-18T22:42:57.829119+00:00:restock"
-  },
-  {
-    "asin": "189491",
-    "store_label": "TodoConsolas",
-    "flag": "",
-    "name": "Sobre Evoluciones en Paldea Pokemon TCG (ES)",
-    "image": "https://www.todoconsolas.com/372242-medium_default/sobre_evoluciones_en_paldea_pokemon_tcg_es_254196.jpg",
-    "price": "6,95 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": 1.0,
-    "link": "https://www.todoconsolas.com/cartas-y-cromos/189491-sobre_evoluciones_en_paldea_pokemon_tcg_es_254196-0820650514136.html",
-    "first_seen": "2026-09-18T22:34:28.415246+00:00",
-    "marketplace": "TC",
-    "categories": [
-      "Otros"
-    ],
-    "game": "Pokémon",
-    "ts": "2026-09-18T22:42:57.829119+00:00",
-    "type": "restock",
-    "prev_price": null,
-    "_src": "products.json",
-    "id": "TC-189491:2026-09-18T22:42:57.829119+00:00:restock"
-  },
-  {
     "asin": "209625",
     "store_label": "TodoConsolas",
     "flag": "",
@@ -4598,5 +4506,97 @@
     "prev_price": "54,87 €",
     "_src": "products.json",
     "id": "US-B0D4B515H1:2026-09-19T05:23:17.513188+00:00:restock"
+  },
+  {
+    "asin": "B0DSGB5Q6B",
+    "store_label": "Amazon ES",
+    "flag": "",
+    "name": "Pokémon Colección Ursaluna Luna Carmesí (4 Cartas holográficas y 4 Paquetes de Mejora)",
+    "image": "https://m.media-amazon.com/images/I/91DYxakGHhL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "24,99 €",
+    "original_price": "38,00 €",
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0DSGB5Q6B?tag=enkairito-21",
+    "first_seen": "2026-08-25T20:27:15.542170+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Cajas de Colección"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-19T05:43:28.273805+00:00",
+    "type": "price_drop",
+    "prev_price": "45,09 €",
+    "_src": "products.json",
+    "id": "ES-B0DSGB5Q6B:2026-09-19T05:43:28.273805+00:00:price_drop"
+  },
+  {
+    "asin": "B0DH53TQCC",
+    "store_label": "Amazon UK",
+    "flag": "🇬🇧",
+    "name": "Pokemon Scarlet & Violet Stellar Crown Booster Pack",
+    "image": "https://m.media-amazon.com/images/I/71O6VBum4bL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "26,49 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0DH53TQCC?tag=enkairito-21",
+    "first_seen": "2026-09-04T22:05:43.537215+00:00",
+    "marketplace": "UK",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-19T05:43:28.273805+00:00",
+    "type": "restock",
+    "prev_price": "26,49 €",
+    "_src": "products.json",
+    "id": "UK-B0DH53TQCC:2026-09-19T05:43:28.273805+00:00:restock"
+  },
+  {
+    "asin": "B0GYTRYV7P",
+    "store_label": "Amazon USA",
+    "flag": "🇺🇸",
+    "name": "Pokémon TCG: Mega Evolution—Pitch Black Booster Bundle",
+    "image": "https://m.media-amazon.com/images/I/81ANtTqGJVL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "56,94 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": "1",
+    "link": "https://www.amazon.es/dp/B0GYTRYV7P?tag=enkairito-21",
+    "first_seen": "2026-08-30T20:46:19.644833+00:00",
+    "marketplace": "US",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-19T05:43:28.273805+00:00",
+    "type": "restock",
+    "prev_price": "56,94 €",
+    "_src": "products.json",
+    "id": "US-B0GYTRYV7P:2026-09-19T05:43:28.273805+00:00:restock"
+  },
+  {
+    "asin": "VC4A-34535241",
+    "store_label": "Carrefour",
+    "flag": "",
+    "name": "Pokémon 30Th Aniversario Lata Ex Versión Sylveon/Greninja, +6 Años (Unboxing)",
+    "image": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/783626_00_1.jpg",
+    "price": "34,99 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.carrefour.es/pokemon-30th-aniversario-lata-ex-version-sylveon-greninja-6-anos-unboxing/VC4A-34535241/p",
+    "first_seen": "2026-09-15T20:55:26.061406+00:00",
+    "marketplace": "CAR",
+    "categories": [
+      "Latas"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-19T05:43:28.273805+00:00",
+    "type": "restock",
+    "prev_price": "34,99 €",
+    "_src": "products.json",
+    "id": "CAR-VC4A-34535241:2026-09-19T05:43:28.273805+00:00:restock"
   }
 ]
