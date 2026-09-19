@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-19T06:31:29.853785+00:00",
+  "updated_at": "2026-09-19T08:31:34.422840+00:00",
   "products": [
     {
       "asin": "B08FCXLB8Z",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Xbox Play y Kit de Carga USB",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/31eyUqo7r7L._AC_UL600_SR600,400_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/31eyUqo7r7L._AC_UL300_SR300,200_.jpg",
       "price": "19,99 €",
       "original_price": null,
       "status": "compra_directa",
@@ -150,7 +150,7 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "MotoGP 22, para Xbox Series X",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/716sCsZ+ViL._AC_UL600_SR600,400_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/716sCsZ+ViL._AC_UL300_SR300,200_.jpg",
       "price": "17,40 €",
       "original_price": null,
       "status": "compra_directa",
@@ -294,7 +294,7 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "CONTROL Resonant - Xbox",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/815lNnwKC7L._AC_UL600_SR600,400_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/815lNnwKC7L._AC_UL300_SR300,200_.jpg",
       "price": "52,90 €",
       "original_price": null,
       "status": "compra_directa",
@@ -547,7 +547,7 @@
       "flag": "🇪🇸",
       "name": "Battlefield 6 Standard Edition XBOX Series X | Disco | Videojuegos | Castellano",
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81bONIqSdTL._AC_UL600_SR600,400_.jpg",
-      "price": "41,70 €",
+      "price": "44,69 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -672,7 +672,7 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Clair Obscur: Expedition 33",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81VDlubtsZL._AC_UL600_SR600,400_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81VDlubtsZL._AC_UL300_SR300,200_.jpg",
       "price": "42,99 €",
       "original_price": null,
       "status": "compra_directa",
@@ -817,7 +817,7 @@
       "flag": "🇪🇸",
       "name": "THQ Nordic Disney Epic Mickey Rebrushed, para Xbox Series X y S",
       "image": "https://images-eu.ssl-images-amazon.com/images/I/715Oxz3IPGL._AC_UL300_SR300,200_.jpg",
-      "price": "32,98 €",
+      "price": "32,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -967,6 +967,168 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B0C7WC2CC8?tag=enkairito-21",
       "first_seen": "2026-09-18T12:31:56.790664+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Xbox"
+    },
+    {
+      "asin": "B0DT4TG862",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Fatal Fury City of the Wolves - Special Edition - Xbox",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/81ZeL2ZcPfL._AC_UL300_SR300,200_.jpg",
+      "price": "22,94 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DT4TG862?tag=enkairito-21",
+      "first_seen": "2026-09-17T12:31:47.548532+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Xbox"
+    },
+    {
+      "asin": "B0GYTDQ1T1",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "The Blood of Dawnwalker Day 1 Edition (Xbox Series X)",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/81DBhpoq7KL._AC_UL300_SR300,200_.jpg",
+      "price": "75,70 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GYTDQ1T1?tag=enkairito-21",
+      "first_seen": "2026-09-15T00:20:55.336132+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Xbox"
+    },
+    {
+      "asin": "B0B5GXBHDZ",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Five Nights at Freddy's: Security Breach (Xbox Series X/Xbox One)",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/81JRxEGFtgL._AC_UL300_SR300,200_.jpg",
+      "price": "25,66 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0B5GXBHDZ?tag=enkairito-21",
+      "first_seen": "2026-09-17T08:32:35.495691+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Xbox"
+    },
+    {
+      "asin": "B0FPMNXV7V",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "007 First Light Specialist Edition - XSRX",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71ewn9JphuL._AC_UL300_SR300,200_.jpg",
+      "price": "66,05 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FPMNXV7V?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.256436+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Xbox"
+    },
+    {
+      "asin": "B083JL8CLF",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Corsair Scimitar Elite RGB Óptico MOBA/MMO Ratón para Juegos - Negro | 18.000 PPP Óptico Sensor, 17 Botones Programables, Retroiluminación RGB Dinámica en Cuatro Zonas, Forma Contorneada",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51Znhf5lKoL._AC_UL600_SR600,400_.jpg",
+      "price": "56,95 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B083JL8CLF?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.256532+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Xbox"
+    },
+    {
+      "asin": "B095PPY2KN",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Mars Gaming MCPX, Idioma Español, Combo Gaming 3en1 con Teclado H-Mech Iluminado, Ratón Ultraligero 10000 dpi con Software y Alfombrilla XXL, Compatible con PC, PS4, PS5, Xbox, Negro",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71YYUVZHYYL._AC_UL600_SR600,400_.jpg",
+      "price": "32,98 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B095PPY2KN?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.256543+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Xbox"
+    },
+    {
+      "asin": "B0C44XVWCH",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "WD_BLACK C50 1 TB Tarjeta de expansión para Xbox (Compatible con la Serie X|S, Plug-and-Stay, Velocity Architecture, Reanudación rápida, Subscripción gratuia de 1 Mes de Xbox Game Pass) Black",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/716TJhy4GbL._AC_UL600_SR600,400_.jpg",
+      "price": "168,86 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0C44XVWCH?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:10.760406+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Xbox"
+    },
+    {
+      "asin": "B01649IVI8",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Thrustmaster TFRP T.Flight Rudder Pedals - PS5, XBOX y PC | Alta precisión, sistema de frenado diferencial para simulación de vuelo, compatible con ecosistema Thrustmaster, versátil",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/611CaqiPE9L._AC_UL600_SR600,400_.jpg",
+      "price": "99,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B01649IVI8?tag=enkairito-21",
+      "first_seen": "2026-09-17T12:31:47.548687+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Xbox"
+    },
+    {
+      "asin": "B082YRCL4T",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "SteelSeries Apex 3 - Teclado Gaming - Iluminación RGB de 10 zonas - Resistencia al agua IP32 - Reposamuñecas magnético superior - Teclado QWERTY Español",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/61nBW1Uwq6L._AC_UL300_SR300,200_.jpg",
+      "price": "59,95 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B082YRCL4T?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.256560+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -1231,7 +1393,7 @@
       "flag": "🇪🇸",
       "name": "Control Ultimate Edition Xbox One | Series X Game",
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81aLTOcPGVL._AC_UL600_SR600,400_.jpg",
-      "price": "24,20 €",
+      "price": "24,14 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -1518,7 +1680,7 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Batman Arkham Knight",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61h0AAVOnHL._AC_UL600_SR600,400_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61h0AAVOnHL._AC_UL300_SR300,200_.jpg",
       "price": "18,00 €",
       "original_price": null,
       "status": "compra_directa",
@@ -1608,7 +1770,7 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Assassin'S Creed: Origins",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81UhvQ+K2OL._AC_UL600_SR600,400_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81UhvQ+K2OL._AC_UL300_SR300,200_.jpg",
       "price": "29,87 €",
       "original_price": null,
       "status": "compra_directa",
@@ -1663,7 +1825,7 @@
       "flag": "🇪🇸",
       "name": "Demon Slayer -KIMETSU NO Yaiba- JPN (Voice) - E F I G S (Text) Box UK",
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/91QOC8YcIhS._AC_UL600_SR600,400_.jpg",
-      "price": "18,00 €",
+      "price": "20,44 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -1879,7 +2041,7 @@
       "flag": "🇪🇸",
       "name": "Grand Theft Auto V Premium Edition - Xbox One [Importación alemana]",
       "image": "https://images-eu.ssl-images-amazon.com/images/I/81LUEq-RvyL._AC_UL300_SR300,200_.jpg",
-      "price": "34,69 €",
+      "price": "34,80 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -1951,48 +2113,12 @@
       "flag": "🇪🇸",
       "name": "Tekken 7",
       "image": "https://images-eu.ssl-images-amazon.com/images/I/71SCZlDPQaL._AC_UL300_SR300,200_.jpg",
-      "price": "28,35 €",
+      "price": "27,45 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B00KJFDIP0?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:42.257018+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
-      "asin": "B00DW342NI",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Titanfall",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/71mHm2qqeJL._AC_UL300_SR300,200_.jpg",
-      "price": "22,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B00DW342NI?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.257026+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
-      "asin": "B077XWR9P8",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Surviving Mars",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/81w2B9OpUvL._AC_UL300_SR300,200_.jpg",
-      "price": "24,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B077XWR9P8?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.257035+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -2011,60 +2137,6 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B07CGNDZR3?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:42.257357+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
-      "asin": "B083JL8CLF",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Corsair Scimitar Elite RGB Óptico MOBA/MMO Ratón para Juegos - Negro | 18.000 PPP Óptico Sensor, 17 Botones Programables, Retroiluminación RGB Dinámica en Cuatro Zonas, Forma Contorneada",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51Znhf5lKoL._AC_UL600_SR600,400_.jpg",
-      "price": "56,95 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B083JL8CLF?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.256532+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
-      "asin": "B095PPY2KN",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Mars Gaming MCPX, Idioma Español, Combo Gaming 3en1 con Teclado H-Mech Iluminado, Ratón Ultraligero 10000 dpi con Software y Alfombrilla XXL, Compatible con PC, PS4, PS5, Xbox, Negro",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71YYUVZHYYL._AC_UL600_SR600,400_.jpg",
-      "price": "32,98 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B095PPY2KN?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.256543+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
-      "asin": "B082YRCL4T",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "SteelSeries Apex 3 - Teclado Gaming - Iluminación RGB de 10 zonas - Resistencia al agua IP32 - Reposamuñecas magnético superior - Teclado QWERTY Español",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61nBW1Uwq6L._AC_UL600_SR600,400_.jpg",
-      "price": "59,95 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B082YRCL4T?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.256560+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -2112,8 +2184,8 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Xbox Cascos Stereo Series X|S",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61MGCuPYTHL._AC_UL600_SR600,400_.jpg",
-      "price": "59,99 €",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61MGCuPYTHL._AC_UL300_SR300,200_.jpg",
+      "price": "59,41 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -2137,24 +2209,6 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B0DFTPH8JK?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:42.257377+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
-      "asin": "B07S9DR8QG",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Logitech G703 Lightspeed Ratón Gaming Inalámbrico | Ratón gaming HERO 25K, 25,600 DPI, pesos ajustables, 6 botones programables, memoria, POWERPLAY, PC/Mac - Negro",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/5138fK1qKuL._AC_UL300_SR300,200_.jpg",
-      "price": "87,98 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B07S9DR8QG?tag=enkairito-21",
-      "first_seen": "2026-09-17T12:31:47.549000+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
