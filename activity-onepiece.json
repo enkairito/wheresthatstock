@@ -1,51 +1,5 @@
 [
   {
-    "asin": "B0HC79T34C",
-    "store_label": "Amazon ES",
-    "flag": "🇪🇸",
-    "name": "Juego de cartas de una pieza ST-33 Blue Kuzan | Baraja de inicio, ST-33, Blue Kuzan, juego de cartas coleccionables",
-    "image": "https://m.media-amazon.com/images/I/61Y5hOdwBEL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "33,86 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": "2",
-    "link": "https://www.amazon.es/dp/B0HC79T34C?tag=enkairito-21",
-    "first_seen": "2026-08-29T18:09:23.560405+00:00",
-    "marketplace": "ES",
-    "categories": [
-      "Starter Deck"
-    ],
-    "game": "One Piece",
-    "ts": "2026-09-11T16:06:26.975490+00:00",
-    "type": "price_drop",
-    "prev_price": "34,06 €",
-    "_src": "onepiece.json",
-    "id": "ES-B0HC79T34C:2026-09-11T16:06:26.975490+00:00:price_drop"
-  },
-  {
-    "asin": "B0F8V1YTSP",
-    "store_label": "Amazon ES",
-    "flag": "🇪🇸",
-    "name": "BANDAI Juego de cartas de una pieza más antiguo (OP-13) (caja) de 24 unidades",
-    "image": "https://m.media-amazon.com/images/I/81uxMM80r7L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "288,80 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0F8V1YTSP?tag=enkairito-21",
-    "first_seen": "2026-08-29T18:10:47.849793+00:00",
-    "marketplace": "ES",
-    "categories": [
-      "Booster Box"
-    ],
-    "game": "One Piece",
-    "ts": "2026-09-11T16:06:26.975490+00:00",
-    "type": "price_drop",
-    "prev_price": "305,47 €",
-    "_src": "onepiece.json",
-    "id": "ES-B0F8V1YTSP:2026-09-11T16:06:26.975490+00:00:price_drop"
-  },
-  {
     "asin": "B0D69TF558",
     "store_label": "Amazon ES",
     "flag": "🇪🇸",
@@ -4598,5 +4552,51 @@
     "prev_price": "34,90 €",
     "_src": "onepiece.json",
     "id": "ES-B0HC7LPXB4:2026-09-18T23:06:16.603088+00:00:price_drop"
+  },
+  {
+    "asin": "B0HF1Z72XW",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "One Piece TCG: The World's Strongest Warriors Booster Box (OP-17) - 24 paquetes",
+    "image": "https://m.media-amazon.com/images/I/61CWeLxq3eL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "436,00 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0HF1Z72XW?tag=enkairito-21",
+    "first_seen": "2026-09-05T20:33:38.638411+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Booster Box"
+    ],
+    "game": "One Piece",
+    "ts": "2026-09-19T00:06:20.947351+00:00",
+    "type": "price_drop",
+    "prev_price": "451,00 €",
+    "_src": "onepiece.json",
+    "id": "ES-B0HF1Z72XW:2026-09-19T00:06:20.947351+00:00:price_drop"
+  },
+  {
+    "asin": "B0CKX97S18",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "BANDAI - Set One Piece Card Game : Ace/Sabo/Luffy - 0810059782457",
+    "image": "https://m.media-amazon.com/images/I/71Ji0PmwyWL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "79,17 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0CKX97S18?tag=enkairito-21",
+    "first_seen": "2026-08-29T18:10:35.785772+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Otros"
+    ],
+    "game": "One Piece",
+    "ts": "2026-09-19T00:06:20.947351+00:00",
+    "type": "price_drop",
+    "prev_price": "100,31 €",
+    "_src": "onepiece.json",
+    "id": "ES-B0CKX97S18:2026-09-19T00:06:20.947351+00:00:price_drop"
   }
 ]
