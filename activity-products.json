@@ -1,74 +1,5 @@
 [
   {
-    "asin": "B0DDYZX1TB",
-    "store_label": "Amazon UK",
-    "flag": "🇬🇧",
-    "name": "Pokemon TCG: Scarlet & Violet - Surging Sparks Booster Bundle",
-    "image": "https://m.media-amazon.com/images/I/817ZQoBRA3L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "103,32 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0DDYZX1TB?tag=enkairito-21",
-    "first_seen": "2026-09-04T21:32:58.802612+00:00",
-    "marketplace": "UK",
-    "categories": [
-      "Otros"
-    ],
-    "game": "Pokémon",
-    "ts": "2026-09-18T19:43:26.401973+00:00",
-    "type": "restock",
-    "prev_price": "103,32 €",
-    "_src": "products.json",
-    "id": "UK-B0DDYZX1TB:2026-09-18T19:43:26.401973+00:00:restock"
-  },
-  {
-    "asin": "B0DC2BK8QG",
-    "store_label": "Amazon UK",
-    "flag": "🇬🇧",
-    "name": "Pokemon TCG: 2024 Trainer’s Toolkit",
-    "image": "https://m.media-amazon.com/images/I/81j5Vv0oIEL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "79,91 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": "2",
-    "link": "https://www.amazon.es/dp/B0DC2BK8QG?tag=enkairito-21",
-    "first_seen": "2026-09-04T21:32:58.802645+00:00",
-    "marketplace": "UK",
-    "categories": [
-      "Otros"
-    ],
-    "game": "Pokémon",
-    "ts": "2026-09-18T19:43:26.401973+00:00",
-    "type": "restock",
-    "prev_price": "79,91 €",
-    "_src": "products.json",
-    "id": "UK-B0DC2BK8QG:2026-09-18T19:43:26.401973+00:00:restock"
-  },
-  {
-    "asin": "B0GDYP1LRF",
-    "store_label": "Amazon UK",
-    "flag": "🇬🇧",
-    "name": "Pokemon TCG | Mega Brave | Caja de refuerzo japonesa (M1L) | Para coleccionistas de más de 15 años",
-    "image": "https://m.media-amazon.com/images/I/6146hWIRAXL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "111,96 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0GDYP1LRF?tag=enkairito-21",
-    "first_seen": "2026-09-05T05:18:07.280869+00:00",
-    "marketplace": "UK",
-    "categories": [
-      "Otros"
-    ],
-    "game": "Pokémon",
-    "ts": "2026-09-18T19:43:26.401973+00:00",
-    "type": "restock",
-    "prev_price": "111,96 €",
-    "_src": "products.json",
-    "id": "UK-B0GDYP1LRF:2026-09-18T19:43:26.401973+00:00:restock"
-  },
-  {
     "asin": "B0CMZS84KP",
     "store_label": "Amazon UK",
     "flag": "🇬🇧",
@@ -4598,5 +4529,74 @@
     "prev_price": "34,99 €",
     "_src": "products.json",
     "id": "CAR-VC4A-34535241:2026-09-19T01:23:06.657102+00:00:restock"
+  },
+  {
+    "asin": "B0GNCGT9KK",
+    "store_label": "Amazon UK",
+    "flag": "🇬🇧",
+    "name": "Pokemon: Pokemon TCG - Mega Zygarde EX - Premium Collection 2026 (TCG)",
+    "image": "https://m.media-amazon.com/images/I/81K1PWw7QeL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "97,59 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0GNCGT9KK?tag=enkairito-21",
+    "first_seen": "2026-09-18T15:23:27.918742+00:00",
+    "marketplace": "UK",
+    "categories": [
+      "Colecciones premium"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-19T01:43:08.924131+00:00",
+    "type": "restock",
+    "prev_price": "97,59 €",
+    "_src": "products.json",
+    "id": "UK-B0GNCGT9KK:2026-09-19T01:43:08.924131+00:00:restock"
+  },
+  {
+    "asin": "B0DLQJ613B",
+    "store_label": "Amazon UK",
+    "flag": "🇬🇧",
+    "name": "Pokémon TCG: Scarlet & Violet—Prismatic Evolutions Poster Collection",
+    "image": "https://m.media-amazon.com/images/I/81ulz0V0WcL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "91,32 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": "3",
+    "link": "https://www.amazon.es/dp/B0DLQJ613B?tag=enkairito-21",
+    "first_seen": "2026-09-05T00:38:53.462546+00:00",
+    "marketplace": "UK",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-19T01:43:08.924131+00:00",
+    "type": "restock",
+    "prev_price": "144,85 €",
+    "_src": "products.json",
+    "id": "UK-B0DLQJ613B:2026-09-19T01:43:08.924131+00:00:restock"
+  },
+  {
+    "asin": "B0G72SPRP6",
+    "store_label": "Amazon USA",
+    "flag": "🇺🇸",
+    "name": "Pokémon TCG: Mega Evolution—Ascended Heroes Mega Meganium ex Box (1 Tarjeta Promocional de Aluminio, 1 Tarjeta lenticular de Gran tamaño y 4 Paquetes de Refuerzo)",
+    "image": "https://m.media-amazon.com/images/I/91FiTlqcy+L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "84,63 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0G72SPRP6?tag=enkairito-21",
+    "first_seen": "2026-09-04T21:32:58.802874+00:00",
+    "marketplace": "US",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-19T01:43:08.924131+00:00",
+    "type": "price_drop",
+    "prev_price": "86,32 €",
+    "_src": "products.json",
+    "id": "US-B0G72SPRP6:2026-09-19T01:43:08.924131+00:00:price_drop"
   }
 ]
