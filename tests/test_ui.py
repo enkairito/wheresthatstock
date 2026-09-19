@@ -91,6 +91,12 @@ class WebTests(unittest.TestCase):
             if self.mode == 'stores' and name == 'products.json':
                 products = [dict(product, marketplace=store, name=store + ' Oferta')
                             for store in ('ES', 'UK', 'US', 'ECI', 'CAR', 'FNAC', 'TRU', 'GAME', 'MM', 'TC')]
+            if self.mode == 'malformed-products' and name == 'products.json':
+                products += [None, [], {'name': 'No identifier'},
+                             dict(product, asin='BAD_CATEGORY', categories={'unexpected': 'object'}),
+                             dict(product, asin='BAD_NAME', name={'unexpected': 'object'})]
+            if self.mode == 'all-invalid-products':
+                products = [None, [], {'name': 'No identifier'}]
             if self.mode == 'fnac' and name == 'products.json':
                 products.append({
                     'asin': '13106193', 'marketplace': 'FNAC', 'store_label': 'Fnac',
@@ -103,6 +109,12 @@ class WebTests(unittest.TestCase):
             if self.mode == 'activity-offline':
                 return route.fulfill(status=503, body='unavailable')
             index = SOURCES.index(name.removeprefix('activity-'))
+            if self.mode == 'malformed-activity' and index == 0:
+                return route.fulfill(json=[
+                    {'name': 'Historical restock', 'game': 'Pokemon', 'type': 'restock', 'ts': (self.now - timedelta(days=3)).isoformat()},
+                    {'name': 'Future restock', 'type': 'restock', 'ts': (self.now + timedelta(days=30)).isoformat()},
+                    {'name': 'Bad date', 'type': 'restock', 'ts': 'not-a-date'},
+                    {'name': 'Unknown event', 'type': 'unknown', 'ts': self.now.isoformat()}, None])
             return route.fulfill(json=[{'name': GAMES[index] + ' Restock', 'game': GAMES[index], 'ts': self.now.isoformat(), 'type': 'restock'}])
         if name == 'accesorios.json':
             return route.fulfill(json={'updated_at': self.now.isoformat(), 'products': [],
@@ -770,6 +782,70 @@ class WebTests(unittest.TestCase):
             for fg, bg in [('fg', 'card-bg'), ('muted', 'bg'), ('muted', 'card-bg')] + [(key, key + '-bg') for key in ('available', 'invitation', 'unavailable', 'preventa')]:
                 a, b = sorted((luminance(colors[fg]), luminance(colors[bg])))
                 self.assertGreaterEqual((b + .05) / (a + .05), 4.5, (theme, fg, bg))
+
+    def test_malformed_records_keep_valid_products_and_report_partial_data(self):
+        self.mode = 'malformed-products'
+        self.visit('/pokemontcg')
+        expect(self.page.locator('#grid .card')).to_have_count(1)
+        expect(self.page.locator('#catalog-load-notice')).to_contain_text('Listado incompleto')
+        self.page.locator('#search').fill('No match')
+        expect(self.page.locator('#empty')).to_contain_text('datos que se han podido cargar')
+        self.mode = 'healthy'
+        self.page.locator('#catalog-load-notice button').click()
+        expect(self.page.locator('#catalog-load-notice')).to_be_hidden()
+        expect(self.page.locator('#empty')).to_contain_text('No se encontraron productos')
+        self.assertEqual(self.errors, [])
+
+    def test_all_invalid_records_are_a_load_failure_not_an_empty_catalog(self):
+        self.mode = 'all-invalid-products'
+        self.visit('/magic')
+        expect(self.page.locator('#count')).to_have_text('Sin datos')
+        expect(self.page.locator('#catalog-load-notice button')).to_be_visible()
+        self.assertEqual(self.errors, [])
+
+    def test_malformed_products_report_incomplete_home_and_favorites(self):
+        self.mode = 'malformed-products'
+        self.visit('/')
+        expect(self.page.locator('#newest-grid .card')).to_have_count(5)
+        expect(self.page.locator('#home-catalog-notice')).to_contain_text('Selección incompleta')
+        self.page.locator('#newest-grid [data-favorite]').first.click()
+        self.visit('/favoritos')
+        expect(self.page.locator('#favorite-grid .card')).to_have_count(1)
+        expect(self.page.locator('#favorites-load-notice')).to_contain_text('No se pudo comprobar')
+        self.assertEqual(self.errors, [])
+
+    def test_unknown_status_cannot_inherit_object_properties(self):
+        self.page.route('**/products.json?*', lambda route: route.fulfill(json={
+            'updated_at': self.now.isoformat(), 'products': [
+                {'marketplace': 'ES', 'asin': 'SAFE_ID', 'name': 'Unknown status',
+                 'status': '__proto__', 'price': '10,00 EUR', 'original_price': '20,00 EUR'}]}))
+        self.visit('/pokemontcg')
+        expect(self.page.locator('#grid .card')).to_have_count(1)
+        expect(self.page.locator('#grid')).to_contain_text('Sin confirmar')
+        expect(self.page.locator('#grid .buy-btn')).to_have_text('Ver ficha')
+        expect(self.page.locator('#grid .discount')).to_have_count(0)
+
+    def test_corrupt_view_and_sidebar_preferences_use_safe_defaults(self):
+        self.page.set_viewport_size({'width': 1440, 'height': 900})
+        self.page.add_init_script("localStorage.setItem('wts-view-2', 'view-list invalid'); localStorage.setItem('wts-sidebar', 'broken')")
+        self.visit('/ofertas')
+        expect(self.page.locator('#grid')).to_have_class('grid view-5')
+        expect(self.page.locator('.sidebar')).to_be_visible()
+        expect(self.page.locator('[data-view="view-5"]')).to_have_attribute('aria-pressed', 'true')
+        self.assertEqual(self.errors, [])
+
+    def test_activity_is_historical_and_rejects_invalid_or_future_dates(self):
+        self.mode = 'malformed-activity'
+        self.visit('/')
+        expect(self.page.locator('#activity-list .activity-item')).to_have_count(5)
+        expect(self.page.locator('#activity-list')).to_contain_text('Historical restock')
+        expect(self.page.locator('#activity-list')).to_contain_text('registró disponibilidad en esa comprobación')
+        for text in ('ya está disponible', 'Future restock', 'Bad date', 'Unknown event'):
+            expect(self.page.locator('#activity-list')).not_to_contain_text(text)
+        expect(self.page.locator('#activity-load-notice')).to_be_visible()
+        html = (ROOT / 'index.html').read_text(encoding='utf-8')
+        self.assertNotIn('descuento activo en este momento', html)
+        self.assertEqual(html.count('Confirma el precio y el stock en la tienda antes de comprar.'), 2)
 
 
 if __name__ == '__main__':

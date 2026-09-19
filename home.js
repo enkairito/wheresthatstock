@@ -29,7 +29,7 @@ async function loadHomeCatalog() {
 
     renderSection("newest-grid", "newest-section", newest);
     renderSection("deals-grid", "deals-section", bestDeals);
-    const failed = results.some(r => r.status === "rejected");
+    const failed = results.some(r => r.status === "rejected" || r.value.invalid_products > 0);
     homeCatalogNotice(failed ? "Selección incompleta: no se pudieron cargar algunos productos." : "", failed);
   } catch {
     if (sequence !== homeLoadSequence) return;
@@ -63,12 +63,15 @@ async function loadHomeActivity() {
     const results = await Promise.allSettled(GAME_SOURCES.map(async source => {
       const events = await fetchJson("activity-" + source);
       if (!Array.isArray(events)) throw new Error("Actividad inválida");
-      return events.filter(event => event && typeof event === "object");
+      const valid = events.filter(event => event && typeof event === "object"
+        && typeof event.name === "string" && event.name.trim()
+        && ["restock", "price_drop"].includes(event.type) && validObservationDate(event.ts));
+      return { events: valid, incomplete: valid.length !== events.length };
     }));
     if (sequence !== activityLoadSequence) return;
-    const events = results.flatMap(r => r.status === "fulfilled" && Array.isArray(r.value) ? r.value : []);
+    const events = results.flatMap(r => r.status === "fulfilled" ? r.value.events : []);
     renderActivity(events.sort((a, b) => Date.parse(b.ts) - Date.parse(a.ts)).slice(0, 8));
-    const failed = results.filter(r => r.status === "rejected").length;
+    const failed = results.filter(r => r.status === "rejected" || r.value.incomplete).length;
     activityNotice(failed ? "No se pudo cargar toda la actividad reciente." : "", failed > 0);
     document.getElementById("activity-section").style.display = events.length || failed ? "" : "none";
   } finally {
@@ -101,7 +104,7 @@ function activityItemHtml(e) {
     ? (e.prev_price && e.price
         ? `bajó de precio: ${escapeHtml(e.prev_price)} → ${escapeHtml(e.price)}`
         : "bajó de precio")
-    : "ya está disponible";
+    : "registró disponibilidad en esa comprobación";
   return `
     <a class="activity-item" href="${link}" target="_blank" rel="noopener sponsored">
       ${e.image ? `<img class="activity-img" src="${image}" alt="" width="40" height="40" loading="lazy">` : ""}

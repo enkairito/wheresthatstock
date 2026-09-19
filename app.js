@@ -1,5 +1,6 @@
 let allProducts = [];
 let catalogFailedSources = 0;
+let catalogIncomplete = false;
 let catalogLoading = true;
 let catalogLoadSequence = 0;
 
@@ -22,7 +23,7 @@ function render(products) {
       count.textContent = "Sin datos";
       return;
     }
-    empty.innerHTML = `<p>${catalogFailedSources ? "No hay coincidencias en los datos que se han podido cargar." : "No se encontraron productos."} Prueba con otro nombre o amplía los filtros.</p><button type="button" class="utility-button" id="reset-empty-filters">Limpiar filtros</button>`;
+    empty.innerHTML = `<p>${catalogIncomplete ? "No hay coincidencias en los datos que se han podido cargar." : "No se encontraron productos."} Prueba con otro nombre o amplía los filtros.</p><button type="button" class="utility-button" id="reset-empty-filters">Limpiar filtros</button>`;
     empty.querySelector("button").addEventListener("click", resetFilters);
     return;
   }
@@ -381,6 +382,7 @@ const grid = document.getElementById("grid");
 const viewButtons = document.querySelectorAll(".view-btn");
 
 function setView(view) {
+  if (!["view-3", "view-5", "view-list"].includes(view)) view = "view-5";
   grid.classList.remove("view-3", "view-5", "view-list");
   grid.classList.add(view);
   viewButtons.forEach(b => b.setAttribute("aria-pressed", String(b.dataset.view === view)));
@@ -428,7 +430,7 @@ sidebar.addEventListener("keydown", event => {
 function restoreSidebar() {
   try {
     const saved = localStorage.getItem(sidebarPreferenceKey());
-    setSidebarVisible(saved ? saved === "visible" : !mobileFilters.matches);
+    setSidebarVisible(saved === "visible" || saved === "hidden" ? saved === "visible" : !mobileFilters.matches);
   } catch {
     setSidebarVisible(!mobileFilters.matches);
   }
@@ -449,13 +451,14 @@ async function loadCatalog() {
   catalogLoading = true;
   resetButton.disabled = true;
   grid.setAttribute("aria-busy", "true");
-  catalogNotice(catalogFailedSources ? "Cargando productos…" : "", catalogFailedSources > 0, true);
+  catalogNotice(catalogIncomplete ? "Cargando productos…" : "", catalogIncomplete, true);
   if (!allProducts.length) resultCount.textContent = "Cargando…";
   try {
     const results = await Promise.allSettled(PRODUCTS_URLS.map(fetchStock));
     if (sequence !== catalogLoadSequence) return;
     catalogLoading = false;
     catalogFailedSources = results.filter(r => r.status === "rejected").length;
+    catalogIncomplete = results.some(r => r.status === "rejected" || r.value.invalid_products > 0);
     updateStockLabel(PRODUCTS_URLS, results);
     const okResults = results.filter(r => r.status === "fulfilled").map(r => r.value);
     if (!okResults.length) throw new Error("Ningún origen de productos cargó correctamente");
@@ -479,11 +482,12 @@ async function loadCatalog() {
     resetButton.disabled = false;
 
     applyFilter();
-    catalogNotice(catalogFailedSources ? "Listado incompleto: no se pudieron cargar algunos productos. Puedes reintentar sin perder los filtros." : "", catalogFailedSources > 0);
+    catalogNotice(catalogIncomplete ? "Listado incompleto: no se pudieron cargar algunos productos. Puedes reintentar sin perder los filtros." : "", catalogIncomplete);
   } catch {
     if (sequence !== catalogLoadSequence) return;
     catalogLoading = false;
     catalogFailedSources = PRODUCTS_URLS.length;
+    catalogIncomplete = true;
     allProducts = [];
     render([]);
     catalogNotice("No se pudo cargar el listado de productos.", true);

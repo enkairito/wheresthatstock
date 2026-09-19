@@ -1,11 +1,12 @@
 # Diseño del frontend
 
-Revisión y actualización: 2026-09-08.
+Revisión y actualización: 2026-09-19.
 
 Se revisaron la portada, listados, fichas, noticias, artículos, calendario,
 navegación, filtros y componentes comunes, en escritorio y móvil.
 
-La identidad mantiene el logo y el amarillo como un detalle en el nombre.
+La identidad mantiene el símbolo aprobado y el nombre en Manrope 500/800,
+en mayúsculas y sin acento de color.
 El diseño usa una sola familia tipográfica, fondos neutros, bordes finos y
 sombras discretas. El color se reserva para los juegos y estados de producto.
 Los precios tienen prioridad visual y las acciones de compra una presentación

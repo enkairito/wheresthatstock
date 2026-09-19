@@ -38,7 +38,7 @@ async function loadFavoriteCatalog() {
   if (readFavorites().length) {
     const results = await Promise.allSettled(favoriteSources.map(source => fetchStock("/" + source)));
     if (sequence !== favoriteLoadSequence) return;
-    favoriteFailedSources = results.filter(result => result.status === "rejected").length;
+    favoriteFailedSources = results.filter(result => result.status === "rejected" || result.value.invalid_products > 0).length;
     results.forEach((result, i) => {
       if (result.status === "fulfilled") result.value.products.forEach(p => refreshed.set(favoriteId(p), { ...p, _src: favoriteSources[i] }));
     });

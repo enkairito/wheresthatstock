@@ -62,6 +62,16 @@ los desplegables admiten flechas, Inicio/Fin, Escape y la tabulación habitual.
 Se han ampliado los controles pequeños y reforzado el contraste de formularios
 y textos que antes se atenuaban con opacidad.
 
+Los feeds validan la identidad, el nombre y las categorías de cada producto.
+Un registro mal formado no oculta los demás: se descarta y se comunica carga
+incompleta. Un feed no vacío sin ningún registro válido se trata como un error,
+no como un catálogo sin productos. Los estados desconocidos son «sin confirmar».
+Las preferencias de vista o filtros dañadas recuperan sus valores por defecto.
+La actividad describe comprobaciones pasadas, no disponibilidad actual; los
+eventos sin fecha válida, futuros o de tipo desconocido no se presentan como
+reposiciones confirmadas. La FAQ visible y sus datos estructurados explican
+también que ofertas y precios proceden de comprobaciones periódicas.
+
 Las imágenes de producto comparten estados de carga, imagen lista y fallo en
 portada, listados, favoritos y fichas. Los marcos mantienen su tamaño y muestran
 un marcador si falta la imagen o falla. Las visibles se cargan de inmediato

@@ -192,8 +192,14 @@ async function fetchJson(url) {
 async function fetchStock(url) {
   const data = await fetchJson(url);
   if (!data || !Array.isArray(data.products)) throw new Error("Listado inválido");
-  return { ...data, products: data.products.filter(p => p && typeof p === "object").map(p => {
-    const status = STATUS_LABEL[p.status] ? p.status : "sin_confirmar";
+  const products = data.products.filter(p => p && typeof p === "object" && !Array.isArray(p)
+    && typeof p.marketplace === "string" && /^[A-Z0-9_]{1,12}$/.test(p.marketplace)
+    && typeof p.asin === "string" && /^[A-Za-z0-9_-]{1,80}$/.test(p.asin)
+    && typeof p.name === "string" && p.name.trim()
+    && (p.categories == null || (Array.isArray(p.categories) && p.categories.every(category => typeof category === "string"))));
+  if (data.products.length && !products.length) throw new Error("Listado sin registros válidos");
+  return { ...data, invalid_products: data.products.length - products.length, products: products.map(p => {
+    const status = typeof p.status === "string" && Object.hasOwn(STATUS_LABEL, p.status) ? p.status : "sin_confirmar";
     // Publishing a static/unconfirmed entry is not a new stock observation.
     const observed = validObservationDate(p.last_seen)
       || (status !== "sin_confirmar" && (validObservationDate(p.checked_at)
