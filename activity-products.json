@@ -1,74 +1,5 @@
 [
   {
-    "asin": "B0CS7P4W8C",
-    "store_label": "Amazon USA",
-    "flag": "🇺🇸",
-    "name": "Pokémon TCG: Scarlet & Violet—Temporal Forces Elite Trainer Box - Hojas de Hierro (1 Tarjeta Promocional de Espinas de Hierro de Arte Completo, 9 potenciadores y Accesorios Premium)",
-    "image": "https://m.media-amazon.com/images/I/91tXhg6QX8L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "177,70 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0CS7P4W8C?tag=enkairito-21",
-    "first_seen": "2026-09-02T22:24:23.588723+00:00",
-    "marketplace": "US",
-    "categories": [
-      "Cajas ETB"
-    ],
-    "game": "Pokémon",
-    "ts": "2026-09-20T07:43:06.288344+00:00",
-    "type": "restock",
-    "prev_price": "177,70 €",
-    "_src": "products.json",
-    "id": "US-B0CS7P4W8C:2026-09-20T07:43:06.288344+00:00:restock"
-  },
-  {
-    "asin": "B0GFZV1ZVV",
-    "store_label": "Amazon USA",
-    "flag": "🇺🇸",
-    "name": "Pokémon TCG: Mega Evolution Order Elite Trainer Box",
-    "image": "https://m.media-amazon.com/images/I/813BmMbm-YL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "105,42 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": "1",
-    "link": "https://www.amazon.es/dp/B0GFZV1ZVV?tag=enkairito-21",
-    "first_seen": "2026-08-30T20:46:19.644915+00:00",
-    "marketplace": "US",
-    "categories": [
-      "Cajas ETB"
-    ],
-    "game": "Pokémon",
-    "ts": "2026-09-20T07:43:06.288344+00:00",
-    "type": "restock",
-    "prev_price": "105,42 €",
-    "_src": "products.json",
-    "id": "US-B0GFZV1ZVV:2026-09-20T07:43:06.288344+00:00:restock"
-  },
-  {
-    "asin": "B0GZ9S9KDR",
-    "store_label": "Amazon USA",
-    "flag": "🇺🇸",
-    "name": "Pokémon TCG: Mega Evoluzione - Caja de presentación Booster Black Pitch",
-    "image": "https://m.media-amazon.com/images/I/81oV7PbLhBL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "240,97 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0GZ9S9KDR?tag=enkairito-21",
-    "first_seen": "2026-08-30T20:46:19.644840+00:00",
-    "marketplace": "US",
-    "categories": [
-      "Otros"
-    ],
-    "game": "Pokémon",
-    "ts": "2026-09-20T07:43:06.288344+00:00",
-    "type": "restock",
-    "prev_price": "240,97 €",
-    "_src": "products.json",
-    "id": "US-B0GZ9S9KDR:2026-09-20T07:43:06.288344+00:00:restock"
-  },
-  {
     "asin": "B0F2BCG1Y5",
     "store_label": "Amazon USA",
     "flag": "🇺🇸",
@@ -4598,5 +4529,74 @@
     "prev_price": "21,60 €",
     "_src": "products.json",
     "id": "UK-B0GWCSP6MR:2026-09-20T19:43:26.463315+00:00:restock"
+  },
+  {
+    "asin": "B0CJM4MQTT",
+    "store_label": "Amazon UK",
+    "flag": "🇬🇧",
+    "name": "Pokemon Scarlet EX Pantalla 30 coreana",
+    "image": "https://m.media-amazon.com/images/I/61US9+Y9F4L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "74,62 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": "4",
+    "link": "https://www.amazon.es/dp/B0CJM4MQTT?tag=enkairito-21",
+    "first_seen": "2026-09-05T00:38:53.462595+00:00",
+    "marketplace": "UK",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-20T20:03:28.561800+00:00",
+    "type": "restock",
+    "prev_price": "74,62 €",
+    "_src": "products.json",
+    "id": "UK-B0CJM4MQTT:2026-09-20T20:03:28.561800+00:00:restock"
+  },
+  {
+    "asin": "B0FSJXSPPX",
+    "store_label": "Amazon UK",
+    "flag": "🇬🇧",
+    "name": "Caja Pokémon Monikis Zero - 30 Sobres (Japones)",
+    "image": "https://m.media-amazon.com/images/I/61X4gWuo4BL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "86,15 €",
+    "original_price": "96,45 €",
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0FSJXSPPX?tag=enkairito-21",
+    "first_seen": "2026-09-04T21:32:58.802653+00:00",
+    "marketplace": "UK",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-20T20:03:28.561800+00:00",
+    "type": "restock",
+    "prev_price": "86,14 €",
+    "_src": "products.json",
+    "id": "UK-B0FSJXSPPX:2026-09-20T20:03:28.561800+00:00:restock"
+  },
+  {
+    "asin": "B0GZ9S9KDR",
+    "store_label": "Amazon USA",
+    "flag": "🇺🇸",
+    "name": "Pokémon TCG: Mega Evoluzione - Caja de presentación Booster Black Pitch",
+    "image": "https://m.media-amazon.com/images/I/81oV7PbLhBL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "225,05 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": "1",
+    "link": "https://www.amazon.es/dp/B0GZ9S9KDR?tag=enkairito-21",
+    "first_seen": "2026-08-30T20:46:19.644840+00:00",
+    "marketplace": "US",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-20T20:03:28.561800+00:00",
+    "type": "restock",
+    "prev_price": "240,97 €",
+    "_src": "products.json",
+    "id": "US-B0GZ9S9KDR:2026-09-20T20:03:28.561800+00:00:restock"
   }
 ]
