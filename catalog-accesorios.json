@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T00:06:29.567650+00:00",
+  "updated_at": "2026-09-20T00:16:21.434380+00:00",
   "products": [
     {
       "asin": "B0CLRRG72H",
@@ -787,7 +787,7 @@
       "price": "11,53 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": null,
+      "stock": "4",
       "link": "https://www.amazon.es/dp/B0F8NRC5WT?tag=enkairito-21",
       "first_seen": "2026-09-10T11:45:06.861286+00:00",
       "marketplace": "ES",
@@ -796,8 +796,8 @@
       ],
       "source": "yugioh",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-19T18:16:39.129681+00:00",
-      "checked_at": "2026-09-19T18:16:39.129681+00:00"
+      "last_seen": "2026-09-20T00:16:21.434380+00:00",
+      "checked_at": "2026-09-20T00:16:21.434380+00:00"
     },
     {
       "asin": "B0DKP1FZM5",
