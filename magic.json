@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T18:16:46.144862+00:00",
+  "updated_at": "2026-09-20T00:16:43.058652+00:00",
   "products": [
     {
       "asin": "B0H6KKQZLT",
@@ -434,6 +434,24 @@
       "game": "Magic"
     },
     {
+      "asin": "B0GY5TKJ7B",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Mazo de Commander de Realidad fracturada de Magic: The Gathering: Multiverso reforjado | Mazo de 100 Cartas y Accesorios (Versión en Español)",
+      "image": "https://m.media-amazon.com/images/I/71m9kRB-3HL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "52,50 €",
+      "original_price": null,
+      "status": "preventa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GY5TKJ7B?tag=enkairito-21",
+      "first_seen": "2026-09-07T10:46:06.450055+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Mazo Commander"
+      ],
+      "game": "Magic"
+    },
+    {
       "asin": "B0GXLTWVPG",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -709,7 +727,7 @@
       "flag": "🇪🇸",
       "name": "Draft Night de Secretos de Strixhaven, de Magic: The Gathering (Versión en Inglés)",
       "image": "https://m.media-amazon.com/images/I/816wq4IFX+L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "120,93 €",
+      "price": "109,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
