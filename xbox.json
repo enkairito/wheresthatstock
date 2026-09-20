@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T20:31:36.307453+00:00",
+  "updated_at": "2026-09-20T22:33:09.054042+00:00",
   "products": [
     {
       "asin": "B08FCXLB8Z",
@@ -31,24 +31,6 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B0BKV55P1H?tag=enkairito-21",
       "first_seen": "2026-09-12T00:28:11.204259+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
-      "asin": "B0DCD9LGHY",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Xbox Serie X - Edición digital de 1 TB",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51bq1shHXEL._AC_UL600_SR600,400_.jpg",
-      "price": "817,12 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0DCD9LGHY?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:34:33.318741+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -276,7 +258,7 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "CONTROL Resonant - Xbox",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/815lNnwKC7L._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/815lNnwKC7L._AC_UL600_SR600,400_.jpg",
       "price": "52,90 €",
       "original_price": null,
       "status": "compra_directa",
@@ -348,7 +330,7 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Stranger than Heaven - XSRX",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/913pAwzT9iL._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/913pAwzT9iL._AC_UL600_SR600,400_.jpg",
       "price": "59,90 €",
       "original_price": null,
       "status": "compra_directa",
@@ -438,7 +420,7 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Monster Hunter Stories 3 XSRX",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81G4OeNzb5L._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81G4OeNzb5L._AC_UL600_SR600,400_.jpg",
       "price": "44,99 €",
       "original_price": null,
       "status": "compra_directa",
@@ -475,7 +457,7 @@
       "flag": "🇪🇸",
       "name": "Assassin's Creed Black Flag Re-Synced Standard Edition (Xbox X)",
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81iW6Krnv4L._AC_UL600_SR600,400_.jpg",
-      "price": "48,58 €",
+      "price": "49,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -546,7 +528,7 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Hollow Knight: Silksong - Xbox",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81b8Y+hwgAL._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81b8Y+hwgAL._AC_UL600_SR600,400_.jpg",
       "price": "39,90 €",
       "original_price": null,
       "status": "compra_directa",
@@ -853,7 +835,7 @@
       "flag": "🇪🇸",
       "name": "Corsair Scimitar Elite RGB Óptico MOBA/MMO Ratón para Juegos - Negro | 18.000 PPP Óptico Sensor, 17 Botones Programables, Retroiluminación RGB Dinámica en Cuatro Zonas, Forma Contorneada",
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51Znhf5lKoL._AC_UL600_SR600,400_.jpg",
-      "price": "56,95 €",
+      "price": "59,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -920,6 +902,24 @@
       "game": "Xbox"
     },
     {
+      "asin": "B0CGVZDLDP",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "WD_BLACK P10 2TB Game Drive HDD portátil, USB 3.2 Gen 1, hasta 130 MB/s, Type-A compatible con Playstation, Xbox, PC y Mac",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/61LoKFsOnVL._AC_UL300_SR300,200_.jpg",
+      "price": "127,95 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CGVZDLDP?tag=enkairito-21",
+      "first_seen": "2026-09-19T12:32:04.828048+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Xbox"
+    },
+    {
       "asin": "B01M5FMXHZ",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -960,7 +960,7 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Xbox One - Consola Básica",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51Rklu+xMCL._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51Rklu+xMCL._AC_UL600_SR600,400_.jpg",
       "price": "140,00 €",
       "original_price": null,
       "status": "compra_directa",
@@ -1302,7 +1302,7 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Sega Megadrive Collection",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71vtkhTsgkL._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71vtkhTsgkL._AC_UL600_SR600,400_.jpg",
       "price": "28,85 €",
       "original_price": null,
       "status": "compra_directa",
@@ -1590,7 +1590,7 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Resident Evil 4 (Remake)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71pMzUuUa2L._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71pMzUuUa2L._AC_UL600_SR600,400_.jpg",
       "price": "27,61 €",
       "original_price": null,
       "status": "compra_directa",
@@ -1892,78 +1892,6 @@
       "game": "Xbox"
     },
     {
-      "asin": "B0829M81QT",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Doom Slayers Collection - Xbox One",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/81fmav5wDRL._AC_UL300_SR300,200_.jpg",
-      "price": "29,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0829M81QT?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:11.204395+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
-      "asin": "B00ITGZCK0",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Batman Arkham Knight",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/61h0AAVOnHL._AC_UL300_SR300,200_.jpg",
-      "price": "18,00 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B00ITGZCK0?tag=enkairito-21",
-      "first_seen": "2026-09-17T12:31:47.548802+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
-      "asin": "B01MUEDGG9",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "The Surge - Xbox One [Edición: Francia]",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/81jSqFBPMIL._AC_UL300_SR300,200_.jpg",
-      "price": "19,95 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B01MUEDGG9?tag=enkairito-21",
-      "first_seen": "2026-09-17T12:31:47.548825+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
-      "asin": "B087VDG2PB",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Assassin’s Creed Valhalla - Ultimate Edition [Xbox One, Xbox Series X] [Importación alemana]",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/81d2CtQlhsL._AC_UL300_SR300,200_.jpg",
-      "price": "51,09 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B087VDG2PB?tag=enkairito-21",
-      "first_seen": "2026-09-17T12:31:47.548814+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
       "asin": "B07CGNDZR3",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -1982,30 +1910,12 @@
       "game": "Xbox"
     },
     {
-      "asin": "B0CGVZDLDP",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "WD_BLACK P10 2TB Game Drive HDD portátil, USB 3.2 Gen 1, hasta 130 MB/s, Type-A compatible con Playstation, Xbox, PC y Mac",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61LoKFsOnVL._AC_UL600_SR600,400_.jpg",
-      "price": "127,95 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0CGVZDLDP?tag=enkairito-21",
-      "first_seen": "2026-09-19T12:32:04.828048+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
       "asin": "B07S9DR8QG",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Logitech G703 Lightspeed Ratón Gaming Inalámbrico | Ratón gaming HERO 25K, 25,600 DPI, pesos ajustables, 6 botones programables, memoria, POWERPLAY, PC/Mac - Negro",
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/5138fK1qKuL._AC_UL600_SR600,400_.jpg",
-      "price": "92,34 €",
+      "price": "97,75 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -2065,96 +1975,6 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B09C939ZV9?tag=enkairito-21",
       "first_seen": "2026-09-16T10:34:33.318854+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
-      "asin": "B08PSVXJ29",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Mcbazel Kit 13 en 1 con Palancas de Metal para Xbox Elite Series 2, Kit de Reemplazo con Botones Magnéticos, 6 Palancas Magnéticas, 4 Paletas Traseras y 2 D-Pads para Xbox Elite Series 2, Negro",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/611--JEFexL._AC_UL300_SR300,200_.jpg",
-      "price": "19,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B08PSVXJ29?tag=enkairito-21",
-      "first_seen": "2026-09-17T08:32:35.496011+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
-      "asin": "B0BHTPP71M",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Turtle Beach Maneta de simulación universal VelocityOne Flightstick para Xbox Series X|S y Xbox One | PC Windows 10/11",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/51gZsACXSlL._AC_UL300_SR300,200_.jpg",
-      "price": "119,00 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0BHTPP71M?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:25:04.811596+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
-      "asin": "B09JM8SX8G",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Turtle Beach VelocityOne Flight, el sistema de control universal para Xbox Series X|S y Xbox One | PC con Windows 10/11",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/61+rMd39LOL._AC_UL300_SR300,200_.jpg",
-      "price": "330,00 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B09JM8SX8G?tag=enkairito-21",
-      "first_seen": "2026-09-13T06:22:40.824880+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
-      "asin": "B082YRCL4T",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "SteelSeries Apex 3 - Teclado Gaming - Iluminación RGB de 10 zonas - Resistencia al agua IP32 - Reposamuñecas magnético superior - Teclado QWERTY Español",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/61nBW1Uwq6L._AC_UL300_SR300,200_.jpg",
-      "price": "59,95 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B082YRCL4T?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.256560+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
-      "asin": "B0DFTPH8JK",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Next Level Racing Wheel Stand Lite 2.0",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/614JUJDi76L._AC_UL300_SR300,200_.jpg",
-      "price": "150,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0DFTPH8JK?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.257377+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
