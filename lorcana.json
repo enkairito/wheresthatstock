@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-09-20T06:16:01.495036+00:00",
+  "updated_at": "2026-09-20T12:16:13.632623+00:00",
   "products": [
+    {
+      "asin": "B0GWDXZ12H",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Ravensburger Disney Lorcana - Juego de cartas coleccionables para adultos y niños a partir de 8 años - Set 12: Wilds Unknown - Deck para 2 jugadores",
+      "image": "https://m.media-amazon.com/images/I/7141S2B-z-L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "38,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "2",
+      "link": "https://www.amazon.es/dp/B0GWDXZ12H?tag=enkairito-21",
+      "first_seen": "2026-09-07T17:41:04.537441+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Mazo Inicial"
+      ],
+      "game": "Lorcana"
+    },
     {
       "asin": "B0DDL55ND5",
       "store_label": "Amazon ES",
@@ -16,24 +34,6 @@
       "marketplace": "ES",
       "categories": [
         "Otros"
-      ],
-      "game": "Lorcana"
-    },
-    {
-      "asin": "B0GWDXZ12H",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Ravensburger Disney Lorcana - Juego de cartas coleccionables para adultos y niños a partir de 8 años - Set 12: Wilds Unknown - Deck para 2 jugadores",
-      "image": "https://m.media-amazon.com/images/I/7141S2B-z-L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "37,15 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "1",
-      "link": "https://www.amazon.es/dp/B0GWDXZ12H?tag=enkairito-21",
-      "first_seen": "2026-09-07T17:41:04.537441+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Mazo Inicial"
       ],
       "game": "Lorcana"
     },
@@ -133,7 +133,7 @@
       "flag": "🇪🇸",
       "name": "Disney Lorcana Disney Lorcana TCG - Ursula's Return Ill",
       "image": "https://m.media-amazon.com/images/I/71cWdtoI0yL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "55,13 €",
+      "price": "56,45 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -146,17 +146,35 @@
       "game": "Lorcana"
     },
     {
-      "asin": "B0H8S9YZQH",
+      "asin": "B0DDPH3JQB",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Disney Lorcana TCG: Ataque de la zarcilla! - Cofre del Tesoro de Luminari (Español)",
-      "image": "https://m.media-amazon.com/images/I/61JTND0Df-L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "77,80 €",
+      "name": "Disney Lorcana Trading Card Game: Archazias Isla – Booster Display con 24 Booster Packs (en inglés)",
+      "image": "https://m.media-amazon.com/images/I/71ND1QEJLKL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "163,70 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "1",
+      "link": "https://www.amazon.es/dp/B0DDPH3JQB?tag=enkairito-21",
+      "first_seen": "2026-09-08T11:29:17.563714+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Caja de Sobres"
+      ],
+      "game": "Lorcana"
+    },
+    {
+      "asin": "B0DDL8HJ2M",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Ravensburger - Disney Lorcana TCG: Set 7 Bella Y Bestia | Juegos De Cartas Adultos Y Niños con 60 Cartas Disney Lorcana | Juegos Niños 8 Años O Más Coleccionables | Regalos Originales",
+      "image": "https://m.media-amazon.com/images/I/81lahqUD+LL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "19,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0H8S9YZQH?tag=enkairito-21",
-      "first_seen": "2026-09-07T17:42:06.427643+00:00",
+      "link": "https://www.amazon.es/dp/B0DDL8HJ2M?tag=enkairito-21",
+      "first_seen": "2026-09-07T17:42:20.342685+00:00",
       "marketplace": "ES",
       "categories": [
         "Otros"
@@ -182,24 +200,6 @@
       "game": "Lorcana"
     },
     {
-      "asin": "B0DDL8HJ2M",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Ravensburger - Disney Lorcana TCG: Set 7 Bella Y Bestia | Juegos De Cartas Adultos Y Niños con 60 Cartas Disney Lorcana | Juegos Niños 8 Años O Más Coleccionables | Regalos Originales",
-      "image": "https://m.media-amazon.com/images/I/81lahqUD+LL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "19,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0DDL8HJ2M?tag=enkairito-21",
-      "first_seen": "2026-09-07T17:42:20.342685+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Otros"
-      ],
-      "game": "Lorcana"
-    },
-    {
       "asin": "B0DJT1G86G",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -218,20 +218,20 @@
       "game": "Lorcana"
     },
     {
-      "asin": "B0DDPH3JQB",
+      "asin": "B0H8S9YZQH",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Disney Lorcana Trading Card Game: Archazias Isla – Booster Display con 24 Booster Packs (en inglés)",
-      "image": "https://m.media-amazon.com/images/I/71ND1QEJLKL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "164,77 €",
+      "name": "Disney Lorcana TCG: Ataque de la zarcilla! - Cofre del Tesoro de Luminari (Español)",
+      "image": "https://m.media-amazon.com/images/I/61JTND0Df-L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "62,48 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0DDPH3JQB?tag=enkairito-21",
-      "first_seen": "2026-09-08T11:29:17.563714+00:00",
+      "stock": "1",
+      "link": "https://www.amazon.es/dp/B0H8S9YZQH?tag=enkairito-21",
+      "first_seen": "2026-09-07T17:42:06.427643+00:00",
       "marketplace": "ES",
       "categories": [
-        "Caja de Sobres"
+        "Otros"
       ],
       "game": "Lorcana"
     },
@@ -290,24 +290,6 @@
       "game": "Lorcana"
     },
     {
-      "asin": "B0CFRF14WF",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Disney Lorcana Trading Card Game: Set 4 – Booster Display con 24 Booster Packs (en inglés)",
-      "image": "https://m.media-amazon.com/images/I/71MgY-zSoYL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "154,14 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "1",
-      "link": "https://www.amazon.es/dp/B0CFRF14WF?tag=enkairito-21",
-      "first_seen": "2026-09-13T00:16:55.094290+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Caja de Sobres"
-      ],
-      "game": "Lorcana"
-    },
-    {
       "asin": "B0FG2KSD7Q",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -319,24 +301,6 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B0FG2KSD7Q?tag=enkairito-21",
       "first_seen": "2026-09-16T00:17:03.235143+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Otros"
-      ],
-      "game": "Lorcana"
-    },
-    {
-      "asin": "B0GHPRLZ7B",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Ravensburger Disney Lorcana TCG: Collection Starter Set - Edición Stitch - Incluye 4 paquetes de refuerzo Winterspell, cartera de cartas Rock Star y promoción de papel brillante - Guía del",
-      "image": "https://m.media-amazon.com/images/I/61rzqQTJs0L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "75,83 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "4",
-      "link": "https://www.amazon.es/dp/B0GHPRLZ7B?tag=enkairito-21",
-      "first_seen": "2026-09-11T00:16:46.734698+00:00",
       "marketplace": "ES",
       "categories": [
         "Otros"
@@ -362,20 +326,20 @@
       "game": "Lorcana"
     },
     {
-      "asin": "B0DDPHFTTC",
+      "asin": "B0CFRF14WF",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Ravensburger - Disney Lorcana TCG: Reign of Jafar | Juegos De Cartas Adultos Y Niños con 60 Cartas Disney Lorcana | Juegos Niños 8 Años O Más Coleccionables | Regalos Originales",
-      "image": "https://m.media-amazon.com/images/I/71ESN+XhihL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "19,99 €",
+      "name": "Disney Lorcana Trading Card Game: Set 4 – Booster Display con 24 Booster Packs (en inglés)",
+      "image": "https://m.media-amazon.com/images/I/71MgY-zSoYL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "154,14 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0DDPHFTTC?tag=enkairito-21",
-      "first_seen": "2026-09-11T00:17:04.220666+00:00",
+      "stock": "1",
+      "link": "https://www.amazon.es/dp/B0CFRF14WF?tag=enkairito-21",
+      "first_seen": "2026-09-13T00:16:55.094290+00:00",
       "marketplace": "ES",
       "categories": [
-        "Otros"
+        "Caja de Sobres"
       ],
       "game": "Lorcana"
     },
@@ -398,17 +362,35 @@
       "game": "Lorcana"
     },
     {
-      "asin": "B0DK5WC19T",
+      "asin": "B0DDPHFTTC",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Disney Lorcana Trading Card Game: Azurite Sea - Stitch Collector's Gift Set (Inglés)",
-      "image": "https://m.media-amazon.com/images/I/71+bI0nqBPL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "49,95 €",
+      "name": "Ravensburger - Disney Lorcana TCG: Reign of Jafar | Juegos De Cartas Adultos Y Niños con 60 Cartas Disney Lorcana | Juegos Niños 8 Años O Más Coleccionables | Regalos Originales",
+      "image": "https://m.media-amazon.com/images/I/71ESN+XhihL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "19,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0DK5WC19T?tag=enkairito-21",
-      "first_seen": "2026-09-07T17:42:00.568645+00:00",
+      "link": "https://www.amazon.es/dp/B0DDPHFTTC?tag=enkairito-21",
+      "first_seen": "2026-09-11T00:17:04.220666+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Otros"
+      ],
+      "game": "Lorcana"
+    },
+    {
+      "asin": "B0DJPCLFW4",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Ravensburger - Disney Lorcana Caja para Mazo de Winnie The Pooh, Juego de Mesa, Juego de Cartas, Juego de Estrategia, Juego Niños 8 Años o Más, Regalos Niños 8 Años, Accesorios",
+      "image": "https://m.media-amazon.com/images/I/716cstTigwL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "9,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DJPCLFW4?tag=enkairito-21",
+      "first_seen": "2026-09-07T17:42:56.094636+00:00",
       "marketplace": "ES",
       "categories": [
         "Otros"

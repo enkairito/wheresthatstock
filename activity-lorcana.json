@@ -1424,5 +1424,51 @@
     "prev_price": "125,54 €",
     "_src": "lorcana.json",
     "id": "ES-B0GHPRLZ7B:2026-09-19T12:16:40.122858+00:00:restock"
+  },
+  {
+    "asin": "B0H8S9YZQH",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Disney Lorcana TCG: Ataque de la zarcilla! - Cofre del Tesoro de Luminari (Español)",
+    "image": "https://m.media-amazon.com/images/I/61JTND0Df-L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "62,48 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": "1",
+    "link": "https://www.amazon.es/dp/B0H8S9YZQH?tag=enkairito-21",
+    "first_seen": "2026-09-07T17:42:06.427643+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Lorcana",
+    "ts": "2026-09-20T12:16:13.632623+00:00",
+    "type": "price_drop",
+    "prev_price": "77,80 €",
+    "_src": "lorcana.json",
+    "id": "ES-B0H8S9YZQH:2026-09-20T12:16:13.632623+00:00:price_drop"
+  },
+  {
+    "asin": "B0DJPCLFW4",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Ravensburger - Disney Lorcana Caja para Mazo de Winnie The Pooh, Juego de Mesa, Juego de Cartas, Juego de Estrategia, Juego Niños 8 Años o Más, Regalos Niños 8 Años, Accesorios",
+    "image": "https://m.media-amazon.com/images/I/716cstTigwL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "9,99 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0DJPCLFW4?tag=enkairito-21",
+    "first_seen": "2026-09-07T17:42:56.094636+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Lorcana",
+    "ts": "2026-09-20T12:16:13.632623+00:00",
+    "type": "restock",
+    "prev_price": "9,99 €",
+    "_src": "lorcana.json",
+    "id": "ES-B0DJPCLFW4:2026-09-20T12:16:13.632623+00:00:restock"
   }
 ]
