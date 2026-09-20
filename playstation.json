@@ -1,18 +1,36 @@
 {
-  "updated_at": "2026-09-20T12:31:34.026262+00:00",
+  "updated_at": "2026-09-20T14:31:41.683764+00:00",
   "products": [
     {
-      "asin": "B0H7KH6117",
+      "asin": "B0FN7ZG39D",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "EA SPORTS FC™ 27 - Edición Estándar PlayStation 5| Disco fisico | Videojuegos | Castellano",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81vNgxfUZJL._AC_UL600_SR600,400_.jpg",
-      "price": "69,90 €",
+      "name": "Playstation Consola 5 Digital Chassis E",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61h7VjYt-fL._AC_UL600_SR600,400_.jpg",
+      "price": "599,00 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0H7KH6117?tag=enkairito-21",
-      "first_seen": "2026-09-16T02:36:01.860184+00:00",
+      "link": "https://www.amazon.es/dp/B0FN7ZG39D?tag=enkairito-21",
+      "first_seen": "2026-09-20T14:31:41.680065+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Consola"
+      ],
+      "game": "PlayStation"
+    },
+    {
+      "asin": "B0HF55Q11W",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "PlayStation®5 Edición Digital: pack Ed. Limitada Marvel: Lobezno Amarillo de Combate",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71xzFIFEZtL._AC_UL600_SR600,400_.jpg",
+      "price": "729,91 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0HF55Q11W?tag=enkairito-21",
+      "first_seen": "2026-09-16T04:35:55.955905+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -20,17 +38,17 @@
       "game": "PlayStation"
     },
     {
-      "asin": "B0H3W4B63R",
+      "asin": "B073435BMR",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "PlayStation 5-MARVEL: Lobezno - Edición Estándar",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/810eqwtv3wL._AC_UL600_SR600,400_.jpg",
-      "price": "68,99 €",
+      "name": "Alien: Isolation",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61HEPMHDQWL._AC_UL600_SR600,400_.jpg",
+      "price": "23,81 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0H3W4B63R?tag=enkairito-21",
-      "first_seen": "2026-09-14T18:20:43.859408+00:00",
+      "link": "https://www.amazon.es/dp/B073435BMR?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:37.497802+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -38,17 +56,17 @@
       "game": "PlayStation"
     },
     {
-      "asin": "B0GZH9BJYD",
+      "asin": "B0GTMR7YVX",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Grand Theft Auto VI - PlayStation 5 (Código de descarga)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81Sd2IhEG-L._AC_UL600_SR600,400_.jpg",
-      "price": "79,90 €",
+      "name": "Next Level Racing Flight Simulator Seat 2.0 (NLR-S045)",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61H6yi-lKfL._AC_UL600_SR600,400_.jpg",
+      "price": "399,00 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0GZH9BJYD?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:36:52.714063+00:00",
+      "link": "https://www.amazon.es/dp/B0GTMR7YVX?tag=enkairito-21",
+      "first_seen": "2026-09-18T12:32:05.432699+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -56,17 +74,53 @@
       "game": "PlayStation"
     },
     {
-      "asin": "B0GNKSKQM6",
+      "asin": "B08H98GVK8",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Silent Hill Townfall - Day One Edition - PS5",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/814ekxwZVoL._AC_UL600_SR600,400_.jpg",
-      "price": "42,90 €",
+      "name": "Playstation 5 Digital Consola",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/41JXcfuNhwL._AC_UL600_SR600,400_.jpg",
+      "price": "589,00 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0GNKSKQM6?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:37.498167+00:00",
+      "link": "https://www.amazon.es/dp/B08H98GVK8?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:03.616761+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Consola"
+      ],
+      "game": "PlayStation"
+    },
+    {
+      "asin": "B0CL5HJNLM",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "PlayStation Unidad de Disco para Consolas PS5 Digital Edition (Delgada)",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/41Z3js9aNtL._AC_UL600_SR600,400_.jpg",
+      "price": "115,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CL5HJNLM?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:37.497857+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Consola"
+      ],
+      "game": "PlayStation"
+    },
+    {
+      "asin": "B0DFMCFVLS",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "The Spectrum",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/716Zh4ZgP+L._AC_UL600_SR600,400_.jpg",
+      "price": "127,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DFMCFVLS?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:37.497942+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -74,17 +128,17 @@
       "game": "PlayStation"
     },
     {
-      "asin": "B0H46FCQN3",
+      "asin": "B0C6YL35FL",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Onimusha Way of the Sword",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81Mda7ei-NL._AC_UL600_SR600,400_.jpg",
-      "price": "69,90 €",
+      "name": "Nacon Revolution 5 Pro",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61GPyOjgwVL._AC_UL600_SR600,400_.jpg",
+      "price": "179,00 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0H46FCQN3?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:37.498135+00:00",
+      "link": "https://www.amazon.es/dp/B0C6YL35FL?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:37.497895+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -92,17 +146,35 @@
       "game": "PlayStation"
     },
     {
-      "asin": "B0GSBT3SDJ",
+      "asin": "B0CRYXTL82",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Trails in the Sky 2nd Chapter - PS5",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81nSdqRRUUL._AC_UL600_SR600,400_.jpg",
-      "price": "54,90 €",
+      "name": "Retro Games THE400 Mini Consola Retro",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/615B1qv76sL._AC_UL600_SR600,400_.jpg",
+      "price": "69,40 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0GSBT3SDJ?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:37.498232+00:00",
+      "link": "https://www.amazon.es/dp/B0CRYXTL82?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:37.498034+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Consola"
+      ],
+      "game": "PlayStation"
+    },
+    {
+      "asin": "B0CQPMYTVM",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "SONY PS5 with Blu-Ray 1TB SSD D-Chassis Slim EU",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51Q3MtJEJ0L._AC_UL600_SR600,400_.jpg",
+      "price": "789,00 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CQPMYTVM?tag=enkairito-21",
+      "first_seen": "2026-09-13T18:20:21.671515+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -110,17 +182,17 @@
       "game": "PlayStation"
     },
     {
-      "asin": "B0H3W5V1TN",
+      "asin": "B0C56Z5MX1",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "CONTROL Resonant - PS5 (Exclusiva Amazon)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71sJ71bbNyL._AC_UL600_SR600,400_.jpg",
-      "price": "59,99 €",
+      "name": "Arcade1Up Infinity Game Board",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81egsPxja9L._AC_UL600_SR600,400_.jpg",
+      "price": "699,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0H3W5V1TN?tag=enkairito-21",
-      "first_seen": "2026-09-15T20:34:33.327891+00:00",
+      "link": "https://www.amazon.es/dp/B0C56Z5MX1?tag=enkairito-21",
+      "first_seen": "2026-09-18T12:32:05.432750+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -128,17 +200,17 @@
       "game": "PlayStation"
     },
     {
-      "asin": "B0FGK5M2BS",
+      "asin": "B0BRQCBK2W",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "EA SPORTS FC 26 Standard Edition PS5 | Disco | Videojuegos | English audio, Spanish subtitles",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81WSUY9gyHL._AC_UL600_SR600,400_.jpg",
-      "price": "19,90 €",
+      "name": "Console Sony PlayStation 5 Édition Standard Blanche",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/41U47EEPK+L._AC_UL600_SR600,400_.jpg",
+      "price": "589,00 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0FGK5M2BS?tag=enkairito-21",
-      "first_seen": "2026-09-13T00:24:23.874092+00:00",
+      "link": "https://www.amazon.es/dp/B0BRQCBK2W?tag=enkairito-21",
+      "first_seen": "2026-09-16T10:36:52.312504+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -146,17 +218,53 @@
       "game": "PlayStation"
     },
     {
-      "asin": "B0GYTZX1TW",
+      "asin": "B0B3RX636B",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "The Blood Of Dawnwalker Day 1 Edition",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51BCue1D+IL._AC_UL600_SR600,400_.jpg",
-      "price": "64,99 €",
+      "name": "RongZy para PS5 3Pcs Tornillo de Base de Consola de Juegos para PlayStation 5 PS5 Reparación de Tornillos de Inferior Accesorios",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61ygookV36L._AC_UL600_SR600,400_.jpg",
+      "price": "5,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0GYTZX1TW?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:37.498146+00:00",
+      "link": "https://www.amazon.es/dp/B0B3RX636B?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:37.497841+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Consola"
+      ],
+      "game": "PlayStation"
+    },
+    {
+      "asin": "B0FS1ZYDRW",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Sony Consola PlayStation5 STD Bundle EA FC26",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71+hognL65L._AC_UL600_SR600,400_.jpg",
+      "price": "759,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FS1ZYDRW?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:37.498022+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Consola"
+      ],
+      "game": "PlayStation"
+    },
+    {
+      "asin": "B07S55VN6Q",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Alien: Isolation",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71ZOUhddD9L._AC_UL600_SR600,400_.jpg",
+      "price": "26,53 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B07S55VN6Q?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:37.497931+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -164,17 +272,17 @@
       "game": "PlayStation"
     },
     {
-      "asin": "B0D362WFCC",
+      "asin": "B0B3X2N4PR",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Assassin's Creed Shadows Limited Edition (Exclusivo para Amazon.es) (PS5)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81FpupXxD6L._AC_UL600_SR600,400_.jpg",
-      "price": "34,99 €",
+      "name": "Videogioco Sony Interactive The Last Of Us Part 1",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81Ui0CeByPL._AC_UL600_SR600,400_.jpg",
+      "price": "54,81 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0D362WFCC?tag=enkairito-21",
-      "first_seen": "2026-09-12T12:27:13.469238+00:00",
+      "link": "https://www.amazon.es/dp/B0B3X2N4PR?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:37.497920+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -182,17 +290,17 @@
       "game": "PlayStation"
     },
     {
-      "asin": "B0HHP1SZ6S",
+      "asin": "B08TJQY9JD",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Final Fantasy VII Revelation",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81aCQwaGeIL._AC_UL600_SR600,400_.jpg",
-      "price": "81,99 €",
+      "name": "Playstation Gran Turismo 7 | Standard Edition [Playstation 4]",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/818gNzcTz9L._AC_UL600_SR600,400_.jpg",
+      "price": "35,85 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0HHP1SZ6S?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:37.498178+00:00",
+      "link": "https://www.amazon.es/dp/B08TJQY9JD?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:37.498055+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -200,17 +308,53 @@
       "game": "PlayStation"
     },
     {
-      "asin": "B0HJ2FHFY6",
+      "asin": "B08H93ZRK9",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "PlayStation 5-Until Dawn 2 - Edición Estándar",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71WivR4cgXL._AC_UL600_SR600,400_.jpg",
-      "price": "49,99 €",
+      "name": "Consola PlayStation 5",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/61CELS-zAZL._AC_UL300_SR300,200_.jpg",
+      "price": "669,00 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0HJ2FHFY6?tag=enkairito-21",
-      "first_seen": "2026-09-13T12:22:28.699801+00:00",
+      "link": "https://www.amazon.es/dp/B08H93ZRK9?tag=enkairito-21",
+      "first_seen": "2026-09-13T00:24:23.390556+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Consola"
+      ],
+      "game": "PlayStation"
+    },
+    {
+      "asin": "B08KJF2D25",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Playstation 5 Digital Consola",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/5183aMmrVdL._AC_UL300_SR300,200_.jpg",
+      "price": "590,00 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B08KJF2D25?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:03.616767+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Consola"
+      ],
+      "game": "PlayStation"
+    },
+    {
+      "asin": "B084CJ2FPD",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Warborn",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/61XaICTvdQL._AC_UL300_SR300,200_.jpg",
+      "price": "13,52 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B084CJ2FPD?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:37.497964+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -218,17 +362,17 @@
       "game": "PlayStation"
     },
     {
-      "asin": "B0GNKDHNFH",
+      "asin": "B00FB5K3UG",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Castlevania: Belmont's Curse-Midnight Edition - PS5",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/91lLANfW-BL._AC_UL600_SR600,400_.jpg",
-      "price": "34,90 €",
+      "name": "Sonic and Sega All-Stars Racing Essentials (PlayStation 3) [Importación inglesa]",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/610DVMkDHCL._AC_UL300_SR300,200_.jpg",
+      "price": "22,36 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0GNKDHNFH?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:37.498443+00:00",
+      "link": "https://www.amazon.es/dp/B00FB5K3UG?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:37.498065+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -236,17 +380,17 @@
       "game": "PlayStation"
     },
     {
-      "asin": "B0DCPB9J7K",
+      "asin": "B09CLRJS83",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Minecraft - PS5",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81eXDWE6nIL._AC_UL600_SR600,400_.jpg",
-      "price": "26,99 €",
+      "name": "NIS America The Legend of Heroes: Trails to Azure Edición Deluxe (Nintendo Switch)",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71-LNNIZ5WL._AC_UL300_SR300,200_.jpg",
+      "price": "57,92 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0DCPB9J7K?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:04.018892+00:00",
+      "link": "https://www.amazon.es/dp/B09CLRJS83?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:37.497984+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -254,17 +398,35 @@
       "game": "PlayStation"
     },
     {
-      "asin": "B0GNKRMWMS",
+      "asin": "B09ZM9RV4F",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Metal Gear Solid: Master Collection Volume 2 – Day One Edition - PS5",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81-GGeMn-UL._AC_UL600_SR600,400_.jpg",
-      "price": "42,99 €",
+      "name": "Playtation 5 Digital Edition PS.5 Consola (Disco*Free)- U Deal",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/61X4y2tpRzL._AC_UL300_SR300,200_.jpg",
+      "price": "589,00 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0GNKRMWMS?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:04.018871+00:00",
+      "link": "https://www.amazon.es/dp/B09ZM9RV4F?tag=enkairito-21",
+      "first_seen": "2026-09-16T20:35:25.732737+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Consola"
+      ],
+      "game": "PlayStation"
+    },
+    {
+      "asin": "B0CJYK3MQ9",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Minecraft réplique Illuminating Potion Bottle 16 cm",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71+S437af6L._AC_UL300_SR300,200_.jpg",
+      "price": "29,45 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CJYK3MQ9?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:37.498076+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -272,395 +434,17 @@
       "game": "PlayStation"
     },
     {
-      "asin": "B0CD79TKSR",
+      "asin": "B0CK4K7FMX",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Nacon - Robocop: Rogue City para PS5 [Versión Subtitulada Española]",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71DfXgVOBuL._AC_UL600_SR600,400_.jpg",
-      "price": "23,80 €",
+      "name": "Rebirth - Greatest Hits (Ltd. Gold 2lp)",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/711TkXLLe5L._AC_UL300_SR300,200_.jpg",
+      "price": "42,97 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0CD79TKSR?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:37.498199+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B0D2RMWHRF",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Funko Fusion - PS5",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81CATEAmy2L._AC_UL600_SR600,400_.jpg",
-      "price": "9,34 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0D2RMWHRF?tag=enkairito-21",
-      "first_seen": "2026-09-18T12:32:05.432870+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B0F6D5BS17",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "PlayStation 5-Ghost of Yotei - Edición Estándar",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81xdKX5ydlL._AC_UL600_SR600,400_.jpg",
-      "price": "58,00 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F6D5BS17?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:04.018791+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B0DKFCHCYZ",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Black Myth: Wukong - PS5",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81GSUXYIJOL._AC_UL600_SR600,400_.jpg",
-      "price": "55,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0DKFCHCYZ?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:37.498377+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B0FT8FBMK5",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Code Vein II",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81zq3zG6IlL._AC_UL600_SR600,400_.jpg",
-      "price": "38,30 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FT8FBMK5?tag=enkairito-21",
-      "first_seen": "2026-09-18T12:32:05.432903+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B0DLGNT4V3",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Clair Obscur: Expedition 33",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81CFbkwsURL._AC_UL600_SR600,400_.jpg",
-      "price": "39,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0DLGNT4V3?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:37.498274+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B0GSW8D7HP",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Resonance : A Plague Tale Legacy - PS5",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71pFCw9oK2L._AC_UL600_SR600,400_.jpg",
-      "price": "52,90 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0GSW8D7HP?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:37.498347+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B0FPMMTJZM",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "007 First Light Specialist Edition - PS",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51oPWIo2+iL._AC_UL600_SR600,400_.jpg",
-      "price": "66,05 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FPMMTJZM?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:37.498367+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B0C74PQ6TX",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "The Crew Motorfest Limited Edition (Exclusivo Amazon) (PS5)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/810n5fmlOrL._AC_UL600_SR600,400_.jpg",
-      "price": "19,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0C74PQ6TX?tag=enkairito-21",
-      "first_seen": "2026-09-13T18:20:21.671621+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B08Y736B8X",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Final Fantasy VII Remake Intergrade",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81W8CAno24L._AC_UL600_SR600,400_.jpg",
-      "price": "19,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B08Y736B8X?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:37.498357+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B09GSQGJ2F",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Playstation Gran Turismo 7 [PS5]",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81b7pJqCp8L._AC_UL600_SR600,400_.jpg",
-      "price": "46,29 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B09GSQGJ2F?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:37.498253+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B0CXDN5TLH",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Unknown 9: Awakening",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71a7VQO1rdL._AC_UL600_SR600,400_.jpg",
-      "price": "14,54 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0CXDN5TLH?tag=enkairito-21",
-      "first_seen": "2026-09-20T12:31:34.022582+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B0981BKNCG",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Wrc 10. World Rally Championship 10. The Official Game - Versión Española (Ps5)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81kJiGEmV1S._AC_UL600_SR600,400_.jpg",
-      "price": "11,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0981BKNCG?tag=enkairito-21",
-      "first_seen": "2026-09-17T14:07:17.566224+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B0F24Y88V1",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "F1 25 Standard Edition PS5 | Disco | Videojuegos | Castellano",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81Ck5Ckkh+L._AC_UL600_SR600,400_.jpg",
-      "price": "31,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F24Y88V1?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:37.498211+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B0DHZW9R6Z",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Monster Hunter Wilds Standard Edition - PS5",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/91BecbNxb2L._AC_UL300_SR300,200_.jpg",
-      "price": "22,90 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0DHZW9R6Z?tag=enkairito-21",
-      "first_seen": "2026-09-17T14:07:17.566254+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B0FJ8ZJLJR",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Ubisoft Tom Clancy's Rainbow Six Siege X - Elite Edition (PS5)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/81kjm-W8jUL._AC_UL300_SR300,200_.jpg",
-      "price": "8,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FJ8ZJLJR?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:37.498222+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B0H3CCM6SL",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "STAR WARS Zero Company Standard Edition PlayStation 5 | Disco | Videojuegos | Idioma: Multilingüe",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/81lgG9JsjLL._AC_UL300_SR300,200_.jpg",
-      "price": "49,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0H3CCM6SL?tag=enkairito-21",
-      "first_seen": "2026-09-16T16:33:57.520021+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B09QQT2NWG",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Elden Ring – Standard Edition",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/717FrMQ1CzL._AC_UL300_SR300,200_.jpg",
-      "price": "29,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B09QQT2NWG?tag=enkairito-21",
-      "first_seen": "2026-09-17T14:07:17.566239+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B0CV82ZG6Z",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Resident Evil 4 Gold Edition",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/61-cwe76icL._AC_UL300_SR300,200_.jpg",
-      "price": "29,90 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0CV82ZG6Z?tag=enkairito-21",
-      "first_seen": "2026-09-17T14:07:17.566136+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B0DZHZTBK2",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Under Defeat PS5",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/81Wx-iccHIL._AC_UL300_SR300,200_.jpg",
-      "price": "48,09 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0DZHZTBK2?tag=enkairito-21",
-      "first_seen": "2026-09-20T12:31:34.022651+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B0FM8KMW5D",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Snoopy & The Great Mystery Club (PlayStation 5)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/81X5BZeV08L._AC_UL300_SR300,200_.jpg",
-      "price": "34,93 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FM8KMW5D?tag=enkairito-21",
-      "first_seen": "2026-09-20T12:31:34.022667+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B09H7V5WM2",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Kena: Bridge of Spirits - Deluxe Edition",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/81yQDjaUamL._AC_UL300_SR300,200_.jpg",
-      "price": "19,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B09H7V5WM2?tag=enkairito-21",
-      "first_seen": "2026-09-20T04:31:50.447844+00:00",
+      "link": "https://www.amazon.es/dp/B0CK4K7FMX?tag=enkairito-21",
+      "first_seen": "2026-09-18T06:31:41.554832+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -704,35 +488,17 @@
       "game": "PlayStation"
     },
     {
-      "asin": "B07MVF445P",
+      "asin": "B09NM9DTTC",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "PlayStation 4 (PS4) - Consola Slim 1TB Negra",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61pOltFd-BS._AC_UL600_SR600,400_.jpg",
-      "price": "175,00 €",
+      "name": "KIWIHOME Ventilador para PS5, Silencioso, Velocidad Automática, USB 3.0 | Apto para PS5 Disc/Digital sin Líneas de División en el Panel. No para PS5 Slim 2023 o Pro 2024. Blanco",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71Aw5mUX4BL._AC_UL300_SR300,200_.jpg",
+      "price": "32,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B07MVF445P?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:36:52.312514+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Consola"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B010TNVS1W",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "PlayStation 4 - Konsole (500GB, schwarz) [CUH-1216A]",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/518B9YP3Z6L._AC_UL600_SR600,400_.jpg",
-      "price": "150,90 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B010TNVS1W?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:36:52.312517+00:00",
+      "link": "https://www.amazon.es/dp/B09NM9DTTC?tag=enkairito-21",
+      "first_seen": "2026-09-17T14:31:53.613125+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -740,503 +506,17 @@
       "game": "PlayStation"
     },
     {
-      "asin": "B07HGBNWTY",
+      "asin": "B0CQD377LS",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Playstation 4 Consola versión Slim (PS4)| Capacidad 500GB | Chasis tipo F | Color negro",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51X5fQQJmcL._AC_UL600_SR600,400_.jpg",
-      "price": "499,00 €",
+      "name": "Seagate 5TB Game Drive para PlayStation | USB 3.0 (STLV5000202) | Disco duro con licencia oficial para PlayStation. Archive juegos de PS5. Juega juegos de PS4 directamente. LED azul. 3 años",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/41tWz2UuLaL._AC_UL300_SR300,200_.jpg",
+      "price": "195,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B07HGBNWTY?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:36:52.714129+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Consola"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B07HSJW7HK",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "PlayStation 4 Pro 1TB [Importación francesa]",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71GWJXGeZsL._AC_UL600_SR600,400_.jpg",
-      "price": "203,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B07HSJW7HK?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:36:52.312496+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B097B1ZJ5T",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Nintendo Game & Watch: The Legend of Zelda",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61DJLdMha3L._AC_UL600_SR600,400_.jpg",
-      "price": "74,00 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B097B1ZJ5T?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:37.498807+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B016BYTUG8",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "PlayStation 4 (PS4) - Consola Ultimate Player 1TB Edition incl. 2 DS4 [CUH-1216B] (Importación alemana)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51KDWZJgZoL._AC_UL600_SR600,400_.jpg",
-      "price": "209,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B016BYTUG8?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:36:52.312468+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Consola"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B01LQF9RDI",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "PlayStation 4 Slim (PS4) - Consola de 500 GB",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51xS123oyaL._AC_UL600_SR600,400_.jpg",
-      "price": "145,34 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B01LQF9RDI?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:36:52.312446+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Consola"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B00BE4HOIM",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Sony PlayStation 4 500GB Console (Black) [Importación inglesa]",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61ryVJLDlFL._AC_UL600_SR600,400_.jpg",
-      "price": "150,90 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B00BE4HOIM?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:36:52.312510+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B01H0CBMXO",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Electronic Arts - Titanfall 2",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81dFMnpvZpL._AC_UL600_SR600,400_.jpg",
-      "price": "24,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B01H0CBMXO?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:37.498830+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B0774QFGQ1",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Sony PS4 500GB Slim + 2 DUALSHOCK 4 (Importación Alemana)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81IEHVNmhXL._AC_UL600_SR600,400_.jpg",
-      "price": "250,00 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0774QFGQ1?tag=enkairito-21",
-      "first_seen": "2026-09-12T12:27:13.469330+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B073QRG1YR",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Sony PlayStation 4 Slim 500GB Negro Wifi - Videoconsolas (PlayStation 4, Negro, 8192 MB, GDDR5, GDDR5, AMD Jaguar)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61LEvlV7SBL._AC_UL600_SR600,400_.jpg",
-      "price": "160,00 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B073QRG1YR?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:36:52.312475+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Consola"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B07MWXG7QV",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Days Gone [Importación francesa]",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71IPd5QNQ9L._AC_UL600_SR600,400_.jpg",
-      "price": "38,95 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B07MWXG7QV?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:37.498960+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B076DHYRGP",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Sony PlayStation 4 Slim (PS4) - Consola de 500 GB",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71iKdXqlx2L._AC_UL600_SR600,400_.jpg",
-      "price": "160,00 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B076DHYRGP?tag=enkairito-21",
-      "first_seen": "2026-09-16T08:35:36.598933+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Consola"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B0BPVL84K1",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Street Fighter 6 - Juego de PS4",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81ReOqOTjoL._AC_UL600_SR600,400_.jpg",
-      "price": "28,00 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0BPVL84K1?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:37.498891+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B0777VJGZD",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Sony PlayStation 4 Pro 1TB Negro 1000 GB Wifi - Videoconsolas (Negro, 8192 MB, GDDR5, AMD Jaguar)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61cZ+Aiiz0L._AC_UL600_SR600,400_.jpg",
-      "price": "205,00 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0777VJGZD?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:36:52.312460+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Consola"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B0B47RKP8Z",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Juego Soul Hackers 2 PS4",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81h8Fk01pSL._AC_UL600_SR600,400_.jpg",
-      "price": "11,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0B47RKP8Z?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:37.499031+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B01N0RB46X",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Sony Playstation 4 PS4 PRO Konsole 1 TB (EU-Ware)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61MopOEgcpL._AC_UL600_SR600,400_.jpg",
-      "price": "210,00 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B01N0RB46X?tag=enkairito-21",
-      "first_seen": "2026-09-15T20:34:33.056472+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B09PJ4WZWC",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Far Cry 6 (PS4) (PS4)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/811z5rvnySL._AC_UL600_SR600,400_.jpg",
-      "price": "23,98 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B09PJ4WZWC?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:37.499011+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B0CM6M4YMK",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "NexiGo PS5 Slim Silent Enhanced Cooling Fan with Adjustable Speed, Auto Power On/Off, with USB 3.0 Port, Efficient Cooling System for Both PS5 Slim Disc and Digital Editions",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61OyrgYkXeL._AC_UL600_SR600,400_.jpg",
-      "price": "33,64 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0CM6M4YMK?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:37.499068+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B07HHPX4N1",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "PlayStation 4 (PS4) - Consola de 500GB Chasis F [Importación alemana]",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81kWdfvs9lL._AC_UL600_SR600,400_.jpg",
-      "price": "199,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B07HHPX4N1?tag=enkairito-21",
-      "first_seen": "2026-09-15T20:34:33.056485+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Consola"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B08PM4PWDY",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Truck Simulator - On the Road Truck (PlayStation PS4): LKW - Simulator [Blu-ray]",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/81BwC+GC8hL._AC_UL300_SR300,200_.jpg",
-      "price": "20,18 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B08PM4PWDY?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:37.499111+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B018YQBC1C",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Reemplazo Puerto HDMI Conector para Sony Playstation PS4",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/51A7R1-OlxL._AC_UL300_SR300,200_.jpg",
-      "price": "7,88 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B018YQBC1C?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:37.499049+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B07NRHS623",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "The Legend of Heroes: Trails of Cold Steel III [Importación francesa]",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/71PHDVfzA2S._AC_UL300_SR300,200_.jpg",
-      "price": "34,90 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B07NRHS623?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:37.499131+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B01HF8V7SI",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Sony PlayStation 4 (PS4) 500 GB Consola - (Reacondicionado Certificado) - Chasis C",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/71Uzb-zD1TL._AC_UL300_SR300,200_.jpg",
-      "price": "150,90 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B01HF8V7SI?tag=enkairito-21",
-      "first_seen": "2026-09-12T18:25:08.666130+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Consola"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B07KMV94JF",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Sony PS4 Slim 1TB Negro 1000 GB Wifi - Videoconsolas (PlayStation 4, Negro, 8192 MB, GDDR5, AMD Jaguar)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/518tbLHbo8L._AC_UL300_SR300,200_.jpg",
-      "price": "178,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B07KMV94JF?tag=enkairito-21",
-      "first_seen": "2026-09-12T18:25:08.666133+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Consola"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B077H1DFS6",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "PlayStation 4 Pro (PS4) - Consola, Color Negro",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/51w3D9iVS1L._AC_UL300_SR300,200_.jpg",
-      "price": "210,00 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B077H1DFS6?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:03.616734+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Consola"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B01N34V82U",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Tom Clancy's Ghost Recon: Wildlands",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/61Xdf9qEe8L._AC_UL300_SR300,200_.jpg",
-      "price": "32,73 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B01N34V82U?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:37.499167+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B08HRLKF14",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Playstation 4 Slim Console - 500GB (Nordic)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/61gLO71Zu0L._AC_UL300_SR300,200_.jpg",
-      "price": "164,90 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B08HRLKF14?tag=enkairito-21",
-      "first_seen": "2026-09-12T18:25:08.666109+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B09DB18C5F",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "World War Z: Aftermath",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/81DRdLgWr9L._AC_UL300_SR300,200_.jpg",
-      "price": "25,48 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B09DB18C5F?tag=enkairito-21",
-      "first_seen": "2026-09-17T15:58:54.214590+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B07K14XKZH",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Sony Playstation 4 Pro 1 TB [Importación Inglesa]",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/51W9a-gmcwL._AC_UL300_SR300,200_.jpg",
-      "price": "204,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B07K14XKZH?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:18:12.323191+00:00",
+      "link": "https://www.amazon.es/dp/B0CQD377LS?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:18:12.685892+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -1375,7 +655,7 @@
       "flag": "🇪🇸",
       "name": "Metro Redux Double Pack (2033 + Last Light)",
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81zWbdqnxxL._AC_UL600_SR600,400_.jpg",
-      "price": "21,71 €",
+      "price": "17,14 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -1644,7 +924,7 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Red Dead Redemption - PS4",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81txmuLLPcL._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81txmuLLPcL._AC_UL600_SR600,400_.jpg",
       "price": "37,00 €",
       "original_price": null,
       "status": "compra_directa",
@@ -1879,7 +1159,7 @@
       "flag": "🇪🇸",
       "name": "The Crew 2 - Edición Estándar",
       "image": "https://images-eu.ssl-images-amazon.com/images/I/71Yl2s3HxaL._AC_UL300_SR300,200_.jpg",
-      "price": "23,24 €",
+      "price": "23,32 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -2029,42 +1309,6 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B00V374RPI?tag=enkairito-21",
       "first_seen": "2026-09-20T12:31:34.023075+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B07CGNDZR3",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Logitech G G305 Lightspeed Ratón Gaming Inalámbrico | Captor HERO 12K, 12,000 DPI, Ultra-ligero, Batería de 250h, 6 Botones Programables, Memoría Integrada, PC/Mac - Negro",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51sg9BLSMTL._AC_UL600_SR600,400_.jpg",
-      "price": "39,85 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B07CGNDZR3?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:37.499978+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B0CQD377LS",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Seagate 5TB Game Drive para PlayStation | USB 3.0 (STLV5000202) | Disco duro con licencia oficial para PlayStation. Archive juegos de PS5. Juega juegos de PS4 directamente. LED azul. 3 años",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/41tWz2UuLaL._AC_UL300_SR300,200_.jpg",
-      "price": "195,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0CQD377LS?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:18:12.685892+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
