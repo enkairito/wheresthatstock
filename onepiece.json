@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T05:06:13.014709+00:00",
+  "updated_at": "2026-09-20T06:06:42.110830+00:00",
   "products": [
     {
       "asin": "B0F1SJY5S3",
@@ -28,7 +28,7 @@
       "price": "74,32 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "3",
+      "stock": "5",
       "link": "https://www.amazon.es/dp/B0HFD53BDB?tag=enkairito-21",
       "first_seen": "2026-09-06T00:36:37.394759+00:00",
       "marketplace": "ES",
@@ -43,7 +43,7 @@
       "flag": "🇪🇸",
       "name": "One Piece TCG: The World's Strongest Warriors Booster Box (OP-17) - 24 paquetes",
       "image": "https://m.media-amazon.com/images/I/61CWeLxq3eL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "451,00 €",
+      "price": "436,00 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -97,7 +97,7 @@
       "flag": "🇪🇸",
       "name": "One Piece TCG: Double Pack Set Vol. 10 (DP-10) - Adventure of Kami's Island (2 Paquetes)",
       "image": "https://m.media-amazon.com/images/I/6149SXXRkfL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "69,63 €",
+      "price": "69,62 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -200,6 +200,24 @@
       "game": "One Piece"
     },
     {
+      "asin": "B0HC7DT1ZY",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Juego de cartas de una pieza Starter Deck ST-36 amarillo Eustass Captain Kid",
+      "image": "https://m.media-amazon.com/images/I/61+m2OBn-EL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "29,09 €",
+      "original_price": "40,01 €",
+      "status": "compra_directa",
+      "stock": "2",
+      "link": "https://www.amazon.es/dp/B0HC7DT1ZY?tag=enkairito-21",
+      "first_seen": "2026-09-08T09:40:16.326555+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Starter Deck"
+      ],
+      "game": "One Piece"
+    },
+    {
       "asin": "B0FX1Z5SPZ",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -214,24 +232,6 @@
       "marketplace": "ES",
       "categories": [
         "Booster Box"
-      ],
-      "game": "One Piece"
-    },
-    {
-      "asin": "B0HC7DT1ZY",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Juego de cartas de una pieza Starter Deck ST-36 amarillo Eustass Captain Kid",
-      "image": "https://m.media-amazon.com/images/I/61+m2OBn-EL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "29,15 €",
-      "original_price": "40,01 €",
-      "status": "compra_directa",
-      "stock": "2",
-      "link": "https://www.amazon.es/dp/B0HC7DT1ZY?tag=enkairito-21",
-      "first_seen": "2026-09-08T09:40:16.326555+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Starter Deck"
       ],
       "game": "One Piece"
     },
