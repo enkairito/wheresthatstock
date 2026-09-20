@@ -1,28 +1,5 @@
 [
   {
-    "asin": "B0BBRZMFDD",
-    "store_label": "Amazon ES",
-    "flag": "🇪🇸",
-    "name": "Sonic Frontiers Xbox",
-    "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81SNimUYt8L._AC_UL600_SR600,400_.jpg",
-    "price": "17,93 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0BBRZMFDD?tag=enkairito-21",
-    "first_seen": "2026-09-17T00:32:42.256453+00:00",
-    "marketplace": "ES",
-    "categories": [
-      "Videojuego"
-    ],
-    "game": "Xbox",
-    "ts": "2026-09-19T12:32:04.831129+00:00",
-    "type": "restock",
-    "prev_price": "17,93 €",
-    "_src": "xbox.json",
-    "id": "ES-B0BBRZMFDD:2026-09-19T12:32:04.831129+00:00:restock"
-  },
-  {
     "asin": "B0FSD5W83N",
     "store_label": "Amazon ES",
     "flag": "🇪🇸",
@@ -4598,5 +4575,28 @@
     "prev_price": "299,99 €",
     "_src": "xbox.json",
     "id": "ES-B09JM8SX8G:2026-09-20T12:31:37.584172+00:00:restock"
+  },
+  {
+    "asin": "B0C44XVWCH",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "WD_BLACK C50 1 TB Tarjeta de expansión para Xbox (Compatible con la Serie X|S, Plug-and-Stay, Velocity Architecture, Reanudación rápida, Subscripción gratuia de 1 Mes de Xbox Game Pass) Black",
+    "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/716TJhy4GbL._AC_UL600_SR600,400_.jpg",
+    "price": "149,99 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0C44XVWCH?tag=enkairito-21",
+    "first_seen": "2026-09-12T00:28:10.760406+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Videojuego"
+    ],
+    "game": "Xbox",
+    "ts": "2026-09-20T14:31:49.363355+00:00",
+    "type": "price_drop",
+    "prev_price": "209,72 €",
+    "_src": "xbox.json",
+    "id": "ES-B0C44XVWCH:2026-09-20T14:31:49.363355+00:00:price_drop"
   }
 ]
