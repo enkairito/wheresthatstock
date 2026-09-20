@@ -1,28 +1,5 @@
 [
   {
-    "asin": "B0BF54SNKB",
-    "store_label": "Amazon ES",
-    "flag": "🇪🇸",
-    "name": "Electronic Arts It Takes Two | Nintendo Switch / Switch 2 |Videojuegos Castellano",
-    "image": "https://images-eu.ssl-images-amazon.com/images/I/71mxzUGw8kL._AC_UL300_SR300,200_.jpg",
-    "price": "35,31 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0BF54SNKB?tag=enkairito-21",
-    "first_seen": "2026-09-15T00:23:08.150021+00:00",
-    "marketplace": "ES",
-    "categories": [
-      "Videojuego"
-    ],
-    "game": "Nintendo",
-    "ts": "2026-09-18T20:31:55.385957+00:00",
-    "type": "restock",
-    "prev_price": "35,31 €",
-    "_src": "nintendo.json",
-    "id": "ES-B0BF54SNKB:2026-09-18T20:31:55.385957+00:00:restock"
-  },
-  {
     "asin": "B08Y6ZM72D",
     "store_label": "Amazon ES",
     "flag": "🇪🇸",
@@ -4598,5 +4575,28 @@
     "prev_price": "5,49 €",
     "_src": "nintendo.json",
     "id": "ES-B0BSNS7Q74:2026-09-19T22:31:58.088394+00:00:restock"
+  },
+  {
+    "asin": "B09GWPYXVH",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Kirby y la Tierra Olvidada",
+    "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81apvVCVNNL._AC_UL600_SR600,400_.jpg",
+    "price": "47,99 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B09GWPYXVH?tag=enkairito-21",
+    "first_seen": "2026-09-17T00:32:50.689127+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Videojuego"
+    ],
+    "game": "Nintendo",
+    "ts": "2026-09-20T00:31:49.788942+00:00",
+    "type": "price_drop",
+    "prev_price": "49,99 €",
+    "_src": "nintendo.json",
+    "id": "ES-B09GWPYXVH:2026-09-20T00:31:49.788942+00:00:price_drop"
   }
 ]
