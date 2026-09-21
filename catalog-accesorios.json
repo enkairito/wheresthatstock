@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T00:17:18.524881+00:00",
+  "updated_at": "2026-09-21T00:32:30.822377+00:00",
   "products": [
     {
       "asin": "B0CLRRG72H",
@@ -817,8 +817,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0BJW7XKY2",
@@ -2182,8 +2182,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0BKW3BYFR",
@@ -2203,8 +2203,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0GLJNCWZD",
@@ -2329,8 +2329,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0DGQWNTJT",
@@ -2721,15 +2721,15 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0F3DFKKY8?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:50.690017+00:00",
+      "first_seen": "2026-09-12T00:28:04.018957+00:00",
       "marketplace": "ES",
       "categories": [
-        "Nintendo"
+        "PlayStation"
       ],
-      "source": "nintendo",
+      "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:33:27.665299+00:00",
-      "checked_at": "2026-09-20T22:33:27.665299+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B09PX6GHJ7",
@@ -2749,8 +2749,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B08DLWRZ8V",
@@ -2770,8 +2770,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0DT1C2X3F",
@@ -3043,8 +3043,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0DJ2PLH9G",
@@ -3327,7 +3327,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71tkwic69UL._AC_UL600_SR600,400_.jpg",
       "price": "189,90 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0D571R8PK?tag=enkairito-21",
       "first_seen": "2026-09-12T12:27:13.469362+00:00",
@@ -3338,7 +3338,7 @@
       "source": "playstation",
       "_src": "accesorios.json",
       "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0DBV9YTBY",
@@ -3351,15 +3351,15 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0DBV9YTBY?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:50.690061+00:00",
+      "first_seen": "2026-09-12T12:27:13.469364+00:00",
       "marketplace": "ES",
       "categories": [
-        "Nintendo"
+        "PlayStation"
       ],
-      "source": "nintendo",
+      "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:33:27.665299+00:00",
-      "checked_at": "2026-09-20T22:33:27.665299+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0DK1NY4LW",
@@ -3379,8 +3379,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B07L7W4SRT",
@@ -3421,8 +3421,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0CBR9BMHY",
@@ -3442,8 +3442,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0F6LF35DP",
@@ -3610,8 +3610,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0CSFKZRGF",
@@ -3624,15 +3624,15 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0CSFKZRGF?tag=enkairito-21",
-      "first_seen": "2026-09-13T18:20:24.792746+00:00",
+      "first_seen": "2026-09-12T06:27:49.066532+00:00",
       "marketplace": "ES",
       "categories": [
-        "Nintendo"
+        "PlayStation"
       ],
-      "source": "nintendo",
+      "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:33:27.665299+00:00",
-      "checked_at": "2026-09-20T22:33:27.665299+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0F3D6RMLC",
@@ -3778,8 +3778,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B074QMN4YW",
@@ -3862,8 +3862,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B076HT7KL3",
@@ -4366,8 +4366,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B01N10NX3M",
@@ -4429,8 +4429,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0HFVP4VQS",
@@ -5143,8 +5143,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0BS1MLFML",
@@ -5164,8 +5164,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0C9YS6H22",
@@ -5332,8 +5332,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B01N0U5JYD",
@@ -5353,8 +5353,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0HFZ6QVHK",
@@ -5364,7 +5364,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/41jJ-QXz36L._AC_UL300_SR300,200_.jpg",
       "price": "14,78 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0HFZ6QVHK?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:37.500018+00:00",
@@ -5374,8 +5374,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T18:31:45.161861+00:00",
-      "checked_at": "2026-09-20T20:31:48.526949+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0C64XRWC5",
@@ -5395,8 +5395,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B07SKJCFXF",
@@ -5416,8 +5416,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B01MT2B97F",
@@ -5437,8 +5437,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0B3RZ6K8G",
@@ -5448,7 +5448,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/61p78Fn2-UL._AC_UL300_SR300,200_.jpg",
       "price": "6,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0B3RZ6K8G?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:37.500033+00:00",
@@ -5458,8 +5458,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T18:31:45.161861+00:00",
-      "checked_at": "2026-09-20T20:31:48.526949+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B09NMYBDZK",
@@ -5493,15 +5493,15 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0DHZTZ3KG?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:50.690002+00:00",
+      "first_seen": "2026-09-17T00:32:37.500044+00:00",
       "marketplace": "ES",
       "categories": [
-        "Nintendo"
+        "PlayStation"
       ],
-      "source": "nintendo",
+      "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:33:27.665299+00:00",
-      "checked_at": "2026-09-20T22:33:27.665299+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0BX722HFN",
@@ -5521,8 +5521,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B08X3HCW5Q",
@@ -5542,8 +5542,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B091KMHHFS",
@@ -5584,8 +5584,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0FPFNTD4T",
@@ -5605,8 +5605,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B09KLKJSQM",
@@ -5626,8 +5626,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B07W6J6TG5",
@@ -5647,8 +5647,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0DV5G3ZDN",
@@ -5668,8 +5668,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B08S3FMVV7",
@@ -5689,8 +5689,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0FP9KCM6N",
@@ -5710,8 +5710,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0D1KBNWHF",
@@ -5724,15 +5724,15 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0D1KBNWHF?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:50.690135+00:00",
+      "first_seen": "2026-09-17T00:32:37.500103+00:00",
       "marketplace": "ES",
       "categories": [
-        "Nintendo"
+        "PlayStation"
       ],
-      "source": "nintendo",
+      "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:33:27.665299+00:00",
-      "checked_at": "2026-09-20T22:33:27.665299+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B08T1KHHR9",
@@ -5752,8 +5752,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0H9LX1J33",
@@ -5773,8 +5773,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0C4318D9S",
@@ -5815,8 +5815,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0CR62LM1V",
@@ -5836,8 +5836,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B07X5DVM4C",
@@ -5857,8 +5857,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0FH2S4S95",
@@ -5899,8 +5899,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0GQ3QV72N",
@@ -5941,8 +5941,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B09Y54T37Y",
@@ -5994,7 +5994,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/719BSbry4wL._AC_UL600_SR600,400_.jpg",
       "price": "179,90 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B09RMB5957?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:37.500160+00:00",
@@ -6005,7 +6005,7 @@
       "source": "playstation",
       "_src": "accesorios.json",
       "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B07KBLNZB1",
@@ -6015,7 +6015,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81kWdfvs9lL._AC_UL600_SR600,400_.jpg",
       "price": "203,99 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B07KBLNZB1?tag=enkairito-21",
       "first_seen": "2026-09-16T10:36:52.312471+00:00",
@@ -6026,7 +6026,7 @@
       "source": "playstation",
       "_src": "accesorios.json",
       "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0746R8TKN",
@@ -6036,7 +6036,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81Y0-Mxgu2L._AC_UL600_SR600,400_.jpg",
       "price": "34,99 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0746R8TKN?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:37.500169+00:00",
@@ -6047,7 +6047,7 @@
       "source": "playstation",
       "_src": "accesorios.json",
       "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0FQ6YD4MX",
@@ -6081,15 +6081,15 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0CB1F69ZK?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:50.690012+00:00",
+      "first_seen": "2026-09-17T00:32:37.500185+00:00",
       "marketplace": "ES",
       "categories": [
-        "Nintendo"
+        "PlayStation"
       ],
-      "source": "nintendo",
+      "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:33:27.665299+00:00",
-      "checked_at": "2026-09-20T22:33:27.665299+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B084WLMKGT",
@@ -6109,8 +6109,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0DGTDBF46",
@@ -6130,8 +6130,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0FVLWNTF9",
@@ -6151,8 +6151,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0FNWYM43G",
@@ -6165,15 +6165,15 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0FNWYM43G?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:50.689777+00:00",
+      "first_seen": "2026-09-17T00:32:37.500198+00:00",
       "marketplace": "ES",
       "categories": [
-        "Nintendo"
+        "PlayStation"
       ],
-      "source": "nintendo",
+      "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:33:27.665299+00:00",
-      "checked_at": "2026-09-20T22:33:27.665299+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B088MSM8FD",
@@ -6193,8 +6193,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0CG17TK17",
@@ -6214,8 +6214,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0CZXX98X7",
@@ -6235,8 +6235,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B07W7LNTM5",
@@ -6256,8 +6256,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0GDXWB1ZG",
@@ -6277,8 +6277,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0BPXQ3DHG",
@@ -6298,8 +6298,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B07GS6ZS8J",
@@ -6319,8 +6319,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0CQMFKNP4",
@@ -6340,8 +6340,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B07G2D87BV",
@@ -6382,8 +6382,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0F8MJ7Q7Q",
@@ -6445,8 +6445,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0DDFYW6QV",
@@ -6466,8 +6466,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B09H6XB7SJ",
@@ -9616,8 +9616,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0DP21DKZ3",
@@ -9637,8 +9637,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0DBR7V3YR",
@@ -9700,8 +9700,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0CTQ6V17N",
@@ -9721,8 +9721,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0B6NHXMZD",
@@ -9763,8 +9763,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0FR56HB9F",
@@ -9826,8 +9826,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0FNR3MPST",
@@ -9847,8 +9847,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B075YBBQMM",
@@ -9868,8 +9868,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B07W7KFFFF",
@@ -9889,8 +9889,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0746S1Y1C",
@@ -9973,8 +9973,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0CWP19W5W",
@@ -9994,8 +9994,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B09T321955",
@@ -10372,8 +10372,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0DXVVTDJ7",
@@ -10393,8 +10393,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0GXB9QXR5",
@@ -10435,8 +10435,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0746QG2FD",
@@ -10456,8 +10456,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0D1KCF7L2",
@@ -10981,8 +10981,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0DJ1VN1LF",
@@ -11086,8 +11086,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0C5NKL1H3",
@@ -11695,8 +11695,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0GQ3JPJZH",
@@ -11716,8 +11716,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0FLXVSVBY",
@@ -11737,8 +11737,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0DPFL99LF",
@@ -11758,8 +11758,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0CLYN1SBK",
@@ -11779,8 +11779,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0C6K4N2Z3",
@@ -11800,8 +11800,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B00YXO5UKY",
@@ -11968,8 +11968,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0D5LMPBS4",
@@ -11989,8 +11989,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0FS23CJBW",
@@ -12031,8 +12031,8 @@
       ],
       "source": "playstation",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T22:32:58.655260+00:00",
-      "checked_at": "2026-09-20T22:32:58.655260+00:00"
+      "last_seen": "2026-09-21T00:32:30.822377+00:00",
+      "checked_at": "2026-09-21T00:32:30.822377+00:00"
     },
     {
       "asin": "B0F82LKMGD",
