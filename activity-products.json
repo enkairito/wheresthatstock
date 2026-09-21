@@ -1,74 +1,5 @@
 [
   {
-    "asin": "B0BNKBBYK1",
-    "store_label": "Amazon UK",
-    "flag": "🇬🇧",
-    "name": "Pokemon Card Game Scarlet & Violet Premium Trainer Box ex Japanese",
-    "image": "https://m.media-amazon.com/images/I/61B2p+fH93L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "124,04 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0BNKBBYK1?tag=enkairito-21",
-    "first_seen": "2026-09-16T02:03:31.139743+00:00",
-    "marketplace": "UK",
-    "categories": [
-      "Otros"
-    ],
-    "game": "Pokémon",
-    "ts": "2026-09-20T14:43:21.788256+00:00",
-    "type": "restock",
-    "prev_price": "124,04 €",
-    "_src": "products.json",
-    "id": "UK-B0BNKBBYK1:2026-09-20T14:43:21.788256+00:00:restock"
-  },
-  {
-    "asin": "B0DB7C1Z26",
-    "store_label": "Amazon UK",
-    "flag": "🇬🇧",
-    "name": "Pokémon Juego de cartas Pokémon Escarlata y Violeta, paquete de expansión, caja de compañeros de batalla (30 paquetes en japonés)",
-    "image": "https://m.media-amazon.com/images/I/81TD+vNJcJL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "113,09 €",
-    "original_price": "122,62 €",
-    "status": "compra_directa",
-    "stock": "1",
-    "link": "https://www.amazon.es/dp/B0DB7C1Z26?tag=enkairito-21",
-    "first_seen": "2026-09-04T21:32:58.802636+00:00",
-    "marketplace": "UK",
-    "categories": [
-      "Otros"
-    ],
-    "game": "Pokémon",
-    "ts": "2026-09-20T14:43:21.788256+00:00",
-    "type": "restock",
-    "prev_price": "113,09 €",
-    "_src": "products.json",
-    "id": "UK-B0DB7C1Z26:2026-09-20T14:43:21.788256+00:00:restock"
-  },
-  {
-    "asin": "B0DDYZX1TB",
-    "store_label": "Amazon UK",
-    "flag": "🇬🇧",
-    "name": "Pokemon TCG: Scarlet & Violet - Surging Sparks Booster Bundle",
-    "image": "https://m.media-amazon.com/images/I/817ZQoBRA3L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "103,31 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0DDYZX1TB?tag=enkairito-21",
-    "first_seen": "2026-09-04T21:32:58.802612+00:00",
-    "marketplace": "UK",
-    "categories": [
-      "Otros"
-    ],
-    "game": "Pokémon",
-    "ts": "2026-09-20T14:43:21.788256+00:00",
-    "type": "restock",
-    "prev_price": "103,31 €",
-    "_src": "products.json",
-    "id": "UK-B0DDYZX1TB:2026-09-20T14:43:21.788256+00:00:restock"
-  },
-  {
     "asin": "B0DC2BK8QG",
     "store_label": "Amazon UK",
     "flag": "🇬🇧",
@@ -4598,5 +4529,74 @@
     "prev_price": "113,98 €",
     "_src": "products.json",
     "id": "US-B0FVFYXXQM:2026-09-21T01:24:01.928691+00:00:restock"
+  },
+  {
+    "asin": "B0CMZS84KP",
+    "store_label": "Amazon UK",
+    "flag": "🇬🇧",
+    "name": "Pokémon - Expansion Pack: Cyber Judge Booster Box",
+    "image": "https://m.media-amazon.com/images/I/71WdhuaLpDL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "117,84 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": "3",
+    "link": "https://www.amazon.es/dp/B0CMZS84KP?tag=enkairito-21",
+    "first_seen": "2026-09-04T21:32:58.802660+00:00",
+    "marketplace": "UK",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-21T01:44:03.532379+00:00",
+    "type": "restock",
+    "prev_price": "117,84 €",
+    "_src": "products.json",
+    "id": "UK-B0CMZS84KP:2026-09-21T01:44:03.532379+00:00:restock"
+  },
+  {
+    "asin": "B0CJM4MQTT",
+    "store_label": "Amazon UK",
+    "flag": "🇬🇧",
+    "name": "Pokemon Scarlet EX Pantalla 30 coreana",
+    "image": "https://m.media-amazon.com/images/I/61US9+Y9F4L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "74,62 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": "4",
+    "link": "https://www.amazon.es/dp/B0CJM4MQTT?tag=enkairito-21",
+    "first_seen": "2026-09-05T00:38:53.462595+00:00",
+    "marketplace": "UK",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-21T01:44:03.532379+00:00",
+    "type": "restock",
+    "prev_price": "74,62 €",
+    "_src": "products.json",
+    "id": "UK-B0CJM4MQTT:2026-09-21T01:44:03.532379+00:00:restock"
+  },
+  {
+    "asin": "B0FS98MMML",
+    "store_label": "Amazon USA",
+    "flag": "🇺🇸",
+    "name": "Pokémon TCG: Booster Pack de 10 Cartas Mega Evolution Flames Phantasmal Mangas",
+    "image": "https://m.media-amazon.com/images/I/71r-eHgKChL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "35,94 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0FS98MMML?tag=enkairito-21",
+    "first_seen": "2026-09-04T22:05:43.537336+00:00",
+    "marketplace": "US",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-21T01:44:03.532379+00:00",
+    "type": "restock",
+    "prev_price": "35,94 €",
+    "_src": "products.json",
+    "id": "US-B0FS98MMML:2026-09-21T01:44:03.532379+00:00:restock"
   }
 ]
