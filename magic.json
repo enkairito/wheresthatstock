@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T00:17:18.524031+00:00",
+  "updated_at": "2026-09-22T18:16:54.435591+00:00",
   "products": [
     {
       "asin": "B0H6KKQZLT",
@@ -121,24 +121,6 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B0H6GY31HT?tag=enkairito-21",
       "first_seen": "2026-09-07T10:44:11.960025+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Otros"
-      ],
-      "game": "Magic"
-    },
-    {
-      "asin": "B0H6H4J3QF",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Caja de Principiante de Magic: The Gathering | Star Trek (Versión en Inglés)",
-      "image": "https://m.media-amazon.com/images/I/71qlFbC17RL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "35,00 €",
-      "original_price": null,
-      "status": "preventa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0H6H4J3QF?tag=enkairito-21",
-      "first_seen": "2026-09-07T10:44:18.041577+00:00",
       "marketplace": "ES",
       "categories": [
         "Otros"
@@ -416,24 +398,6 @@
       "game": "Magic"
     },
     {
-      "asin": "B0GWS582CC",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Draft Night de Magic: The Gathering | El Hobbit (Versión en Inglés)",
-      "image": "https://m.media-amazon.com/images/I/814FTYFGBSL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "134,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0GWS582CC?tag=enkairito-21",
-      "first_seen": "2026-09-07T10:45:54.488487+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Otros"
-      ],
-      "game": "Magic"
-    },
-    {
       "asin": "B0GXLTWVPG",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -691,8 +655,8 @@
       "flag": "🇪🇸",
       "name": "Mazo de Commander de Secretos de Strixhaven, de Magic: The Gathering - Quándrix sin límite (Versión en Inglés)",
       "image": "https://m.media-amazon.com/images/I/71cKZFmdG2L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "52,50 €",
-      "original_price": null,
+      "price": "48,25 €",
+      "original_price": "52,50 €",
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0G874G6HD?tag=enkairito-21",
@@ -709,7 +673,7 @@
       "flag": "🇪🇸",
       "name": "Draft Night de Secretos de Strixhaven, de Magic: The Gathering (Versión en Inglés)",
       "image": "https://m.media-amazon.com/images/I/816wq4IFX+L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "120,92 €",
+      "price": "109,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
