@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T18:06:57.823114+00:00",
+  "updated_at": "2026-09-23T19:06:57.840074+00:00",
   "products": [
     {
       "asin": "B0HFD53BDB",
@@ -43,10 +43,10 @@
       "flag": "🇪🇸",
       "name": "One Piece TCG: Double Pack Set Vol. 10 (DP-10) - Adventure of Kami's Island (2 Paquetes)",
       "image": "https://m.media-amazon.com/images/I/6149SXXRkfL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "68,75 €",
+      "price": "69,62 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "1",
+      "stock": null,
       "link": "https://www.amazon.es/dp/B0GW9TXS1Q?tag=enkairito-21",
       "first_seen": "2026-08-29T18:09:04.551067+00:00",
       "marketplace": "ES",
@@ -92,24 +92,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0HF1Z72XW",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "One Piece TCG: The World's Strongest Warriors Booster Box (OP-17) - 24 paquetes",
-      "image": "https://m.media-amazon.com/images/I/61CWeLxq3eL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "432,00 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0HF1Z72XW?tag=enkairito-21",
-      "first_seen": "2026-09-05T20:33:38.638411+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Booster Box"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0DZ25YM9N",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -124,6 +106,24 @@
       "marketplace": "ES",
       "categories": [
         "Otros"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0HF1Z72XW",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "One Piece TCG: The World's Strongest Warriors Booster Box (OP-17) - 24 paquetes",
+      "image": "https://m.media-amazon.com/images/I/61CWeLxq3eL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "432,00 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0HF1Z72XW?tag=enkairito-21",
+      "first_seen": "2026-09-05T20:33:38.638411+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Booster Box"
       ],
       "game": "One Piece"
     },
@@ -290,24 +290,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0F8V1YTSP",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "BANDAI Juego de cartas de una pieza más antiguo (OP-13) (caja) de 24 unidades",
-      "image": "https://m.media-amazon.com/images/I/81uxMM80r7L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "199,90 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F8V1YTSP?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:10:47.849793+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Booster Box"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0C7VGHF3J",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -322,6 +304,24 @@
       "marketplace": "ES",
       "categories": [
         "Starter Deck"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0F8V1YTSP",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "BANDAI Juego de cartas de una pieza más antiguo (OP-13) (caja) de 24 unidades",
+      "image": "https://m.media-amazon.com/images/I/81uxMM80r7L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "199,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F8V1YTSP?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:10:47.849793+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Booster Box"
       ],
       "game": "One Piece"
     },
