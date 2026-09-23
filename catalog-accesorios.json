@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T04:06:48.385981+00:00",
+  "updated_at": "2026-09-23T04:31:39.114774+00:00",
   "products": [
     {
       "asin": "B0CLRRG72H",
@@ -964,8 +964,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:42.793557+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B07VFTVVWX",
@@ -1048,8 +1048,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:42.793557+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B071992NQ2",
@@ -1132,8 +1132,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:42.793557+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0F3JVK9N6",
@@ -1164,7 +1164,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/717mBb4BY-L._AC_UL600_SR600,400_.jpg",
       "price": "73,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0GTZ2RP98?tag=enkairito-21",
       "first_seen": "2026-09-11T19:20:15.912110+00:00",
@@ -1174,8 +1174,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T00:31:41.112455+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0FDTLRZSH",
@@ -1206,7 +1206,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/710-G9UKs4L._AC_UL600_SR600,400_.jpg",
       "price": "22,48 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0F49DHSHJ?tag=enkairito-21",
       "first_seen": "2026-09-11T19:20:15.912114+00:00",
@@ -1216,8 +1216,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T00:31:41.112455+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0DHSCVFMT",
@@ -1269,7 +1269,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71e+43EXf1L._AC_UL600_SR600,400_.jpg",
       "price": "27,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0F7RMQ9QG?tag=enkairito-21",
       "first_seen": "2026-09-11T19:20:15.912121+00:00",
@@ -1279,8 +1279,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T00:31:41.112455+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0F1R6JH6M",
@@ -1405,8 +1405,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:42.793557+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0GMRB7W9V",
@@ -2466,7 +2466,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/51VEimVu9QL._AC_UL300_SR300,200_.jpg",
       "price": "15,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B01MS7YUA7?tag=enkairito-21",
       "first_seen": "2026-09-16T10:34:14.850960+00:00",
@@ -2476,8 +2476,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-21T00:32:42.056275+00:00",
-      "checked_at": "2026-09-21T02:32:52.072590+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0DB2LQQMS",
@@ -2497,8 +2497,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:42.793557+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B07KXQX3S3",
@@ -2518,8 +2518,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:42.793557+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0H9R91725",
@@ -2721,15 +2721,15 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0F3DFKKY8?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:04.018957+00:00",
+      "first_seen": "2026-09-17T00:32:50.690017+00:00",
       "marketplace": "ES",
       "categories": [
-        "PlayStation"
+        "Nintendo"
       ],
-      "source": "playstation",
+      "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:44.659119+00:00",
-      "checked_at": "2026-09-23T02:31:44.659119+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B09PX6GHJ7",
@@ -3064,8 +3064,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:42.793557+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0FS1JVBBZ",
@@ -3351,15 +3351,15 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0DBV9YTBY?tag=enkairito-21",
-      "first_seen": "2026-09-12T12:27:13.469364+00:00",
+      "first_seen": "2026-09-17T00:32:50.690061+00:00",
       "marketplace": "ES",
       "categories": [
-        "PlayStation"
+        "Nintendo"
       ],
-      "source": "playstation",
+      "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:44.659119+00:00",
-      "checked_at": "2026-09-23T02:31:44.659119+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0DK1NY4LW",
@@ -3624,15 +3624,15 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0CSFKZRGF?tag=enkairito-21",
-      "first_seen": "2026-09-12T06:27:49.066532+00:00",
+      "first_seen": "2026-09-13T18:20:24.792746+00:00",
       "marketplace": "ES",
       "categories": [
-        "PlayStation"
+        "Nintendo"
       ],
-      "source": "playstation",
+      "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:44.659119+00:00",
-      "checked_at": "2026-09-23T02:31:44.659119+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0F3D6RMLC",
@@ -3736,8 +3736,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:42.793557+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0FH7FZQ36",
@@ -3999,7 +3999,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/713LuDMYBfL._AC_UL600_SR600,400_.jpg",
       "price": "20,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0F3JT1NT8?tag=enkairito-21",
       "first_seen": "2026-09-15T20:34:05.436537+00:00",
@@ -4009,8 +4009,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T00:31:41.112455+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0DRX5SZQZ",
@@ -4135,8 +4135,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:42.793557+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0G6FY77KH",
@@ -4167,7 +4167,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61edyL5jYAL._AC_UL600_SR600,400_.jpg",
       "price": "74,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0H4R5H9QN?tag=enkairito-21",
       "first_seen": "2026-09-13T00:21:41.607224+00:00",
@@ -4177,8 +4177,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T00:31:41.112455+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0FBRPVFTC",
@@ -4282,8 +4282,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:42.793557+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0F1R2437T",
@@ -4303,8 +4303,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:42.793557+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0CZLC2DKY",
@@ -4660,8 +4660,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:42.793557+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B09V2RQ6R9",
@@ -4755,7 +4755,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51DN8sIYjaL._AC_UL600_SR600,400_.jpg",
       "price": "89,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0GFPN1YZP?tag=enkairito-21",
       "first_seen": "2026-09-15T22:37:28.444846+00:00",
@@ -4765,8 +4765,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T00:31:41.112455+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0F3JPZ3R5",
@@ -4870,8 +4870,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:42.793557+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0FYHR3MYZ",
@@ -5500,8 +5500,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:42.793557+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0BX722HFN",
@@ -5724,15 +5724,15 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0D1KBNWHF?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:37.500103+00:00",
+      "first_seen": "2026-09-17T00:32:50.690135+00:00",
       "marketplace": "ES",
       "categories": [
-        "PlayStation"
+        "Nintendo"
       ],
-      "source": "playstation",
+      "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:44.659119+00:00",
-      "checked_at": "2026-09-23T02:31:44.659119+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B08T1KHHR9",
@@ -5976,15 +5976,15 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B07GS6ZB7T?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:37.500155+00:00",
+      "first_seen": "2026-09-17T00:32:50.689963+00:00",
       "marketplace": "ES",
       "categories": [
-        "PlayStation"
+        "Nintendo"
       ],
-      "source": "playstation",
+      "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:44.659119+00:00",
-      "checked_at": "2026-09-23T02:31:44.659119+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B09RMB5957",
@@ -6081,15 +6081,15 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0CB1F69ZK?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:37.500185+00:00",
+      "first_seen": "2026-09-17T00:32:50.690012+00:00",
       "marketplace": "ES",
       "categories": [
-        "PlayStation"
+        "Nintendo"
       ],
-      "source": "playstation",
+      "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:44.659119+00:00",
-      "checked_at": "2026-09-23T02:31:44.659119+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B084WLMKGT",
@@ -6165,15 +6165,15 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0FNWYM43G?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:37.500198+00:00",
+      "first_seen": "2026-09-17T00:32:50.689777+00:00",
       "marketplace": "ES",
       "categories": [
-        "PlayStation"
+        "Nintendo"
       ],
-      "source": "playstation",
+      "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:44.659119+00:00",
-      "checked_at": "2026-09-23T02:31:44.659119+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B088MSM8FD",
@@ -7173,15 +7173,15 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0D7CD7WZ4?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.257596+00:00",
+      "first_seen": "2026-09-17T00:32:50.689720+00:00",
       "marketplace": "ES",
       "categories": [
-        "Xbox"
+        "Nintendo"
       ],
-      "source": "xbox",
+      "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:52.457360+00:00",
-      "checked_at": "2026-09-23T02:31:52.457360+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B07HB851JR",
@@ -7726,8 +7726,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:42.793557+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0GMYXVQBF",
@@ -7747,8 +7747,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:42.793557+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0FDWT9YGP",
@@ -7768,8 +7768,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:42.793557+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0FMR976X2",
@@ -7789,8 +7789,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:42.793557+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0F9Y8J4DD",
@@ -7810,8 +7810,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:42.793557+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0F6CSFTRD",
@@ -7831,8 +7831,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:42.793557+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0GCM139HM",
@@ -7852,8 +7852,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:42.793557+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0FKMFD2RK",
@@ -7884,7 +7884,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61JTC01AP6L._AC_UL600_SR600,400_.jpg",
       "price": "14,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0FGXQNL2K?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:50.689795+00:00",
@@ -7894,8 +7894,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T00:31:41.112455+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0FR95PWLS",
@@ -7905,7 +7905,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81ba-zwHO1L._AC_UL600_SR600,400_.jpg",
       "price": "23,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0FR95PWLS?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:50.689804+00:00",
@@ -7915,8 +7915,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T00:31:41.112455+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0DM1WH5BV",
@@ -7947,7 +7947,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71ArAbKM-mL._AC_UL600_SR600,400_.jpg",
       "price": "14,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0FG7YH2SD?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:50.689813+00:00",
@@ -7957,8 +7957,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T00:31:41.112455+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B09ZY7PX53",
@@ -8010,7 +8010,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/71ZUbCB8qQL._AC_UL300_SR300,200_.jpg",
       "price": "19,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0F8WRHMGT?tag=enkairito-21",
       "first_seen": "2026-09-11T19:20:15.911960+00:00",
@@ -8020,8 +8020,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T00:31:41.112455+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0D5XNZFZP",
@@ -8031,7 +8031,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/71C0EPtx1xL._AC_UL300_SR300,200_.jpg",
       "price": "33,38 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0D5XNZFZP?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:50.689840+00:00",
@@ -8041,8 +8041,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T00:31:41.112455+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0F2FJK49G",
@@ -8094,7 +8094,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51a8yUo9drL._AC_UL600_SR600,400_.jpg",
       "price": "20,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0FDH2HK6V?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:50.689856+00:00",
@@ -8104,8 +8104,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T00:31:41.112455+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0GHY2NFKK",
@@ -8136,7 +8136,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/814IFvTV9EL._AC_UL300_SR300,200_.jpg",
       "price": "7,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0FH6LL1MC?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:50.689868+00:00",
@@ -8146,8 +8146,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T00:31:41.112455+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0FNMSCDZK",
@@ -8220,7 +8220,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/61AVXw6XX1L._AC_UL300_SR300,200_.jpg",
       "price": "21,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0DQ67JGXW?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:50.689890+00:00",
@@ -8230,8 +8230,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T00:31:41.112455+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0H4LF79WY",
@@ -8283,7 +8283,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81vLY56oWWL._AC_UL600_SR600,400_.jpg",
       "price": "29,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0DT48LYLP?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:50.689907+00:00",
@@ -8293,8 +8293,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T00:31:41.112455+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0FCYHDC4R",
@@ -8388,7 +8388,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/61TmxGo1yiL._AC_UL300_SR300,200_.jpg",
       "price": "33,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0DRPBKJ9G?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:50.689941+00:00",
@@ -8398,8 +8398,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T00:31:41.112455+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0FGY2QNK7",
@@ -8482,8 +8482,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:42.793557+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0CJN1Y673",
@@ -8503,8 +8503,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:42.793557+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0DKSXN5PB",
@@ -8566,8 +8566,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:42.793557+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0H36Q93T2",
@@ -8587,8 +8587,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:42.793557+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0D2NJBGHG",
@@ -8608,8 +8608,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:42.793557+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0B7X7PK9S",
@@ -8629,8 +8629,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:42.793557+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B01NCLG45T",
@@ -8650,8 +8650,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:42.793557+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0DRCKDWD1",
@@ -8671,8 +8671,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:42.793557+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0D31L7CN2",
@@ -8692,8 +8692,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:42.793557+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0DBLMZJRJ",
@@ -8713,8 +8713,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:42.793557+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0FW3K559Z",
@@ -8745,7 +8745,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/41C49jKkGuL._AC_UL300_SR300,200_.jpg",
       "price": "17,90 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B07TRP1GMV?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:50.690169+00:00",
@@ -8755,8 +8755,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-21T04:32:53.606742+00:00",
-      "checked_at": "2026-09-22T16:31:32.617652+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B079DN551K",
@@ -8787,7 +8787,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/619ithDUlLL._AC_UL300_SR300,200_.jpg",
       "price": "6,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0DCW8XW3Z?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:50.690184+00:00",
@@ -8797,8 +8797,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-21T04:32:53.606742+00:00",
-      "checked_at": "2026-09-22T16:31:32.617652+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0DQQ39TN3",
@@ -8818,18 +8818,18 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:42.793557+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0B1V4MK8T",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Wigearss 2 Piezas de Repuesto de 3D Joystick Analógico y Herramientas de Reparación para Mandos Joy-Con de Nintendo Switch/OLED/Lite (Incompatible con Switch 2)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51DY9B79IWL._AC_UL600_SR600,400_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/51DY9B79IWL._AC_UL300_SR300,200_.jpg",
       "price": "9,89 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0B1V4MK8T?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:50.690199+00:00",
@@ -8839,8 +8839,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-21T04:32:53.606742+00:00",
-      "checked_at": "2026-09-22T16:31:32.617652+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B09YV74R86",
@@ -8871,7 +8871,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/71se8WEmEvL._AC_UL300_SR300,200_.jpg",
       "price": "43,09 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0DDPYNGXW?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:50.690210+00:00",
@@ -8881,8 +8881,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-20T02:31:54.543585+00:00",
-      "checked_at": "2026-09-20T04:31:51.374838+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0F194QFT2",
@@ -8944,8 +8944,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:42.793557+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0FMY2Y7NH",
@@ -8976,7 +8976,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/51CBY-A9JyL._AC_UL300_SR300,200_.jpg",
       "price": "3,59 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B078N621F3?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:50.690239+00:00",
@@ -8986,8 +8986,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-21T00:32:42.056275+00:00",
-      "checked_at": "2026-09-21T02:32:52.072590+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0CX937445",
@@ -9123,7 +9123,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71GeyenK11L._AC_UL600_SR600,400_.jpg",
       "price": "31,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0FB3D2BJ8?tag=enkairito-21",
       "first_seen": "2026-09-17T10:32:19.292496+00:00",
@@ -9133,8 +9133,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T00:31:41.112455+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0GZLL7R7V",
@@ -9459,7 +9459,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71caR55F7AL._AC_UL600_SR600,400_.jpg",
       "price": "8,30 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0F333W54P?tag=enkairito-21",
       "first_seen": "2026-09-17T14:07:16.088111+00:00",
@@ -9469,8 +9469,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T00:31:41.112455+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0H97L2P92",
@@ -9480,7 +9480,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61NNwaKCjxL._AC_UL600_SR600,400_.jpg",
       "price": "49,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0H97L2P92?tag=enkairito-21",
       "first_seen": "2026-09-17T14:07:16.088121+00:00",
@@ -9490,8 +9490,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T00:31:41.112455+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0DRJ71PDX",
@@ -9522,7 +9522,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71FUMwFVgDL._AC_UL600_SR600,400_.jpg",
       "price": "11,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0FH2SXCCV?tag=enkairito-21",
       "first_seen": "2026-09-17T14:07:16.088134+00:00",
@@ -9532,8 +9532,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T00:31:41.112455+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0FP2D17LJ",
@@ -10152,7 +10152,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81oUvj8iKaL._AC_UL600_SR600,400_.jpg",
       "price": "9,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0F1LTR6HF?tag=enkairito-21",
       "first_seen": "2026-09-18T12:31:52.754428+00:00",
@@ -10162,8 +10162,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T00:31:41.112455+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0DDPZ2Q3C",
@@ -11370,7 +11370,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81CoLY8rDaL._AC_UL600_SR600,400_.jpg",
       "price": "65,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0HBPQ7HSY?tag=enkairito-21",
       "first_seen": "2026-09-19T12:31:57.854062+00:00",
@@ -11380,8 +11380,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T00:31:41.112455+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0GDCC2HW6",
@@ -11464,8 +11464,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:42.793557+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0GXHDZ7HB",
@@ -11601,7 +11601,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/7101Sg5YuqL._AC_UL600_SR600,400_.jpg",
       "price": "6,84 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0F8KSRRNM?tag=enkairito-21",
       "first_seen": "2026-09-20T12:31:31.032562+00:00",
@@ -11611,8 +11611,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T00:31:41.112455+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0F3YXTMPF",
@@ -12178,8 +12178,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:42.793557+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0F7RMPBRY",
@@ -12189,7 +12189,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/619zKodzdvL._AC_UL600_SR600,400_.jpg",
       "price": "22,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0F7RMPBRY?tag=enkairito-21",
       "first_seen": "2026-09-22T16:31:32.614641+00:00",
@@ -12199,8 +12199,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T00:31:41.112455+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0DM18Q2M1",
@@ -12220,8 +12220,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:42.793557+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0H4LR1WV7",
@@ -12231,7 +12231,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/71dyfJTgkvL._AC_UL300_SR300,200_.jpg",
       "price": "23,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0H4LR1WV7?tag=enkairito-21",
       "first_seen": "2026-09-22T16:31:32.614677+00:00",
@@ -12241,8 +12241,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T00:31:41.112455+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0DRJQKFRX",
@@ -12262,8 +12262,8 @@
       ],
       "source": "nintendo",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-23T02:31:42.793557+00:00",
-      "checked_at": "2026-09-23T02:31:42.793557+00:00"
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     },
     {
       "asin": "B0DRJXD493",
@@ -12705,6 +12705,48 @@
       "_src": "accesorios.json",
       "last_seen": "2026-09-23T00:31:43.970019+00:00",
       "checked_at": "2026-09-23T02:31:52.457360+00:00"
+    },
+    {
+      "asin": "B0CBNP1MDJ",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "PDP Official Wireless Deluxe Controller Nintendo Switch GLOW - Super Icons",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71-Vng3cK6L._AC_UL300_SR300,200_.jpg",
+      "price": "25,00 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CBNP1MDJ?tag=enkairito-21",
+      "first_seen": "2026-09-23T04:31:39.109983+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo",
+      "_src": "accesorios.json",
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
+    },
+    {
+      "asin": "B09F2J37V4",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "GEEKHAVE Mando Inalámbrico para Switch/Switch 2/Lite/OLED/PC; Controller Switch Pro con Iluminación RGB 7 Colore Cambiantes/Gatillos Effect Hall/Doble Vibración/Turbo, Joystick Ergonómico Preciso",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/61MalolTdXL._AC_UL300_SR300,200_.jpg",
+      "price": "19,36 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B09F2J37V4?tag=enkairito-21",
+      "first_seen": "2026-09-23T04:31:39.110017+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo",
+      "_src": "accesorios.json",
+      "last_seen": "2026-09-23T04:31:39.114774+00:00",
+      "checked_at": "2026-09-23T04:31:39.114774+00:00"
     }
   ]
 }
