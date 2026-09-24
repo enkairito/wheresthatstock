@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T18:31:45.955958+00:00",
+  "updated_at": "2026-09-24T18:31:45.682763+00:00",
   "products": [
     {
       "asin": "B0CLRRG72H",
@@ -1752,7 +1752,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71SHQivVwXL._AC_UL600_SR600,400_.jpg",
       "price": "19,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B09F2ZMTBN?tag=enkairito-21",
       "first_seen": "2026-09-11T19:25:04.811686+00:00",
@@ -1762,8 +1762,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T12:31:36.583653+00:00",
-      "checked_at": "2026-09-24T14:31:53.510815+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0FHQ6P7TQ",
@@ -1804,8 +1804,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0C7GW9F88",
@@ -1909,8 +1909,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B08Y1FGT6D",
@@ -2266,8 +2266,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0BKGKMLH2",
@@ -2350,8 +2350,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0FHHFBDNQ",
@@ -2371,8 +2371,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0B9GJLV2D",
@@ -2392,8 +2392,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0FD41XC3P",
@@ -3012,7 +3012,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81kFG3GED-L._AC_UL600_SR600,400_.jpg",
       "price": "19,93 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0CMGN9Z8H?tag=enkairito-21",
       "first_seen": "2026-09-12T00:28:11.204492+00:00",
@@ -3022,8 +3022,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T12:31:36.583653+00:00",
-      "checked_at": "2026-09-24T14:31:53.510815+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B09DPR2LZW",
@@ -3036,15 +3036,15 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B09DPR2LZW?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:37.500048+00:00",
+      "first_seen": "2026-09-12T00:28:11.204501+00:00",
       "marketplace": "ES",
       "categories": [
-        "PlayStation"
+        "Xbox"
       ],
-      "source": "playstation",
+      "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:35.364000+00:00",
-      "checked_at": "2026-09-24T16:31:35.364000+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0DJ2PLH9G",
@@ -3190,8 +3190,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0DNQD9HPS",
@@ -3348,18 +3348,18 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71OPXBGf77L._AC_UL600_SR600,400_.jpg",
       "price": "16,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0DBV9YTBY?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:50.690061+00:00",
+      "first_seen": "2026-09-17T00:32:42.257455+00:00",
       "marketplace": "ES",
       "categories": [
-        "Nintendo"
+        "Xbox"
       ],
-      "source": "nintendo",
+      "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:30.668202+00:00",
-      "checked_at": "2026-09-24T18:31:45.955958+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0DK1NY4LW",
@@ -3787,9 +3787,9 @@
       "flag": "🇪🇸",
       "name": "Microsoft - Adaptador Wireless (PC)",
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/31D5xGbq41L._AC_UL600_SR600,400_.jpg",
-      "price": "35,68 €",
+      "price": "35,60 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B074QMN4YW?tag=enkairito-21",
       "first_seen": "2026-09-14T12:21:25.171665+00:00",
@@ -3799,8 +3799,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T12:31:36.583653+00:00",
-      "checked_at": "2026-09-24T14:31:53.510815+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0GD7CFFVT",
@@ -3841,8 +3841,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B09CWDX4K3",
@@ -3891,10 +3891,10 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Xbox Mando inalámbrico Gears of War: Edición Limitada E-Day Series X|S, One, PCs, televisores, móviles y más",
-      "image": "https://m.media-amazon.com/images/I/716kFNJ20xL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/716kFNJ20xL._AC_UL600_SR600,400_.jpg",
       "price": "89,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0HDQ2LRS9?tag=enkairito-21",
       "first_seen": "2026-09-16T06:35:30.156933+00:00",
@@ -3904,8 +3904,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-16T22:36:27.863905+00:00",
-      "checked_at": "2026-09-17T00:32:42.262048+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B017BRXU1A",
@@ -4261,8 +4261,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0DHSGPKKR",
@@ -4356,7 +4356,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71qqZqGlMWL._AC_UL600_SR600,400_.jpg",
       "price": "31,34 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0DPHGSSWH?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:42.257620+00:00",
@@ -4366,8 +4366,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T12:31:36.583653+00:00",
-      "checked_at": "2026-09-24T14:31:53.510815+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B01N10NX3M",
@@ -4461,7 +4461,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/610PkRV70GL._AC_UL300_SR300,200_.jpg",
       "price": "39,99 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0HCTQNBN8?tag=enkairito-21",
       "first_seen": "2026-09-15T00:20:55.336219+00:00",
@@ -4472,7 +4472,7 @@
       "source": "xbox",
       "_src": "accesorios.json",
       "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B08M3S3VPY",
@@ -4576,8 +4576,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B08F436VBJ",
@@ -4723,8 +4723,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0DB1BCG3D",
@@ -4734,7 +4734,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71dyMkJJUAL._AC_UL600_SR600,400_.jpg",
       "price": "9,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0DB1BCG3D?tag=enkairito-21",
       "first_seen": "2026-09-15T20:35:05.757603+00:00",
@@ -4744,8 +4744,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T12:31:36.583653+00:00",
-      "checked_at": "2026-09-24T14:31:53.510815+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0GFPN1YZP",
@@ -4975,8 +4975,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B09XMRC72P",
@@ -5007,7 +5007,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81DIywY2akL._AC_UL600_SR600,400_.jpg",
       "price": "10,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B08TWV3BXB?tag=enkairito-21",
       "first_seen": "2026-09-16T10:34:33.318893+00:00",
@@ -5017,8 +5017,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T12:31:36.583653+00:00",
-      "checked_at": "2026-09-24T14:31:53.510815+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0F2N8F45T",
@@ -5122,8 +5122,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B08H99BPJN",
@@ -5976,15 +5976,15 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B07GS6ZB7T?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:37.500155+00:00",
+      "first_seen": "2026-09-17T00:32:42.257589+00:00",
       "marketplace": "ES",
       "categories": [
-        "PlayStation"
+        "Xbox"
       ],
-      "source": "playstation",
+      "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:35.364000+00:00",
-      "checked_at": "2026-09-24T16:31:35.364000+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B09RMB5957",
@@ -6312,15 +6312,15 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B07GS6ZS8J?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:37.500234+00:00",
+      "first_seen": "2026-09-17T00:32:42.257627+00:00",
       "marketplace": "ES",
       "categories": [
-        "PlayStation"
+        "Xbox"
       ],
-      "source": "playstation",
+      "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:35.364000+00:00",
-      "checked_at": "2026-09-24T16:31:35.364000+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0CQMFKNP4",
@@ -6487,8 +6487,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B092J3RX5R",
@@ -6508,8 +6508,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0B2NNDY2Q",
@@ -6529,8 +6529,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0C52X3QXG",
@@ -6550,8 +6550,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0B63T92TR",
@@ -6571,8 +6571,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0B52191TF",
@@ -6592,8 +6592,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0F2Q8S4HN",
@@ -6634,8 +6634,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0B9Y1HTS7",
@@ -6655,8 +6655,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0F5GRCTLT",
@@ -6676,8 +6676,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0D8QJRBV3",
@@ -6697,8 +6697,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0DV5H1YVL",
@@ -6760,8 +6760,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B00YXO5U40",
@@ -6865,8 +6865,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0D6YDNMHM",
@@ -6970,8 +6970,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0FBRKFLRV",
@@ -7054,15 +7054,15 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0BDLWTB8Z",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "playvital Funda de Silicona para Xbox Elite Series 2 y Core Mando | Goma Antideslizante, Diseño Ergonómico, Agarre Cómodo, Incluye 2 Tapas de Joystick, Edición Samurai, Negro",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/61CnHDON3IL._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61CnHDON3IL._AC_UL600_SR600,400_.jpg",
       "price": "15,29 €",
       "original_price": null,
       "status": "compra_directa",
@@ -7075,8 +7075,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0DFX4TPS6",
@@ -7096,8 +7096,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B09YHNCQNZ",
@@ -7138,8 +7138,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B07LBWK662",
@@ -7159,8 +7159,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0D7CD7WZ4",
@@ -7173,15 +7173,15 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0D7CD7WZ4?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:50.689720+00:00",
+      "first_seen": "2026-09-17T00:32:42.257596+00:00",
       "marketplace": "ES",
       "categories": [
-        "Nintendo"
+        "Xbox"
       ],
-      "source": "nintendo",
+      "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T18:31:45.955958+00:00",
-      "checked_at": "2026-09-24T18:31:45.955958+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B07HB851JR",
@@ -7201,8 +7201,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B09SGBQY6D",
@@ -7222,8 +7222,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B09SGD96L8",
@@ -7243,8 +7243,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0CLV1YDYS",
@@ -7254,7 +7254,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71IGxhZk29L._AC_UL600_SR600,400_.jpg",
       "price": "33,20 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0CLV1YDYS?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:42.257630+00:00",
@@ -7264,8 +7264,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T12:31:36.583653+00:00",
-      "checked_at": "2026-09-24T14:31:53.510815+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0BD8ZKQ4S",
@@ -7275,7 +7275,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/818JdbvOkAL._AC_UL600_SR600,400_.jpg",
       "price": "13,67 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0BD8ZKQ4S?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:42.257634+00:00",
@@ -7285,8 +7285,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T12:31:36.583653+00:00",
-      "checked_at": "2026-09-24T14:31:53.510815+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0CPS9W9FK",
@@ -7359,7 +7359,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71wX5ijBddL._AC_UL600_SR600,400_.jpg",
       "price": "15,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0B14ZG46G?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:42.257650+00:00",
@@ -7369,8 +7369,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T12:31:36.583653+00:00",
-      "checked_at": "2026-09-24T14:31:53.510815+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B087547M9F",
@@ -7548,7 +7548,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/710ksCqywQL._AC_UL600_SR600,400_.jpg",
       "price": "28,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B09BJL2Z46?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:42.257685+00:00",
@@ -7558,8 +7558,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T12:31:36.583653+00:00",
-      "checked_at": "2026-09-24T14:31:53.510815+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0831LVMND",
@@ -7569,7 +7569,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/619ZghTLWaL._AC_UL600_SR600,400_.jpg",
       "price": "17,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0831LVMND?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:42.257692+00:00",
@@ -7579,8 +7579,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T12:31:36.583653+00:00",
-      "checked_at": "2026-09-24T14:31:53.510815+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0916ZXRB9",
@@ -9018,7 +9018,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51YbPz57pKL._AC_UL600_SR600,400_.jpg",
       "price": "29,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B08HL9S7FB?tag=enkairito-21",
       "first_seen": "2026-09-17T08:32:35.496172+00:00",
@@ -9028,8 +9028,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T12:31:36.583653+00:00",
-      "checked_at": "2026-09-24T14:31:53.510815+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B08753D3J4",
@@ -9186,7 +9186,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/71qU7LauT8L._AC_UL300_SR300,200_.jpg",
       "price": "22,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B08486NP2G?tag=enkairito-21",
       "first_seen": "2026-09-17T12:31:47.549147+00:00",
@@ -9196,8 +9196,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T12:31:36.583653+00:00",
-      "checked_at": "2026-09-24T14:31:53.510815+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0DM1T7MMT",
@@ -9217,8 +9217,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0CFXPP8YZ",
@@ -9228,7 +9228,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/61G8FKQLz8L._AC_UL300_SR300,200_.jpg",
       "price": "10,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0CFXPP8YZ?tag=enkairito-21",
       "first_seen": "2026-09-17T12:31:47.549213+00:00",
@@ -9238,8 +9238,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T12:31:36.583653+00:00",
-      "checked_at": "2026-09-24T14:31:53.510815+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0B7X9BPBH",
@@ -9249,7 +9249,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/71zEgFdRDoL._AC_UL300_SR300,200_.jpg",
       "price": "39,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0B7X9BPBH?tag=enkairito-21",
       "first_seen": "2026-09-17T12:31:47.549235+00:00",
@@ -9259,8 +9259,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T12:31:36.583653+00:00",
-      "checked_at": "2026-09-24T14:31:53.510815+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0DHW52J2M",
@@ -10129,9 +10129,9 @@
       "flag": "🇪🇸",
       "name": "Cableguys Mega-Man Figurita Gaming Rockman - Soporte para Mando o Smartphone - Cable USB Incluido - 20 cm",
       "image": "https://images-eu.ssl-images-amazon.com/images/I/61s9XlZj1gL._AC_UL300_SR300,200_.jpg",
-      "price": "18,11 €",
+      "price": "17,98 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0875394DP?tag=enkairito-21",
       "first_seen": "2026-09-18T08:31:31.238742+00:00",
@@ -10141,8 +10141,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T12:31:36.583653+00:00",
-      "checked_at": "2026-09-24T14:31:53.510815+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0F1LTR6HF",
@@ -10572,7 +10572,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81yVLoIvPyL._AC_UL600_SR600,400_.jpg",
       "price": "16,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B09Y8H1YKL?tag=enkairito-21",
       "first_seen": "2026-09-18T14:31:49.729389+00:00",
@@ -10582,8 +10582,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T12:31:36.583653+00:00",
-      "checked_at": "2026-09-24T14:31:53.510815+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B09Y19G5ZR",
@@ -11128,8 +11128,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0BX9BNHPK",
@@ -11244,7 +11244,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/5165ygxjDJL._AC_UL600_SR600,400_.jpg",
       "price": "12,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0B431L627?tag=enkairito-21",
       "first_seen": "2026-09-19T12:32:04.828300+00:00",
@@ -11254,8 +11254,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T12:31:36.583653+00:00",
-      "checked_at": "2026-09-24T14:31:53.510815+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0CFXL1ZP7",
@@ -11821,8 +11821,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B09TFTHT28",
@@ -11842,8 +11842,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0F4XQ6D1L",
@@ -12147,7 +12147,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61ZSt29tcfL._AC_UL600_SR600,400_.jpg",
       "price": "14,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B08R6YDQTF?tag=enkairito-21",
       "first_seen": "2026-09-20T20:31:36.304803+00:00",
@@ -12157,8 +12157,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T12:31:36.583653+00:00",
-      "checked_at": "2026-09-24T14:31:53.510815+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0DXPR47FR",
@@ -12417,7 +12417,7 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Corsair FANATEC Sim Racing CSL Volante GT3 – Empuñaduras de Goma Sobremoldeada, Cambios Magnética Tipo Balancín, Dos Levas Analógicas, Pantalla OLED, QR2 Lite Wheel-Side Preinstalado – PC, Xbox",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71wzlM7eCrL._AC_UL600_SR600,400_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71wzlM7eCrL._AC_UL300_SR300,200_.jpg",
       "price": "169,95 €",
       "original_price": null,
       "status": "compra_directa",
@@ -12430,8 +12430,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B09PT92QL1",
@@ -12808,8 +12808,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0G6K9K5CV",
@@ -12858,7 +12858,7 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Turtle Beach Stealth 500 Negro Xbox Auriculares de Juego inalámbricos con 40hr Batería y Bluetooth para Xbox Series X|S y Xbox One",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71LnRbQfXfL._AC_UL600_SR600,400_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71LnRbQfXfL._AC_UL300_SR300,200_.jpg",
       "price": "69,99 €",
       "original_price": null,
       "status": "compra_directa",
@@ -12871,8 +12871,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0DM63GGWG",
@@ -12903,7 +12903,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/51Fu8ZKB-tL._AC_UL300_SR300,200_.jpg",
       "price": "23,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0CP5G4SKN?tag=enkairito-21",
       "first_seen": "2026-09-23T12:31:48.397753+00:00",
@@ -12913,8 +12913,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T12:31:36.583653+00:00",
-      "checked_at": "2026-09-24T14:31:53.510815+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0CPTQ2NSK",
@@ -12924,7 +12924,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/61SSxaKn6JL._AC_UL300_SR300,200_.jpg",
       "price": "37,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0CPTQ2NSK?tag=enkairito-21",
       "first_seen": "2026-09-23T12:31:48.397757+00:00",
@@ -12934,8 +12934,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T12:31:36.583653+00:00",
-      "checked_at": "2026-09-24T14:31:53.510815+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0DB1SHWC1",
@@ -13249,8 +13249,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0D412FWZH",
@@ -13270,8 +13270,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T16:31:32.824636+00:00",
-      "checked_at": "2026-09-24T16:31:32.824636+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0DM1WQD1Q",
@@ -13344,7 +13344,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/61XfoqYoX2L._AC_UL300_SR300,200_.jpg",
       "price": "64,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B07L2Q4CTF?tag=enkairito-21",
       "first_seen": "2026-09-24T12:31:36.578698+00:00",
@@ -13354,8 +13354,8 @@
       ],
       "source": "xbox",
       "_src": "accesorios.json",
-      "last_seen": "2026-09-24T12:31:36.583653+00:00",
-      "checked_at": "2026-09-24T14:31:53.510815+00:00"
+      "last_seen": "2026-09-24T18:31:45.682763+00:00",
+      "checked_at": "2026-09-24T18:31:45.682763+00:00"
     },
     {
       "asin": "B0GFX59W87",
