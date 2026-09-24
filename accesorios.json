@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-24T00:07:18.015529+00:00",
+  "updated_at": "2026-09-24T00:16:40.370117+00:00",
   "source_updates": {
     "accessories": "2026-09-23T06:02:01.312764+00:00",
     "onepiece": "2026-09-24T00:07:18.015529+00:00",
     "magic": "2026-09-23T18:17:08.976680+00:00",
-    "lorcana": "2026-09-23T18:17:00.013852+00:00",
+    "lorcana": "2026-09-24T00:16:40.370117+00:00",
     "yugioh": "2026-09-23T18:16:49.303186+00:00",
     "playstation": "2026-09-23T22:31:48.002257+00:00",
     "nintendo": "2026-09-23T22:31:42.374866+00:00",
@@ -586,24 +586,6 @@
         "Yu-Gi-Oh!"
       ],
       "source": "yugioh"
-    },
-    {
-      "asin": "B0F4QPH25J",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Ravensburger - Disney Lorcana TCG: Set 9 Album Para Cartas Princesas | Album Cartas De Colección Con Capacidad Para 252 | Disney Lorcana Con Un Diseño Único | Card Sleeves",
-      "image": "https://m.media-amazon.com/images/I/81swcEuZIgL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "28,89 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F4QPH25J?tag=enkairito-21",
-      "first_seen": "2026-09-10T11:31:24.750843+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Lorcana"
-      ],
-      "source": "lorcana"
     },
     {
       "asin": "B0DBV9YTBY",
@@ -4366,6 +4348,42 @@
         "Nintendo"
       ],
       "source": "nintendo"
+    },
+    {
+      "asin": "B0F4QPH25J",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Ravensburger - Disney Lorcana TCG: Set 9 Album Para Cartas Princesas | Album Cartas De Colección Con Capacidad Para 252 | Disney Lorcana Con Un Diseño Único | Card Sleeves",
+      "image": "https://m.media-amazon.com/images/I/81swcEuZIgL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "28,89 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F4QPH25J?tag=enkairito-21",
+      "first_seen": "2026-09-10T11:31:24.750843+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Lorcana"
+      ],
+      "source": "lorcana"
+    },
+    {
+      "asin": "B0DKJSYRRG",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Ravensburger - Disney Lorcana TCG: Set 8 Premium Deck Box | Caja para Cartas De Colección con Capacidad para 100 | Disney Lorcana con Un Diseño Único | Card Sleeves",
+      "image": "https://m.media-amazon.com/images/I/719bsMfjOAL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "37,87 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DKJSYRRG?tag=enkairito-21",
+      "first_seen": "2026-09-17T18:16:11.318588+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Lorcana"
+      ],
+      "source": "lorcana"
     }
   ]
 }
