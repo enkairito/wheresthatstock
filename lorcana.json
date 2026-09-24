@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T06:16:41.311646+00:00",
+  "updated_at": "2026-09-24T12:16:41.973860+00:00",
   "products": [
     {
       "asin": "B0GWDXZ12H",
@@ -92,6 +92,24 @@
       "game": "Lorcana"
     },
     {
+      "asin": "B0CGXJ8244",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Disney Lorcana Disney Lorcana TCG - Ursula's Return Ill",
+      "image": "https://m.media-amazon.com/images/I/71cWdtoI0yL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "68,51 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CGXJ8244?tag=enkairito-21",
+      "first_seen": "2026-09-09T11:34:34.043787+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Otros"
+      ],
+      "game": "Lorcana"
+    },
+    {
       "asin": "B0CSZ52NKM",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -110,24 +128,6 @@
       "game": "Lorcana"
     },
     {
-      "asin": "B0CGXJ8244",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Disney Lorcana Disney Lorcana TCG - Ursula's Return Ill",
-      "image": "https://m.media-amazon.com/images/I/71cWdtoI0yL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "62,32 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0CGXJ8244?tag=enkairito-21",
-      "first_seen": "2026-09-09T11:34:34.043787+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Otros"
-      ],
-      "game": "Lorcana"
-    },
-    {
       "asin": "B0D2G8CZ2X",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -138,7 +138,7 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0D2G8CZ2X?tag=enkairito-21",
-      "first_seen": "2026-09-24T06:16:27.650535+00:00",
+      "first_seen": "2026-09-24T12:16:16.297702+00:00",
       "marketplace": "ES",
       "categories": [
         "Otros"
@@ -254,6 +254,24 @@
       "game": "Lorcana"
     },
     {
+      "asin": "B0H6JGF65L",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Disney Lorcana TCG: Álbum de Recortes, diseño de Mickey y Minnie",
+      "image": "https://m.media-amazon.com/images/I/81K6Di4DGGL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "24,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0H6JGF65L?tag=enkairito-21",
+      "first_seen": "2026-09-10T16:33:40.832890+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Otros"
+      ],
+      "game": "Lorcana"
+    },
+    {
       "asin": "B0CSZ553QK",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -290,17 +308,17 @@
       "game": "Lorcana"
     },
     {
-      "asin": "B0H6JGF65L",
+      "asin": "B0H6Y11D6C",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Disney Lorcana TCG: Álbum de Recortes, diseño de Mickey y Minnie",
-      "image": "https://m.media-amazon.com/images/I/81K6Di4DGGL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "24,99 €",
+      "name": "Disney Lorcana TCG: Attack of The Vine! - Illumineers Trove",
+      "image": "https://m.media-amazon.com/images/I/81+s5urbmhL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "152,33 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0H6JGF65L?tag=enkairito-21",
-      "first_seen": "2026-09-10T16:33:40.832890+00:00",
+      "link": "https://www.amazon.es/dp/B0H6Y11D6C?tag=enkairito-21",
+      "first_seen": "2026-09-12T06:17:10.925508+00:00",
       "marketplace": "ES",
       "categories": [
         "Otros"
@@ -354,28 +372,10 @@
       "status": "compra_directa",
       "stock": "1",
       "link": "https://www.amazon.es/dp/B0CSZ4LW95?tag=enkairito-21",
-      "first_seen": "2026-09-24T06:16:35.379895+00:00",
+      "first_seen": "2026-09-24T12:16:24.572109+00:00",
       "marketplace": "ES",
       "categories": [
         "Mazo Inicial"
-      ],
-      "game": "Lorcana"
-    },
-    {
-      "asin": "B0H6Y11D6C",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Disney Lorcana TCG: Attack of The Vine! - Illumineers Trove",
-      "image": "https://m.media-amazon.com/images/I/81+s5urbmhL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "152,33 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0H6Y11D6C?tag=enkairito-21",
-      "first_seen": "2026-09-12T06:17:10.925508+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Otros"
       ],
       "game": "Lorcana"
     },
@@ -385,10 +385,10 @@
       "flag": "🇪🇸",
       "name": "Disney Lorcana TCG: Desconocido Wild - Mazo de Inicio para Dos Jugadores Inglés",
       "image": "https://m.media-amazon.com/images/I/610SzD6o7CL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "39,99 €",
+      "price": "29,99 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "1",
+      "stock": "3",
       "link": "https://www.amazon.es/dp/B0GWH99LCS?tag=enkairito-21",
       "first_seen": "2026-09-07T17:43:01.799827+00:00",
       "marketplace": "ES",
@@ -412,6 +412,24 @@
       "marketplace": "ES",
       "categories": [
         "Otros"
+      ],
+      "game": "Lorcana"
+    },
+    {
+      "asin": "B0DJNZVGL5",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Ravensburger - Disney Lorcana TCG: Mar de Azurrita, Starter Deck Ambra & Rubí 60 Cartas, Cartas de Juego Coleccionables, Juego Adultos y Niños, Edición en Italiano",
+      "image": "https://m.media-amazon.com/images/I/81qYQ6UpvUL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "19,73 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DJNZVGL5?tag=enkairito-21",
+      "first_seen": "2026-09-14T00:16:33.506754+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Mazo Inicial"
       ],
       "game": "Lorcana"
     }
