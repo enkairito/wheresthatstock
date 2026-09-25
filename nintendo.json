@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-25T12:32:08.762527+00:00",
+  "updated_at": "2026-09-25T14:31:52.015262+00:00",
   "products": [
     {
       "asin": "B0F2J4SYJ2",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Nintendo Switch 2",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61CIA5IVbvL._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61CIA5IVbvL._AC_UL600_SR600,400_.jpg",
       "price": "467,00 €",
       "original_price": null,
       "status": "compra_directa",
@@ -132,7 +132,7 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Nintendo Switch 2 + 25e eShop",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/31Q1CMjwEPL._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/31Q1CMjwEPL._AC_UL600_SR600,400_.jpg",
       "price": "494,90 €",
       "original_price": null,
       "status": "compra_directa",
@@ -187,7 +187,7 @@
       "flag": "🇪🇸",
       "name": "Nintendo Switch 2 + Donkey Kong Bananza- Switch 2",
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/617E6nNigaL._AC_UL600_SR600,400_.jpg",
-      "price": "539,89 €",
+      "price": "539,80 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -295,7 +295,7 @@
       "flag": "🇪🇸",
       "name": "Donkey Kong Bananza- Switch 2",
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/813+7CrWOgL._AC_UL600_SR600,400_.jpg",
-      "price": "69,99 €",
+      "price": "69,90 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -344,24 +344,6 @@
       "game": "Nintendo"
     },
     {
-      "asin": "B0F2N8LBQN",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Zelda Breath of the Wild - Nintendo Switch 2 Edition",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81LChsqrJ6L._AC_UL600_SR600,400_.jpg",
-      "price": "68,90 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F2N8LBQN?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:20:15.911922+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Nintendo"
-    },
-    {
       "asin": "B0H4RNH9TN",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -373,6 +355,24 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B0H4RNH9TN?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:50.688262+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Nintendo"
+    },
+    {
+      "asin": "B0F2N8LBQN",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Zelda Breath of the Wild - Nintendo Switch 2 Edition",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81LChsqrJ6L._AC_UL600_SR600,400_.jpg",
+      "price": "68,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F2N8LBQN?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:20:15.911922+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -421,7 +421,7 @@
       "flag": "🇪🇸",
       "name": "Super Mario Party Jamboree - Nintendo Switch 2 Edition",
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81OZ6E7IAqL._AC_UL600_SR600,400_.jpg",
-      "price": "69,99 €",
+      "price": "69,90 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -830,222 +830,6 @@
       "game": "Nintendo"
     },
     {
-      "asin": "B0F3P3MY84",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Figurine Amiibo - Babil (Tears of the Kingdom) • Collection The Legend of Zelda",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/81DiBl-osbL._AC_UL300_SR300,200_.jpg",
-      "price": "21,33 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F3P3MY84?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:50.688518+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Nintendo"
-    },
-    {
-      "asin": "B0G2SCN1SY",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Pokémon Pokopia",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/71JnmyIdtyL._AC_UL300_SR300,200_.jpg",
-      "price": "75,61 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0G2SCN1SY?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:50.688502+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Nintendo"
-    },
-    {
-      "asin": "B0F3DNQY4D",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Daemon X Machina: Titanic Scion - Switch 2",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/71wPWXi2z9L._AC_UL300_SR300,200_.jpg",
-      "price": "44,95 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F3DNQY4D?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:50.688510+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Nintendo"
-    },
-    {
-      "asin": "B0F3NVWM37",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Nintendo Switch 2 Donkey Kong Bananza",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/813+7CrWOgL._AC_UL300_SR300,200_.jpg",
-      "price": "73,60 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F3NVWM37?tag=enkairito-21",
-      "first_seen": "2026-09-18T12:31:52.753836+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Nintendo"
-    },
-    {
-      "asin": "B0H4RY7CW1",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Orbitales",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/81SUJpKvqkL._AC_UL300_SR300,200_.jpg",
-      "price": "51,63 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0H4RY7CW1?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:50.688418+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Nintendo"
-    },
-    {
-      "asin": "B0GSXFTZ2J",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Monopoly: Star Wars Heroes vs Villains (Switch 2)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/71iDIR6IAJL._AC_UL300_SR300,200_.jpg",
-      "price": "24,90 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0GSXFTZ2J?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:50.688550+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Nintendo"
-    },
-    {
-      "asin": "B0F3DP7C79",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Story of Seasons: Grand Bazaar - Switch 2",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/81o6ZuDWfOL._AC_UL300_SR300,200_.jpg",
-      "price": "43,70 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F3DP7C79?tag=enkairito-21",
-      "first_seen": "2026-09-19T12:31:57.853552+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Nintendo"
-    },
-    {
-      "asin": "B0F2N76YP7",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Bravely Default Flying Fairy",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/81wgBYFc4SL._AC_UL300_SR300,200_.jpg",
-      "price": "36,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F2N76YP7?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:50.688566+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Nintendo"
-    },
-    {
-      "asin": "B0F65YTY6B",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Puyo Puyo Tetris 2S - Nintendo Switch 2",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/71mdcWNU4GL._AC_UL300_SR300,200_.jpg",
-      "price": "38,64 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F65YTY6B?tag=enkairito-21",
-      "first_seen": "2026-09-23T12:32:07.775720+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Nintendo"
-    },
-    {
-      "asin": "B0F2N5WHM1",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Street Fighter 6: Year 1-2 Fighters Edition",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/81fWScIpTWL._AC_UL300_SR300,200_.jpg",
-      "price": "39,90 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F2N5WHM1?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:50.688484+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Nintendo"
-    },
-    {
-      "asin": "B0F3NKCYC4",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Super Mario Party: Jamboree - Nintendo Switch 2 Edition + Jamboree TV (Switch 2)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/81ldvuu76LL._AC_UL300_SR300,200_.jpg",
-      "price": "70,58 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F3NKCYC4?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:50.688542+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Nintendo"
-    },
-    {
-      "asin": "B0HK2GK8P5",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Fire Emblem: Fortune's Weave Standard | Nintendo Switch 2 - Código de descarga",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/810+86KJZgL._AC_UL300_SR300,200_.jpg",
-      "price": "69,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0HK2GK8P5?tag=enkairito-21",
-      "first_seen": "2026-09-22T18:31:43.446731+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Nintendo"
-    },
-    {
       "asin": "B0DW8WQ8L2",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -1375,7 +1159,7 @@
       "flag": "🇪🇸",
       "name": "Nintendo Switch Lite Blue + Animal Crossing New Horizons",
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61p+g7fsGHL._AC_UL600_SR600,400_.jpg",
-      "price": "398,20 €",
+      "price": "375,58 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -1482,7 +1266,7 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Nintendo Switch Lite: Hyrule Edition + 12 Months NSO",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51uSBSWgaYL._AC_UL600_SR600,400_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/51uSBSWgaYL._AC_UL300_SR300,200_.jpg",
       "price": "296,10 €",
       "original_price": null,
       "status": "compra_directa",
@@ -1658,24 +1442,6 @@
       "game": "Nintendo"
     },
     {
-      "asin": "B09J1NFWN7",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Nintendo Switch (versión OLED) Azul Neón/Rojo Neón + Nintendo Switch Online - 12 Meses (Código de descarga)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/51cmuiIP6wL._AC_UL300_SR300,200_.jpg",
-      "price": "344,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B09J1NFWN7?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:50.689042+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Nintendo"
-    },
-    {
       "asin": "B07D1L22SD",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -1807,7 +1573,7 @@
       "flag": "🇪🇸",
       "name": "The Legend of Zelda Links Awakening Remake",
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81OkAT4tXjL._AC_UL600_SR600,400_.jpg",
-      "price": "49,99 €",
+      "price": "54,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -1946,24 +1712,6 @@
       "game": "Nintendo"
     },
     {
-      "asin": "B091VTT67M",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Nintendo Switch Leyendas Pokemon: Arceus",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51IY5qMo-vL._AC_UL600_SR600,400_.jpg",
-      "price": "49,90 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B091VTT67M?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:34:14.850883+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Nintendo"
-    },
-    {
       "asin": "B07BDYT58L",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -1975,6 +1723,24 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B07BDYT58L?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:50.689198+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Nintendo"
+    },
+    {
+      "asin": "B091VTT67M",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Nintendo Switch Leyendas Pokemon: Arceus",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51IY5qMo-vL._AC_UL600_SR600,400_.jpg",
+      "price": "49,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B091VTT67M?tag=enkairito-21",
+      "first_seen": "2026-09-16T10:34:14.850883+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -2077,7 +1843,7 @@
       "flag": "🇪🇸",
       "name": "POPPY PLAYTIME TRIPLE PACK - NINTENDO SWITCH",
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71R010yUWaL._AC_UL600_SR600,400_.jpg",
-      "price": "35,00 €",
+      "price": "35,80 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,

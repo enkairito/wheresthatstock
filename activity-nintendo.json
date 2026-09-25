@@ -1,28 +1,5 @@
 [
   {
-    "asin": "B0F4MT273N",
-    "store_label": "Amazon ES",
-    "flag": "🇪🇸",
-    "name": "HSIEHMIEN Bolsa de Almacenamiento para Nintendo Switch Lite 2\", es_MX Slim Tasche für Nintendo Switch 2 (2025), Harte Schutzhülle Tragetasche für Switch 2 mit 12 Spielkartenfächern",
-    "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71tZaMP0fBL._AC_UL600_SR600,400_.jpg",
-    "price": "10,99 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0F4MT273N?tag=enkairito-21",
-    "first_seen": "2026-09-17T00:32:50.688170+00:00",
-    "marketplace": "ES",
-    "categories": [
-      "Videojuego"
-    ],
-    "game": "Nintendo",
-    "ts": "2026-09-24T06:32:15.067197+00:00",
-    "type": "restock",
-    "prev_price": "10,99 €",
-    "_src": "nintendo.json",
-    "id": "ES-B0F4MT273N:2026-09-24T06:32:15.067197+00:00:restock"
-  },
-  {
     "asin": "B0H26WZRZ1",
     "store_label": "Amazon ES",
     "flag": "🇪🇸",
@@ -4598,5 +4575,28 @@
     "prev_price": "35,83 €",
     "_src": "nintendo.json",
     "id": "ES-B0DN6G6FJP:2026-09-25T12:32:08.762527+00:00:price_drop"
+  },
+  {
+    "asin": "B0FQC3P2Y1",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Nintendo Switch Lite Blue + Animal Crossing New Horizons",
+    "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61p+g7fsGHL._AC_UL600_SR600,400_.jpg",
+    "price": "375,58 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0FQC3P2Y1?tag=enkairito-21",
+    "first_seen": "2026-09-17T00:32:50.688827+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Videojuego"
+    ],
+    "game": "Nintendo",
+    "ts": "2026-09-25T14:31:52.015262+00:00",
+    "type": "price_drop",
+    "prev_price": "398,20 €",
+    "_src": "nintendo.json",
+    "id": "ES-B0FQC3P2Y1:2026-09-25T14:31:52.015262+00:00:price_drop"
   }
 ]
