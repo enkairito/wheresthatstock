@@ -1,51 +1,5 @@
 [
   {
-    "asin": "B0H6DTXPK1",
-    "store_label": "Amazon USA",
-    "flag": "🇺🇸",
-    "name": "Pokémon TCG: Mega Evolution—Ascended Heroes Tin",
-    "image": "https://m.media-amazon.com/images/I/71nadHI3U9L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "79,97 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": "4",
-    "link": "https://www.amazon.es/dp/B0H6DTXPK1?tag=enkairito-21",
-    "first_seen": "2026-08-30T23:03:24.893535+00:00",
-    "marketplace": "US",
-    "categories": [
-      "Otros"
-    ],
-    "game": "Pokémon",
-    "ts": "2026-09-25T07:44:58.177667+00:00",
-    "type": "restock",
-    "prev_price": "79,97 €",
-    "_src": "products.json",
-    "id": "US-B0H6DTXPK1:2026-09-25T07:44:58.177667+00:00:restock"
-  },
-  {
-    "asin": "B0H7818RCM",
-    "store_label": "Amazon USA",
-    "flag": "🇺🇸",
-    "name": "Pokémon TCG: 30th Celebration Pokémon ex Box",
-    "image": "https://m.media-amazon.com/images/I/91IsiEZhWzL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "97,61 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0H7818RCM?tag=enkairito-21",
-    "first_seen": "2026-09-24T21:03:14.298681+00:00",
-    "marketplace": "US",
-    "categories": [
-      "Otros"
-    ],
-    "game": "Pokémon",
-    "ts": "2026-09-25T07:44:58.177667+00:00",
-    "type": "restock",
-    "prev_price": "97,61 €",
-    "_src": "products.json",
-    "id": "US-B0H7818RCM:2026-09-25T07:44:58.177667+00:00:restock"
-  },
-  {
     "asin": "B0GFZV1ZVV",
     "store_label": "Amazon USA",
     "flag": "🇺🇸",
@@ -4598,5 +4552,51 @@
     "prev_price": "122,91 €",
     "_src": "products.json",
     "id": "UK-B0DLQJ613B:2026-09-25T13:43:40.075265+00:00:restock"
+  },
+  {
+    "asin": "B0F6PGX3SQ",
+    "store_label": "Amazon UK",
+    "flag": "🇬🇧",
+    "name": "Pokémon TCG: Unova Mini Tin – Krookodile & Excadrill (2 Paquetes de Refuerzo y 1 Tarjeta Adhesiva)",
+    "image": "https://m.media-amazon.com/images/I/71nltWrobAL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "41,48 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": "1",
+    "link": "https://www.amazon.es/dp/B0F6PGX3SQ?tag=enkairito-21",
+    "first_seen": "2026-09-12T20:22:49.294754+00:00",
+    "marketplace": "UK",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-25T14:03:50.933344+00:00",
+    "type": "restock",
+    "prev_price": "41,48 €",
+    "_src": "products.json",
+    "id": "UK-B0F6PGX3SQ:2026-09-25T14:03:50.933344+00:00:restock"
+  },
+  {
+    "asin": "B0F2BFSPBN",
+    "store_label": "Amazon USA",
+    "flag": "🇺🇸",
+    "name": "Pokémon TCG: Scarlet & Violet - Destined Rivals - Paquete de 3 blíster - Zebstrika (3 Paquetes de Refuerzo y 1 Tarjeta Promocional de Aluminio)",
+    "image": "https://m.media-amazon.com/images/I/81vjKrzT81L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "74,49 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0F2BFSPBN?tag=enkairito-21",
+    "first_seen": "2026-09-04T21:32:58.802941+00:00",
+    "marketplace": "US",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-25T14:03:50.933344+00:00",
+    "type": "restock",
+    "prev_price": "74,49 €",
+    "_src": "products.json",
+    "id": "US-B0F2BFSPBN:2026-09-25T14:03:50.933344+00:00:restock"
   }
 ]
