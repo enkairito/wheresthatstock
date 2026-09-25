@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T20:07:33.333825+00:00",
+  "updated_at": "2026-09-25T21:07:21.462883+00:00",
   "products": [
     {
       "asin": "B0F1SJY5S3",
@@ -7,7 +7,7 @@
       "flag": "🇪🇸",
       "name": "The Best Vol. 2 Premium Booster Box PRB-02 (10) – Juego de cartas de One Piece – JP",
       "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61q8z2yzGFL._AC_UL320_.jpg",
-      "price": "125,28 €",
+      "price": "125,90 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -182,24 +182,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0HC7Q9P41",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Juego de cartas de una pieza ST-35 rojo y negro Sabo | Baraja de inicio, ST-35, rojo y negro, Sabo, juego de cartas coleccionables",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61FYUZUbUoL._AC_UL320_.jpg",
-      "price": "26,00 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "2",
-      "link": "https://www.amazon.es/dp/B0HC7Q9P41?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:08:37.714905+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Starter Deck"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0G2VKBZML",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -214,6 +196,24 @@
       "marketplace": "ES",
       "categories": [
         "Booster Box"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0HC7Q9P41",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Juego de cartas de una pieza ST-35 rojo y negro Sabo | Baraja de inicio, ST-35, rojo y negro, Sabo, juego de cartas coleccionables",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61FYUZUbUoL._AC_UL320_.jpg",
+      "price": "26,00 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "2",
+      "link": "https://www.amazon.es/dp/B0HC7Q9P41?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:08:37.714905+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Starter Deck"
       ],
       "game": "One Piece"
     },
@@ -308,24 +308,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0CRKK3D43",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "One Piece TCG: 500 Years In The Future - Booster Pack (OP-07) (JP) (TCG)",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/8112JGolGDL._AC_UL320_.jpg",
-      "price": "7,99 €",
-      "original_price": "10,69 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0CRKK3D43?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:08:58.807648+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Sobre"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0HC79T34C",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -340,6 +322,24 @@
       "marketplace": "ES",
       "categories": [
         "Starter Deck"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0CRKK3D43",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "One Piece TCG: 500 Years In The Future - Booster Pack (OP-07) (JP) (TCG)",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/8112JGolGDL._AC_UL320_.jpg",
+      "price": "7,99 €",
+      "original_price": "10,69 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CRKK3D43?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:08:58.807648+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Sobre"
       ],
       "game": "One Piece"
     },
