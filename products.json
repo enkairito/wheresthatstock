@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T21:43:26.214467+00:00",
+  "updated_at": "2026-09-25T22:03:27.855653+00:00",
   "products": [
     {
       "asin": "B0H8SZ9F99",
@@ -1389,6 +1389,24 @@
       "game": "Pokémon"
     },
     {
+      "asin": "B0GYTRYV7P",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Mega Evolution—Pitch Black Booster Bundle",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81ANtTqGJVL._AC_UL320_.jpg",
+      "price": "55,44 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "1",
+      "link": "https://www.amazon.es/dp/B0GYTRYV7P?tag=enkairito-21",
+      "first_seen": "2026-08-30T20:46:19.644833+00:00",
+      "marketplace": "US",
+      "categories": [
+        "Otros"
+      ],
+      "game": "Pokémon"
+    },
+    {
       "asin": "B0GZ9S9KDR",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
@@ -1569,24 +1587,6 @@
       "game": "Pokémon"
     },
     {
-      "asin": "B0FPNRG8GS",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Mega Evolution—Phantasmal Flames Triple Pack Sneasel (1 Carta Promocional holográfica y 3 Sobres potenciadores)",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/91HdZKv9WJL._AC_UL320_.jpg",
-      "price": "69,95 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FPNRG8GS?tag=enkairito-21",
-      "first_seen": "2026-09-04T21:32:58.802909+00:00",
-      "marketplace": "US",
-      "categories": [
-        "Otros"
-      ],
-      "game": "Pokémon"
-    },
-    {
       "asin": "B0D1RKJM6K",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
@@ -1598,6 +1598,24 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B0D1RKJM6K?tag=enkairito-21",
       "first_seen": "2026-09-04T21:32:58.802920+00:00",
+      "marketplace": "US",
+      "categories": [
+        "Otros"
+      ],
+      "game": "Pokémon"
+    },
+    {
+      "asin": "B0FPNRG8GS",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Mega Evolution—Phantasmal Flames Triple Pack Sneasel (1 Carta Promocional holográfica y 3 Sobres potenciadores)",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/91HdZKv9WJL._AC_UL320_.jpg",
+      "price": "69,95 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FPNRG8GS?tag=enkairito-21",
+      "first_seen": "2026-09-04T21:32:58.802909+00:00",
       "marketplace": "US",
       "categories": [
         "Otros"
@@ -1688,24 +1706,6 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B0F2BFSPBN?tag=enkairito-21",
       "first_seen": "2026-09-04T21:32:58.802941+00:00",
-      "marketplace": "US",
-      "categories": [
-        "Otros"
-      ],
-      "game": "Pokémon"
-    },
-    {
-      "asin": "B0FS98MMML",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Booster Pack de 10 Cartas Mega Evolution Flames Phantasmal Mangas",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71r-eHgKChL._AC_UL320_.jpg",
-      "price": "29,05 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "1",
-      "link": "https://www.amazon.es/dp/B0FS98MMML?tag=enkairito-21",
-      "first_seen": "2026-09-04T22:05:43.537336+00:00",
       "marketplace": "US",
       "categories": [
         "Otros"
@@ -2353,7 +2353,7 @@
       "status": "compra_directa",
       "stock": 1.0,
       "link": "https://www.todoconsolas.com/cartas-y-cromos/212175-reacondicionado__coleccion_houndstone_ex_pokemon_tcg_es_278504-820650505270.html",
-      "first_seen": "2026-09-25T21:42:59.085350+00:00",
+      "first_seen": "2026-09-25T22:03:00.705729+00:00",
       "marketplace": "TC",
       "categories": [
         "Otros"
@@ -2569,7 +2569,7 @@
       "status": "compra_directa",
       "stock": 1.0,
       "link": "https://www.todoconsolas.com/cartas-y-cromos/212457-bundle_caos_creciente_build_and_battle_pokemon_tcg_en_278853-196214154131.html",
-      "first_seen": "2026-09-25T21:43:04.583890+00:00",
+      "first_seen": "2026-09-25T22:03:06.259443+00:00",
       "marketplace": "TC",
       "categories": [
         "Otros"
@@ -2659,7 +2659,7 @@
       "status": "compra_directa",
       "stock": 1.0,
       "link": "https://www.todoconsolas.com/cartas-y-cromos/212174-reacondicionado__coleccion_grafaiai_ex_pokemon_tcg_es_278503-820650504983.html",
-      "first_seen": "2026-09-25T21:43:09.984321+00:00",
+      "first_seen": "2026-09-25T22:03:11.692739+00:00",
       "marketplace": "TC",
       "categories": [
         "Otros"
@@ -2821,7 +2821,7 @@
       "status": "compra_directa",
       "stock": 1.0,
       "link": "https://www.todoconsolas.com/cartas-y-cromos/212456-coleccion_ilustracion_especial_escarlata_y_purpura_fabula_sombria_pokemon_tcg_es_278852-820650505409.html",
-      "first_seen": "2026-09-25T21:43:15.412420+00:00",
+      "first_seen": "2026-09-25T22:03:17.058154+00:00",
       "marketplace": "TC",
       "categories": [
         "Otros"
@@ -2911,7 +2911,7 @@
       "status": "compra_directa",
       "stock": 1.0,
       "link": "https://www.todoconsolas.com/cartas-y-cromos/212172-reacondicionado__lata_brecha_paradojica_pokemon_tcg_es_278501-820650505058.html",
-      "first_seen": "2026-09-25T21:43:20.801142+00:00",
+      "first_seen": "2026-09-25T22:03:22.452017+00:00",
       "marketplace": "TC",
       "categories": [
         "Latas"
