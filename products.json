@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T21:23:45.498126+00:00",
+  "updated_at": "2026-09-25T21:43:26.214467+00:00",
   "products": [
     {
       "asin": "B0H8SZ9F99",
@@ -370,7 +370,7 @@
       "price": "38,00 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": null,
+      "stock": "4",
       "link": "https://www.amazon.es/dp/B0DSGB5Q6B?tag=enkairito-21",
       "first_seen": "2026-08-25T20:27:15.542170+00:00",
       "marketplace": "ES",
@@ -1155,17 +1155,17 @@
       "game": "Pokémon"
     },
     {
-      "asin": "B0GWCSP6MR",
+      "asin": "B0F6PGX3SQ",
       "store_label": "Amazon UK",
       "flag": "🇬🇧",
-      "name": "Pokémon TCG: Mega Evolution - Chaos Rising 1 x Booster Pack, juego de cartas coleccionables",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61fr9skKG-L._AC_UL320_.jpg",
-      "price": "21,65 €",
+      "name": "Pokémon TCG: Unova Mini Tin – Krookodile & Excadrill (2 Paquetes de Refuerzo y 1 Tarjeta Adhesiva)",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71nltWrobAL._AC_UL320_.jpg",
+      "price": "41,48 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0GWCSP6MR?tag=enkairito-21",
-      "first_seen": "2026-09-06T13:57:50.628764+00:00",
+      "stock": "1",
+      "link": "https://www.amazon.es/dp/B0F6PGX3SQ?tag=enkairito-21",
+      "first_seen": "2026-09-12T20:22:49.294754+00:00",
       "marketplace": "UK",
       "categories": [
         "Otros"
@@ -1191,35 +1191,17 @@
       "game": "Pokémon"
     },
     {
-      "asin": "B0F6PGX3SQ",
+      "asin": "B0GWCSP6MR",
       "store_label": "Amazon UK",
       "flag": "🇬🇧",
-      "name": "Pokémon TCG: Unova Mini Tin – Krookodile & Excadrill (2 Paquetes de Refuerzo y 1 Tarjeta Adhesiva)",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71nltWrobAL._AC_UL320_.jpg",
-      "price": "41,48 €",
+      "name": "Pokémon TCG: Mega Evolution - Chaos Rising 1 x Booster Pack, juego de cartas coleccionables",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61fr9skKG-L._AC_UL320_.jpg",
+      "price": "21,65 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "1",
-      "link": "https://www.amazon.es/dp/B0F6PGX3SQ?tag=enkairito-21",
-      "first_seen": "2026-09-12T20:22:49.294754+00:00",
-      "marketplace": "UK",
-      "categories": [
-        "Otros"
-      ],
-      "game": "Pokémon"
-    },
-    {
-      "asin": "B09M48Z5NW",
-      "store_label": "Amazon UK",
-      "flag": "🇬🇧",
-      "name": "Pokemon TCG: V Battle Deck: Lycanroc vs. Corviknight",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71fYchuNuOL._AC_UL320_.jpg",
-      "price": "54,97 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "4",
-      "link": "https://www.amazon.es/dp/B09M48Z5NW?tag=enkairito-21",
-      "first_seen": "2026-09-08T14:34:56.335876+00:00",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GWCSP6MR?tag=enkairito-21",
+      "first_seen": "2026-09-06T13:57:50.628764+00:00",
       "marketplace": "UK",
       "categories": [
         "Otros"
@@ -1274,6 +1256,24 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B0BCPRFMQH?tag=enkairito-21",
       "first_seen": "2026-09-04T21:32:58.802795+00:00",
+      "marketplace": "UK",
+      "categories": [
+        "Otros"
+      ],
+      "game": "Pokémon"
+    },
+    {
+      "asin": "B0FS98MMML",
+      "store_label": "Amazon UK",
+      "flag": "🇬🇧",
+      "name": "Pokémon TCG: Booster Pack de 10 Cartas Mega Evolution Flames Phantasmal Mangas",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71r-eHgKChL._AC_UL320_.jpg",
+      "price": "38,64 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FS98MMML?tag=enkairito-21",
+      "first_seen": "2026-09-08T14:34:56.335771+00:00",
       "marketplace": "UK",
       "categories": [
         "Otros"
@@ -1371,24 +1371,6 @@
       "game": "Pokémon"
     },
     {
-      "asin": "B0GYTRYV7P",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Mega Evolution—Pitch Black Booster Bundle",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81ANtTqGJVL._AC_UL320_.jpg",
-      "price": "55,44 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "1",
-      "link": "https://www.amazon.es/dp/B0GYTRYV7P?tag=enkairito-21",
-      "first_seen": "2026-08-30T20:46:19.644833+00:00",
-      "marketplace": "US",
-      "categories": [
-        "Otros"
-      ],
-      "game": "Pokémon"
-    },
-    {
       "asin": "B0H7818RCM",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
@@ -1418,6 +1400,24 @@
       "stock": "1",
       "link": "https://www.amazon.es/dp/B0GZ9S9KDR?tag=enkairito-21",
       "first_seen": "2026-08-30T20:46:19.644840+00:00",
+      "marketplace": "US",
+      "categories": [
+        "Otros"
+      ],
+      "game": "Pokémon"
+    },
+    {
+      "asin": "B0GR6Q72ND",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Mega Evolution—Chaos Rising Booster Bundle",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81pdaHp6Q1L._AC_UL320_.jpg",
+      "price": "52,33 €",
+      "original_price": "55,86 €",
+      "status": "compra_directa",
+      "stock": "1",
+      "link": "https://www.amazon.es/dp/B0GR6Q72ND?tag=enkairito-21",
+      "first_seen": "2026-08-30T20:46:19.644837+00:00",
       "marketplace": "US",
       "categories": [
         "Otros"
@@ -1641,6 +1641,24 @@
       "game": "Pokémon"
     },
     {
+      "asin": "B0CXTNNVHN",
+      "store_label": "Amazon USA",
+      "flag": "🇺🇸",
+      "name": "Pokémon TCG: Mini Cartera (Cartera de 60 Tarjetas y 1 Paquete de Refuerzo)",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81myxu2isgL._AC_UL320_.jpg",
+      "price": "33,29 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CXTNNVHN?tag=enkairito-21",
+      "first_seen": "2026-09-07T19:01:37.274378+00:00",
+      "marketplace": "US",
+      "categories": [
+        "Otros"
+      ],
+      "game": "Pokémon"
+    },
+    {
       "asin": "B0F6PQLR16",
       "store_label": "Amazon USA",
       "flag": "🇺🇸",
@@ -1670,24 +1688,6 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B0F2BFSPBN?tag=enkairito-21",
       "first_seen": "2026-09-04T21:32:58.802941+00:00",
-      "marketplace": "US",
-      "categories": [
-        "Otros"
-      ],
-      "game": "Pokémon"
-    },
-    {
-      "asin": "B0CXTNNVHN",
-      "store_label": "Amazon USA",
-      "flag": "🇺🇸",
-      "name": "Pokémon TCG: Mini Cartera (Cartera de 60 Tarjetas y 1 Paquete de Refuerzo)",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81myxu2isgL._AC_UL320_.jpg",
-      "price": "33,29 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0CXTNNVHN?tag=enkairito-21",
-      "first_seen": "2026-09-07T19:01:37.274378+00:00",
       "marketplace": "US",
       "categories": [
         "Otros"
@@ -2353,7 +2353,7 @@
       "status": "compra_directa",
       "stock": 1.0,
       "link": "https://www.todoconsolas.com/cartas-y-cromos/212175-reacondicionado__coleccion_houndstone_ex_pokemon_tcg_es_278504-820650505270.html",
-      "first_seen": "2026-09-25T21:23:18.598606+00:00",
+      "first_seen": "2026-09-25T21:42:59.085350+00:00",
       "marketplace": "TC",
       "categories": [
         "Otros"
@@ -2569,7 +2569,7 @@
       "status": "compra_directa",
       "stock": 1.0,
       "link": "https://www.todoconsolas.com/cartas-y-cromos/212457-bundle_caos_creciente_build_and_battle_pokemon_tcg_en_278853-196214154131.html",
-      "first_seen": "2026-09-25T21:23:24.037129+00:00",
+      "first_seen": "2026-09-25T21:43:04.583890+00:00",
       "marketplace": "TC",
       "categories": [
         "Otros"
@@ -2659,7 +2659,7 @@
       "status": "compra_directa",
       "stock": 1.0,
       "link": "https://www.todoconsolas.com/cartas-y-cromos/212174-reacondicionado__coleccion_grafaiai_ex_pokemon_tcg_es_278503-820650504983.html",
-      "first_seen": "2026-09-25T21:23:29.382862+00:00",
+      "first_seen": "2026-09-25T21:43:09.984321+00:00",
       "marketplace": "TC",
       "categories": [
         "Otros"
@@ -2821,7 +2821,7 @@
       "status": "compra_directa",
       "stock": 1.0,
       "link": "https://www.todoconsolas.com/cartas-y-cromos/212456-coleccion_ilustracion_especial_escarlata_y_purpura_fabula_sombria_pokemon_tcg_es_278852-820650505409.html",
-      "first_seen": "2026-09-25T21:23:34.724393+00:00",
+      "first_seen": "2026-09-25T21:43:15.412420+00:00",
       "marketplace": "TC",
       "categories": [
         "Otros"
@@ -2911,7 +2911,7 @@
       "status": "compra_directa",
       "stock": 1.0,
       "link": "https://www.todoconsolas.com/cartas-y-cromos/212172-reacondicionado__lata_brecha_paradojica_pokemon_tcg_es_278501-820650505058.html",
-      "first_seen": "2026-09-25T21:23:40.102303+00:00",
+      "first_seen": "2026-09-25T21:43:20.801142+00:00",
       "marketplace": "TC",
       "categories": [
         "Latas"
