@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T12:32:08.764121+00:00",
+  "updated_at": "2026-09-25T12:31:56.860069+00:00",
   "source_updates": {
     "accessories": "2026-09-25T06:02:37.418233+00:00",
     "onepiece": "2026-09-25T12:07:34.260566+00:00",
@@ -8,7 +8,7 @@
     "yugioh": "2026-09-25T12:16:52.068088+00:00",
     "playstation": "2026-09-25T10:32:19.364927+00:00",
     "nintendo": "2026-09-25T12:32:08.764121+00:00",
-    "xbox": "2026-09-25T10:32:07.092355+00:00"
+    "xbox": "2026-09-25T12:31:56.860069+00:00"
   },
   "products": [
     {
@@ -580,12 +580,12 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0D7CD7WZ4?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:50.689720+00:00",
+      "first_seen": "2026-09-17T00:32:42.257596+00:00",
       "marketplace": "ES",
       "categories": [
-        "Nintendo"
+        "Xbox"
       ],
-      "source": "nintendo"
+      "source": "xbox"
     },
     {
       "asin": "B0FNWYM43G",
@@ -616,12 +616,12 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B07GS6ZB7T?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:50.689963+00:00",
+      "first_seen": "2026-09-17T00:32:42.257589+00:00",
       "marketplace": "ES",
       "categories": [
-        "Nintendo"
+        "Xbox"
       ],
-      "source": "nintendo"
+      "source": "xbox"
     },
     {
       "asin": "B0DHZTZ3KG",
@@ -706,12 +706,12 @@
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0DBV9YTBY?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:50.690061+00:00",
+      "first_seen": "2026-09-17T00:32:42.257455+00:00",
       "marketplace": "ES",
       "categories": [
-        "Nintendo"
+        "Xbox"
       ],
-      "source": "nintendo"
+      "source": "xbox"
     },
     {
       "asin": "B0D1KBNWHF",
@@ -892,24 +892,6 @@
         "PlayStation"
       ],
       "source": "playstation"
-    },
-    {
-      "asin": "B09DPR2LZW",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Ozeino Cascos Gaming, Auriculares Gaming con Micrófono Rotatorio, Luz RGB, Premium Stereo, Orejeras Ligero Cómodo, para Ps4 Ps5 Xbox PC Switch Tableta Laptop",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61jmLD3hYaL._AC_UL600_SR600,400_.jpg",
-      "price": "24,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B09DPR2LZW?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:11.204501+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
     },
     {
       "asin": "B0BX722HFN",
@@ -1344,24 +1326,6 @@
       "source": "nintendo"
     },
     {
-      "asin": "B0DPHGSSWH",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Fenolical Soporte Delgado para PS5/PS5 con Ventilador de Refrigeración Ajustable, Soporte de Cargador de Refrigeración Vertical PS5 para PS5/PS5 Slim, Estación de Refrigeración Delgada Multifuncional",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71qqZqGlMWL._AC_UL600_SR600,400_.jpg",
-      "price": "31,34 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0DPHGSSWH?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.257620+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
       "asin": "B09PX6GHJ7",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -1576,24 +1540,6 @@
         "PlayStation"
       ],
       "source": "playstation"
-    },
-    {
-      "asin": "B07GS6ZS8J",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Logitech G G502 Hero Ratón Gaming con Cable Alto Rendimiento | Captor HERO 25K, 25,600 DPI, RGB, Peso Personalizable, 11 Botones Programables, Memoria Integrada, PC/Mac - Negro",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51jWEFaiZFL._AC_UL600_SR600,400_.jpg",
-      "price": "29,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B07GS6ZS8J?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.257627+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
     },
     {
       "asin": "B0FVLWNTF9",
@@ -1936,1194 +1882,6 @@
         "PlayStation"
       ],
       "source": "playstation"
-    },
-    {
-      "asin": "B0F4YDX9W1",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Nacon Revolution X Unlimited – Mando inalámbrico de Alta precisión para Xbox Series X|S, Xbox One y PC",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61RVKB2OKgL._AC_UL600_SR600,400_.jpg",
-      "price": "199,90 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F4YDX9W1?tag=enkairito-21",
-      "first_seen": "2026-09-13T18:21:32.459926+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B09H6XB7SJ",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Yorha 1 Funda de Silicona Tallada con láser para Mando Xbox Series X/S (Rojo) con empuñaduras Pro Thumb x 8",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71bRu9opS0L._AC_UL600_SR600,400_.jpg",
-      "price": "21,34 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B09H6XB7SJ?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.257416+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B092J3RX5R",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "playvital Funda Antipolvo para Xbox Series S Consola | Cubierta Vertical, Resistente al Agua, Forro Suave, Acceso Fácil a Puertos, Protección contra Polvo, Negro",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81M4pNeXT9L._AC_UL600_SR600,400_.jpg",
-      "price": "21,49 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B092J3RX5R?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.257424+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0B2NNDY2Q",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Ventilador de refrigeración RGB Mejorado para Xbox Series X con Filtro de Cubierta Antipolvo, Accesorios de Sistema de refrigeración de luz LED Colorida con Ventilador de Velocidad Ajustable de 3",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81PHvDPFS6L._AC_UL600_SR600,400_.jpg",
-      "price": "42,93 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0B2NNDY2Q?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.257428+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0C52X3QXG",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "playvital Funda Antipolvo para Xbox Series S Consola | Cubierta Horizontal, Resistente al Agua, Forro Suave, Acceso Fácil a Puertos, Protección contra Polvo, Nebulosa Azul",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/810uS1hHTYL._AC_UL600_SR600,400_.jpg",
-      "price": "21,49 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0C52X3QXG?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.257432+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0B63T92TR",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Soporte de pared para Xbox Series X, con 2 soportes para controlador y 1 soporte para auriculares, kit de montaje en pared para accesorios Xbox Series X, estante de pared con diseño de ventilación",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/71UB-T9bPCL._AC_UL300_SR300,200_.jpg",
-      "price": "38,24 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0B63T92TR?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.257436+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0B52191TF",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Cubierta de Filtro de Polvo para Series X Host, Cubierta de Filtro de Disipación de Calor Y Protección contra el Polvo con Soporte de Almacenamiento Retráctil VR(Negro)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/51yIIgPsJ5L._AC_UL300_SR300,200_.jpg",
-      "price": "22,18 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0B52191TF?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.257440+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0HFNKCPX3",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Stage Tour Game + Kramer Wireless Guitar Controller Bundle para Xbox Series X|S",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61nND9wQH1L._AC_UL600_SR600,400_.jpg",
-      "price": "134,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0HFNKCPX3?tag=enkairito-21",
-      "first_seen": "2026-09-14T00:22:37.466285+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0F2Q8S4HN",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Xbox Wireless Controller + cable USB-C",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61Suj-ZDYvL._AC_UL600_SR600,400_.jpg",
-      "price": "56,15 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F2Q8S4HN?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.257447+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0GTBVX67G",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Turtle Beach Rematch Core Ghost Camo Negro - Mando con Cable - con Licencia para Xbox Series XS, Xbox One y PC - Sticks con efecto Hall, Botones de Audio, Motores de vibración y disparadores de Pulso",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71ifxXjPeXL._AC_UL600_SR600,400_.jpg",
-      "price": "19,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0GTBVX67G?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.257451+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0FHHFBDNQ",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "GameSir G7 Pro Mando 1000Hz con Estación de Carga para Xbox Series X|S, Xbox One, Windows 10/11 & Android – Joysticks TMR, Gatillos Ajustables & 4 Botones Programables – Shadow Ember",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71-wtZ5RihL._AC_UL600_SR600,400_.jpg",
-      "price": "99,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FHHFBDNQ?tag=enkairito-21",
-      "first_seen": "2026-09-12T12:31:08.174481+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0B9Y1HTS7",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Tatybo Cascos Gaming, Auriculares Gaming con Graves Envolventes 3D, Micrófono Reducción De Ruido Y Almohadillas De Proteína, para Ps4 Ps5 Xbox PC Laptop",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71gXZ8pfzOL._AC_UL600_SR600,400_.jpg",
-      "price": "19,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0B9Y1HTS7?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.257459+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0D8KXR131",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "GameSir G7 SE Mando con Cable para Xbox Series X|S, Xbox One & Windows 10/11, Plug and Play Gamepad para Juegos con Joysticks de Efecto Hall, Conector de Audio de 3,5 mm (Azul)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61L7REgitEL._AC_UL600_SR600,400_.jpg",
-      "price": "52,04 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0D8KXR131?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:25:04.811715+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B08K9WQ849",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Venom Base de carga doble con 2 paquetes de baterías recargables - Negro (Xbox Series X y S/Xbox One)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51X+RWW5d6L._AC_UL600_SR600,400_.jpg",
-      "price": "24,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B08K9WQ849?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:34:33.318887+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0B9GJLV2D",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Xbox Wireless Controller Elite Series 2 White Series X|S, One, Windows 10/11, iOS y Android",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61pkDofPhAL._AC_UL600_SR600,400_.jpg",
-      "price": "135,00 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0B9GJLV2D?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:34:33.318880+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0F5GRCTLT",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "SteelSeries Arctis Nova 3P Wireless Auriculares Gaming multiplataforma - App - Batería 40h - Controladores magnéticos de neodimio - 2,4 GHz/Bluetooth - Micro extraíble - PS5, PS4, PC, Switch -Negro",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71je9ZBFWDL._AC_UL600_SR600,400_.jpg",
-      "price": "72,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F5GRCTLT?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.257480+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0D8QJRBV3",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "JBL Quantum 360 Auriculares inalámbricos circumaurales para gaming, conexión inalámbrica dual de 2,4 GHz y Bluetooth, JBL QuantumSURROUND Signature, batería de 22 h, micrófono desmontable, negro",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/619S-amD2VL._AC_UL600_SR600,400_.jpg",
-      "price": "69,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0D8QJRBV3?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.257484+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0HDQ2LRS9",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Xbox Mando inalámbrico Gears of War: Edición Limitada E-Day Series X|S, One, PCs, televisores, móviles y más",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/716kFNJ20xL._AC_UL600_SR600,400_.jpg",
-      "price": "89,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0HDQ2LRS9?tag=enkairito-21",
-      "first_seen": "2026-09-16T06:35:30.156933+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0DM1T7MMT",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "2 Juegos LB RB Botón de Parachoques para Xbox Series S/X Hombro Botones Disparador de Parachoques para Xbox Series S/X Soporte Intermedio Corchete Controlador Accesorios Repuesto con Kit(Negro)Change",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61F+HjYSIHL._AC_UL600_SR600,400_.jpg",
-      "price": "9,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0DM1T7MMT?tag=enkairito-21",
-      "first_seen": "2026-09-17T12:31:47.549165+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0DGQWNTJT",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Xbox Auriculares inalámbricos – Series X|S, Xbox One y dispositivos Windows",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71bRRiH6HDL._AC_UL600_SR600,400_.jpg",
-      "price": "103,00 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0DGQWNTJT?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:34:33.318891+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B08F436VBJ",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Power A, Mando con cable Xbox Series X|S - Blanco",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61ZRmjkjOAL._AC_UL600_SR600,400_.jpg",
-      "price": "29,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B08F436VBJ?tag=enkairito-21",
-      "first_seen": "2026-09-15T00:20:55.336240+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0HCTQNBN8",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "8BitDo Ultimate Charging Dock for Xbox Controllers, Gears of War: E-Day | Officially Licensed, Wireless Charging, Keep Original Battery Door, XBOX Series X|S & XBOX One Controllers, 1000mAh Battery",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/610PkRV70GL._AC_UL600_SR600,400_.jpg",
-      "price": "39,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0HCTQNBN8?tag=enkairito-21",
-      "first_seen": "2026-09-15T00:20:55.336219+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B08F4444HM",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Power A, Mando con cable Xbox Series X|S - Negro",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71yx0fvTjQL._AC_UL600_SR600,400_.jpg",
-      "price": "29,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B08F4444HM?tag=enkairito-21",
-      "first_seen": "2026-09-15T00:20:55.336217+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0FFP4SLQZ",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Turtle Beach Rematch Advanced Brillo Blue Kitsune Mando de juego con cable. Con licencia para Xbox con botones reemplazables, gatillos ultracortos y controles de Audio",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81XCHuDzKjL._AC_UL600_SR600,400_.jpg",
-      "price": "29,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FFP4SLQZ?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.257553+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B07RDQBFXY",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Corsair Harpoon Pro RGB Ratón Ligero con Cable para Juegos FPS/MOBA - Negro | 12.000 PPP, 6 Botones Programables, Compatible con iCUE, PC, Mac, PS5, PS4, Xbox",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51bOwC6H5LL._AC_UL600_SR600,400_.jpg",
-      "price": "24,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B07RDQBFXY?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.257501+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0F1RB87RR",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Turtle Beach Afterglow Wave Mando Negro con Cable RGB - con Licencia para Xbox Series XS, Xbox One y Windows - Botones programables, disparadores de Efecto Hall, Controles de Audio",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71OvtyOyC1L._AC_UL600_SR600,400_.jpg",
-      "price": "37,94 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F1RB87RR?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:25:04.811694+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B09HCDZGZB",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "eXtremeRate Joysticks para Xbox Series S X Control Palancas Analogicos Joystick Reemplazable para Xbox One Repuesto para Pulgar Thumbsticks para Xbox One S/X/Estandard/Elite Mando(Negro)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61v6vuIC-AL._AC_UL600_SR600,400_.jpg",
-      "price": "11,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B09HCDZGZB?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.257529+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0D8KQZPZ2",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "GameSir G7 HE Mando con Cable para Xbox y PC, Joysticks Efecto Hall, Negro | Licencia oficial para Xbox Series X|S, Xbox One, Windows 10|11, PC, controller de videojuegos con sticks de efecto Hall",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71by8X3ArDL._AC_UL600_SR600,400_.jpg",
-      "price": "56,58 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0D8KQZPZ2?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.257585+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0FS7HWVM2",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "SteelSeries Arctis Nova 7X Wireless Gen2 Auriculares Gaming multiplataforma -Control de App en Tiempo Real -Más de 50 h -Controladores magnéticos de neodimio -2,4 GHz y Bluetooth -Xbox,PC,Switch1/2",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61RjIXghXOL._AC_UL600_SR600,400_.jpg",
-      "price": "159,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FS7HWVM2?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.257571+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0DVZ9D58R",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Turtle Beach Stealth 600 Morado Xbox Auriculares de Juego Inalámbricos con 80hr Batería, Altavoces de 50 mm y Bluetooth para Xbox Series X o S, Xbox One y PC",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71+OKaKuw1L._AC_UL600_SR600,400_.jpg",
-      "price": "89,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0DVZ9D58R?tag=enkairito-21",
-      "first_seen": "2026-09-25T08:32:14.645069+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0GJ5KJBS8",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "deleyCON Cable HDMI 2.1 8K 3,0m Cable de Alta Velocidad Ultra High Speed 48 Gbps con Conector Acodado (270°) - Ideal para TV, Monitor, PS4, PS5, EARC, HDR10+ - 10K/8K@60Hz, 4K@120Hz/144Hz y 2K@240Hz",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71t0SxzyHpL._AC_UL600_SR600,400_.jpg",
-      "price": "11,39 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0GJ5KJBS8?tag=enkairito-21",
-      "first_seen": "2026-09-25T08:32:14.645073+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0FTZG6BTG",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Corsair Vanguard 96 Teclado Mecánico con Cable para Juegos– Negro | QWERTY ES, Formato 96%, Interruptor Lineal de Plasma MLX, 8000Hz, Pantalla LCD, Virtual Stream Deck, Botones G, Flashtap SOCD",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71-sSHW43vL._AC_UL600_SR600,400_.jpg",
-      "price": "149,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FTZG6BTG?tag=enkairito-21",
-      "first_seen": "2026-09-19T12:32:04.828215+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0DM1WQD1Q",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "2 Juegos LB RB Botón de Parachoques para Xbox Series S/X Hombro Botones Disparador de Parachoques para Xbox Series S/X Soporte Intermedio Corchete Controlador Accesorios Repuesto con Kit(Blanco)Change",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/61EXSj6e+6L._AC_UL300_SR300,200_.jpg",
-      "price": "9,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0DM1WQD1Q?tag=enkairito-21",
-      "first_seen": "2026-09-24T12:31:36.578605+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B08FCTBC2D",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "PDP Mando con cable Afterglow para Xbox y Series X/S Azul (Prismatic)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/71lL0afyLrL._AC_UL300_SR300,200_.jpg",
-      "price": "37,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B08FCTBC2D?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:25:04.811667+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0DZ62JN4L",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "RongZy 2 Piezas Hall Efecto Joystick para Xbox Series S/X Hall Joysticks Mando de Módulo 3D Stick Magnético Compatible con Xbox Series S/X con Thumbsticks Kit de Reparación Accesorio",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/715jPrehczL._AC_UL300_SR300,200_.jpg",
-      "price": "9,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0DZ62JN4L?tag=enkairito-21",
-      "first_seen": "2026-09-19T12:32:04.828243+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0FVLVQJH1",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "JSAUX Funda De Transporte De Gran Capacidad para ROG Xbox Ally/Ally X | Carcasa Rígida, Dos Niveles para Consola Y Accesorios, Forro Suave, Protección Joysticks, Ranuras SD/micro SD, BG0136",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/81a3ooX-OTL._AC_UL300_SR300,200_.jpg",
-      "price": "29,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FVLVQJH1?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.257492+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0D5LPJ2NN",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "8BitDo Charging Dock for Xbox Wireless Controllers, Xbox Charging Station with Magnetic Secure Charging for Xbox Series X|S and Xbox One Controller - Officially Licensed (White)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/51XQ9I+2lNL._AC_UL300_SR300,200_.jpg",
-      "price": "24,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0D5LPJ2NN?tag=enkairito-21",
-      "first_seen": "2026-09-25T08:32:14.645090+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0DBZD14S6",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Thrustmaster T.Flight Hotas One Microsoft Flight Simulator - XBOX y PC | Con licencia oficial de Microsoft Flight Simulator 2024 y XBOX, joystick y acelerador, sistema de timón dual",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/61Xn-UZZHxL._AC_UL300_SR300,200_.jpg",
-      "price": "89,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0DBZD14S6?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:25:04.811334+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0D7W8JVPQ",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Razer Wolverine V3 Tournament Edition - Mando de deportes con cable para Xbox X|S y PC (botones de acción táctiles Mecha, HyperTriggers Pro, D-Pad de 8 direcciones, cable USB-C de 3m) Negro",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/71dYpfdEI4L._AC_UL300_SR300,200_.jpg",
-      "price": "105,96 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0D7W8JVPQ?tag=enkairito-21",
-      "first_seen": "2026-09-24T12:31:36.578619+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B07LBWK662",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "KlsyChry Soporte Vertical para Xbox One X Consola, Negro",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51-k4KTtmVL._AC_UL600_SR600,400_.jpg",
-      "price": "11,98 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B07LBWK662?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.257592+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B07HB851JR",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Xbox One soporte de pared (juego de 4 esquinas): Negro",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/616LCjj6zfL._AC_UL600_SR600,400_.jpg",
-      "price": "16,61 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B07HB851JR?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.257600+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B09SGBQY6D",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "4PCS Paletas del Controlador, Piezas del Controlador de Reemplazo de Las Paletas del Controlador de Acero Inoxidable para One Controller Series 2 Model 1797(Negro)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/61JmAmEKBAL._AC_UL300_SR300,200_.jpg",
-      "price": "20,46 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B09SGBQY6D?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.257603+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B09SGD96L8",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "4PCS Paletas del Controlador, Piezas del Controlador de Reemplazo de Las Paletas del Controlador de Acero Inoxidable para One Controller Series 2 Model 1797(Oro)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/51MXguTs7DL._AC_UL300_SR300,200_.jpg",
-      "price": "13,17 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B09SGD96L8?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.257607+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B08TWV3BXB",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "JOREST Kit de Desmontar Xbox one/360/X PS4 PS5 PS3, 25pcs Set Limpieza, Herramienta Reparacion para Mando y Consola, con Destornillador PH0 y Torx T6 T8 T10, Palanca, Pinzas, Cepillo",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81DIywY2akL._AC_UL600_SR600,400_.jpg",
-      "price": "10,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B08TWV3BXB?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:34:33.318893+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0CLV1YDYS",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Soporte para PS5/Pro/Slim y Refrigeración para PS 5 Disc & Digital, Cargador para PS5 & Edge Mando, Ventilador Automático PlayStation 5 de 3 Velociadades 3 USB HUB",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71IGxhZk29L._AC_UL600_SR600,400_.jpg",
-      "price": "33,20 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0CLV1YDYS?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.257630+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0CMGN9Z8H",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "HELLCOOL Play y Kit de Carga USB Bateria para Mando Xbox One/Xbox Series, 2X4800mWh Bateria Compatible con la Mando Xbox One S/X/Elite, Xbox Series X/S, 12 Horas de Juego",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81kFG3GED-L._AC_UL600_SR600,400_.jpg",
-      "price": "19,93 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0CMGN9Z8H?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:11.204492+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B09F2ZMTBN",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "HELLCOOL Bateria para Mando Xbox, 2x6200mWh Pilas Recargables con Cargador Pilas/Cable Carga/Display LED, Compatible Xbox Series X|S/Xbox OneX|S|Elite Controller - 25 Horas de Juego",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71SHQivVwXL._AC_UL600_SR600,400_.jpg",
-      "price": "19,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B09F2ZMTBN?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:25:04.811686+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B074QMN4YW",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Microsoft - Adaptador Wireless (PC)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/31D5xGbq41L._AC_UL600_SR600,400_.jpg",
-      "price": "26,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B074QMN4YW?tag=enkairito-21",
-      "first_seen": "2026-09-14T12:21:25.171665+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B09BJL2Z46",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "OIVO Baterías para Xbox One/Series X|S/Elite, 4x5580mWh Bateria Mando Xbox, Baterías Recargables para Mandos Xbox, Accesorios para Xbox One/Series X|S",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/710ksCqywQL._AC_UL600_SR600,400_.jpg",
-      "price": "28,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B09BJL2Z46?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.257685+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B08R6YDQTF",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "EBL 2800mAh Batería de Mando, LCD Cargador para Batería Mando para Xbox One/One S/One X/One Elite",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61ZSt29tcfL._AC_UL600_SR600,400_.jpg",
-      "price": "14,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B08R6YDQTF?tag=enkairito-21",
-      "first_seen": "2026-09-20T20:31:36.304803+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0CFXPP8YZ",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Skull & Co. Convex Thumb Grip Caps Joystick Cap Analog Stick Cover Thumbstick Grip Cover for Xbox (XSX/XB1) Controller - StarFld Gray, 2 Pairs (4pcs)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61G8FKQLz8L._AC_UL600_SR600,400_.jpg",
-      "price": "10,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0CFXPP8YZ?tag=enkairito-21",
-      "first_seen": "2026-09-17T12:31:47.549213+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0BD8ZKQ4S",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "FUNLAB Estuche Juegos Switch 2 Compatible con Nintendo Switch2 Juego & Micro SD, Funda Juego Switch, Porta Caja Juegos Switch 2 con 24 Tarjetas de Juego - Rojo",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/818JdbvOkAL._AC_UL600_SR600,400_.jpg",
-      "price": "13,67 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0BD8ZKQ4S?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.257634+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0DB1BCG3D",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "para Xbox One S/One X Joystick Analógico para Xbox One Joystick Reemplazo de Sensor One X/S Thumbstick Controlador Accesorios con Herramientas(4 Pcs)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71dyMkJJUAL._AC_UL600_SR600,400_.jpg",
-      "price": "9,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0DB1BCG3D?tag=enkairito-21",
-      "first_seen": "2026-09-15T20:35:05.757603+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B08HL9S7FB",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Orzly Auriculares Gaming Compatible con PS5, PS4, PC, Xbox, Nintendo Switch, con microfono, Sonido Premiun RGB Luz LED, cancelación de Ruido - Hornet RXH -20 Siberia Edicion",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51YbPz57pKL._AC_UL600_SR600,400_.jpg",
-      "price": "29,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B08HL9S7FB?tag=enkairito-21",
-      "first_seen": "2026-09-17T08:32:35.496172+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0DNQD9HPS",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "8Bitdo Ultimate Mini Wired Controller for Xbox with RGB Lighting Fire Ring, Hall Effect Joysticks and Triggers, for Xbox Series X|S, Xbox One, Windows 10/11 - Officially Licensed (Translucent Pink)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51C9fPirUuL._AC_UL600_SR600,400_.jpg",
-      "price": "29,49 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0DNQD9HPS?tag=enkairito-21",
-      "first_seen": "2026-09-12T06:28:31.691571+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B00YXO5UKY",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Turtle Beach Recon 50P Auriculares Gaming PS5, PS4, Xbox Series X|S, Xbox One y PC",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71Exf0FTTjL._AC_UL600_SR600,400_.jpg",
-      "price": "21,97 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B00YXO5UKY?tag=enkairito-21",
-      "first_seen": "2026-09-20T12:31:37.580275+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B08LBK5J49",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "OIVO Cargador Mando Xbox con 2x5580mWh Bateria Mando Xbox para X-Box One/Series X/S, Bateria Mandos X Box X para Mandos X Box Series X/S/One, Negro",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71Gc7Lqpd4L._AC_UL600_SR600,400_.jpg",
-      "price": "28,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B08LBK5J49?tag=enkairito-21",
-      "first_seen": "2026-09-15T20:35:05.757589+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0CP5G4SKN",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "eXtremeRate Carcasa Trasera para Xbox Elite Series 2 Mando Accesorios Placa Inferior de Repuesto Shell Cover Cubierta para Xbox Elite Series 2 Core Modelo 1797 Mando-No Incluye Control(Negro)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51Fu8ZKB-tL._AC_UL600_SR600,400_.jpg",
-      "price": "23,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0CP5G4SKN?tag=enkairito-21",
-      "first_seen": "2026-09-23T12:31:48.397753+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B09Y8H1YKL",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Almohadillas de repuesto para auriculares inalámbricos Microsoft Xbox",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81yVLoIvPyL._AC_UL600_SR600,400_.jpg",
-      "price": "16,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B09Y8H1YKL?tag=enkairito-21",
-      "first_seen": "2026-09-18T14:31:49.729389+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B07L2Q4CTF",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Corsair IRONCLAW RGB con Cable FPS/MOBA Ratón para Juegos - Negro | 18.000 DPI, 7 Teclas Programables, Diseñado para Manos Grandes, Compatible con iCUE, PC, Mac, PS5, PS4, Xbox",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/61XfoqYoX2L._AC_UL300_SR300,200_.jpg",
-      "price": "64,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B07L2Q4CTF?tag=enkairito-21",
-      "first_seen": "2026-09-24T12:31:36.578698+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0C9RLWNJB",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "KontrolFreek CQC Classic Grips para Mando Xbox | 2X Gomas Protectoras Low-Rise para Xbox Series X|S & Xbox One | Agilidad & Control Mejorados",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/71GfY8yEhuL._AC_UL300_SR300,200_.jpg",
-      "price": "12,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0C9RLWNJB?tag=enkairito-21",
-      "first_seen": "2026-09-25T08:32:14.645166+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B08ZM56ZQJ",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "GXTrust Analog Controller Silicona Palo Xbox Series X/S, Pack de 4, Negro | Grips Cap Joystick Thumb Grips Funda para Mando Xbox Series X/S, 4 Paquete / 2 Par",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/81x96jAU35L._AC_UL300_SR300,200_.jpg",
-      "price": "12,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B08ZM56ZQJ?tag=enkairito-21",
-      "first_seen": "2026-09-17T12:31:47.549244+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B07W1G95PH",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Ablet Boom - Cable de micrófono Boompro compatible con Sennheiser HD598, HD598Cs, HD560s, HD598SE, HD620S, HD400PRO, HD599, Xbox One, PlayStation PS4, PC (150 cm)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/71rwVEUK72L._AC_UL300_SR300,200_.jpg",
-      "price": "22,71 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B07W1G95PH?tag=enkairito-21",
-      "first_seen": "2026-09-25T08:32:14.645172+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0DKXFJDD9",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "KDD Soporte Mando PS5 con Universal Soporte Auriculares Gaming, Negro | Soporte Cascos y Mando, Multifuncional Organizador Gaming Mesa para Xbox One PS4 Nintendo Teléfono Switch Accesorios Juegos",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/61+XAgNp1pL._AC_UL300_SR300,200_.jpg",
-      "price": "11,95 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0DKXFJDD9?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.257671+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0B431L627",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Venom Paquetes de baterías de repuesto para base de carga Xbox, negros (Xbox Series X y S/Xbox One)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/5165ygxjDJL._AC_UL300_SR300,200_.jpg",
-      "price": "12,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0B431L627?tag=enkairito-21",
-      "first_seen": "2026-09-19T12:32:04.828300+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
-    },
-    {
-      "asin": "B0BWJM9SJJ",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Mcbazel Adaptador Xbox Kinect para convertidor de Sensor Kinect 2.0 con Fuente de alimentación Compatible con Xbox One Slim/Xbox One X/Win11/ 8/8.1/10 con Enchufe Europeo",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/61fLiKZ6RcL._AC_UL300_SR300,200_.jpg",
-      "price": "28,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0BWJM9SJJ?tag=enkairito-21",
-      "first_seen": "2026-09-20T12:31:37.580382+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Xbox"
-      ],
-      "source": "xbox"
     },
     {
       "asin": "B0F4QPH25J",
@@ -4438,6 +3196,1248 @@
         "Nintendo"
       ],
       "source": "nintendo"
+    },
+    {
+      "asin": "B0F4YDX9W1",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Nacon Revolution X Unlimited – Mando inalámbrico de Alta precisión para Xbox Series X|S, Xbox One y PC",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61RVKB2OKgL._AC_UL600_SR600,400_.jpg",
+      "price": "199,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F4YDX9W1?tag=enkairito-21",
+      "first_seen": "2026-09-13T18:21:32.459926+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B09H6XB7SJ",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Yorha 1 Funda de Silicona Tallada con láser para Mando Xbox Series X/S (Rojo) con empuñaduras Pro Thumb x 8",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71bRu9opS0L._AC_UL600_SR600,400_.jpg",
+      "price": "21,34 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B09H6XB7SJ?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.257416+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B092J3RX5R",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "playvital Funda Antipolvo para Xbox Series S Consola | Cubierta Vertical, Resistente al Agua, Forro Suave, Acceso Fácil a Puertos, Protección contra Polvo, Negro",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81M4pNeXT9L._AC_UL600_SR600,400_.jpg",
+      "price": "21,49 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B092J3RX5R?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.257424+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0B2NNDY2Q",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Ventilador de refrigeración RGB Mejorado para Xbox Series X con Filtro de Cubierta Antipolvo, Accesorios de Sistema de refrigeración de luz LED Colorida con Ventilador de Velocidad Ajustable de 3",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81PHvDPFS6L._AC_UL600_SR600,400_.jpg",
+      "price": "42,93 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0B2NNDY2Q?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.257428+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0C52X3QXG",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "playvital Funda Antipolvo para Xbox Series S Consola | Cubierta Horizontal, Resistente al Agua, Forro Suave, Acceso Fácil a Puertos, Protección contra Polvo, Nebulosa Azul",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/810uS1hHTYL._AC_UL600_SR600,400_.jpg",
+      "price": "21,49 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0C52X3QXG?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.257432+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0B63T92TR",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Soporte de pared para Xbox Series X, con 2 soportes para controlador y 1 soporte para auriculares, kit de montaje en pared para accesorios Xbox Series X, estante de pared con diseño de ventilación",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71UB-T9bPCL._AC_UL300_SR300,200_.jpg",
+      "price": "38,24 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0B63T92TR?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.257436+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0B52191TF",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Cubierta de Filtro de Polvo para Series X Host, Cubierta de Filtro de Disipación de Calor Y Protección contra el Polvo con Soporte de Almacenamiento Retráctil VR(Negro)",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/51yIIgPsJ5L._AC_UL300_SR300,200_.jpg",
+      "price": "22,18 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0B52191TF?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.257440+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0HFNKCPX3",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Stage Tour Game + Kramer Wireless Guitar Controller Bundle para Xbox Series X|S",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61nND9wQH1L._AC_UL600_SR600,400_.jpg",
+      "price": "134,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0HFNKCPX3?tag=enkairito-21",
+      "first_seen": "2026-09-14T00:22:37.466285+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0F2Q8S4HN",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Xbox Wireless Controller + cable USB-C",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61Suj-ZDYvL._AC_UL600_SR600,400_.jpg",
+      "price": "56,15 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F2Q8S4HN?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.257447+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0GTBVX67G",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Turtle Beach Rematch Core Ghost Camo Negro - Mando con Cable - con Licencia para Xbox Series XS, Xbox One y PC - Sticks con efecto Hall, Botones de Audio, Motores de vibración y disparadores de Pulso",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71ifxXjPeXL._AC_UL600_SR600,400_.jpg",
+      "price": "19,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GTBVX67G?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.257451+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0FHHFBDNQ",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "GameSir G7 Pro Mando 1000Hz con Estación de Carga para Xbox Series X|S, Xbox One, Windows 10/11 & Android – Joysticks TMR, Gatillos Ajustables & 4 Botones Programables – Shadow Ember",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71-wtZ5RihL._AC_UL600_SR600,400_.jpg",
+      "price": "99,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FHHFBDNQ?tag=enkairito-21",
+      "first_seen": "2026-09-12T12:31:08.174481+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0B9Y1HTS7",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Tatybo Cascos Gaming, Auriculares Gaming con Graves Envolventes 3D, Micrófono Reducción De Ruido Y Almohadillas De Proteína, para Ps4 Ps5 Xbox PC Laptop",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71gXZ8pfzOL._AC_UL600_SR600,400_.jpg",
+      "price": "19,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0B9Y1HTS7?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.257459+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0D8KXR131",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "GameSir G7 SE Mando con Cable para Xbox Series X|S, Xbox One & Windows 10/11, Plug and Play Gamepad para Juegos con Joysticks de Efecto Hall, Conector de Audio de 3,5 mm (Azul)",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61L7REgitEL._AC_UL600_SR600,400_.jpg",
+      "price": "52,04 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0D8KXR131?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:25:04.811715+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B08K9WQ849",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Venom Base de carga doble con 2 paquetes de baterías recargables - Negro (Xbox Series X y S/Xbox One)",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51X+RWW5d6L._AC_UL600_SR600,400_.jpg",
+      "price": "24,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B08K9WQ849?tag=enkairito-21",
+      "first_seen": "2026-09-16T10:34:33.318887+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0B9GJLV2D",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Xbox Wireless Controller Elite Series 2 White Series X|S, One, Windows 10/11, iOS y Android",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61pkDofPhAL._AC_UL600_SR600,400_.jpg",
+      "price": "135,00 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0B9GJLV2D?tag=enkairito-21",
+      "first_seen": "2026-09-16T10:34:33.318880+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0F5GRCTLT",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "SteelSeries Arctis Nova 3P Wireless Auriculares Gaming multiplataforma - App - Batería 40h - Controladores magnéticos de neodimio - 2,4 GHz/Bluetooth - Micro extraíble - PS5, PS4, PC, Switch -Negro",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71je9ZBFWDL._AC_UL600_SR600,400_.jpg",
+      "price": "72,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F5GRCTLT?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.257480+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0D8QJRBV3",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "JBL Quantum 360 Auriculares inalámbricos circumaurales para gaming, conexión inalámbrica dual de 2,4 GHz y Bluetooth, JBL QuantumSURROUND Signature, batería de 22 h, micrófono desmontable, negro",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/619S-amD2VL._AC_UL600_SR600,400_.jpg",
+      "price": "69,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0D8QJRBV3?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.257484+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0HDQ2LRS9",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Xbox Mando inalámbrico Gears of War: Edición Limitada E-Day Series X|S, One, PCs, televisores, móviles y más",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/716kFNJ20xL._AC_UL600_SR600,400_.jpg",
+      "price": "89,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0HDQ2LRS9?tag=enkairito-21",
+      "first_seen": "2026-09-16T06:35:30.156933+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0DM1T7MMT",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "2 Juegos LB RB Botón de Parachoques para Xbox Series S/X Hombro Botones Disparador de Parachoques para Xbox Series S/X Soporte Intermedio Corchete Controlador Accesorios Repuesto con Kit(Negro)Change",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61F+HjYSIHL._AC_UL600_SR600,400_.jpg",
+      "price": "9,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DM1T7MMT?tag=enkairito-21",
+      "first_seen": "2026-09-17T12:31:47.549165+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0DGQWNTJT",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Xbox Auriculares inalámbricos – Series X|S, Xbox One y dispositivos Windows",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71bRRiH6HDL._AC_UL600_SR600,400_.jpg",
+      "price": "103,00 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DGQWNTJT?tag=enkairito-21",
+      "first_seen": "2026-09-16T10:34:33.318891+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B08F436VBJ",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Power A, Mando con cable Xbox Series X|S - Blanco",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61ZRmjkjOAL._AC_UL600_SR600,400_.jpg",
+      "price": "29,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B08F436VBJ?tag=enkairito-21",
+      "first_seen": "2026-09-15T00:20:55.336240+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0HCTQNBN8",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "8BitDo Ultimate Charging Dock for Xbox Controllers, Gears of War: E-Day | Officially Licensed, Wireless Charging, Keep Original Battery Door, XBOX Series X|S & XBOX One Controllers, 1000mAh Battery",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/610PkRV70GL._AC_UL600_SR600,400_.jpg",
+      "price": "39,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0HCTQNBN8?tag=enkairito-21",
+      "first_seen": "2026-09-15T00:20:55.336219+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B08F4444HM",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Power A, Mando con cable Xbox Series X|S - Negro",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71yx0fvTjQL._AC_UL600_SR600,400_.jpg",
+      "price": "29,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B08F4444HM?tag=enkairito-21",
+      "first_seen": "2026-09-15T00:20:55.336217+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0FFP4SLQZ",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Turtle Beach Rematch Advanced Brillo Blue Kitsune Mando de juego con cable. Con licencia para Xbox con botones reemplazables, gatillos ultracortos y controles de Audio",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81XCHuDzKjL._AC_UL600_SR600,400_.jpg",
+      "price": "29,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FFP4SLQZ?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.257553+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B07RDQBFXY",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Corsair Harpoon Pro RGB Ratón Ligero con Cable para Juegos FPS/MOBA - Negro | 12.000 PPP, 6 Botones Programables, Compatible con iCUE, PC, Mac, PS5, PS4, Xbox",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51bOwC6H5LL._AC_UL600_SR600,400_.jpg",
+      "price": "24,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B07RDQBFXY?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.257501+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0F1RB87RR",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Turtle Beach Afterglow Wave Mando Negro con Cable RGB - con Licencia para Xbox Series XS, Xbox One y Windows - Botones programables, disparadores de Efecto Hall, Controles de Audio",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71OvtyOyC1L._AC_UL600_SR600,400_.jpg",
+      "price": "37,94 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F1RB87RR?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:25:04.811694+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B09HCDZGZB",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "eXtremeRate Joysticks para Xbox Series S X Control Palancas Analogicos Joystick Reemplazable para Xbox One Repuesto para Pulgar Thumbsticks para Xbox One S/X/Estandard/Elite Mando(Negro)",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61v6vuIC-AL._AC_UL600_SR600,400_.jpg",
+      "price": "11,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B09HCDZGZB?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.257529+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0D8KQZPZ2",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "GameSir G7 HE Mando con Cable para Xbox y PC, Joysticks Efecto Hall, Negro | Licencia oficial para Xbox Series X|S, Xbox One, Windows 10|11, PC, controller de videojuegos con sticks de efecto Hall",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71by8X3ArDL._AC_UL600_SR600,400_.jpg",
+      "price": "56,58 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0D8KQZPZ2?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.257585+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0FS7HWVM2",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "SteelSeries Arctis Nova 7X Wireless Gen2 Auriculares Gaming multiplataforma -Control de App en Tiempo Real -Más de 50 h -Controladores magnéticos de neodimio -2,4 GHz y Bluetooth -Xbox,PC,Switch1/2",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61RjIXghXOL._AC_UL600_SR600,400_.jpg",
+      "price": "159,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FS7HWVM2?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.257571+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0DVZ9D58R",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Turtle Beach Stealth 600 Morado Xbox Auriculares de Juego Inalámbricos con 80hr Batería, Altavoces de 50 mm y Bluetooth para Xbox Series X o S, Xbox One y PC",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71+OKaKuw1L._AC_UL600_SR600,400_.jpg",
+      "price": "89,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DVZ9D58R?tag=enkairito-21",
+      "first_seen": "2026-09-25T08:32:14.645069+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0GJ5KJBS8",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "deleyCON Cable HDMI 2.1 8K 3,0m Cable de Alta Velocidad Ultra High Speed 48 Gbps con Conector Acodado (270°) - Ideal para TV, Monitor, PS4, PS5, EARC, HDR10+ - 10K/8K@60Hz, 4K@120Hz/144Hz y 2K@240Hz",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71t0SxzyHpL._AC_UL600_SR600,400_.jpg",
+      "price": "11,39 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GJ5KJBS8?tag=enkairito-21",
+      "first_seen": "2026-09-25T08:32:14.645073+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0FTZG6BTG",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Corsair Vanguard 96 Teclado Mecánico con Cable para Juegos– Negro | QWERTY ES, Formato 96%, Interruptor Lineal de Plasma MLX, 8000Hz, Pantalla LCD, Virtual Stream Deck, Botones G, Flashtap SOCD",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71-sSHW43vL._AC_UL600_SR600,400_.jpg",
+      "price": "149,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FTZG6BTG?tag=enkairito-21",
+      "first_seen": "2026-09-19T12:32:04.828215+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0DM1WQD1Q",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "2 Juegos LB RB Botón de Parachoques para Xbox Series S/X Hombro Botones Disparador de Parachoques para Xbox Series S/X Soporte Intermedio Corchete Controlador Accesorios Repuesto con Kit(Blanco)Change",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/61EXSj6e+6L._AC_UL300_SR300,200_.jpg",
+      "price": "9,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DM1WQD1Q?tag=enkairito-21",
+      "first_seen": "2026-09-24T12:31:36.578605+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B08FCTBC2D",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "PDP Mando con cable Afterglow para Xbox y Series X/S Azul (Prismatic)",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71lL0afyLrL._AC_UL300_SR300,200_.jpg",
+      "price": "37,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B08FCTBC2D?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:25:04.811667+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0DZ62JN4L",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "RongZy 2 Piezas Hall Efecto Joystick para Xbox Series S/X Hall Joysticks Mando de Módulo 3D Stick Magnético Compatible con Xbox Series S/X con Thumbsticks Kit de Reparación Accesorio",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/715jPrehczL._AC_UL300_SR300,200_.jpg",
+      "price": "9,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DZ62JN4L?tag=enkairito-21",
+      "first_seen": "2026-09-19T12:32:04.828243+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0FVLVQJH1",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "JSAUX Funda De Transporte De Gran Capacidad para ROG Xbox Ally/Ally X | Carcasa Rígida, Dos Niveles para Consola Y Accesorios, Forro Suave, Protección Joysticks, Ranuras SD/micro SD, BG0136",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/81a3ooX-OTL._AC_UL300_SR300,200_.jpg",
+      "price": "29,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FVLVQJH1?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.257492+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0D5LPJ2NN",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "8BitDo Charging Dock for Xbox Wireless Controllers, Xbox Charging Station with Magnetic Secure Charging for Xbox Series X|S and Xbox One Controller - Officially Licensed (White)",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/51XQ9I+2lNL._AC_UL300_SR300,200_.jpg",
+      "price": "24,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0D5LPJ2NN?tag=enkairito-21",
+      "first_seen": "2026-09-25T08:32:14.645090+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0DBZD14S6",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Thrustmaster T.Flight Hotas One Microsoft Flight Simulator - XBOX y PC | Con licencia oficial de Microsoft Flight Simulator 2024 y XBOX, joystick y acelerador, sistema de timón dual",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/61Xn-UZZHxL._AC_UL300_SR300,200_.jpg",
+      "price": "89,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DBZD14S6?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:25:04.811334+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0D7W8JVPQ",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Razer Wolverine V3 Tournament Edition - Mando de deportes con cable para Xbox X|S y PC (botones de acción táctiles Mecha, HyperTriggers Pro, D-Pad de 8 direcciones, cable USB-C de 3m) Negro",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71dYpfdEI4L._AC_UL300_SR300,200_.jpg",
+      "price": "105,96 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0D7W8JVPQ?tag=enkairito-21",
+      "first_seen": "2026-09-24T12:31:36.578619+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B07LBWK662",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "KlsyChry Soporte Vertical para Xbox One X Consola, Negro",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51-k4KTtmVL._AC_UL600_SR600,400_.jpg",
+      "price": "11,98 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B07LBWK662?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.257592+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B07HB851JR",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Xbox One soporte de pared (juego de 4 esquinas): Negro",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/616LCjj6zfL._AC_UL600_SR600,400_.jpg",
+      "price": "16,61 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B07HB851JR?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.257600+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B09SGBQY6D",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "4PCS Paletas del Controlador, Piezas del Controlador de Reemplazo de Las Paletas del Controlador de Acero Inoxidable para One Controller Series 2 Model 1797(Negro)",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/61JmAmEKBAL._AC_UL300_SR300,200_.jpg",
+      "price": "20,46 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B09SGBQY6D?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.257603+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B09SGD96L8",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "4PCS Paletas del Controlador, Piezas del Controlador de Reemplazo de Las Paletas del Controlador de Acero Inoxidable para One Controller Series 2 Model 1797(Oro)",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/51MXguTs7DL._AC_UL300_SR300,200_.jpg",
+      "price": "13,17 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B09SGD96L8?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.257607+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B09DPR2LZW",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Ozeino Cascos Gaming, Auriculares Gaming con Micrófono Rotatorio, Luz RGB, Premium Stereo, Orejeras Ligero Cómodo, para Ps4 Ps5 Xbox PC Switch Tableta Laptop",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61jmLD3hYaL._AC_UL600_SR600,400_.jpg",
+      "price": "24,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B09DPR2LZW?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:11.204501+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B07GS6ZS8J",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Logitech G G502 Hero Ratón Gaming con Cable Alto Rendimiento | Captor HERO 25K, 25,600 DPI, RGB, Peso Personalizable, 11 Botones Programables, Memoria Integrada, PC/Mac - Negro",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51jWEFaiZFL._AC_UL600_SR600,400_.jpg",
+      "price": "29,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B07GS6ZS8J?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.257627+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B08TWV3BXB",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "JOREST Kit de Desmontar Xbox one/360/X PS4 PS5 PS3, 25pcs Set Limpieza, Herramienta Reparacion para Mando y Consola, con Destornillador PH0 y Torx T6 T8 T10, Palanca, Pinzas, Cepillo",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81DIywY2akL._AC_UL600_SR600,400_.jpg",
+      "price": "10,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B08TWV3BXB?tag=enkairito-21",
+      "first_seen": "2026-09-16T10:34:33.318893+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0CLV1YDYS",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Soporte para PS5/Pro/Slim y Refrigeración para PS 5 Disc & Digital, Cargador para PS5 & Edge Mando, Ventilador Automático PlayStation 5 de 3 Velociadades 3 USB HUB",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71IGxhZk29L._AC_UL600_SR600,400_.jpg",
+      "price": "33,20 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CLV1YDYS?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.257630+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0CMGN9Z8H",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "HELLCOOL Play y Kit de Carga USB Bateria para Mando Xbox One/Xbox Series, 2X4800mWh Bateria Compatible con la Mando Xbox One S/X/Elite, Xbox Series X/S, 12 Horas de Juego",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81kFG3GED-L._AC_UL600_SR600,400_.jpg",
+      "price": "19,93 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CMGN9Z8H?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:11.204492+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B09F2ZMTBN",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "HELLCOOL Bateria para Mando Xbox, 2x6200mWh Pilas Recargables con Cargador Pilas/Cable Carga/Display LED, Compatible Xbox Series X|S/Xbox OneX|S|Elite Controller - 25 Horas de Juego",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71SHQivVwXL._AC_UL600_SR600,400_.jpg",
+      "price": "19,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B09F2ZMTBN?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:25:04.811686+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B074QMN4YW",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Microsoft - Adaptador Wireless (PC)",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/31D5xGbq41L._AC_UL600_SR600,400_.jpg",
+      "price": "26,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B074QMN4YW?tag=enkairito-21",
+      "first_seen": "2026-09-14T12:21:25.171665+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0DPHGSSWH",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Fenolical Soporte Delgado para PS5/PS5 con Ventilador de Refrigeración Ajustable, Soporte de Cargador de Refrigeración Vertical PS5 para PS5/PS5 Slim, Estación de Refrigeración Delgada Multifuncional",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71qqZqGlMWL._AC_UL600_SR600,400_.jpg",
+      "price": "31,34 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DPHGSSWH?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.257620+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B09BJL2Z46",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "OIVO Baterías para Xbox One/Series X|S/Elite, 4x5580mWh Bateria Mando Xbox, Baterías Recargables para Mandos Xbox, Accesorios para Xbox One/Series X|S",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/710ksCqywQL._AC_UL600_SR600,400_.jpg",
+      "price": "28,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B09BJL2Z46?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.257685+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B08R6YDQTF",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "EBL 2800mAh Batería de Mando, LCD Cargador para Batería Mando para Xbox One/One S/One X/One Elite",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61ZSt29tcfL._AC_UL600_SR600,400_.jpg",
+      "price": "14,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B08R6YDQTF?tag=enkairito-21",
+      "first_seen": "2026-09-20T20:31:36.304803+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0CFXPP8YZ",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Skull & Co. Convex Thumb Grip Caps Joystick Cap Analog Stick Cover Thumbstick Grip Cover for Xbox (XSX/XB1) Controller - StarFld Gray, 2 Pairs (4pcs)",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61G8FKQLz8L._AC_UL600_SR600,400_.jpg",
+      "price": "10,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CFXPP8YZ?tag=enkairito-21",
+      "first_seen": "2026-09-17T12:31:47.549213+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0BD8ZKQ4S",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "FUNLAB Estuche Juegos Switch 2 Compatible con Nintendo Switch2 Juego & Micro SD, Funda Juego Switch, Porta Caja Juegos Switch 2 con 24 Tarjetas de Juego - Rojo",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/818JdbvOkAL._AC_UL600_SR600,400_.jpg",
+      "price": "13,67 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0BD8ZKQ4S?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.257634+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0DB1BCG3D",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "para Xbox One S/One X Joystick Analógico para Xbox One Joystick Reemplazo de Sensor One X/S Thumbstick Controlador Accesorios con Herramientas(4 Pcs)",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71dyMkJJUAL._AC_UL600_SR600,400_.jpg",
+      "price": "9,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DB1BCG3D?tag=enkairito-21",
+      "first_seen": "2026-09-15T20:35:05.757603+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B08HL9S7FB",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Orzly Auriculares Gaming Compatible con PS5, PS4, PC, Xbox, Nintendo Switch, con microfono, Sonido Premiun RGB Luz LED, cancelación de Ruido - Hornet RXH -20 Siberia Edicion",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51YbPz57pKL._AC_UL600_SR600,400_.jpg",
+      "price": "29,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B08HL9S7FB?tag=enkairito-21",
+      "first_seen": "2026-09-17T08:32:35.496172+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0DNQD9HPS",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "8Bitdo Ultimate Mini Wired Controller for Xbox with RGB Lighting Fire Ring, Hall Effect Joysticks and Triggers, for Xbox Series X|S, Xbox One, Windows 10/11 - Officially Licensed (Translucent Pink)",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51C9fPirUuL._AC_UL600_SR600,400_.jpg",
+      "price": "29,49 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DNQD9HPS?tag=enkairito-21",
+      "first_seen": "2026-09-12T06:28:31.691571+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B00YXO5UKY",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Turtle Beach Recon 50P Auriculares Gaming PS5, PS4, Xbox Series X|S, Xbox One y PC",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71Exf0FTTjL._AC_UL600_SR600,400_.jpg",
+      "price": "21,97 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B00YXO5UKY?tag=enkairito-21",
+      "first_seen": "2026-09-20T12:31:37.580275+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B08LBK5J49",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "OIVO Cargador Mando Xbox con 2x5580mWh Bateria Mando Xbox para X-Box One/Series X/S, Bateria Mandos X Box X para Mandos X Box Series X/S/One, Negro",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71Gc7Lqpd4L._AC_UL600_SR600,400_.jpg",
+      "price": "28,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B08LBK5J49?tag=enkairito-21",
+      "first_seen": "2026-09-15T20:35:05.757589+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0CP5G4SKN",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "eXtremeRate Carcasa Trasera para Xbox Elite Series 2 Mando Accesorios Placa Inferior de Repuesto Shell Cover Cubierta para Xbox Elite Series 2 Core Modelo 1797 Mando-No Incluye Control(Negro)",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51Fu8ZKB-tL._AC_UL600_SR600,400_.jpg",
+      "price": "23,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CP5G4SKN?tag=enkairito-21",
+      "first_seen": "2026-09-23T12:31:48.397753+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B09Y8H1YKL",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Almohadillas de repuesto para auriculares inalámbricos Microsoft Xbox",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81yVLoIvPyL._AC_UL600_SR600,400_.jpg",
+      "price": "16,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B09Y8H1YKL?tag=enkairito-21",
+      "first_seen": "2026-09-18T14:31:49.729389+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B07L2Q4CTF",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Corsair IRONCLAW RGB con Cable FPS/MOBA Ratón para Juegos - Negro | 18.000 DPI, 7 Teclas Programables, Diseñado para Manos Grandes, Compatible con iCUE, PC, Mac, PS5, PS4, Xbox",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/61XfoqYoX2L._AC_UL300_SR300,200_.jpg",
+      "price": "64,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B07L2Q4CTF?tag=enkairito-21",
+      "first_seen": "2026-09-24T12:31:36.578698+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0C9RLWNJB",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "KontrolFreek CQC Classic Grips para Mando Xbox | 2X Gomas Protectoras Low-Rise para Xbox Series X|S & Xbox One | Agilidad & Control Mejorados",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71GfY8yEhuL._AC_UL300_SR300,200_.jpg",
+      "price": "12,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0C9RLWNJB?tag=enkairito-21",
+      "first_seen": "2026-09-25T08:32:14.645166+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B08ZM56ZQJ",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "GXTrust Analog Controller Silicona Palo Xbox Series X/S, Pack de 4, Negro | Grips Cap Joystick Thumb Grips Funda para Mando Xbox Series X/S, 4 Paquete / 2 Par",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/81x96jAU35L._AC_UL300_SR300,200_.jpg",
+      "price": "12,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B08ZM56ZQJ?tag=enkairito-21",
+      "first_seen": "2026-09-17T12:31:47.549244+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B07W1G95PH",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Ablet Boom - Cable de micrófono Boompro compatible con Sennheiser HD598, HD598Cs, HD560s, HD598SE, HD620S, HD400PRO, HD599, Xbox One, PlayStation PS4, PC (150 cm)",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71rwVEUK72L._AC_UL300_SR300,200_.jpg",
+      "price": "22,71 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B07W1G95PH?tag=enkairito-21",
+      "first_seen": "2026-09-25T08:32:14.645172+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0DKXFJDD9",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "KDD Soporte Mando PS5 con Universal Soporte Auriculares Gaming, Negro | Soporte Cascos y Mando, Multifuncional Organizador Gaming Mesa para Xbox One PS4 Nintendo Teléfono Switch Accesorios Juegos",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/61+XAgNp1pL._AC_UL300_SR300,200_.jpg",
+      "price": "11,95 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DKXFJDD9?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.257671+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0B431L627",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Venom Paquetes de baterías de repuesto para base de carga Xbox, negros (Xbox Series X y S/Xbox One)",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/5165ygxjDJL._AC_UL300_SR300,200_.jpg",
+      "price": "12,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0B431L627?tag=enkairito-21",
+      "first_seen": "2026-09-19T12:32:04.828300+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
+    },
+    {
+      "asin": "B0BWJM9SJJ",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Mcbazel Adaptador Xbox Kinect para convertidor de Sensor Kinect 2.0 con Fuente de alimentación Compatible con Xbox One Slim/Xbox One X/Win11/ 8/8.1/10 con Enchufe Europeo",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/61fLiKZ6RcL._AC_UL300_SR300,200_.jpg",
+      "price": "28,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0BWJM9SJJ?tag=enkairito-21",
+      "first_seen": "2026-09-20T12:31:37.580382+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Xbox"
+      ],
+      "source": "xbox"
     }
   ]
 }
