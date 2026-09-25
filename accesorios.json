@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T10:07:32.493175+00:00",
+  "updated_at": "2026-09-25T10:31:57.518095+00:00",
   "source_updates": {
     "accessories": "2026-09-25T06:02:37.418233+00:00",
     "onepiece": "2026-09-25T10:07:32.493175+00:00",
@@ -7,28 +7,10 @@
     "lorcana": "2026-09-25T06:17:06.798456+00:00",
     "yugioh": "2026-09-25T06:17:01.569904+00:00",
     "playstation": "2026-09-25T08:32:16.632761+00:00",
-    "nintendo": "2026-09-25T08:32:34.916660+00:00",
+    "nintendo": "2026-09-25T10:31:57.518095+00:00",
     "xbox": "2026-09-25T08:32:14.650913+00:00"
   },
   "products": [
-    {
-      "asin": "B07GS6ZB7T",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Logitech G G502 Hero Ratón Gaming con Cable Alto Rendimiento | Captor HERO 25K, 25,600 DPI, RGB, Peso Personalizable, 11 Botones Programables, Memoria Integrada, PC/Mac - Negro",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61mpMH5TzkL._AC_UL600_SR600,400_.jpg",
-      "price": "29,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B07GS6ZB7T?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:50.689963+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
     {
       "asin": "B09DPR2LZW",
       "store_label": "Amazon ES",
@@ -46,24 +28,6 @@
         "PlayStation"
       ],
       "source": "playstation"
-    },
-    {
-      "asin": "B0DBV9YTBY",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Tatybo Cascos Gaming para Ps4/Ps5/PC/Switch, Auriculares Gaming con Doble Diadema Adaptable, 3D Estéreo Sonido, Cascos con Cable Ligero con Luz RGB",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71OPXBGf77L._AC_UL600_SR600,400_.jpg",
-      "price": "16,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0DBV9YTBY?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:50.690061+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
     },
     {
       "asin": "B07GS6ZS8J",
@@ -1416,24 +1380,6 @@
       "source": "xbox"
     },
     {
-      "asin": "B0D7CD7WZ4",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Wenocally Estación de Carga para Controlador de Conmutador, Compatible con Nintendo Switch Joy Con & Switch Modelo OLED, Estación de Carga Compatible con Nintendo Switch, Soporta 6 Joycons e Indicador",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71HIyrSAiNL._AC_UL600_SR600,400_.jpg",
-      "price": "57,83 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0D7CD7WZ4?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:50.689720+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
       "asin": "B07HB851JR",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -2046,24 +1992,6 @@
       "source": "playstation"
     },
     {
-      "asin": "B0DHZTZ3KG",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "CoBak Funda Nintendo Switch 2 (2025) - Set 3en1: 2 Protectores Vidrio + 2 Gomas Palancas + Funda Rígida Portátil, Negro",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/714lVyPUn+L._AC_UL600_SR600,400_.jpg",
-      "price": "9,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0DHZTZ3KG?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:50.690002+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
       "asin": "B0BX722HFN",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -2100,24 +2028,6 @@
       "source": "playstation"
     },
     {
-      "asin": "B0CSFKZRGF",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Tatybo Cascos Gaming Inalámbricos para PC/Ps5/Ps4, Auriculares Gaming Inalámbricos con 2,4 GHz+Bluetooth 5,3 Modo Dual, 7.1 Sonido Envolvente, Duración 40Hr+",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71f15QSbhuL._AC_UL600_SR600,400_.jpg",
-      "price": "29,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0CSFKZRGF?tag=enkairito-21",
-      "first_seen": "2026-09-13T18:20:24.792746+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
       "asin": "B08S3FMVV7",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -2152,24 +2062,6 @@
         "PlayStation"
       ],
       "source": "playstation"
-    },
-    {
-      "asin": "B0F3DFKKY8",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Tatybo Cascos Gaming Inalámbricos 7.1 para Ps5/Ps4/PC, Auriculares Bluetooth con Micrófono con Cancelación de Ruido, 2.4GHz USB-C, 40H+ Batería para Switch/Mac/Portátil",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71TOZtYqAVL._AC_UL600_SR600,400_.jpg",
-      "price": "33,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F3DFKKY8?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:50.690017+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
     },
     {
       "asin": "B0FPFNTD4T",
@@ -2242,24 +2134,6 @@
         "PlayStation"
       ],
       "source": "playstation"
-    },
-    {
-      "asin": "B0D1KBNWHF",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "SteelSeries Arctis Nova 5 Cascos gaming inalámbricos PC, PS5, Switch 2, móvil - Controladores magnéticos de neodimio - Más de 100 preajustes de audio - Batería de 60h - 2,4 GHz o BT - Micro Gen2.X",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61Z0RvmmCSL._AC_UL600_SR600,400_.jpg",
-      "price": "109,95 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0D1KBNWHF?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:50.690135+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
     },
     {
       "asin": "B09KLKJSQM",
@@ -2694,24 +2568,6 @@
       "source": "playstation"
     },
     {
-      "asin": "B0CB1F69ZK",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "INIU Cargador USB C GAN 100W, 3-Puertos Cargador Rápido Compacto con Cable | Carga multidispositivo, Cargador de Viaje para Portátil MacBook Neo, iPhone 18 17 16 Pro Max, iPad, Samsung S26 Ultra, Pixel",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61coJdyVpeL._AC_UL600_SR600,400_.jpg",
-      "price": "29,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0CB1F69ZK?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:50.690012+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
-    },
-    {
       "asin": "B0CSFRYL7C",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -2782,24 +2638,6 @@
         "PlayStation"
       ],
       "source": "playstation"
-    },
-    {
-      "asin": "B0FNWYM43G",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "KROM KADOER— Mando Inalámbrico Bluetooth 5.0, 15 Botones, 4 niveles de Vibración dual, 187 gramos, Indicador LED nivel batería, Compatible con PC/Switch/Switch 2/iOS/Android, Blanco",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61oXAYR+x9L._AC_UL600_SR600,400_.jpg",
-      "price": "17,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FNWYM43G?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:50.689777+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Nintendo"
-      ],
-      "source": "nintendo"
     },
     {
       "asin": "B0FVLWNTF9",
@@ -3198,6 +3036,24 @@
       "source": "nintendo"
     },
     {
+      "asin": "B0D7CD7WZ4",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Wenocally Estación de Carga para Controlador de Conmutador, Compatible con Nintendo Switch Joy Con & Switch Modelo OLED, Estación de Carga Compatible con Nintendo Switch, Soporta 6 Joycons e Indicador",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71HIyrSAiNL._AC_UL600_SR600,400_.jpg",
+      "price": "57,83 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0D7CD7WZ4?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:50.689720+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
       "asin": "B0FDWT9YGP",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -3299,6 +3155,24 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B0F3JR79YY?tag=enkairito-21",
       "first_seen": "2026-09-16T10:34:14.850955+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B0FNWYM43G",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "KROM KADOER— Mando Inalámbrico Bluetooth 5.0, 15 Botones, 4 niveles de Vibración dual, 187 gramos, Indicador LED nivel batería, Compatible con PC/Switch/Switch 2/iOS/Android, Blanco",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61oXAYR+x9L._AC_UL600_SR600,400_.jpg",
+      "price": "17,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FNWYM43G?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:50.689777+00:00",
       "marketplace": "ES",
       "categories": [
         "Nintendo"
@@ -3846,6 +3720,24 @@
       "source": "nintendo"
     },
     {
+      "asin": "B07GS6ZB7T",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Logitech G G502 Hero Ratón Gaming con Cable Alto Rendimiento | Captor HERO 25K, 25,600 DPI, RGB, Peso Personalizable, 11 Botones Programables, Memoria Integrada, PC/Mac - Negro",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61mpMH5TzkL._AC_UL600_SR600,400_.jpg",
+      "price": "29,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B07GS6ZB7T?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:50.689963+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
       "asin": "B0CJN1Y673",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -3918,6 +3810,42 @@
       "source": "nintendo"
     },
     {
+      "asin": "B0DHZTZ3KG",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "CoBak Funda Nintendo Switch 2 (2025) - Set 3en1: 2 Protectores Vidrio + 2 Gomas Palancas + Funda Rígida Portátil, Negro",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/714lVyPUn+L._AC_UL600_SR600,400_.jpg",
+      "price": "9,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DHZTZ3KG?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:50.690002+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B0CB1F69ZK",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "INIU Cargador USB C GAN 100W, 3-Puertos Cargador Rápido Compacto con Cable | Carga multidispositivo, Cargador de Viaje para Portátil MacBook Neo, iPhone 18 17 16 Pro Max, iPad, Samsung S26 Ultra, Pixel",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61coJdyVpeL._AC_UL600_SR600,400_.jpg",
+      "price": "29,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CB1F69ZK?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:50.690012+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
       "asin": "B0DJ2PLH9G",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -3954,6 +3882,24 @@
       "source": "nintendo"
     },
     {
+      "asin": "B0CSFKZRGF",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Tatybo Cascos Gaming Inalámbricos para PC/Ps5/Ps4, Auriculares Gaming Inalámbricos con 2,4 GHz+Bluetooth 5,3 Modo Dual, 7.1 Sonido Envolvente, Duración 40Hr+",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71f15QSbhuL._AC_UL600_SR600,400_.jpg",
+      "price": "29,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CSFKZRGF?tag=enkairito-21",
+      "first_seen": "2026-09-13T18:20:24.792746+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
       "asin": "B0B7X7PK9S",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -3965,6 +3911,24 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B0B7X7PK9S?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:50.690056+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B0F3DFKKY8",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Tatybo Cascos Gaming Inalámbricos 7.1 para Ps5/Ps4/PC, Auriculares Bluetooth con Micrófono con Cancelación de Ruido, 2.4GHz USB-C, 40H+ Batería para Switch/Mac/Portátil",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71TOZtYqAVL._AC_UL600_SR600,400_.jpg",
+      "price": "33,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F3DFKKY8?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:50.690017+00:00",
       "marketplace": "ES",
       "categories": [
         "Nintendo"
@@ -4080,6 +4044,24 @@
       "source": "nintendo"
     },
     {
+      "asin": "B0DBV9YTBY",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Tatybo Cascos Gaming para Ps4/Ps5/PC/Switch, Auriculares Gaming con Doble Diadema Adaptable, 3D Estéreo Sonido, Cascos con Cable Ligero con Luz RGB",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71OPXBGf77L._AC_UL600_SR600,400_.jpg",
+      "price": "16,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DBV9YTBY?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:50.690061+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
       "asin": "B0H36Q93T2",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -4091,6 +4073,24 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B0H36Q93T2?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:50.690027+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Nintendo"
+      ],
+      "source": "nintendo"
+    },
+    {
+      "asin": "B0D1KBNWHF",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "SteelSeries Arctis Nova 5 Cascos gaming inalámbricos PC, PS5, Switch 2, móvil - Controladores magnéticos de neodimio - Más de 100 preajustes de audio - Batería de 60h - 2,4 GHz o BT - Micro Gen2.X",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61Z0RvmmCSL._AC_UL600_SR600,400_.jpg",
+      "price": "109,95 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0D1KBNWHF?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:50.690135+00:00",
       "marketplace": "ES",
       "categories": [
         "Nintendo"
@@ -4121,7 +4121,7 @@
       "flag": "🇪🇸",
       "name": "UPGRADE Mando para Switch/ Switch 2, Mando Inalámbrico con Gatillos de Recorrido, Batería 1000mAh, LED RGB/Gyro Axis/Turbo/Vibración/ Botones Programables, Mando Pro para Switch/PC/Android/iOS",
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61gMtUcQScL._AC_UL600_SR600,400_.jpg",
-      "price": "24,69 €",
+      "price": "25,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
