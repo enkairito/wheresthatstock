@@ -1,51 +1,5 @@
 [
   {
-    "asin": "B073QRG1YR",
-    "store_label": "Amazon ES",
-    "flag": "🇪🇸",
-    "name": "Sony PlayStation 4 Slim 500GB Negro Wifi - Videoconsolas (PlayStation 4, Negro, 8192 MB, GDDR5, GDDR5, AMD Jaguar)",
-    "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61LEvlV7SBL._AC_UL600_SR600,400_.jpg",
-    "price": "160,00 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B073QRG1YR?tag=enkairito-21",
-    "first_seen": "2026-09-16T10:36:52.312475+00:00",
-    "marketplace": "ES",
-    "categories": [
-      "Consola"
-    ],
-    "game": "PlayStation",
-    "ts": "2026-09-24T16:31:35.363119+00:00",
-    "type": "restock",
-    "prev_price": "160,00 €",
-    "_src": "playstation.json",
-    "id": "ES-B073QRG1YR:2026-09-24T16:31:35.363119+00:00:restock"
-  },
-  {
-    "asin": "B01H0CBMXO",
-    "store_label": "Amazon ES",
-    "flag": "🇪🇸",
-    "name": "Electronic Arts - Titanfall 2",
-    "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81dFMnpvZpL._AC_UL600_SR600,400_.jpg",
-    "price": "24,99 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B01H0CBMXO?tag=enkairito-21",
-    "first_seen": "2026-09-17T00:32:37.498830+00:00",
-    "marketplace": "ES",
-    "categories": [
-      "Videojuego"
-    ],
-    "game": "PlayStation",
-    "ts": "2026-09-24T16:31:35.363119+00:00",
-    "type": "restock",
-    "prev_price": "24,99 €",
-    "_src": "playstation.json",
-    "id": "ES-B01H0CBMXO:2026-09-24T16:31:35.363119+00:00:restock"
-  },
-  {
     "asin": "B00BE4HOIM",
     "store_label": "Amazon ES",
     "flag": "🇪🇸",
@@ -4598,5 +4552,51 @@
     "prev_price": "199,90 €",
     "_src": "playstation.json",
     "id": "ES-B07HNR4ZZD:2026-09-25T20:31:49.103694+00:00:restock"
+  },
+  {
+    "asin": "B0FN7ZG39D",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Playstation Consola 5 Digital Chassis E",
+    "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61h7VjYt-fL._AC_UL600_SR600,400_.jpg",
+    "price": "587,02 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0FN7ZG39D?tag=enkairito-21",
+    "first_seen": "2026-09-20T14:31:41.680065+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Consola"
+    ],
+    "game": "PlayStation",
+    "ts": "2026-09-25T22:31:50.272047+00:00",
+    "type": "price_drop",
+    "prev_price": "663,99 €",
+    "_src": "playstation.json",
+    "id": "ES-B0FN7ZG39D:2026-09-25T22:31:50.272047+00:00:price_drop"
+  },
+  {
+    "asin": "B09KTGP5C2",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Grand Theft Auto: The Trilogy – The Definitive Edition, PlayStation 4",
+    "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81sWtmFwp9L._AC_UL600_SR600,400_.jpg",
+    "price": "23,30 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B09KTGP5C2?tag=enkairito-21",
+    "first_seen": "2026-09-12T00:28:04.018821+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Videojuego"
+    ],
+    "game": "PlayStation",
+    "ts": "2026-09-25T22:31:50.272047+00:00",
+    "type": "price_drop",
+    "prev_price": "26,99 €",
+    "_src": "playstation.json",
+    "id": "ES-B09KTGP5C2:2026-09-25T22:31:50.272047+00:00:price_drop"
   }
 ]
