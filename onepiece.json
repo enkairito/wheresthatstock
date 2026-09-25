@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T02:07:35.036391+00:00",
+  "updated_at": "2026-09-25T03:07:19.914881+00:00",
   "products": [
     {
       "asin": "B0HFD53BDB",
@@ -43,10 +43,10 @@
       "flag": "🇪🇸",
       "name": "One Piece TCG: Double Pack Set Vol. 10 (DP-10) - Adventure of Kami's Island (2 Paquetes)",
       "image": "https://m.media-amazon.com/images/I/6149SXXRkfL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "69,63 €",
+      "price": "69,07 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": null,
+      "stock": "2",
       "link": "https://www.amazon.es/dp/B0GW9TXS1Q?tag=enkairito-21",
       "first_seen": "2026-08-29T18:09:04.551067+00:00",
       "marketplace": "ES",
@@ -79,7 +79,7 @@
       "flag": "🇪🇸",
       "name": "One Piece TCG: The World's Strongest Warriors Booster Box (OP-17) - 24 paquetes",
       "image": "https://m.media-amazon.com/images/I/61CWeLxq3eL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "417,00 €",
+      "price": "432,00 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -164,6 +164,24 @@
       "game": "One Piece"
     },
     {
+      "asin": "B0FL83L295",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "One Piece TCG Starter Deck: Ace & Newgate (ST-22) - 51 Tarjetas",
+      "image": "https://m.media-amazon.com/images/I/71-ebfbhV6L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "42,88 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FL83L295?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:09:29.426544+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Starter Deck"
+      ],
+      "game": "One Piece"
+    },
+    {
       "asin": "B0HC7LPXB4",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -175,24 +193,6 @@
       "stock": "2",
       "link": "https://www.amazon.es/dp/B0HC7LPXB4?tag=enkairito-21",
       "first_seen": "2026-08-29T18:09:16.260611+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Starter Deck"
-      ],
-      "game": "One Piece"
-    },
-    {
-      "asin": "B0FL83L295",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "One Piece TCG Starter Deck: Ace & Newgate (ST-22) - 51 Tarjetas",
-      "image": "https://m.media-amazon.com/images/I/71-ebfbhV6L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "47,11 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FL83L295?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:09:29.426544+00:00",
       "marketplace": "ES",
       "categories": [
         "Starter Deck"
@@ -272,17 +272,17 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0G2VKBZML",
+      "asin": "B0F8V1YTSP",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Bandai Paquete de refuerzo de juego de cartas One Piece, La aventura de la isla de Dios [OP-15] (Caja) 24 paquetes",
-      "image": "https://m.media-amazon.com/images/I/61EvBG8mJ-L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "198,35 €",
+      "name": "BANDAI Juego de cartas de una pieza más antiguo (OP-13) (caja) de 24 unidades",
+      "image": "https://m.media-amazon.com/images/I/81uxMM80r7L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+      "price": "199,90 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0G2VKBZML?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:11:01.747489+00:00",
+      "link": "https://www.amazon.es/dp/B0F8V1YTSP?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:10:47.849793+00:00",
       "marketplace": "ES",
       "categories": [
         "Booster Box"
@@ -304,24 +304,6 @@
       "marketplace": "ES",
       "categories": [
         "Starter Deck"
-      ],
-      "game": "One Piece"
-    },
-    {
-      "asin": "B0F8V1YTSP",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "BANDAI Juego de cartas de una pieza más antiguo (OP-13) (caja) de 24 unidades",
-      "image": "https://m.media-amazon.com/images/I/81uxMM80r7L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "199,90 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F8V1YTSP?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:10:47.849793+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Booster Box"
       ],
       "game": "One Piece"
     },
