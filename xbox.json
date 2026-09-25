@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T06:32:05.986491+00:00",
+  "updated_at": "2026-09-25T08:32:14.649279+00:00",
   "products": [
     {
       "asin": "B08FCXLB8Z",
@@ -200,24 +200,6 @@
       "game": "Xbox"
     },
     {
-      "asin": "B0H4GPPKLD",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Gears of War: E-Day – XBOX Series X | Disco físico + descarga de contenido requerida",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81dIUCsGh7L._AC_UL600_SR600,400_.jpg",
-      "price": "59,90 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0H4GPPKLD?tag=enkairito-21",
-      "first_seen": "2026-09-16T00:36:35.693126+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
       "asin": "B0H7K6SJ73",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -229,6 +211,24 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B0H7K6SJ73?tag=enkairito-21",
       "first_seen": "2026-09-12T00:28:11.204355+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Xbox"
+    },
+    {
+      "asin": "B0H4GPPKLD",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Gears of War: E-Day – XBOX Series X | Disco físico + descarga de contenido requerida",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81dIUCsGh7L._AC_UL600_SR600,400_.jpg",
+      "price": "59,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0H4GPPKLD?tag=enkairito-21",
+      "first_seen": "2026-09-16T00:36:35.693126+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -254,24 +254,6 @@
       "game": "Xbox"
     },
     {
-      "asin": "B0HJDMTX3T",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Eternal Anima - Xbox",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/8136AIZ3gNL._AC_UL600_SR600,400_.jpg",
-      "price": "49,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0HJDMTX3T?tag=enkairito-21",
-      "first_seen": "2026-09-22T16:31:37.524778+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
       "asin": "B0H3VXSTK5",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -290,17 +272,35 @@
       "game": "Xbox"
     },
     {
-      "asin": "B0H46GDDF6",
+      "asin": "B0HJDMTX3T",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Onimusha Way of the Sword Steelbook Deluxe",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81+0QxOgUML._AC_UL600_SR600,400_.jpg",
-      "price": "99,99 €",
+      "name": "Eternal Anima - Xbox",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/8136AIZ3gNL._AC_UL600_SR600,400_.jpg",
+      "price": "49,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0H46GDDF6?tag=enkairito-21",
-      "first_seen": "2026-09-22T16:31:37.524805+00:00",
+      "link": "https://www.amazon.es/dp/B0HJDMTX3T?tag=enkairito-21",
+      "first_seen": "2026-09-22T16:31:37.524778+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Xbox"
+    },
+    {
+      "asin": "B0GZ4JMN1L",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Star Wars Galactic Racer XSRX",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61fP9SpvZsL._AC_UL600_SR600,400_.jpg",
+      "price": "52,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GZ4JMN1L?tag=enkairito-21",
+      "first_seen": "2026-09-23T12:31:48.396946+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -344,17 +344,35 @@
       "game": "Xbox"
     },
     {
-      "asin": "B0GYV53T7C",
+      "asin": "B0H46GDDF6",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "The Blood Of Dawnwalker Day 1 Edition",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51nGFvqPXHL._AC_UL600_SR600,400_.jpg",
-      "price": "71,99 €",
+      "name": "Onimusha Way of the Sword Steelbook Deluxe",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81+0QxOgUML._AC_UL600_SR600,400_.jpg",
+      "price": "99,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0GYV53T7C?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.256348+00:00",
+      "link": "https://www.amazon.es/dp/B0H46GDDF6?tag=enkairito-21",
+      "first_seen": "2026-09-22T16:31:37.524805+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Xbox"
+    },
+    {
+      "asin": "B0FBS1LX45",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Sonic Racing: CrossWorlds (Xbox Series X)",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81jmfVCtuDL._AC_UL600_SR600,400_.jpg",
+      "price": "46,96 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0FBS1LX45?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.256320+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -380,17 +398,71 @@
       "game": "Xbox"
     },
     {
-      "asin": "B0GZ4JMN1L",
+      "asin": "B0FGK7Y5PN",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Star Wars Galactic Racer XSRX",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61fP9SpvZsL._AC_UL600_SR600,400_.jpg",
-      "price": "52,90 €",
+      "name": "EA SPORTS FC 26 Standard Edition XBOX Series X / XBOX One -disco | Videojuegos | Castellano",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81v9BZ9ATFL._AC_UL600_SR600,400_.jpg",
+      "price": "25,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0GZ4JMN1L?tag=enkairito-21",
-      "first_seen": "2026-09-23T12:31:48.396946+00:00",
+      "link": "https://www.amazon.es/dp/B0FGK7Y5PN?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:25:04.811300+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Xbox"
+    },
+    {
+      "asin": "B08HP49V26",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Immortals Fenyx Rising Limited Edition Amazon XBOX X",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81ozUilH-rL._AC_UL600_SR600,400_.jpg",
+      "price": "15,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B08HP49V26?tag=enkairito-21",
+      "first_seen": "2026-09-24T22:31:41.897693+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Xbox"
+    },
+    {
+      "asin": "B0GYV53T7C",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "The Blood Of Dawnwalker Day 1 Edition",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51nGFvqPXHL._AC_UL600_SR600,400_.jpg",
+      "price": "71,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GYV53T7C?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.256348+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Xbox"
+    },
+    {
+      "asin": "B0BBRZMFDD",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Sonic Frontiers Xbox",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81SNimUYt8L._AC_UL600_SR600,400_.jpg",
+      "price": "17,00 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0BBRZMFDD?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.256453+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -434,17 +506,35 @@
       "game": "Xbox"
     },
     {
-      "asin": "B0FGK7Y5PN",
+      "asin": "B0H7JTHNRN",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "EA SPORTS FC 26 Standard Edition XBOX Series X / XBOX One -disco | Videojuegos | Castellano",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81v9BZ9ATFL._AC_UL600_SR600,400_.jpg",
-      "price": "25,99 €",
+      "name": "Nacon The Mound: Omen of Cthulhu Edición Deluxe Videojuego para XBOX series X",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81BgDJFgBWL._AC_UL600_SR600,400_.jpg",
+      "price": "39,90 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0FGK7Y5PN?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:25:04.811300+00:00",
+      "link": "https://www.amazon.es/dp/B0H7JTHNRN?tag=enkairito-21",
+      "first_seen": "2026-09-19T14:32:18.169268+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Xbox"
+    },
+    {
+      "asin": "B08KDKZ539",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "MICSOFX ENGRANAJES TÁCTICOS - XX",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71kbN62Y-TL._AC_UL600_SR600,400_.jpg",
+      "price": "27,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B08KDKZ539?tag=enkairito-21",
+      "first_seen": "2026-09-25T08:32:14.644468+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -470,96 +560,6 @@
       "game": "Xbox"
     },
     {
-      "asin": "B0FBS1LX45",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Sonic Racing: CrossWorlds (Xbox Series X)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81jmfVCtuDL._AC_UL600_SR600,400_.jpg",
-      "price": "46,96 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0FBS1LX45?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.256320+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
-      "asin": "B0BBRZMFDD",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Sonic Frontiers Xbox",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81SNimUYt8L._AC_UL600_SR600,400_.jpg",
-      "price": "17,00 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0BBRZMFDD?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.256453+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
-      "asin": "B0GTVZVBC6",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Truxton Extreme XSX",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71BG9kl3aaL._AC_UL600_SR600,400_.jpg",
-      "price": "34,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0GTVZVBC6?tag=enkairito-21",
-      "first_seen": "2026-09-23T00:31:43.963019+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
-      "asin": "B0HHNQ1YTW",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Final Fantasy VII Revelation - Launch Edition",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81nQRZ924RL._AC_UL600_SR600,400_.jpg",
-      "price": "75,90 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0HHNQ1YTW?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.256278+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
-      "asin": "B0GSY2PD18",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Forza Horizon 6: Premium Upgrade | Xbox Series X|S y Windows [Código digital]",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71KhsGv40kL._AC_UL600_SR600,400_.jpg",
-      "price": "47,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0GSY2PD18?tag=enkairito-21",
-      "first_seen": "2026-09-24T12:31:36.578233+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
       "asin": "B09TZYYRZS",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -571,24 +571,6 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B09TZYYRZS?tag=enkairito-21",
       "first_seen": "2026-09-17T08:32:35.495962+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
-      "asin": "B0GVSSF6ZQ",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Shenmue III Enhanced - Xbox Series X",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81jx7+yTYoL._AC_UL600_SR600,400_.jpg",
-      "price": "36,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0GVSSF6ZQ?tag=enkairito-21",
-      "first_seen": "2026-09-20T12:31:37.579550+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -614,24 +596,6 @@
       "game": "Xbox"
     },
     {
-      "asin": "B0CXFCFBV8",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Unknown 9: Awakening (Compatible with Xbox One) /Xbox X",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81PDFfvEVSL._AC_UL600_SR600,400_.jpg",
-      "price": "15,00 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0CXFCFBV8?tag=enkairito-21",
-      "first_seen": "2026-09-23T12:31:48.397173+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
       "asin": "B0F83XP97Q",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -650,17 +614,17 @@
       "game": "Xbox"
     },
     {
-      "asin": "B0D7Q1B5TG",
+      "asin": "B0BWYWM9V8",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Farming Simulator 25 - Xbox",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81d28XavARL._AC_UL600_SR600,400_.jpg",
-      "price": "22,41 €",
+      "name": "Lies of P (Xbox Series X/Xbox One)",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81RMcja+OSL._AC_UL600_SR600,400_.jpg",
+      "price": "41,88 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0D7Q1B5TG?tag=enkairito-21",
-      "first_seen": "2026-09-24T12:31:36.578274+00:00",
+      "link": "https://www.amazon.es/dp/B0BWYWM9V8?tag=enkairito-21",
+      "first_seen": "2026-09-12T06:28:31.691493+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -668,17 +632,17 @@
       "game": "Xbox"
     },
     {
-      "asin": "B0CZTNZ13W",
+      "asin": "B0BJTSN9ZC",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Star Wars Outlaws Limited Edition (Exclusive to Amazon.es) (Xbox Series X)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/815hL4bJcDL._AC_UL300_SR300,200_.jpg",
-      "price": "36,20 €",
+      "name": "Resident Evil 4 for for Xbox Series X S",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71YYP0Sz31L._AC_UL600_SR600,400_.jpg",
+      "price": "23,46 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0CZTNZ13W?tag=enkairito-21",
-      "first_seen": "2026-09-24T12:31:36.578308+00:00",
+      "link": "https://www.amazon.es/dp/B0BJTSN9ZC?tag=enkairito-21",
+      "first_seen": "2026-09-18T12:31:56.790594+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -686,17 +650,17 @@
       "game": "Xbox"
     },
     {
-      "asin": "B0FSD5W83N",
+      "asin": "B0GXKXMN3X",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Avatar: Frontiers of Pandora From the Ashes Edition (Xbox X)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/81hV++TzeAL._AC_UL300_SR300,200_.jpg",
-      "price": "46,42 €",
+      "name": "Assassin's Creed Black Flag Re-Synced Standard Edition (Xbox X)",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81iW6Krnv4L._AC_UL600_SR600,400_.jpg",
+      "price": "49,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0FSD5W83N?tag=enkairito-21",
-      "first_seen": "2026-09-12T18:26:21.308767+00:00",
+      "link": "https://www.amazon.es/dp/B0GXKXMN3X?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:25:04.388338+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -704,17 +668,17 @@
       "game": "Xbox"
     },
     {
-      "asin": "B0BGQ9TNRM",
+      "asin": "B09D8NL824",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Scars Above (Xbox Series X)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/61FlIOh4VtL._AC_UL300_SR300,200_.jpg",
-      "price": "11,89 €",
+      "name": "Call of Duty: Vanguard [Xbox Series X-S]",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/81gxKRiP23L._AC_UL300_SR300,200_.jpg",
+      "price": "29,04 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0BGQ9TNRM?tag=enkairito-21",
-      "first_seen": "2026-09-20T12:31:37.579664+00:00",
+      "link": "https://www.amazon.es/dp/B09D8NL824?tag=enkairito-21",
+      "first_seen": "2026-09-23T12:31:48.397184+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -722,17 +686,17 @@
       "game": "Xbox"
     },
     {
-      "asin": "B0H3ZZZSMJ",
+      "asin": "B0C74KPKRD",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Tomb Raider: Legacy of Atlantis Amazon Edition - XSRX",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/81kV0LCtkBL._AC_UL300_SR300,200_.jpg",
-      "price": "59,99 €",
+      "name": "Prince of Persia: The Lost Crown (Xbox One/Series X)",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/81GXuLECLWL._AC_UL300_SR300,200_.jpg",
+      "price": "19,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0H3ZZZSMJ?tag=enkairito-21",
-      "first_seen": "2026-09-18T12:31:56.790555+00:00",
+      "link": "https://www.amazon.es/dp/B0C74KPKRD?tag=enkairito-21",
+      "first_seen": "2026-09-25T08:32:14.644546+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -740,17 +704,17 @@
       "game": "Xbox"
     },
     {
-      "asin": "B0FZLZ935K",
+      "asin": "B0DZ324Y45",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Monster Hunter Stories 3 XSRX",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/81G4OeNzb5L._AC_UL300_SR300,200_.jpg",
-      "price": "44,99 €",
+      "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 - XSRX",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/91NlLkV471L._AC_UL300_SR300,200_.jpg",
+      "price": "32,95 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0FZLZ935K?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.256305+00:00",
+      "link": "https://www.amazon.es/dp/B0DZ324Y45?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.256490+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -758,17 +722,17 @@
       "game": "Xbox"
     },
     {
-      "asin": "B0DLGRGF9H",
+      "asin": "B0GTVZVBC6",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Clair Obscur: Expedition 33",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/81VDlubtsZL._AC_UL300_SR300,200_.jpg",
-      "price": "42,99 €",
+      "name": "Truxton Extreme XSX",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71BG9kl3aaL._AC_UL300_SR300,200_.jpg",
+      "price": "34,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0DLGRGF9H?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.256445+00:00",
+      "link": "https://www.amazon.es/dp/B0GTVZVBC6?tag=enkairito-21",
+      "first_seen": "2026-09-23T00:31:43.963019+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -776,17 +740,17 @@
       "game": "Xbox"
     },
     {
-      "asin": "B0FJSG1KXP",
+      "asin": "B0H37G83HF",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Reanimal XSRX",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/71eszIN5YGL._AC_UL300_SR300,200_.jpg",
-      "price": "37,29 €",
+      "name": "Call of Duty®: Modern Warfare® 4 - XBOX Series X | Disco físico + descarga de contenido requerida",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71k7mV8t-WL._AC_UL300_SR300,200_.jpg",
+      "price": "79,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0FJSG1KXP?tag=enkairito-21",
-      "first_seen": "2026-09-17T08:32:35.495729+00:00",
+      "link": "https://www.amazon.es/dp/B0H37G83HF?tag=enkairito-21",
+      "first_seen": "2026-09-18T12:31:56.790523+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -794,17 +758,53 @@
       "game": "Xbox"
     },
     {
-      "asin": "B0CK2H3NPP",
+      "asin": "B0F8C1Z3NG",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Unicorn Overlord /Xbox Series X",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/81eVIbKIJBL._AC_UL300_SR300,200_.jpg",
-      "price": "22,00 €",
+      "name": "Mafia: The Old Country XBS",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/81YvlQ1odML._AC_UL300_SR300,200_.jpg",
+      "price": "39,75 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0CK2H3NPP?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.256416+00:00",
+      "link": "https://www.amazon.es/dp/B0F8C1Z3NG?tag=enkairito-21",
+      "first_seen": "2026-09-25T08:32:14.644579+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Xbox"
+    },
+    {
+      "asin": "B0CG1WVCQZ",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "C.o.D Modern Warfare III XBX ESP",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/81hyNsCRjzL._AC_UL300_SR300,200_.jpg",
+      "price": "25,25 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CG1WVCQZ?tag=enkairito-21",
+      "first_seen": "2026-09-25T08:32:14.644592+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Xbox"
+    },
+    {
+      "asin": "B0HHNQ1YTW",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Final Fantasy VII Revelation - Launch Edition",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/81nQRZ924RL._AC_UL300_SR300,200_.jpg",
+      "price": "75,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0HHNQ1YTW?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.256278+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -817,7 +817,7 @@
       "flag": "🇪🇸",
       "name": "Corsair Scimitar Elite RGB Óptico MOBA/MMO Ratón para Juegos - Negro | 18.000 PPP Óptico Sensor, 17 Botones Programables, Retroiluminación RGB Dinámica en Cuatro Zonas, Forma Contorneada",
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51Znhf5lKoL._AC_UL600_SR600,400_.jpg",
-      "price": "89,97 €",
+      "price": "89,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -848,24 +848,6 @@
       "game": "Xbox"
     },
     {
-      "asin": "B0C44XVWCH",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "WD_BLACK C50 1 TB Tarjeta de expansión para Xbox (Compatible con la Serie X|S, Plug-and-Stay, Velocity Architecture, Reanudación rápida, Subscripción gratuia de 1 Mes de Xbox Game Pass) Black",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/716TJhy4GbL._AC_UL600_SR600,400_.jpg",
-      "price": "149,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0C44XVWCH?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:10.760406+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
       "asin": "B095PPY2KN",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -877,6 +859,42 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B095PPY2KN?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:42.256543+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Xbox"
+    },
+    {
+      "asin": "B082YRCL4T",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "SteelSeries Apex 3 - Teclado Gaming - Iluminación RGB de 10 zonas - Resistencia al agua IP32 - Reposamuñecas magnético superior - Teclado QWERTY Español",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61nBW1Uwq6L._AC_UL600_SR600,400_.jpg",
+      "price": "59,95 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B082YRCL4T?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.256560+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Xbox"
+    },
+    {
+      "asin": "B0C44XVWCH",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "WD_BLACK C50 1 TB Tarjeta de expansión para Xbox (Compatible con la Serie X|S, Plug-and-Stay, Velocity Architecture, Reanudación rápida, Subscripción gratuia de 1 Mes de Xbox Game Pass) Black",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/716TJhy4GbL._AC_UL300_SR300,200_.jpg",
+      "price": "149,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0C44XVWCH?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:10.760406+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -1032,7 +1050,7 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Xbox One - Consola Básica (Con Kinect)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61ZjSzL3xYL._AC_UL600_SR600,400_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/61ZjSzL3xYL._AC_UL300_SR300,200_.jpg",
       "price": "249,95 €",
       "original_price": null,
       "status": "compra_directa",
@@ -1136,96 +1154,6 @@
       "game": "Xbox"
     },
     {
-      "asin": "B07QQGJHD3",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Star Wars Jedi: Fallen Order - Xbox One [Importación inglesa]",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61-yPbpzOqL._AC_UL600_SR600,400_.jpg",
-      "price": "23,71 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B07QQGJHD3?tag=enkairito-21",
-      "first_seen": "2026-09-24T14:31:53.505508+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
-      "asin": "B07T14YQYZ",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Destroy All Humans - Xbox One",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61US2VshK5L._AC_UL600_SR600,400_.jpg",
-      "price": "11,85 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B07T14YQYZ?tag=enkairito-21",
-      "first_seen": "2026-09-20T12:31:37.579852+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
-      "asin": "B01N7U9HB3",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Battle Chasers Nightwar XBO",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81zmiFA-cLL._AC_UL600_SR600,400_.jpg",
-      "price": "5,86 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B01N7U9HB3?tag=enkairito-21",
-      "first_seen": "2026-09-23T12:31:48.397272+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
-      "asin": "B09K7ZHMFX",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Grand Theft Auto The Trilogy: La edición definitiva (Xbox Series X/Xbox One)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/810mIhNKimL._AC_UL600_SR600,400_.jpg",
-      "price": "32,39 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B09K7ZHMFX?tag=enkairito-21",
-      "first_seen": "2026-09-14T12:21:25.171617+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
-      "asin": "B00S7QXNU8",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Forza Motorsport 6 [Importación Alemana]",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81cGfuS5tLL._AC_UL600_SR600,400_.jpg",
-      "price": "11,77 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B00S7QXNU8?tag=enkairito-21",
-      "first_seen": "2026-09-22T16:31:37.525052+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
       "asin": "B07M7X2JLB",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -1262,17 +1190,17 @@
       "game": "Xbox"
     },
     {
-      "asin": "B07C8MRZFS",
+      "asin": "B01M6YIR2E",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Tom Clancy's The Division 2 (Xbox One) [Importación Inglesa] - Juegos en Español",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/813M9-Y7CYL._AC_UL600_SR600,400_.jpg",
-      "price": "11,99 €",
+      "name": "Red Dead Redemption 2 (Xbox One)",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81b5yIk4+fL._AC_UL600_SR600,400_.jpg",
+      "price": "26,08 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B07C8MRZFS?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:25:04.811456+00:00",
+      "link": "https://www.amazon.es/dp/B01M6YIR2E?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:25:04.388324+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -1280,17 +1208,17 @@
       "game": "Xbox"
     },
     {
-      "asin": "B08VPTBZHR",
+      "asin": "B07SHYBM9K",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Microsoft Mass Effect Legendary Edition - Xbox One/Series X",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/719HYTP9zjL._AC_UL600_SR600,400_.jpg",
-      "price": "29,99 €",
+      "name": "Gears 5 - Xbox One [Importación Francesa]",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71ls7-2FwLL._AC_UL600_SR600,400_.jpg",
+      "price": "30,94 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B08VPTBZHR?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:25:04.811617+00:00",
+      "link": "https://www.amazon.es/dp/B07SHYBM9K?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:11.204439+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -1298,17 +1226,17 @@
       "game": "Xbox"
     },
     {
-      "asin": "B01AH2F07S",
+      "asin": "B07X4X8JM4",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Quantum Break [Importación Francesa]",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71-QDblt2RL._AC_UL600_SR600,400_.jpg",
-      "price": "22,99 €",
+      "name": "Grand Theft Auto V - Premium Edition",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81pcU3SCn+L._AC_UL600_SR600,400_.jpg",
+      "price": "24,00 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B01AH2F07S?tag=enkairito-21",
-      "first_seen": "2026-09-19T14:32:18.169491+00:00",
+      "link": "https://www.amazon.es/dp/B07X4X8JM4?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.257052+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -1316,17 +1244,17 @@
       "game": "Xbox"
     },
     {
-      "asin": "B0C28Q8G8X",
+      "asin": "B071G3GD64",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Konami Super Bomberman R 2 (Xbox Series X/Xbox One)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71MOFIuHamL._AC_UL600_SR600,400_.jpg",
-      "price": "15,92 €",
+      "name": "Darksiders III - Xbox One [Importación alemana]",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/8179JZknuYL._AC_UL600_SR600,400_.jpg",
+      "price": "9,89 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0C28Q8G8X?tag=enkairito-21",
-      "first_seen": "2026-09-24T12:31:36.578360+00:00",
+      "link": "https://www.amazon.es/dp/B071G3GD64?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.256972+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -1334,17 +1262,17 @@
       "game": "Xbox"
     },
     {
-      "asin": "B08N3J9D55",
+      "asin": "B07DNQD2GQ",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Mass Effect Legendary Edition [GRA XBOX ONE]",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71lIJoZhYdL._AC_UL600_SR600,400_.jpg",
-      "price": "26,99 €",
+      "name": "Sekiro: Shadows Die Twice",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/716DQ6dS9XL._AC_UL600_SR600,400_.jpg",
+      "price": "40,79 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B08N3J9D55?tag=enkairito-21",
-      "first_seen": "2026-09-12T00:28:11.204371+00:00",
+      "link": "https://www.amazon.es/dp/B07DNQD2GQ?tag=enkairito-21",
+      "first_seen": "2026-09-22T16:31:37.525101+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -1352,17 +1280,53 @@
       "game": "Xbox"
     },
     {
-      "asin": "B09867DNJ9",
+      "asin": "B073FDW6WP",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "DEMON SLAYER HINOKAMI.XONE/XSX",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71GLKy-o+6S._AC_UL600_SR600,400_.jpg",
-      "price": "23,38 €",
+      "name": "Ace Combat 7: Skies Unknown",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/810PGDaAaSL._AC_UL300_SR300,200_.jpg",
+      "price": "22,95 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B09867DNJ9?tag=enkairito-21",
-      "first_seen": "2026-09-24T14:31:53.505567+00:00",
+      "link": "https://www.amazon.es/dp/B073FDW6WP?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.256855+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Xbox"
+    },
+    {
+      "asin": "B077S36YHR",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Call of Duty WWII",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71BQuyhUFcL._AC_UL600_SR600,400_.jpg",
+      "price": "34,32 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B077S36YHR?tag=enkairito-21",
+      "first_seen": "2026-09-22T16:31:37.525130+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Xbox"
+    },
+    {
+      "asin": "B0792LL798",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Gears of War 4 [Importación francesa]",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/718dRfkKstS._AC_UL600_SR600,400_.jpg",
+      "price": "19,00 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0792LL798?tag=enkairito-21",
+      "first_seen": "2026-09-20T12:31:37.579923+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -1388,17 +1352,17 @@
       "game": "Xbox"
     },
     {
-      "asin": "B071JM1XZB",
+      "asin": "B07XTSKC8N",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Darksiders III - Xbox one",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/91RaEujrFBL._AC_UL600_SR600,400_.jpg",
-      "price": "12,12 €",
+      "name": "Grand Theft Auto V Premium Edition - Xbox One [Importación alemana]",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81LUEq-RvyL._AC_UL600_SR600,400_.jpg",
+      "price": "28,51 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B071JM1XZB?tag=enkairito-21",
-      "first_seen": "2026-09-24T14:31:53.505587+00:00",
+      "link": "https://www.amazon.es/dp/B07XTSKC8N?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.257000+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -1406,17 +1370,71 @@
       "game": "Xbox"
     },
     {
-      "asin": "B096WCYKP6",
+      "asin": "B07QQGJHD3",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Sonic Colours Ultimate with Baby Sonic Keychain (Exclusive to Amazon.co.UK) (Xbox One)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61U1rewcdAL._AC_UL600_SR600,400_.jpg",
-      "price": "34,88 €",
+      "name": "Star Wars Jedi: Fallen Order - Xbox One [Importación inglesa]",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61-yPbpzOqL._AC_UL600_SR600,400_.jpg",
+      "price": "27,51 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B096WCYKP6?tag=enkairito-21",
-      "first_seen": "2026-09-24T14:31:53.505595+00:00",
+      "link": "https://www.amazon.es/dp/B07QQGJHD3?tag=enkairito-21",
+      "first_seen": "2026-09-24T14:31:53.505508+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Xbox"
+    },
+    {
+      "asin": "B097ZBFDKW",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Demon Slayer -KIMETSU NO Yaiba- JPN (Voice) - E F I G S (Text) Box UK",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/91QOC8YcIhS._AC_UL600_SR600,400_.jpg",
+      "price": "20,44 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B097ZBFDKW?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:42.256930+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Xbox"
+    },
+    {
+      "asin": "B083T65GQX",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Batman Arkham Collection (Standard Edition) - Xbox One [Importación inglesa]",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81j2zn6kQJL._AC_UL600_SR600,400_.jpg",
+      "price": "44,20 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B083T65GQX?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:25:04.811467+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Xbox"
+    },
+    {
+      "asin": "B08WQP4B71",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Mass Effect Legendary Edition Xbox One/Xbox SX",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71WOgHrNvUL._AC_UL600_SR600,400_.jpg",
+      "price": "29,95 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B08WQP4B71?tag=enkairito-21",
+      "first_seen": "2026-09-25T08:32:14.644780+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -1442,17 +1460,17 @@
       "game": "Xbox"
     },
     {
-      "asin": "B016R85ECW",
+      "asin": "B0FWNDYM7J",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Far Cry Primal [Importación Francesa]",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51ko0kRGRrL._AC_UL600_SR600,400_.jpg",
-      "price": "21,00 €",
+      "name": "PLANTS VS ZOMBIES: PVZ REPLANTED Standard | Xbox One/Series X|S - Codice de descarga",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71i6zBnLgIL._AC_UL600_SR600,400_.jpg",
+      "price": "19,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B016R85ECW?tag=enkairito-21",
-      "first_seen": "2026-09-24T14:31:53.505612+00:00",
+      "link": "https://www.amazon.es/dp/B0FWNDYM7J?tag=enkairito-21",
+      "first_seen": "2026-09-25T08:32:14.644798+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -1460,17 +1478,17 @@
       "game": "Xbox"
     },
     {
-      "asin": "B07DKGXHKW",
+      "asin": "B0C8VX4BWF",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Wolfenstein Younglood - Xbox One [Importación inglesa]",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81N9T6jiT1L._AC_UL600_SR600,400_.jpg",
-      "price": "15,05 €",
+      "name": "Starfield Premium Edition | Xbox & Windows 10/11 - Código de descarga",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61c0KtV6PoL._AC_UL600_SR600,400_.jpg",
+      "price": "41,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B07DKGXHKW?tag=enkairito-21",
-      "first_seen": "2026-09-24T14:31:53.505619+00:00",
+      "link": "https://www.amazon.es/dp/B0C8VX4BWF?tag=enkairito-21",
+      "first_seen": "2026-09-25T08:32:14.644813+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -1478,17 +1496,17 @@
       "game": "Xbox"
     },
     {
-      "asin": "B01HDVF9I6",
+      "asin": "B077TZX4V9",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Batman: Arkham Knight - Game Of The Year Edition",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/91e254NmCFL._AC_UL600_SR600,400_.jpg",
-      "price": "45,65 €",
+      "name": "8-Bit Armies",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71Id4w2hHNL._AC_UL600_SR600,400_.jpg",
+      "price": "8,40 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B01HDVF9I6?tag=enkairito-21",
-      "first_seen": "2026-09-23T12:31:48.397234+00:00",
+      "link": "https://www.amazon.es/dp/B077TZX4V9?tag=enkairito-21",
+      "first_seen": "2026-09-25T08:32:14.644826+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -1496,17 +1514,17 @@
       "game": "Xbox"
     },
     {
-      "asin": "B00KW4TJEC",
+      "asin": "B00TV108AG",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Fifa 15",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/91WsfJSvbUL._AC_UL600_SR600,400_.jpg",
-      "price": "5,58 €",
+      "name": "Xbox1 Batman : Arkham Knight D1 Edition (harley quinn dlc)",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71ygRoCJrKL._AC_UL600_SR600,400_.jpg",
+      "price": "19,27 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B00KW4TJEC?tag=enkairito-21",
-      "first_seen": "2026-09-22T16:31:37.525032+00:00",
+      "link": "https://www.amazon.es/dp/B00TV108AG?tag=enkairito-21",
+      "first_seen": "2026-09-25T08:32:14.644836+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -1514,17 +1532,17 @@
       "game": "Xbox"
     },
     {
-      "asin": "B00ITGZCK0",
+      "asin": "B094R5V2YZ",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Batman Arkham Knight",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61h0AAVOnHL._AC_UL600_SR600,400_.jpg",
-      "price": "18,00 €",
+      "name": "Lost Judgment",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81dTWgA6R4S._AC_UL300_SR300,200_.jpg",
+      "price": "55,96 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B00ITGZCK0?tag=enkairito-21",
-      "first_seen": "2026-09-17T12:31:47.548802+00:00",
+      "link": "https://www.amazon.es/dp/B094R5V2YZ?tag=enkairito-21",
+      "first_seen": "2026-09-25T08:32:14.644846+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -1532,17 +1550,17 @@
       "game": "Xbox"
     },
     {
-      "asin": "B00ZGBBW9G",
+      "asin": "B01AVGIGZI",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Tom Clancy 's Ghost Recon: Wildlands [Importación inglesa]",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61dKvj551RL._AC_UL600_SR600,400_.jpg",
-      "price": "26,06 €",
+      "name": "Warner Bros Mortal Kombat XL Xbox One Básico Xbox One Inglés vídeo - Juego (Xbox One, Lucha, Modo multijugador, M (Maduro))",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71TiHfOnTxL._AC_UL600_SR600,400_.jpg",
+      "price": "32,79 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B00ZGBBW9G?tag=enkairito-21",
-      "first_seen": "2026-09-18T12:31:56.790767+00:00",
+      "link": "https://www.amazon.es/dp/B01AVGIGZI?tag=enkairito-21",
+      "first_seen": "2026-09-25T08:32:14.644855+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -1550,17 +1568,17 @@
       "game": "Xbox"
     },
     {
-      "asin": "B0731BLTC5",
+      "asin": "B0GSY2PD18",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "DragonBall Fighter Z - Xbox One [Importación francesa]",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71EH4VkQLfL._AC_UL600_SR600,400_.jpg",
-      "price": "29,90 €",
+      "name": "Forza Horizon 6: Premium Upgrade | Xbox Series X|S y Windows [Código digital]",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71KhsGv40kL._AC_UL300_SR300,200_.jpg",
+      "price": "47,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0731BLTC5?tag=enkairito-21",
-      "first_seen": "2026-09-17T12:31:47.548846+00:00",
+      "link": "https://www.amazon.es/dp/B0GSY2PD18?tag=enkairito-21",
+      "first_seen": "2026-09-24T12:31:36.578233+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -1568,17 +1586,17 @@
       "game": "Xbox"
     },
     {
-      "asin": "B01M6YIR2E",
+      "asin": "B07T14YQYZ",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Red Dead Redemption 2 (Xbox One)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81b5yIk4+fL._AC_UL600_SR600,400_.jpg",
-      "price": "26,08 €",
+      "name": "Destroy All Humans - Xbox One",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/61US2VshK5L._AC_UL300_SR300,200_.jpg",
+      "price": "13,56 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B01M6YIR2E?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:25:04.388324+00:00",
+      "link": "https://www.amazon.es/dp/B07T14YQYZ?tag=enkairito-21",
+      "first_seen": "2026-09-20T12:31:37.579852+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -1586,17 +1604,17 @@
       "game": "Xbox"
     },
     {
-      "asin": "B089MY96C6",
+      "asin": "B01N7U9HB3",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Edición limitada de Far Cry 6 (exclusiva de Amazon.co.uk) (Xbox One/Series X)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/81BoLxTrLZL._AC_UL300_SR300,200_.jpg",
-      "price": "31,47 €",
+      "name": "Battle Chasers Nightwar XBO",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/81zmiFA-cLL._AC_UL300_SR300,200_.jpg",
+      "price": "5,86 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B089MY96C6?tag=enkairito-21",
-      "first_seen": "2026-09-23T12:31:48.397282+00:00",
+      "link": "https://www.amazon.es/dp/B01N7U9HB3?tag=enkairito-21",
+      "first_seen": "2026-09-23T12:31:48.397272+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -1604,17 +1622,17 @@
       "game": "Xbox"
     },
     {
-      "asin": "B00YTVNBDY",
+      "asin": "B09K7ZHMFX",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Fallout 4 [Importación Francesa]",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/71RUiTsdvuL._AC_UL300_SR300,200_.jpg",
-      "price": "27,99 €",
+      "name": "Grand Theft Auto The Trilogy: La edición definitiva (Xbox Series X/Xbox One)",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/810mIhNKimL._AC_UL300_SR300,200_.jpg",
+      "price": "32,39 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B00YTVNBDY?tag=enkairito-21",
-      "first_seen": "2026-09-23T12:31:48.397292+00:00",
+      "link": "https://www.amazon.es/dp/B09K7ZHMFX?tag=enkairito-21",
+      "first_seen": "2026-09-14T12:21:25.171617+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -1622,17 +1640,17 @@
       "game": "Xbox"
     },
     {
-      "asin": "B07X4X8JM4",
+      "asin": "B00S7QXNU8",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Grand Theft Auto V - Premium Edition",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/81pcU3SCn+L._AC_UL300_SR300,200_.jpg",
-      "price": "24,00 €",
+      "name": "Forza Motorsport 6 [Importación Alemana]",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/81cGfuS5tLL._AC_UL300_SR300,200_.jpg",
+      "price": "11,77 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B07X4X8JM4?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.257052+00:00",
+      "link": "https://www.amazon.es/dp/B00S7QXNU8?tag=enkairito-21",
+      "first_seen": "2026-09-22T16:31:37.525052+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -1640,17 +1658,17 @@
       "game": "Xbox"
     },
     {
-      "asin": "B071G3GD64",
+      "asin": "B07C8MRZFS",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Darksiders III - Xbox One [Importación alemana]",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/8179JZknuYL._AC_UL300_SR300,200_.jpg",
-      "price": "9,89 €",
+      "name": "Tom Clancy's The Division 2 (Xbox One) [Importación Inglesa] - Juegos en Español",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/813M9-Y7CYL._AC_UL300_SR300,200_.jpg",
+      "price": "11,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B071G3GD64?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.256972+00:00",
+      "link": "https://www.amazon.es/dp/B07C8MRZFS?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:25:04.811456+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -1658,17 +1676,17 @@
       "game": "Xbox"
     },
     {
-      "asin": "B0D4578G82",
+      "asin": "B08VPTBZHR",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "ELDEN RING - Shadow of the Erdtree - Xbox & Windows 10 - Código de descarga",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/81TiV-AfbyL._AC_UL300_SR300,200_.jpg",
-      "price": "39,99 €",
+      "name": "Microsoft Mass Effect Legendary Edition - Xbox One/Series X",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/719HYTP9zjL._AC_UL300_SR300,200_.jpg",
+      "price": "29,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0D4578G82?tag=enkairito-21",
-      "first_seen": "2026-09-22T16:31:37.524934+00:00",
+      "link": "https://www.amazon.es/dp/B08VPTBZHR?tag=enkairito-21",
+      "first_seen": "2026-09-11T19:25:04.811617+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -1676,17 +1694,17 @@
       "game": "Xbox"
     },
     {
-      "asin": "B01F5D1MLC",
+      "asin": "B01AH2F07S",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "FIFA 17 - Standard Edition (Xbox One)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/91GIdi0irNL._AC_UL300_SR300,200_.jpg",
-      "price": "4,90 €",
+      "name": "Quantum Break [Importación Francesa]",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71-QDblt2RL._AC_UL300_SR300,200_.jpg",
+      "price": "22,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B01F5D1MLC?tag=enkairito-21",
-      "first_seen": "2026-09-22T16:31:37.525061+00:00",
+      "link": "https://www.amazon.es/dp/B01AH2F07S?tag=enkairito-21",
+      "first_seen": "2026-09-19T14:32:18.169491+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -1694,17 +1712,17 @@
       "game": "Xbox"
     },
     {
-      "asin": "B00CXLHI5E",
+      "asin": "B00ZSCCPTY",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Destiny - Standard Edition [Importación Francesa]",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/91Koo9-BdAL._AC_UL300_SR300,200_.jpg",
-      "price": "10,06 €",
+      "name": "Gears Of War 4 [Importación Francesa]",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71c01IhMxOL._AC_UL300_SR300,200_.jpg",
+      "price": "24,89 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B00CXLHI5E?tag=enkairito-21",
-      "first_seen": "2026-09-23T12:31:48.397349+00:00",
+      "link": "https://www.amazon.es/dp/B00ZSCCPTY?tag=enkairito-21",
+      "first_seen": "2026-09-25T08:32:14.644915+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -1712,17 +1730,17 @@
       "game": "Xbox"
     },
     {
-      "asin": "B0DJCJCX4L",
+      "asin": "B0C28Q8G8X",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Microsoft Flight Simulator 2024 Standard │ Xbox y Windows - Código de descarga del juego",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/71OtEa+9tdL._AC_UL300_SR300,200_.jpg",
-      "price": "79,99 €",
+      "name": "Konami Super Bomberman R 2 (Xbox Series X/Xbox One)",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71MOFIuHamL._AC_UL300_SR300,200_.jpg",
+      "price": "15,92 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0DJCJCX4L?tag=enkairito-21",
-      "first_seen": "2026-09-22T16:31:37.525093+00:00",
+      "link": "https://www.amazon.es/dp/B0C28Q8G8X?tag=enkairito-21",
+      "first_seen": "2026-09-24T12:31:36.578360+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -1730,17 +1748,17 @@
       "game": "Xbox"
     },
     {
-      "asin": "B0CLT27M9P",
+      "asin": "B01LCF27MU",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Warner Games Videojuego Xbox One Hogwarts Legacy Standard",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/61ZmeYS4WUL._AC_UL300_SR300,200_.jpg",
-      "price": "16,99 €",
+      "name": "Assassin's Creed The Ezio Collection [Importación Italiana]",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/61EP-zuhe-L._AC_UL300_SR300,200_.jpg",
+      "price": "22,45 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0CLT27M9P?tag=enkairito-21",
-      "first_seen": "2026-09-16T10:34:33.318831+00:00",
+      "link": "https://www.amazon.es/dp/B01LCF27MU?tag=enkairito-21",
+      "first_seen": "2026-09-25T08:32:14.644931+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -1748,17 +1766,17 @@
       "game": "Xbox"
     },
     {
-      "asin": "B0D7NFQ4DW",
+      "asin": "B07YYVXMJ5",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "EA SPORTS FC 25 Standard Edition | Xbox One/Series X|S - Download Code",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/71Wwn0akeIL._AC_UL300_SR300,200_.jpg",
-      "price": "79,99 €",
+      "name": "Assassin's Creed III Remastered & Liberation Remastered",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71EHpegQp1L._AC_UL300_SR300,200_.jpg",
+      "price": "32,94 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0D7NFQ4DW?tag=enkairito-21",
-      "first_seen": "2026-09-17T08:32:35.495941+00:00",
+      "link": "https://www.amazon.es/dp/B07YYVXMJ5?tag=enkairito-21",
+      "first_seen": "2026-09-25T08:32:14.644941+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -1766,17 +1784,17 @@
       "game": "Xbox"
     },
     {
-      "asin": "B077YMP986",
+      "asin": "B08N3J9D55",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Titan Quest - Xbox One [Importación inglesa]",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/61sTZsF1vxL._AC_UL300_SR300,200_.jpg",
-      "price": "11,94 €",
+      "name": "Mass Effect Legendary Edition [GRA XBOX ONE]",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71lIJoZhYdL._AC_UL300_SR300,200_.jpg",
+      "price": "26,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B077YMP986?tag=enkairito-21",
-      "first_seen": "2026-09-18T12:31:56.790702+00:00",
+      "link": "https://www.amazon.es/dp/B08N3J9D55?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:11.204371+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -1784,17 +1802,17 @@
       "game": "Xbox"
     },
     {
-      "asin": "B08H9K7MQL",
+      "asin": "B09867DNJ9",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Control Ultimate Edition Xbox One | Series X Game",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/81aLTOcPGVL._AC_UL300_SR300,200_.jpg",
-      "price": "28,97 €",
+      "name": "DEMON SLAYER HINOKAMI.XONE/XSX",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71GLKy-o+6S._AC_UL300_SR300,200_.jpg",
+      "price": "23,38 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B08H9K7MQL?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.257137+00:00",
+      "link": "https://www.amazon.es/dp/B09867DNJ9?tag=enkairito-21",
+      "first_seen": "2026-09-24T14:31:53.505567+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -1802,17 +1820,17 @@
       "game": "Xbox"
     },
     {
-      "asin": "B0DBLXZ8HR",
+      "asin": "B071JM1XZB",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Star Wars Jedi: Survivor XBOX ONE | Videojuegos | Castellano",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/71zXYC4c60L._AC_UL300_SR300,200_.jpg",
-      "price": "38,02 €",
+      "name": "Darksiders III - Xbox one",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/91RaEujrFBL._AC_UL300_SR300,200_.jpg",
+      "price": "12,12 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0DBLXZ8HR?tag=enkairito-21",
-      "first_seen": "2026-09-15T00:20:55.336147+00:00",
+      "link": "https://www.amazon.es/dp/B071JM1XZB?tag=enkairito-21",
+      "first_seen": "2026-09-24T14:31:53.505587+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -1820,53 +1838,17 @@
       "game": "Xbox"
     },
     {
-      "asin": "B07DNQD2GQ",
+      "asin": "B096WCYKP6",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "Sekiro: Shadows Die Twice",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/716DQ6dS9XL._AC_UL300_SR300,200_.jpg",
-      "price": "40,79 €",
+      "name": "Sonic Colours Ultimate with Baby Sonic Keychain (Exclusive to Amazon.co.UK) (Xbox One)",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/61U1rewcdAL._AC_UL300_SR300,200_.jpg",
+      "price": "34,88 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B07DNQD2GQ?tag=enkairito-21",
-      "first_seen": "2026-09-22T16:31:37.525101+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
-      "asin": "B08MMJMHQ9",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Need for Speed Hot Pursuit Remastered | Xbox One/Series X|S - Codice de descarga",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/71W2kUCzEML._AC_UL300_SR300,200_.jpg",
-      "price": "39,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B08MMJMHQ9?tag=enkairito-21",
-      "first_seen": "2026-09-11T19:25:04.811569+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
-      "asin": "B07R76NLYY",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "F1 2019 Legends Edition (XBox ONE)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/81Wb7XcPsLL._AC_UL300_SR300,200_.jpg",
-      "price": "44,95 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B07R76NLYY?tag=enkairito-21",
-      "first_seen": "2026-09-22T16:31:37.525108+00:00",
+      "link": "https://www.amazon.es/dp/B096WCYKP6?tag=enkairito-21",
+      "first_seen": "2026-09-24T14:31:53.505595+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -1892,24 +1874,6 @@
       "game": "Xbox"
     },
     {
-      "asin": "B082YRCL4T",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "SteelSeries Apex 3 - Teclado Gaming - Iluminación RGB de 10 zonas - Resistencia al agua IP32 - Reposamuñecas magnético superior - Teclado QWERTY Español",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61nBW1Uwq6L._AC_UL600_SR600,400_.jpg",
-      "price": "58,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B082YRCL4T?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:42.256560+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
       "asin": "B0B4SS2DNS",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -1928,29 +1892,11 @@
       "game": "Xbox"
     },
     {
-      "asin": "B07S69F4HC",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Logitech G403 Hero 25K | Ratón gaming HERO 25K, 25,600 DPI, pesos ajustables, 6 botones programables, memoria, PC/Mac - Negro",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61jshz8XDOL._AC_UL600_SR600,400_.jpg",
-      "price": "54,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B07S69F4HC?tag=enkairito-21",
-      "first_seen": "2026-09-19T12:32:04.828130+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
       "asin": "B09C92RJN7",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Xbox Cascos Stereo Series X|S",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/61MGCuPYTHL._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61MGCuPYTHL._AC_UL600_SR600,400_.jpg",
       "price": "57,78 €",
       "original_price": null,
       "status": "compra_directa",
