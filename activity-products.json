@@ -1,97 +1,5 @@
 [
   {
-    "asin": "B0CS7P4W8C",
-    "store_label": "Amazon USA",
-    "flag": "🇺🇸",
-    "name": "Pokémon TCG: Scarlet & Violet—Temporal Forces Elite Trainer Box - Hojas de Hierro (1 Tarjeta Promocional de Espinas de Hierro de Arte Completo, 9 potenciadores y Accesorios Premium)",
-    "image": "https://m.media-amazon.com/images/I/91tXhg6QX8L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "180,27 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0CS7P4W8C?tag=enkairito-21",
-    "first_seen": "2026-09-02T22:24:23.588723+00:00",
-    "marketplace": "US",
-    "categories": [
-      "Cajas ETB"
-    ],
-    "game": "Pokémon",
-    "ts": "2026-09-25T05:23:34.514827+00:00",
-    "type": "restock",
-    "prev_price": "180,27 €",
-    "_src": "products.json",
-    "id": "US-B0CS7P4W8C:2026-09-25T05:23:34.514827+00:00:restock"
-  },
-  {
-    "asin": "B0GFZV1ZVV",
-    "store_label": "Amazon USA",
-    "flag": "🇺🇸",
-    "name": "Pokémon TCG: Mega Evolution Order Elite Trainer Box",
-    "image": "https://m.media-amazon.com/images/I/813BmMbm-YL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "107,73 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0GFZV1ZVV?tag=enkairito-21",
-    "first_seen": "2026-08-30T20:46:19.644915+00:00",
-    "marketplace": "US",
-    "categories": [
-      "Cajas ETB"
-    ],
-    "game": "Pokémon",
-    "ts": "2026-09-25T05:23:34.514827+00:00",
-    "type": "restock",
-    "prev_price": "107,73 €",
-    "_src": "products.json",
-    "id": "US-B0GFZV1ZVV:2026-09-25T05:23:34.514827+00:00:restock"
-  },
-  {
-    "asin": "B0H7818RCM",
-    "store_label": "Amazon USA",
-    "flag": "🇺🇸",
-    "name": "Pokémon TCG: 30th Celebration Pokémon ex Box",
-    "image": "https://m.media-amazon.com/images/I/91IsiEZhWzL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "97,61 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0H7818RCM?tag=enkairito-21",
-    "first_seen": "2026-09-24T21:03:14.298681+00:00",
-    "marketplace": "US",
-    "categories": [
-      "Otros"
-    ],
-    "game": "Pokémon",
-    "ts": "2026-09-25T05:23:34.514827+00:00",
-    "type": "restock",
-    "prev_price": "97,61 €",
-    "_src": "products.json",
-    "id": "US-B0H7818RCM:2026-09-25T05:23:34.514827+00:00:restock"
-  },
-  {
-    "asin": "B0H6DTXPK1",
-    "store_label": "Amazon USA",
-    "flag": "🇺🇸",
-    "name": "Pokémon TCG: Mega Evolution—Ascended Heroes Tin",
-    "image": "https://m.media-amazon.com/images/I/71nadHI3U9L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "79,97 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": "4",
-    "link": "https://www.amazon.es/dp/B0H6DTXPK1?tag=enkairito-21",
-    "first_seen": "2026-08-30T23:03:24.893535+00:00",
-    "marketplace": "US",
-    "categories": [
-      "Otros"
-    ],
-    "game": "Pokémon",
-    "ts": "2026-09-25T05:23:34.514827+00:00",
-    "type": "restock",
-    "prev_price": "79,97 €",
-    "_src": "products.json",
-    "id": "US-B0H6DTXPK1:2026-09-25T05:23:34.514827+00:00:restock"
-  },
-  {
     "asin": "B0GYTRYV7P",
     "store_label": "Amazon USA",
     "flag": "🇺🇸",
@@ -4598,5 +4506,97 @@
     "prev_price": "83,18 €",
     "_src": "products.json",
     "id": "US-B0G5S61BHK:2026-09-25T10:43:56.372519+00:00:restock"
+  },
+  {
+    "asin": "B0DSGB5Q6B",
+    "store_label": "Amazon ES",
+    "flag": "",
+    "name": "Pokémon Colección Ursaluna Luna Carmesí (4 Cartas holográficas y 4 Paquetes de Mejora)",
+    "image": "https://m.media-amazon.com/images/I/91DYxakGHhL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "38,00 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0DSGB5Q6B?tag=enkairito-21",
+    "first_seen": "2026-08-25T20:27:15.542170+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Cajas de Colección"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-25T11:04:13.133700+00:00",
+    "type": "price_drop",
+    "prev_price": "45,09 €",
+    "_src": "products.json",
+    "id": "ES-B0DSGB5Q6B:2026-09-25T11:04:13.133700+00:00:price_drop"
+  },
+  {
+    "asin": "B0BJ7C2F88",
+    "store_label": "Amazon UK",
+    "flag": "🇬🇧",
+    "name": "Pokémon TCG: Zeraora V Battle Deck (60 Cartas, Listo para Jugar)",
+    "image": "https://m.media-amazon.com/images/I/815bkUc90CL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "23,69 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0BJ7C2F88?tag=enkairito-21",
+    "first_seen": "2026-09-05T05:18:07.280932+00:00",
+    "marketplace": "UK",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-25T11:04:13.133700+00:00",
+    "type": "restock",
+    "prev_price": "23,69 €",
+    "_src": "products.json",
+    "id": "UK-B0BJ7C2F88:2026-09-25T11:04:13.133700+00:00:restock"
+  },
+  {
+    "asin": "B0F2BFSPBN",
+    "store_label": "Amazon USA",
+    "flag": "🇺🇸",
+    "name": "Pokémon TCG: Scarlet & Violet - Destined Rivals - Paquete de 3 blíster - Zebstrika (3 Paquetes de Refuerzo y 1 Tarjeta Promocional de Aluminio)",
+    "image": "https://m.media-amazon.com/images/I/81vjKrzT81L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+    "price": "74,49 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0F2BFSPBN?tag=enkairito-21",
+    "first_seen": "2026-09-04T21:32:58.802941+00:00",
+    "marketplace": "US",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-25T11:04:13.133700+00:00",
+    "type": "restock",
+    "prev_price": "74,49 €",
+    "_src": "products.json",
+    "id": "US-B0F2BFSPBN:2026-09-25T11:04:13.133700+00:00:restock"
+  },
+  {
+    "asin": "A200804709",
+    "store_label": "El Corte Inglés",
+    "flag": "",
+    "name": "Mini Lata Megaevolucion Caos Creciente JCC Pokémon Bandai Modelos surtidos",
+    "image": "https://dam.elcorteingles.es/producto/www-001044850503523-00.jpg",
+    "price": "14,99 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.elcorteingles.es/juguetes/A200804709-mini-lata-megaevolucion-caos-creciente-jcc-pokemon-bandai-modelos-surtidos/?stype=text_box_multi",
+    "first_seen": "2026-09-24T10:43:18.146669+00:00",
+    "marketplace": "ECI",
+    "categories": [
+      "Latas"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-25T11:04:13.133700+00:00",
+    "type": "restock",
+    "prev_price": "14,99 €",
+    "_src": "products.json",
+    "id": "ECI-A200804709:2026-09-25T11:04:13.133700+00:00:restock"
   }
 ]
