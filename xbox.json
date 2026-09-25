@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T14:32:05.203855+00:00",
+  "updated_at": "2026-09-25T16:31:43.754806+00:00",
   "products": [
     {
       "asin": "B08FCXLB8Z",
@@ -96,7 +96,7 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Xbox Series S - 512 GB",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61izMxJpDiL._AC_UL600_SR600,400_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61izMxJpDiL._AC_UL300_SR300,200_.jpg",
       "price": "546,00 €",
       "original_price": null,
       "status": "compra_directa",
@@ -168,7 +168,7 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "MotoGP 22, para Xbox Series X",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/716sCsZ+ViL._AC_UL600_SR600,400_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/716sCsZ+ViL._AC_UL300_SR300,200_.jpg",
       "price": "17,70 €",
       "original_price": null,
       "status": "compra_directa",
@@ -1154,12 +1154,30 @@
       "game": "Xbox"
     },
     {
+      "asin": "B0BKQ3HMK4",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "playvital Pegatinas para Xbox Series X/S y One Botón Home, 60 Piezas",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71vvG5s14HL._AC_UL300_SR300,200_.jpg",
+      "price": "28,55 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0BKQ3HMK4?tag=enkairito-21",
+      "first_seen": "2026-09-23T18:31:49.442024+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "Xbox"
+    },
+    {
       "asin": "B07M7X2JLB",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Dark Souls Trilogy - Xbox One [Importación inglesa]",
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81tEzSIljdL._AC_UL600_SR600,400_.jpg",
-      "price": "45,48 €",
+      "price": "41,35 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -1267,7 +1285,7 @@
       "flag": "🇪🇸",
       "name": "Sekiro: Shadows Die Twice",
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/716DQ6dS9XL._AC_UL600_SR600,400_.jpg",
-      "price": "41,38 €",
+      "price": "41,34 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -1375,7 +1393,7 @@
       "flag": "🇪🇸",
       "name": "Star Wars Jedi: Fallen Order - Xbox One [Importación inglesa]",
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61-yPbpzOqL._AC_UL600_SR600,400_.jpg",
-      "price": "22,48 €",
+      "price": "22,93 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -1591,7 +1609,7 @@
       "flag": "🇪🇸",
       "name": "Destroy All Humans - Xbox One",
       "image": "https://images-eu.ssl-images-amazon.com/images/I/61US2VshK5L._AC_UL300_SR300,200_.jpg",
-      "price": "13,59 €",
+      "price": "11,85 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -1903,42 +1921,6 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B09C92RJN7?tag=enkairito-21",
       "first_seen": "2026-09-12T00:28:11.204384+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
-      "asin": "B08PSVXJ29",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Mcbazel Kit 13 en 1 con Palancas de Metal para Xbox Elite Series 2, Kit de Reemplazo con Botones Magnéticos, 6 Palancas Magnéticas, 4 Paletas Traseras y 2 D-Pads para Xbox Elite Series 2, Negro",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/611--JEFexL._AC_UL300_SR300,200_.jpg",
-      "price": "16,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B08PSVXJ29?tag=enkairito-21",
-      "first_seen": "2026-09-17T08:32:35.496011+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "Xbox"
-    },
-    {
-      "asin": "B07S69F4HC",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Logitech G403 Hero 25K | Ratón gaming HERO 25K, 25,600 DPI, pesos ajustables, 6 botones programables, memoria, PC/Mac - Negro",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/61jshz8XDOL._AC_UL300_SR300,200_.jpg",
-      "price": "54,99 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B07S69F4HC?tag=enkairito-21",
-      "first_seen": "2026-09-19T12:32:04.828130+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
