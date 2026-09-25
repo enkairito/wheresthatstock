@@ -1,51 +1,5 @@
 [
   {
-    "asin": "B0H5RLSHZ4",
-    "store_label": "Amazon ES",
-    "flag": "🇪🇸",
-    "name": "Nintendo Switch 2 HW + Pokopia (para descargar) Switch 2",
-    "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71ieEef2u6L._AC_UL600_SR600,400_.jpg",
-    "price": "509,00 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0H5RLSHZ4?tag=enkairito-21",
-    "first_seen": "2026-09-17T00:32:50.688070+00:00",
-    "marketplace": "ES",
-    "categories": [
-      "Videojuego"
-    ],
-    "game": "Nintendo",
-    "ts": "2026-09-24T06:32:15.067197+00:00",
-    "type": "restock",
-    "prev_price": "509,00 €",
-    "_src": "nintendo.json",
-    "id": "ES-B0H5RLSHZ4:2026-09-24T06:32:15.067197+00:00:restock"
-  },
-  {
-    "asin": "B0H2DJK9BB",
-    "store_label": "Amazon ES",
-    "flag": "🇪🇸",
-    "name": "Nintendo Console Switch 2+Pokémon Pokopia - Switch 2",
-    "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/517mzHsVsnL._AC_UL600_SR600,400_.jpg",
-    "price": "511,99 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0H2DJK9BB?tag=enkairito-21",
-    "first_seen": "2026-09-11T19:20:15.911995+00:00",
-    "marketplace": "ES",
-    "categories": [
-      "Videojuego"
-    ],
-    "game": "Nintendo",
-    "ts": "2026-09-24T06:32:15.067197+00:00",
-    "type": "restock",
-    "prev_price": "511,99 €",
-    "_src": "nintendo.json",
-    "id": "ES-B0H2DJK9BB:2026-09-24T06:32:15.067197+00:00:restock"
-  },
-  {
     "asin": "B0F4MT273N",
     "store_label": "Amazon ES",
     "flag": "🇪🇸",
@@ -4598,5 +4552,51 @@
     "prev_price": "49,99 €",
     "_src": "nintendo.json",
     "id": "ES-B07HCRY5L9:2026-09-25T10:31:57.515878+00:00:price_drop"
+  },
+  {
+    "asin": "B07BDYT58L",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Super Smash Bros. Ultimate (Variación)(Español)",
+    "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61usfGu+5JL._AC_UL600_SR600,400_.jpg",
+    "price": "53,90 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B07BDYT58L?tag=enkairito-21",
+    "first_seen": "2026-09-17T00:32:50.689198+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Videojuego"
+    ],
+    "game": "Nintendo",
+    "ts": "2026-09-25T12:32:08.762527+00:00",
+    "type": "price_drop",
+    "prev_price": "55,99 €",
+    "_src": "nintendo.json",
+    "id": "ES-B07BDYT58L:2026-09-25T12:32:08.762527+00:00:price_drop"
+  },
+  {
+    "asin": "B0DN6G6FJP",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "POPPY PLAYTIME TRIPLE PACK - NINTENDO SWITCH",
+    "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71R010yUWaL._AC_UL600_SR600,400_.jpg",
+    "price": "35,00 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0DN6G6FJP?tag=enkairito-21",
+    "first_seen": "2026-09-12T00:28:58.478316+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Videojuego"
+    ],
+    "game": "Nintendo",
+    "ts": "2026-09-25T12:32:08.762527+00:00",
+    "type": "price_drop",
+    "prev_price": "35,83 €",
+    "_src": "nintendo.json",
+    "id": "ES-B0DN6G6FJP:2026-09-25T12:32:08.762527+00:00:price_drop"
   }
 ]
