@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T22:31:50.272047+00:00",
+  "updated_at": "2026-09-26T00:31:34.747893+00:00",
   "products": [
     {
       "asin": "B0FN7ZG39D",
@@ -1267,7 +1267,7 @@
       "flag": "🇪🇸",
       "name": "Days Gone [Importación francesa]",
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71IPd5QNQ9L._AC_UL600_SR600,400_.jpg",
-      "price": "46,10 €",
+      "price": "34,30 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -1518,7 +1518,7 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Truck Simulator - On the Road Truck (PlayStation PS4): LKW - Simulator [Blu-ray]",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/81BwC+GC8hL._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81BwC+GC8hL._AC_UL600_SR600,400_.jpg",
       "price": "28,36 €",
       "original_price": null,
       "status": "compra_directa",
@@ -1640,6 +1640,78 @@
       "game": "PlayStation"
     },
     {
+      "asin": "B077H1DFS6",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "PlayStation 4 Pro (PS4) - Consola, Color Negro",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/51w3D9iVS1L._AC_UL300_SR300,200_.jpg",
+      "price": "225,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B077H1DFS6?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:03.616734+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Consola"
+      ],
+      "game": "PlayStation"
+    },
+    {
+      "asin": "B09DB18C5F",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "World War Z: Aftermath",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/81DRdLgWr9L._AC_UL300_SR300,200_.jpg",
+      "price": "25,48 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B09DB18C5F?tag=enkairito-21",
+      "first_seen": "2026-09-17T15:58:54.214590+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation"
+    },
+    {
+      "asin": "B07R9YY7M2",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Leisure Suit Larry - Drams mojados no secan Juego de PS4",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71Jnq+0SBRL._AC_UL300_SR300,200_.jpg",
+      "price": "29,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B07R9YY7M2?tag=enkairito-21",
+      "first_seen": "2026-09-22T20:31:34.280572+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation"
+    },
+    {
+      "asin": "B07HNR4ZZD",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Sony PlayStation 4 Slim 500 Go, Avec 1 manette sans fil DUALSHOCK 4 V2, Châssis F, Noir (Jet Black) [Importación francesa]",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/51x2uufH6SL._AC_UL300_SR300,200_.jpg",
+      "price": "199,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B07HNR4ZZD?tag=enkairito-21",
+      "first_seen": "2026-09-12T00:28:04.018828+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation"
+    },
+    {
       "asin": "B07JH99TG6",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -1669,6 +1741,24 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B07DM6YN7G?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:37.499275+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation"
+    },
+    {
+      "asin": "B00DC267Z0",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Kingdom Hearts III (PlayStation PS4)",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81cpTvoz8uL._AC_UL600_SR600,400_.jpg",
+      "price": "13,12 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B00DC267Z0?tag=enkairito-21",
+      "first_seen": "2026-09-17T00:32:37.499256+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
@@ -1712,24 +1802,6 @@
       "game": "PlayStation"
     },
     {
-      "asin": "B00DC267Z0",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Kingdom Hearts III (PlayStation PS4)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81cpTvoz8uL._AC_UL600_SR600,400_.jpg",
-      "price": "13,12 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B00DC267Z0?tag=enkairito-21",
-      "first_seen": "2026-09-17T00:32:37.499256+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
       "asin": "B0D98BDG3S",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -1753,7 +1825,7 @@
       "flag": "🇪🇸",
       "name": "Rise of the Tomb Raider 20 Year Celebration",
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71bh7RFtBHL._AC_UL600_SR600,400_.jpg",
-      "price": "16,99 €",
+      "price": "12,90 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -2095,7 +2167,7 @@
       "flag": "🇪🇸",
       "name": "Metro Redux Double Pack (2033 + Last Light)",
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81zWbdqnxxL._AC_UL600_SR600,400_.jpg",
-      "price": "24,31 €",
+      "price": "24,25 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -2112,7 +2184,7 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "EA SPORTS F1 24 Standard Edition PS4, Castellano | sin Bono de Reserva",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/811RFkZnu5L._AC_UL600_SR600,400_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/811RFkZnu5L._AC_UL300_SR300,200_.jpg",
       "price": "47,58 €",
       "original_price": null,
       "status": "compra_directa",
@@ -2149,7 +2221,7 @@
       "flag": "🇪🇸",
       "name": "Warner Juego Sony PS4 Hogwarts Legacy",
       "image": "https://images-eu.ssl-images-amazon.com/images/I/81qE+j618qL._AC_UL300_SR300,200_.jpg",
-      "price": "19,90 €",
+      "price": "19,00 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -2227,24 +2299,6 @@
       "stock": null,
       "link": "https://www.amazon.es/dp/B07K11MSQ6?tag=enkairito-21",
       "first_seen": "2026-09-25T08:32:16.626899+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Videojuego"
-      ],
-      "game": "PlayStation"
-    },
-    {
-      "asin": "B08LLR3BX8",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Five Nights at Freddy'S. Core Collection",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/71GlrpJ5xRL._AC_UL300_SR300,200_.jpg",
-      "price": "23,34 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B08LLR3BX8?tag=enkairito-21",
-      "first_seen": "2026-09-18T12:32:05.433364+00:00",
       "marketplace": "ES",
       "categories": [
         "Videojuego"
