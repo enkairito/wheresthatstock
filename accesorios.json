@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-26T06:07:22.278832+00:00",
+  "updated_at": "2026-09-26T06:17:10.189457+00:00",
   "source_updates": {
     "accessories": "2026-09-26T06:02:56.958636+00:00",
     "onepiece": "2026-09-26T06:07:22.278832+00:00",
     "magic": "2026-09-26T00:16:55.518570+00:00",
     "lorcana": "2026-09-26T00:16:37.676801+00:00",
-    "yugioh": "2026-09-26T00:16:40.148569+00:00",
+    "yugioh": "2026-09-26T06:17:10.189457+00:00",
     "playstation": "2026-09-26T04:32:25.807282+00:00",
     "nintendo": "2026-09-26T04:32:15.074867+00:00",
     "xbox": "2026-09-26T04:32:12.997269+00:00"
@@ -46,24 +46,6 @@
         "Lorcana"
       ],
       "source": "lorcana"
-    },
-    {
-      "asin": "B0F8NRC5WT",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Yu-Gi-Oh! Chronicles:Fallen & Virtuous Card Sleeves(50)",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51u0Cjf3W5L._AC_UL320_.jpg",
-      "price": "11,53 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0F8NRC5WT?tag=enkairito-21",
-      "first_seen": "2026-09-10T11:45:06.861286+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Yu-Gi-Oh!"
-      ],
-      "source": "yugioh"
     },
     {
       "asin": "B0D7CD7WZ4",
@@ -4402,6 +4384,24 @@
         "Sin asociar"
       ],
       "source": "accessories"
+    },
+    {
+      "asin": "B0F8NRC5WT",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Yu-Gi-Oh! Chronicles:Fallen & Virtuous Card Sleeves(50)",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51u0Cjf3W5L._AC_UL320_.jpg",
+      "price": "11,53 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0F8NRC5WT?tag=enkairito-21",
+      "first_seen": "2026-09-10T11:45:06.861286+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Yu-Gi-Oh!"
+      ],
+      "source": "yugioh"
     }
   ]
 }
