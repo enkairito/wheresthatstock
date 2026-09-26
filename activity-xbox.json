@@ -1,51 +1,5 @@
 [
   {
-    "asin": "B0GSXVSQBK",
-    "store_label": "Amazon ES",
-    "flag": "🇪🇸",
-    "name": "Forza Horizon 6: Standard Edition | Xbox Series X|S y dispositivos Windows [Código digital]",
-    "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71eALJw7y4L._AC_UL600_SR600,400_.jpg",
-    "price": "55,99 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0GSXVSQBK?tag=enkairito-21",
-    "first_seen": "2026-09-11T19:25:04.811418+00:00",
-    "marketplace": "ES",
-    "categories": [
-      "Videojuego"
-    ],
-    "game": "Xbox",
-    "ts": "2026-09-24T06:32:04.150646+00:00",
-    "type": "price_drop",
-    "prev_price": "69,99 €",
-    "_src": "xbox.json",
-    "id": "ES-B0GSXVSQBK:2026-09-24T06:32:04.150646+00:00:price_drop"
-  },
-  {
-    "asin": "B0DBLXZ8HR",
-    "store_label": "Amazon ES",
-    "flag": "🇪🇸",
-    "name": "Star Wars Jedi: Survivor XBOX ONE | Videojuegos | Castellano",
-    "image": "https://images-eu.ssl-images-amazon.com/images/I/71zXYC4c60L._AC_UL300_SR300,200_.jpg",
-    "price": "38,02 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0DBLXZ8HR?tag=enkairito-21",
-    "first_seen": "2026-09-15T00:20:55.336147+00:00",
-    "marketplace": "ES",
-    "categories": [
-      "Videojuego"
-    ],
-    "game": "Xbox",
-    "ts": "2026-09-24T06:32:04.150646+00:00",
-    "type": "restock",
-    "prev_price": "38,02 €",
-    "_src": "xbox.json",
-    "id": "ES-B0DBLXZ8HR:2026-09-24T06:32:04.150646+00:00:restock"
-  },
-  {
     "asin": "B00HQCQ1SA",
     "store_label": "Amazon ES",
     "flag": "🇪🇸",
@@ -4598,5 +4552,51 @@
     "prev_price": "54,99 €",
     "_src": "xbox.json",
     "id": "ES-B07S69F4HC:2026-09-25T20:31:53.330151+00:00:restock"
+  },
+  {
+    "asin": "B0C44XVWCH",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "WD_BLACK C50 1 TB Tarjeta de expansión para Xbox (Compatible con la Serie X|S, Plug-and-Stay, Velocity Architecture, Reanudación rápida, Subscripción gratuia de 1 Mes de Xbox Game Pass) Black",
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/716TJhy4GbL._AC_UL300_SR300,200_.jpg",
+    "price": "149,99 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0C44XVWCH?tag=enkairito-21",
+    "first_seen": "2026-09-12T00:28:10.760406+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Videojuego"
+    ],
+    "game": "Xbox",
+    "ts": "2026-09-26T00:31:43.101519+00:00",
+    "type": "price_drop",
+    "prev_price": "211,88 €",
+    "_src": "xbox.json",
+    "id": "ES-B0C44XVWCH:2026-09-26T00:31:43.101519+00:00:price_drop"
+  },
+  {
+    "asin": "B07SHYBM9K",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Gears 5 - Xbox One [Importación Francesa]",
+    "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71ls7-2FwLL._AC_UL600_SR600,400_.jpg",
+    "price": "22,90 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B07SHYBM9K?tag=enkairito-21",
+    "first_seen": "2026-09-12T00:28:11.204439+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Videojuego"
+    ],
+    "game": "Xbox",
+    "ts": "2026-09-26T00:31:43.101519+00:00",
+    "type": "price_drop",
+    "prev_price": "30,94 €",
+    "_src": "xbox.json",
+    "id": "ES-B07SHYBM9K:2026-09-26T00:31:43.101519+00:00:price_drop"
   }
 ]
