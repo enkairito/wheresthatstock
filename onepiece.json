@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T09:07:28.469240+00:00",
+  "updated_at": "2026-09-26T10:07:37.615981+00:00",
   "products": [
     {
       "asin": "B0F1SJY5S3",
@@ -25,30 +25,12 @@
       "flag": "🇪🇸",
       "name": "One Piece TCG: Double Pack Set Vol. 10 (DP-10) - Adventure of Kami's Island (2 Paquetes)",
       "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/6149SXXRkfL._AC_UL320_.jpg",
-      "price": "69,63 €",
+      "price": "69,62 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0GW9TXS1Q?tag=enkairito-21",
       "first_seen": "2026-08-29T18:09:04.551067+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Double Pack"
-      ],
-      "game": "One Piece"
-    },
-    {
-      "asin": "B0GDGRWH54",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "One Piece TCG: Double Pack Set Vol. 9 (DP-09) - The Azure Sea's Seven (2 Paquetes)",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61kzgGq-ywL._AC_UL320_.jpg",
-      "price": "67,23 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0GDGRWH54?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:09:35.306058+00:00",
       "marketplace": "ES",
       "categories": [
         "Double Pack"
@@ -70,6 +52,24 @@
       "marketplace": "ES",
       "categories": [
         "Booster Box"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0GDGRWH54",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "One Piece TCG: Double Pack Set Vol. 9 (DP-09) - The Azure Sea's Seven (2 Paquetes)",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61kzgGq-ywL._AC_UL320_.jpg",
+      "price": "67,40 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0GDGRWH54?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:09:35.306058+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Double Pack"
       ],
       "game": "One Piece"
     },
@@ -182,24 +182,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0G2VKBZML",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Bandai Paquete de refuerzo de juego de cartas One Piece, La aventura de la isla de Dios [OP-15] (Caja) 24 paquetes",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61EvBG8mJ-L._AC_UL320_.jpg",
-      "price": "198,35 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0G2VKBZML?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:11:01.747489+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Booster Box"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0HC7Q9P41",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -254,6 +236,42 @@
       "game": "One Piece"
     },
     {
+      "asin": "B0HC79T34C",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Juego de cartas de una pieza ST-33 Blue Kuzan | Baraja de inicio, ST-33, Blue Kuzan, juego de cartas coleccionables",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61Y5hOdwBEL._AC_UL320_.jpg",
+      "price": "26,00 €",
+      "original_price": "30,00 €",
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0HC79T34C?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:09:23.560405+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Starter Deck"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0G2VKBZML",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Bandai Paquete de refuerzo de juego de cartas One Piece, La aventura de la isla de Dios [OP-15] (Caja) 24 paquetes",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61EvBG8mJ-L._AC_UL320_.jpg",
+      "price": "198,35 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0G2VKBZML?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:11:01.747489+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Booster Box"
+      ],
+      "game": "One Piece"
+    },
+    {
       "asin": "B0HC746FKY",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -286,24 +304,6 @@
       "marketplace": "ES",
       "categories": [
         "Booster Box"
-      ],
-      "game": "One Piece"
-    },
-    {
-      "asin": "B0HC79T34C",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Juego de cartas de una pieza ST-33 Blue Kuzan | Baraja de inicio, ST-33, Blue Kuzan, juego de cartas coleccionables",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61Y5hOdwBEL._AC_UL320_.jpg",
-      "price": "26,00 €",
-      "original_price": "30,00 €",
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0HC79T34C?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:09:23.560405+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Starter Deck"
       ],
       "game": "One Piece"
     },
