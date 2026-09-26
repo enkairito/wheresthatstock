@@ -1,51 +1,5 @@
 [
   {
-    "asin": "B0GR6Q72ND",
-    "store_label": "Amazon USA",
-    "flag": "🇺🇸",
-    "name": "Pokémon TCG: Mega Evolution—Chaos Rising Booster Bundle",
-    "image": "https://m.media-amazon.com/images/I/81pdaHp6Q1L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "52,33 €",
-    "original_price": "55,86 €",
-    "status": "compra_directa",
-    "stock": "1",
-    "link": "https://www.amazon.es/dp/B0GR6Q72ND?tag=enkairito-21",
-    "first_seen": "2026-08-30T20:46:19.644837+00:00",
-    "marketplace": "US",
-    "categories": [
-      "Otros"
-    ],
-    "game": "Pokémon",
-    "ts": "2026-09-25T19:03:54.218435+00:00",
-    "type": "price_drop",
-    "prev_price": "67,14 €",
-    "_src": "products.json",
-    "id": "US-B0GR6Q72ND:2026-09-25T19:03:54.218435+00:00:price_drop"
-  },
-  {
-    "asin": "B0DC651JYB",
-    "store_label": "Amazon USA",
-    "flag": "🇺🇸",
-    "name": "Pokémon TCG: ex Battle Deck (Tapu Koko ex OR Iron Leaves ex)",
-    "image": "https://m.media-amazon.com/images/I/81fuPY2PJ8L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "30,36 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0DC651JYB?tag=enkairito-21",
-    "first_seen": "2026-09-24T03:03:05.279782+00:00",
-    "marketplace": "US",
-    "categories": [
-      "Otros"
-    ],
-    "game": "Pokémon",
-    "ts": "2026-09-25T19:03:54.218435+00:00",
-    "type": "restock",
-    "prev_price": "30,37 €",
-    "_src": "products.json",
-    "id": "US-B0DC651JYB:2026-09-25T19:03:54.218435+00:00:restock"
-  },
-  {
     "asin": "B0G5FWJ8NL",
     "store_label": "Amazon UK",
     "flag": "🇬🇧",
@@ -4598,5 +4552,51 @@
     "prev_price": "142,86 €",
     "_src": "products.json",
     "id": "US-B0F6PMVQWQ:2026-09-26T04:04:08.284638+00:00:restock"
+  },
+  {
+    "asin": "B0DH53TQCC",
+    "store_label": "Amazon UK",
+    "flag": "🇬🇧",
+    "name": "Pokemon Scarlet & Violet Stellar Crown Booster Pack",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71O6VBum4bL._AC_UL320_.jpg",
+    "price": "18,62 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0DH53TQCC?tag=enkairito-21",
+    "first_seen": "2026-09-04T22:05:43.537215+00:00",
+    "marketplace": "UK",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-26T04:24:15.755692+00:00",
+    "type": "restock",
+    "prev_price": "18,62 €",
+    "_src": "products.json",
+    "id": "UK-B0DH53TQCC:2026-09-26T04:24:15.755692+00:00:restock"
+  },
+  {
+    "asin": "B0BCPRFMQH",
+    "store_label": "Amazon UK",
+    "flag": "🇬🇧",
+    "name": "Pokemon - Silver Tempest Booster Pack",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/715kbJ0Y7kL._AC_UL320_.jpg",
+    "price": "33,77 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0BCPRFMQH?tag=enkairito-21",
+    "first_seen": "2026-09-04T21:32:58.802795+00:00",
+    "marketplace": "UK",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-26T04:24:15.755692+00:00",
+    "type": "restock",
+    "prev_price": "33,77 €",
+    "_src": "products.json",
+    "id": "UK-B0BCPRFMQH:2026-09-26T04:24:15.755692+00:00:restock"
   }
 ]
