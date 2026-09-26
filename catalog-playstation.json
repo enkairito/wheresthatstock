@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T06:32:14.568488+00:00",
+  "updated_at": "2026-09-26T08:32:22.754444+00:00",
   "products": [
     {
       "asin": "B0CD2R5CD3",
@@ -27,10 +27,10 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Playstation Sackboy: Una Aventura a lo Grande - PlayStation 5",
-      "image": "https://m.media-amazon.com/images/I/91YXtjRpLoL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "36,00 €",
-      "original_price": "69,99 €",
-      "status": "sin_confirmar",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/91YXtjRpLoL._AC_UL300_SR300,200_.jpg",
+      "price": "29,99 €",
+      "original_price": null,
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B08B4HHNNM?tag=enkairito-21",
       "first_seen": "2026-09-11T19:18:12.685872+00:00",
@@ -40,8 +40,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-16T16:33:57.521612+00:00",
-      "checked_at": "2026-09-16T18:35:45.961197+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0CQD377LS",
@@ -82,8 +82,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B084WLMKGT",
@@ -198,7 +198,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/8193xU9IEgL._AC_UL300_SR300,200_.jpg",
       "price": "59,90 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0H4HMPT95?tag=enkairito-21",
       "first_seen": "2026-09-11T19:18:12.685957+00:00",
@@ -209,7 +209,7 @@
       "game": "PlayStation",
       "_src": "playstation.json",
       "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0GP25C41K",
@@ -250,8 +250,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0GQHLFRMV",
@@ -363,7 +363,7 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "PlayStation 5- AstroBot™",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/71rClGS09QL._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71rClGS09QL._AC_UL600_SR600,400_.jpg",
       "price": "44,90 €",
       "original_price": null,
       "status": "compra_directa",
@@ -376,8 +376,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B09GSPDV8K",
@@ -397,8 +397,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0G1NBTBC4",
@@ -481,8 +481,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B09X5TX9CN",
@@ -531,7 +531,7 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Red Dead Redemption 2 (PS4)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81GbRS6qEoL._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81GbRS6qEoL._AC_UL600_SR600,400_.jpg",
       "price": "19,71 €",
       "original_price": null,
       "status": "compra_directa",
@@ -544,8 +544,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B09KTGP5C2",
@@ -565,8 +565,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B07HNR4ZZD",
@@ -576,7 +576,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/51x2uufH6SL._AC_UL300_SR300,200_.jpg",
       "price": "199,90 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B07HNR4ZZD?tag=enkairito-21",
       "first_seen": "2026-09-12T00:28:04.018828+00:00",
@@ -586,8 +586,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T02:32:09.062608+00:00",
-      "checked_at": "2026-09-26T04:32:25.805673+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0GNKRMWMS",
@@ -607,8 +607,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0BQJQZQ54",
@@ -712,8 +712,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0HJ2FHFY6",
@@ -723,7 +723,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71WivR4cgXL._AC_UL600_SR600,400_.jpg",
       "price": "49,99 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0HJ2FHFY6?tag=enkairito-21",
       "first_seen": "2026-09-13T12:22:28.699801+00:00",
@@ -734,7 +734,7 @@
       "game": "PlayStation",
       "_src": "playstation.json",
       "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B01M75BFQ7",
@@ -783,10 +783,10 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "PlayStation 5 The Last of Us: Parte II Remastered",
-      "image": "https://m.media-amazon.com/images/I/81jdepruImL._AC_AIweblab1378949,T3_SF516.0,327.0_PQ65_.jpg?aicid=productui-image-1",
-      "price": "38,70 €",
-      "original_price": "49,99 €",
-      "status": "sin_confirmar",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81jdepruImL._AC_UL600_SR600,400_.jpg",
+      "price": "29,90 €",
+      "original_price": null,
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0CP7JSC7J?tag=enkairito-21",
       "first_seen": "2026-09-12T18:25:09.102545+00:00",
@@ -796,8 +796,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-12T18:25:09.103340+00:00",
-      "checked_at": "2026-09-13T00:24:23.875355+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0774QFGQ1",
@@ -954,7 +954,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51CeTiReSvL._AC_UL600_SR600,400_.jpg",
       "price": "33,95 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0777XHSRJ?tag=enkairito-21",
       "first_seen": "2026-09-12T18:25:09.102599+00:00",
@@ -965,7 +965,7 @@
       "game": "PlayStation",
       "_src": "playstation.json",
       "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0BWYYCT48",
@@ -1069,8 +1069,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0DSWJBFM2",
@@ -1111,8 +1111,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0BX722HFN",
@@ -1195,8 +1195,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0C74Q2GWX",
@@ -1216,15 +1216,15 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0C74PQ6TX",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "The Crew Motorfest Limited Edition (Exclusivo Amazon) (PS5)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/810n5fmlOrL._AC_UL600_SR600,400_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/810n5fmlOrL._AC_UL300_SR300,200_.jpg",
       "price": "19,99 €",
       "original_price": null,
       "status": "compra_directa",
@@ -1237,8 +1237,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0DKWQ5WSZ",
@@ -1269,7 +1269,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/91qZT-uoiGL._AC_UL300_SR300,200_.jpg",
       "price": "69,99 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B01H25FDTI?tag=enkairito-21",
       "first_seen": "2026-09-14T12:22:34.377694+00:00",
@@ -1280,7 +1280,7 @@
       "game": "PlayStation",
       "_src": "playstation.json",
       "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0BJV1V458",
@@ -1342,8 +1342,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B01M5DZ525",
@@ -1353,7 +1353,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81dKP+iFloL._AC_UL600_SR600,400_.jpg",
       "price": "30,99 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B01M5DZ525?tag=enkairito-21",
       "first_seen": "2026-09-14T18:20:43.859449+00:00",
@@ -1364,7 +1364,7 @@
       "game": "PlayStation",
       "_src": "playstation.json",
       "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0F2GWBNKF",
@@ -1447,8 +1447,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0H3W5V1TN",
@@ -1468,8 +1468,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0H4RY78G6",
@@ -1531,8 +1531,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0FGK4FQR8",
@@ -1657,15 +1657,15 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B08KKJ37F7",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Playstation 5 Standard Consola",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51JIgN-64UL._AC_UL600_SR600,400_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51JIgN-64UL._AC_UL300_SR300,200_.jpg",
       "price": "589,00 €",
       "original_price": null,
       "status": "compra_directa",
@@ -1678,8 +1678,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0H3CCM6SL",
@@ -1720,15 +1720,15 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B073435BMR",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Alien: Isolation",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61HEPMHDQWL._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61HEPMHDQWL._AC_UL600_SR600,400_.jpg",
       "price": "23,81 €",
       "original_price": null,
       "status": "compra_directa",
@@ -1741,8 +1741,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0BRQCBK2W",
@@ -1762,8 +1762,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0B3RX636B",
@@ -1783,8 +1783,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0CL5HJNLM",
@@ -1804,15 +1804,15 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0C6YL35FL",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Nacon Revolution 5 Pro",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61GPyOjgwVL._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61GPyOjgwVL._AC_UL600_SR600,400_.jpg",
       "price": "179,00 €",
       "original_price": null,
       "status": "compra_directa",
@@ -1825,8 +1825,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0B3X2N4PR",
@@ -1846,8 +1846,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B07S55VN6Q",
@@ -1867,15 +1867,15 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0DFMCFVLS",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "The Spectrum",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/716Zh4ZgP+L._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/716Zh4ZgP+L._AC_UL600_SR600,400_.jpg",
       "price": "126,99 €",
       "original_price": null,
       "status": "compra_directa",
@@ -1888,8 +1888,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B084CJ2FPD",
@@ -1930,8 +1930,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B09CLRJS83",
@@ -1972,8 +1972,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B08H98GVK8",
@@ -1993,8 +1993,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B09ZM9RV4F",
@@ -2035,8 +2035,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0CRYXTL82",
@@ -2056,15 +2056,15 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B08TJQY9JD",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Playstation Gran Turismo 7 | Standard Edition [Playstation 4]",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/818gNzcTz9L._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/818gNzcTz9L._AC_UL600_SR600,400_.jpg",
       "price": "35,85 €",
       "original_price": null,
       "status": "compra_directa",
@@ -2077,8 +2077,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B00FB5K3UG",
@@ -2098,8 +2098,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0CJYK3MQ9",
@@ -2107,7 +2107,7 @@
       "flag": "🇪🇸",
       "name": "Minecraft réplique Illuminating Potion Bottle 16 cm",
       "image": "https://images-eu.ssl-images-amazon.com/images/I/71+S437af6L._AC_UL300_SR300,200_.jpg",
-      "price": "29,93 €",
+      "price": "31,47 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -2119,8 +2119,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B09KCP7BS8",
@@ -2140,8 +2140,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0H46FCQN3",
@@ -2161,8 +2161,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0GYTZX1TW",
@@ -2182,8 +2182,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0GNKSKQM6",
@@ -2203,8 +2203,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0HHP1SZ6S",
@@ -2224,8 +2224,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0CD79TKSR",
@@ -2256,7 +2256,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81Ck5Ckkh+L._AC_UL600_SR600,400_.jpg",
       "price": "31,90 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0F24Y88V1?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:37.498211+00:00",
@@ -2267,7 +2267,7 @@
       "game": "PlayStation",
       "_src": "playstation.json",
       "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0FJ8ZJLJR",
@@ -2308,15 +2308,15 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B09GSQGJ2F",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Playstation Gran Turismo 7 [PS5]",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/81b7pJqCp8L._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81b7pJqCp8L._AC_UL600_SR600,400_.jpg",
       "price": "36,90 €",
       "original_price": null,
       "status": "compra_directa",
@@ -2329,8 +2329,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0GVP719SW",
@@ -2350,15 +2350,15 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0DLGNT4V3",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Clair Obscur: Expedition 33",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81CFbkwsURL._AC_UL600_SR600,400_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/81CFbkwsURL._AC_UL300_SR300,200_.jpg",
       "price": "39,90 €",
       "original_price": null,
       "status": "compra_directa",
@@ -2371,8 +2371,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0FR4T3L3D",
@@ -2434,8 +2434,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0GSW8D7HP",
@@ -2445,7 +2445,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/71pFCw9oK2L._AC_UL300_SR300,200_.jpg",
       "price": "52,90 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0GSW8D7HP?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:37.498347+00:00",
@@ -2456,7 +2456,7 @@
       "game": "PlayStation",
       "_src": "playstation.json",
       "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B08Y736B8X",
@@ -2487,7 +2487,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51oPWIo2+iL._AC_UL600_SR600,400_.jpg",
       "price": "66,05 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0FPMMTJZM?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:37.498367+00:00",
@@ -2498,7 +2498,7 @@
       "game": "PlayStation",
       "_src": "playstation.json",
       "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0DKFCHCYZ",
@@ -2508,7 +2508,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/81GSUXYIJOL._AC_UL300_SR300,200_.jpg",
       "price": "55,90 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0DKFCHCYZ?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:37.498377+00:00",
@@ -2519,7 +2519,7 @@
       "game": "PlayStation",
       "_src": "playstation.json",
       "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0G7L9ZPX1",
@@ -2581,8 +2581,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0FVXJ1YF8",
@@ -2644,8 +2644,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0F2TGRRRK",
@@ -2770,8 +2770,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0BTJ85MFR",
@@ -2799,7 +2799,7 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Playstation Estación de recarga DualSense - PlayStation 5",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/51r9QEJGoML._AC_UL600_SR600,400_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/51r9QEJGoML._AC_UL300_SR300,200_.jpg",
       "price": "34,23 €",
       "original_price": null,
       "status": "compra_directa",
@@ -2812,8 +2812,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B07MVF445P",
@@ -2833,8 +2833,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B01LQF9RDI",
@@ -2854,8 +2854,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B097B1ZJ5T",
@@ -2875,15 +2875,15 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B01H0CBMXO",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Electronic Arts - Titanfall 2",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81dFMnpvZpL._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81dFMnpvZpL._AC_UL600_SR600,400_.jpg",
       "price": "24,99 €",
       "original_price": null,
       "status": "compra_directa",
@@ -2896,8 +2896,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B07HSJW7HK",
@@ -2917,8 +2917,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0756HTQHJ",
@@ -2946,7 +2946,7 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Street Fighter 6 - Juego de PS4",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81ReOqOTjoL._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81ReOqOTjoL._AC_UL600_SR600,400_.jpg",
       "price": "28,60 €",
       "original_price": null,
       "status": "compra_directa",
@@ -2959,8 +2959,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B076DHYRGP",
@@ -2980,8 +2980,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B010TNVS1W",
@@ -3001,8 +3001,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B073QRG1YR",
@@ -3022,8 +3022,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B07MWXG7QV",
@@ -3043,8 +3043,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B01N0RB46X",
@@ -3064,8 +3064,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0777VJGZD",
@@ -3085,8 +3085,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B09PJ4WZWC",
@@ -3106,15 +3106,15 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0B47RKP8Z",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Juego Soul Hackers 2 PS4",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81h8Fk01pSL._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81h8Fk01pSL._AC_UL600_SR600,400_.jpg",
       "price": "11,99 €",
       "original_price": null,
       "status": "compra_directa",
@@ -3127,8 +3127,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B018YQBC1C",
@@ -3148,8 +3148,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0CM6M4YMK",
@@ -3169,8 +3169,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B07HHPX4N1",
@@ -3190,8 +3190,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B08PM4PWDY",
@@ -3211,8 +3211,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B07NRHS623",
@@ -3232,8 +3232,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B01HF8V7SI",
@@ -3253,15 +3253,15 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B01N34V82U",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Tom Clancy's Ghost Recon: Wildlands",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/61Xdf9qEe8L._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61Xdf9qEe8L._AC_UL600_SR600,400_.jpg",
       "price": "33,80 €",
       "original_price": null,
       "status": "compra_directa",
@@ -3274,8 +3274,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B07KMV94JF",
@@ -3295,8 +3295,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B077H1DFS6",
@@ -3306,7 +3306,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/51w3D9iVS1L._AC_UL300_SR300,200_.jpg",
       "price": "225,90 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B077H1DFS6?tag=enkairito-21",
       "first_seen": "2026-09-12T00:28:03.616734+00:00",
@@ -3316,8 +3316,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T02:32:09.062608+00:00",
-      "checked_at": "2026-09-26T04:32:25.805673+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B08HRLKF14",
@@ -3379,8 +3379,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B00DC267Z0",
@@ -3400,8 +3400,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B07DM6YN7G",
@@ -3421,8 +3421,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0BDFXM832",
@@ -3450,7 +3450,7 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Resident Evil Origins Collection",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71R5mXVorlS._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71R5mXVorlS._AC_UL600_SR600,400_.jpg",
       "price": "16,99 €",
       "original_price": null,
       "status": "compra_directa",
@@ -3463,8 +3463,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0CJG319N6",
@@ -3484,8 +3484,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0C3VT9TFF",
@@ -3505,15 +3505,15 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B08LBB79S4",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Final Fantasy VIII Remastered",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81bkW3d6JTL._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81bkW3d6JTL._AC_UL600_SR600,400_.jpg",
       "price": "15,99 €",
       "original_price": null,
       "status": "compra_directa",
@@ -3526,15 +3526,15 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B08M14H3GV",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "NieR Replicant PS4 ESP",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/41fmBsbcnwL._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/41fmBsbcnwL._AC_UL600_SR600,400_.jpg",
       "price": "14,99 €",
       "original_price": null,
       "status": "compra_directa",
@@ -3547,8 +3547,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0DDQ1KBNP",
@@ -3576,7 +3576,7 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Assassin's Creed Odyssey",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71OwBUHbyML._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71OwBUHbyML._AC_UL600_SR600,400_.jpg",
       "price": "24,72 €",
       "original_price": null,
       "status": "compra_directa",
@@ -3589,8 +3589,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B07V9NP59C",
@@ -3618,7 +3618,7 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Assassin's Creed III Remastered",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81Q387mvDeL._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81Q387mvDeL._AC_UL600_SR600,400_.jpg",
       "price": "25,09 €",
       "original_price": null,
       "status": "compra_directa",
@@ -3631,8 +3631,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B089BCQD3B",
@@ -3682,7 +3682,7 @@
       "flag": "🇪🇸",
       "name": "Metro Redux Double Pack (2033 + Last Light)",
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81zWbdqnxxL._AC_UL600_SR600,400_.jpg",
-      "price": "24,05 €",
+      "price": "23,99 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -3694,8 +3694,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B01LCF27VQ",
@@ -3715,8 +3715,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B01IBCJUGI",
@@ -3744,7 +3744,7 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Resident Evil Revelations HD",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81EATUAIC2L._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81EATUAIC2L._AC_UL600_SR600,400_.jpg",
       "price": "21,32 €",
       "original_price": null,
       "status": "compra_directa",
@@ -3757,8 +3757,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B00R10WZHS",
@@ -3841,8 +3841,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0CGV26PYK",
@@ -3915,7 +3915,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/91UMR0xuXSL._AC_UL300_SR300,200_.jpg",
       "price": "19,98 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B07D9TFK6W?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:37.499924+00:00",
@@ -3926,17 +3926,17 @@
       "game": "PlayStation",
       "_src": "playstation.json",
       "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B07KZS61P5",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "NieR: Automata Game of the YoRHa Edition (PlayStation PS4)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/81qPnOYFLBL._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81qPnOYFLBL._AC_UL600_SR600,400_.jpg",
       "price": "20,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B07KZS61P5?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:37.499933+00:00",
@@ -3946,8 +3946,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-21T04:32:59.332292+00:00",
-      "checked_at": "2026-09-22T16:31:43.343689+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B07TJKC245",
@@ -3978,7 +3978,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/811RFkZnu5L._AC_UL600_SR600,400_.jpg",
       "price": "47,58 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0CVHGPF4Z?tag=enkairito-21",
       "first_seen": "2026-09-17T00:32:37.499956+00:00",
@@ -3989,7 +3989,7 @@
       "game": "PlayStation",
       "_src": "playstation.json",
       "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0792TCXTP",
@@ -4030,8 +4030,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0FP2GZTKP",
@@ -4261,8 +4261,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0DHZW9R6Z",
@@ -4345,8 +4345,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B08L7P34GY",
@@ -4374,7 +4374,7 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Ghost Of Tsushima (PS4)",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61i963poqhL._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61i963poqhL._AC_UL600_SR600,400_.jpg",
       "price": "27,88 €",
       "original_price": null,
       "status": "compra_directa",
@@ -4387,8 +4387,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B07W7KWV2Y",
@@ -4408,8 +4408,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B09NM9DTTC",
@@ -4419,7 +4419,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/71Aw5mUX4BL._AC_UL300_SR300,200_.jpg",
       "price": "32,99 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B09NM9DTTC?tag=enkairito-21",
       "first_seen": "2026-09-17T14:31:53.613125+00:00",
@@ -4429,8 +4429,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-25T18:31:59.630281+00:00",
-      "checked_at": "2026-09-25T20:31:49.103694+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0BGPZ3FWZ",
@@ -4471,8 +4471,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B09DB18C5F",
@@ -4482,7 +4482,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/81DRdLgWr9L._AC_UL300_SR300,200_.jpg",
       "price": "25,48 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B09DB18C5F?tag=enkairito-21",
       "first_seen": "2026-09-17T15:58:54.214590+00:00",
@@ -4492,8 +4492,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T02:32:09.062608+00:00",
-      "checked_at": "2026-09-26T04:32:25.805673+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B00LA5LSR8",
@@ -4501,9 +4501,9 @@
       "flag": "🇪🇸",
       "name": "Assassin's Creed IV: Black Flag",
       "image": "https://images-eu.ssl-images-amazon.com/images/I/915xVjsO3iL._AC_UL300_SR300,200_.jpg",
-      "price": "28,90 €",
+      "price": "21,42 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B00LA5LSR8?tag=enkairito-21",
       "first_seen": "2026-09-17T15:58:54.214850+00:00",
@@ -4513,8 +4513,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-20T02:31:51.950628+00:00",
-      "checked_at": "2026-09-20T04:31:50.450913+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B079WVCY1B",
@@ -4639,8 +4639,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0CJG3TYMZ",
@@ -4648,9 +4648,9 @@
       "flag": "🇪🇸",
       "name": "Shadow of the Tomb Raider Definitive Edition",
       "image": "https://images-eu.ssl-images-amazon.com/images/I/71sDDTqggIL._AC_UL300_SR300,200_.jpg",
-      "price": "15,86 €",
+      "price": "16,87 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0CJG3TYMZ?tag=enkairito-21",
       "first_seen": "2026-09-18T06:31:41.555268+00:00",
@@ -4660,8 +4660,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-18T06:31:41.558118+00:00",
-      "checked_at": "2026-09-18T08:31:20.991282+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0D669NGW7",
@@ -4723,8 +4723,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0C56Z5MX1",
@@ -4744,8 +4744,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0D2RMWHRF",
@@ -4836,7 +4836,7 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Five Nights at Freddy'S. Core Collection",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/71GlrpJ5xRL._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71GlrpJ5xRL._AC_UL600_SR600,400_.jpg",
       "price": "23,34 €",
       "original_price": null,
       "status": "compra_directa",
@@ -4849,8 +4849,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B07XGCBJPH",
@@ -4891,8 +4891,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0GPDBG8G5",
@@ -4986,7 +4986,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/81vqK9X0C1L._AC_UL300_SR300,200_.jpg",
       "price": "47,99 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0H7J35TM9?tag=enkairito-21",
       "first_seen": "2026-09-19T12:31:57.651129+00:00",
@@ -4997,7 +4997,7 @@
       "game": "PlayStation",
       "_src": "playstation.json",
       "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0H4HBDNT1",
@@ -5130,7 +5130,7 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Playstation Marvel's Spider-Man 2",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/810mqhjfWhL._AC_UL600_SR600,400_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/810mqhjfWhL._AC_UL300_SR300,200_.jpg",
       "price": "40,89 €",
       "original_price": null,
       "status": "compra_directa",
@@ -5143,8 +5143,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0FFTLLS8R",
@@ -5172,10 +5172,10 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Ace Combat 8: Wings Of Theve",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/713gQ6wX2aL._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/713gQ6wX2aL._AC_UL600_SR600,400_.jpg",
       "price": "69,90 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0H418D6GM?tag=enkairito-21",
       "first_seen": "2026-09-19T14:32:21.326655+00:00",
@@ -5185,18 +5185,18 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-24T12:31:51.830999+00:00",
-      "checked_at": "2026-09-24T16:31:35.363119+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B084458Q16",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Capitain Tsubasa: Rise of New Champion",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/81lWi62i2UL._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81lWi62i2UL._AC_UL600_SR600,400_.jpg",
       "price": "20,75 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B084458Q16?tag=enkairito-21",
       "first_seen": "2026-09-19T14:32:21.327042+00:00",
@@ -5206,8 +5206,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-23T10:31:49.598360+00:00",
-      "checked_at": "2026-09-23T12:32:02.403251+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B07XL43NNL",
@@ -5427,7 +5427,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81Q1D7hud6L._AC_UL600_SR600,400_.jpg",
       "price": "22,80 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B09NQV6TLD?tag=enkairito-21",
       "first_seen": "2026-09-20T12:31:34.022906+00:00",
@@ -5437,8 +5437,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-25T06:33:11.600043+00:00",
-      "checked_at": "2026-09-25T08:32:16.630771+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B09FV343B4",
@@ -5466,10 +5466,10 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "The Crew 2 - Edición Estándar",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/71Yl2s3HxaL._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71Yl2s3HxaL._AC_UL300_SR300,200_.jpg",
       "price": "23,24 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B072QXPN1S?tag=enkairito-21",
       "first_seen": "2026-09-20T12:31:34.023009+00:00",
@@ -5479,8 +5479,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-21T04:32:59.332292+00:00",
-      "checked_at": "2026-09-22T16:31:43.343689+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B09WY1Z2QB",
@@ -5595,7 +5595,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61h7VjYt-fL._AC_UL600_SR600,400_.jpg",
       "price": "663,99 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0FN7ZG39D?tag=enkairito-21",
       "first_seen": "2026-09-20T14:31:41.680065+00:00",
@@ -5606,7 +5606,7 @@
       "game": "PlayStation",
       "_src": "playstation.json",
       "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0FJXWB78M",
@@ -5676,7 +5676,7 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Arcade1Up X-Men Stool",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71mvqdit0OL._AC_UL600_SR600,400_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71mvqdit0OL._AC_UL300_SR300,200_.jpg",
       "price": "99,99 €",
       "original_price": null,
       "status": "compra_directa",
@@ -5689,8 +5689,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0CM28TCD7",
@@ -5710,8 +5710,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0H33TT5FT",
@@ -5868,7 +5868,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81Et9yuqjcL._AC_UL600_SR600,400_.jpg",
       "price": "27,35 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B07D1WG57C?tag=enkairito-21",
       "first_seen": "2026-09-22T16:31:43.341417+00:00",
@@ -5879,7 +5879,7 @@
       "game": "PlayStation",
       "_src": "playstation.json",
       "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B09GYHZXZB",
@@ -5887,9 +5887,9 @@
       "flag": "🇪🇸",
       "name": "Farming Simulator 22 - PlayStation 4",
       "image": "https://images-eu.ssl-images-amazon.com/images/I/61FQqTnIdaL._AC_UL300_SR300,200_.jpg",
-      "price": "30,85 €",
+      "price": "28,00 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B09GYHZXZB?tag=enkairito-21",
       "first_seen": "2026-09-22T16:31:43.341423+00:00",
@@ -5899,8 +5899,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-25T06:33:11.600043+00:00",
-      "checked_at": "2026-09-25T08:32:16.630771+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0CF2PVV1D",
@@ -5949,10 +5949,10 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Red Dead Redemption 2",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/81UfsmVaUjL._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81UfsmVaUjL._AC_UL300_SR300,200_.jpg",
       "price": "27,47 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0776YMQN1?tag=enkairito-21",
       "first_seen": "2026-09-22T18:31:38.450032+00:00",
@@ -5962,8 +5962,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-22T18:31:38.453462+00:00",
-      "checked_at": "2026-09-22T20:31:34.283862+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B07R9YY7M2",
@@ -5973,7 +5973,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/71Jnq+0SBRL._AC_UL300_SR300,200_.jpg",
       "price": "29,90 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B07R9YY7M2?tag=enkairito-21",
       "first_seen": "2026-09-22T20:31:34.280572+00:00",
@@ -5983,8 +5983,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T02:32:09.062608+00:00",
-      "checked_at": "2026-09-26T04:32:25.805673+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0HJX7DCCC",
@@ -5994,7 +5994,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/81RvUIkRCaL._AC_UL300_SR300,200_.jpg",
       "price": "39,99 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0HJX7DCCC?tag=enkairito-21",
       "first_seen": "2026-09-23T12:32:02.398938+00:00",
@@ -6005,7 +6005,7 @@
       "game": "PlayStation",
       "_src": "playstation.json",
       "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0GZ45D83C",
@@ -6025,8 +6025,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0HJQXKD1V",
@@ -6057,7 +6057,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81fMdxS0ceL._AC_UL600_SR600,400_.jpg",
       "price": "49,99 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0HJH5LHKN?tag=enkairito-21",
       "first_seen": "2026-09-23T12:32:02.399086+00:00",
@@ -6068,7 +6068,7 @@
       "game": "PlayStation",
       "_src": "playstation.json",
       "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0D4QNH5RL",
@@ -6099,7 +6099,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/71QCDEEwSgL._AC_UL300_SR300,200_.jpg",
       "price": "32,28 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B018209X7U?tag=enkairito-21",
       "first_seen": "2026-09-23T12:32:02.399521+00:00",
@@ -6110,7 +6110,7 @@
       "game": "PlayStation",
       "_src": "playstation.json",
       "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B091CDGP76",
@@ -6244,9 +6244,9 @@
       "flag": "🇪🇸",
       "name": "Assassin's Creed Black Flag Resynced Standard Edition (PS5)",
       "image": "https://images-eu.ssl-images-amazon.com/images/I/81GwM8-O4sL._AC_UL300_SR300,200_.jpg",
-      "price": "56,99 €",
+      "price": "56,90 €",
       "original_price": null,
-      "status": "sin_confirmar",
+      "status": "compra_directa",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0GXL8QVM6?tag=enkairito-21",
       "first_seen": "2026-09-12T06:27:48.504534+00:00",
@@ -6256,8 +6256,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-25T12:32:16.203968+00:00",
-      "checked_at": "2026-09-25T14:31:52.744308+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0GXFFJ72J",
@@ -6327,7 +6327,7 @@
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "KIWIHOME Ventilador para PS5 Slim, 3 Grandes Ventiladores, Velocidad Auto | Para PS5 Slim Disc/Digital 2023 con 1 Línea Horizontal. No Apto para PS5 2020 o Pro 2024, Negro & Blanco",
-      "image": "https://images-eu.ssl-images-amazon.com/images/I/71Dfx7Y0CrL._AC_UL300_SR300,200_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71Dfx7Y0CrL._AC_UL600_SR600,400_.jpg",
       "price": "28,99 €",
       "original_price": null,
       "status": "compra_directa",
@@ -6340,8 +6340,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B00YY00FLG",
@@ -6445,15 +6445,15 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B0H6XTP84C",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
       "name": "Dragon's Dogma 2 Dark Arisen - PS5",
-      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/814TpoxL7iL._AC_UL600_SR600,400_.jpg",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/814TpoxL7iL._AC_UL300_SR300,200_.jpg",
       "price": "44,90 €",
       "original_price": null,
       "status": "compra_directa",
@@ -6466,8 +6466,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B01649IVI8",
@@ -6498,7 +6498,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/81KDDPAKJcL._AC_UL300_SR300,200_.jpg",
       "price": "94,46 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B0H41JRRVF?tag=enkairito-21",
       "first_seen": "2026-09-25T08:32:16.626510+00:00",
@@ -6509,7 +6509,7 @@
       "game": "PlayStation",
       "_src": "playstation.json",
       "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B07HKJQSGR",
@@ -6529,8 +6529,8 @@
       ],
       "game": "PlayStation",
       "_src": "playstation.json",
-      "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B08BD8CVJ2",
@@ -6540,7 +6540,7 @@
       "image": "https://images-eu.ssl-images-amazon.com/images/I/81h4tIf4zqL._AC_UL300_SR300,200_.jpg",
       "price": "37,29 €",
       "original_price": null,
-      "status": "compra_directa",
+      "status": "sin_confirmar",
       "stock": null,
       "link": "https://www.amazon.es/dp/B08BD8CVJ2?tag=enkairito-21",
       "first_seen": "2026-09-25T08:32:16.626878+00:00",
@@ -6551,7 +6551,7 @@
       "game": "PlayStation",
       "_src": "playstation.json",
       "last_seen": "2026-09-26T06:32:14.568488+00:00",
-      "checked_at": "2026-09-26T06:32:14.568488+00:00"
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     },
     {
       "asin": "B07K11MSQ6",
@@ -6657,6 +6657,216 @@
       "_src": "playstation.json",
       "last_seen": "2026-09-25T14:31:52.744308+00:00",
       "checked_at": "2026-09-25T16:31:54.166635+00:00"
+    },
+    {
+      "asin": "B0DHYJKW6J",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Juego PS5 Horizon Zero Dawn Remastered",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/91ExjfIKU0L._AC_UL600_SR600,400_.jpg",
+      "price": "28,79 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DHYJKW6J?tag=enkairito-21",
+      "first_seen": "2026-09-26T08:32:22.749941+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation",
+      "_src": "playstation.json",
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
+    },
+    {
+      "asin": "B0CTTNWZCM",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "PlayStation 5- Stellar Blade™",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81pXimXdijL._AC_UL600_SR600,400_.jpg",
+      "price": "44,90 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CTTNWZCM?tag=enkairito-21",
+      "first_seen": "2026-09-26T08:32:22.750038+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation",
+      "_src": "playstation.json",
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
+    },
+    {
+      "asin": "B0G44JSRH1",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Fatal Frame II: Crimson Butterfly Remake",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81EAvtpodAL._AC_UL600_SR600,400_.jpg",
+      "price": "36,24 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0G44JSRH1?tag=enkairito-21",
+      "first_seen": "2026-09-26T08:32:22.750069+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation",
+      "_src": "playstation.json",
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
+    },
+    {
+      "asin": "B0DV9GFNZ3",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Asterix Maxi Collection - PS5",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81dB97sdRNL._AC_UL600_SR600,400_.jpg",
+      "price": "29,57 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DV9GFNZ3?tag=enkairito-21",
+      "first_seen": "2026-09-26T08:32:22.750109+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation",
+      "_src": "playstation.json",
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
+    },
+    {
+      "asin": "B08B285TM4",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Playstation Demon's Souls",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/81szAXdCKHL._AC_UL300_SR300,200_.jpg",
+      "price": "36,99 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B08B285TM4?tag=enkairito-21",
+      "first_seen": "2026-09-26T08:32:22.750144+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation",
+      "_src": "playstation.json",
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
+    },
+    {
+      "asin": "B0CP86RB95",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "The Last Of Us Part II (Remasterizado)",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/819siR3gQOL._AC_UL300_SR300,200_.jpg",
+      "price": "28,95 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CP86RB95?tag=enkairito-21",
+      "first_seen": "2026-09-26T08:32:22.750165+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation",
+      "_src": "playstation.json",
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
+    },
+    {
+      "asin": "B0B83ZCBV2",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Joe and Mac Caveman Ninja T-Rex Edition limitada, Playstation 4",
+      "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71cQxHa-SXL._AC_UL600_SR600,400_.jpg",
+      "price": "24,50 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0B83ZCBV2?tag=enkairito-21",
+      "first_seen": "2026-09-26T08:32:22.750412+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation",
+      "_src": "playstation.json",
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
+    },
+    {
+      "asin": "B08FF86PL3",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Nascar Heat 5 (PS4)",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71L8hU5oR0L._AC_UL300_SR300,200_.jpg",
+      "price": "18,77 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B08FF86PL3?tag=enkairito-21",
+      "first_seen": "2026-09-26T08:32:22.750556+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation",
+      "_src": "playstation.json",
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
+    },
+    {
+      "asin": "B07DHJSP12",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Wreckfest - PS4",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/818PKU7qijL._AC_UL300_SR300,200_.jpg",
+      "price": "20,40 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B07DHJSP12?tag=enkairito-21",
+      "first_seen": "2026-09-26T08:32:22.750568+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation",
+      "_src": "playstation.json",
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
+    },
+    {
+      "asin": "B09CZSDDZ7",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Marvel's Guardians of the Galaxy (PS4)",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/81Beb3wcGzL._AC_UL300_SR300,200_.jpg",
+      "price": "21,79 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B09CZSDDZ7?tag=enkairito-21",
+      "first_seen": "2026-09-26T08:32:22.750578+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Videojuego"
+      ],
+      "game": "PlayStation",
+      "_src": "playstation.json",
+      "last_seen": "2026-09-26T08:32:22.754444+00:00",
+      "checked_at": "2026-09-26T08:32:22.754444+00:00"
     }
   ]
 }
