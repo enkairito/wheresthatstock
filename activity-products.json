@@ -1,74 +1,5 @@
 [
   {
-    "asin": "B0GR6Q72ND",
-    "store_label": "Amazon USA",
-    "flag": "🇺🇸",
-    "name": "Pokémon TCG: Mega Evolution—Chaos Rising Booster Bundle",
-    "image": "https://m.media-amazon.com/images/I/81pdaHp6Q1L._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "67,14 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0GR6Q72ND?tag=enkairito-21",
-    "first_seen": "2026-08-30T20:46:19.644837+00:00",
-    "marketplace": "US",
-    "categories": [
-      "Otros"
-    ],
-    "game": "Pokémon",
-    "ts": "2026-09-25T18:23:52.182555+00:00",
-    "type": "restock",
-    "prev_price": "67,14 €",
-    "_src": "products.json",
-    "id": "US-B0GR6Q72ND:2026-09-25T18:23:52.182555+00:00:restock"
-  },
-  {
-    "asin": "B09M48Z5NW",
-    "store_label": "Amazon UK",
-    "flag": "🇬🇧",
-    "name": "Pokemon TCG: V Battle Deck: Lycanroc vs. Corviknight",
-    "image": "https://m.media-amazon.com/images/I/71fYchuNuOL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "54,97 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": "4",
-    "link": "https://www.amazon.es/dp/B09M48Z5NW?tag=enkairito-21",
-    "first_seen": "2026-09-08T14:34:56.335876+00:00",
-    "marketplace": "UK",
-    "categories": [
-      "Otros"
-    ],
-    "game": "Pokémon",
-    "ts": "2026-09-25T18:43:41.611025+00:00",
-    "type": "restock",
-    "prev_price": "54,97 €",
-    "_src": "products.json",
-    "id": "UK-B09M48Z5NW:2026-09-25T18:43:41.611025+00:00:restock"
-  },
-  {
-    "asin": "B0GXJ8CSTY",
-    "store_label": "Amazon USA",
-    "flag": "🇺🇸",
-    "name": "Pokémon TCG: Colección Premium Mega Greninja ex (1 Tarjeta Promocional Brillante, 1 Tarjeta lenticular de Gran tamaño y 8 Paquetes de Refuerzo)",
-    "image": "https://m.media-amazon.com/images/I/91E+9GLiyyL._AC_AIweblab1378949,T3_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
-    "price": "76,23 €",
-    "original_price": "82,49 €",
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B0GXJ8CSTY?tag=enkairito-21",
-    "first_seen": "2026-08-30T20:46:19.644858+00:00",
-    "marketplace": "US",
-    "categories": [
-      "Colecciones premium"
-    ],
-    "game": "Pokémon",
-    "ts": "2026-09-25T18:43:41.611025+00:00",
-    "type": "restock",
-    "prev_price": "78,70 €",
-    "_src": "products.json",
-    "id": "US-B0GXJ8CSTY:2026-09-25T18:43:41.611025+00:00:restock"
-  },
-  {
     "asin": "B0GF4B15PX",
     "store_label": "Amazon USA",
     "flag": "🇺🇸",
@@ -4598,5 +4529,74 @@
     "prev_price": "98,08 €",
     "_src": "products.json",
     "id": "UK-B0FLP56YW2:2026-09-26T03:24:07.101065+00:00:restock"
+  },
+  {
+    "asin": "B0CTKXY3Q4",
+    "store_label": "Amazon UK",
+    "flag": "🇬🇧",
+    "name": "Pokemon TCG Scarlet & Violet 5: Temporal Forces Booster Pack",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71jf1hrUdYL._AC_UL320_.jpg",
+    "price": "24,54 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0CTKXY3Q4?tag=enkairito-21",
+    "first_seen": "2026-09-04T21:32:58.802789+00:00",
+    "marketplace": "UK",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-26T03:43:57.270155+00:00",
+    "type": "restock",
+    "prev_price": "24,54 €",
+    "_src": "products.json",
+    "id": "UK-B0CTKXY3Q4:2026-09-26T03:43:57.270155+00:00:restock"
+  },
+  {
+    "asin": "B0DH53TQCC",
+    "store_label": "Amazon UK",
+    "flag": "🇬🇧",
+    "name": "Pokemon Scarlet & Violet Stellar Crown Booster Pack",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71O6VBum4bL._AC_UL320_.jpg",
+    "price": "18,62 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0DH53TQCC?tag=enkairito-21",
+    "first_seen": "2026-09-04T22:05:43.537215+00:00",
+    "marketplace": "UK",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-26T03:43:57.270155+00:00",
+    "type": "restock",
+    "prev_price": "18,62 €",
+    "_src": "products.json",
+    "id": "UK-B0DH53TQCC:2026-09-26T03:43:57.270155+00:00:restock"
+  },
+  {
+    "asin": "B0G5S61BHK",
+    "store_label": "Amazon USA",
+    "flag": "🇺🇸",
+    "name": "Pokémon TCG: Mega Charizard Tin - Mega Charizard X ex (4 potenciadores y 1 Tarjeta Promocional de Aluminio)",
+    "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81nGH9w+H3L._AC_UL320_.jpg",
+    "price": "83,25 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0G5S61BHK?tag=enkairito-21",
+    "first_seen": "2026-09-04T21:32:58.802892+00:00",
+    "marketplace": "US",
+    "categories": [
+      "Otros"
+    ],
+    "game": "Pokémon",
+    "ts": "2026-09-26T03:43:57.270155+00:00",
+    "type": "restock",
+    "prev_price": "83,18 €",
+    "_src": "products.json",
+    "id": "US-B0G5S61BHK:2026-09-26T03:43:57.270155+00:00:restock"
   }
 ]
