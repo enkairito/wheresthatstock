@@ -1,28 +1,5 @@
 [
   {
-    "asin": "B098RJXBTY",
-    "store_label": "Amazon ES",
-    "flag": "🇪🇸",
-    "name": "Nintendo Switch (versión OLED) Blanca",
-    "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71eVf1+jn6L._AC_UL600_SR600,400_.jpg",
-    "price": "316,00 €",
-    "original_price": null,
-    "status": "compra_directa",
-    "stock": null,
-    "link": "https://www.amazon.es/dp/B098RJXBTY?tag=enkairito-21",
-    "first_seen": "2026-09-17T00:32:50.688704+00:00",
-    "marketplace": "ES",
-    "categories": [
-      "Videojuego"
-    ],
-    "game": "Nintendo",
-    "ts": "2026-09-24T12:31:58.599964+00:00",
-    "type": "restock",
-    "prev_price": "316,00 €",
-    "_src": "nintendo.json",
-    "id": "ES-B098RJXBTY:2026-09-24T12:31:58.599964+00:00:restock"
-  },
-  {
     "asin": "B08GZ3DRLW",
     "store_label": "Amazon ES",
     "flag": "🇪🇸",
@@ -4598,5 +4575,28 @@
     "prev_price": "344,99 €",
     "_src": "nintendo.json",
     "id": "ES-B09J1NFWN7:2026-09-25T22:31:43.022009+00:00:restock"
+  },
+  {
+    "asin": "B0H4RTWHD5",
+    "store_label": "Amazon ES",
+    "flag": "🇪🇸",
+    "name": "Xenoblade Chronicles 2 - Nintendo Switch 2",
+    "image": "https://images-eu.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81WeOgL0maL._AC_UL600_SR600,400_.jpg",
+    "price": "59,90 €",
+    "original_price": null,
+    "status": "compra_directa",
+    "stock": null,
+    "link": "https://www.amazon.es/dp/B0H4RTWHD5?tag=enkairito-21",
+    "first_seen": "2026-09-17T00:32:50.318936+00:00",
+    "marketplace": "ES",
+    "categories": [
+      "Videojuego"
+    ],
+    "game": "Nintendo",
+    "ts": "2026-09-26T00:31:28.635433+00:00",
+    "type": "restock",
+    "prev_price": "59,90 €",
+    "_src": "nintendo.json",
+    "id": "ES-B0H4RTWHD5:2026-09-26T00:31:28.635433+00:00:restock"
   }
 ]
