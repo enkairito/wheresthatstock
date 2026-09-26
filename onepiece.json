@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T23:07:05.076414+00:00",
+  "updated_at": "2026-09-26T00:06:48.284518+00:00",
   "products": [
     {
       "asin": "B0F1SJY5S3",
@@ -7,7 +7,7 @@
       "flag": "🇪🇸",
       "name": "The Best Vol. 2 Premium Booster Box PRB-02 (10) – Juego de cartas de One Piece – JP",
       "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61q8z2yzGFL._AC_UL320_.jpg",
-      "price": "127,75 €",
+      "price": "128,37 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -25,10 +25,10 @@
       "flag": "🇪🇸",
       "name": "One Piece TCG: Double Pack Set Vol. 10 (DP-10) - Adventure of Kami's Island (2 Paquetes)",
       "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/6149SXXRkfL._AC_UL320_.jpg",
-      "price": "69,07 €",
+      "price": "69,62 €",
       "original_price": null,
       "status": "compra_directa",
-      "stock": "1",
+      "stock": null,
       "link": "https://www.amazon.es/dp/B0GW9TXS1Q?tag=enkairito-21",
       "first_seen": "2026-08-29T18:09:04.551067+00:00",
       "marketplace": "ES",
@@ -74,24 +74,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0DZ25YM9N",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "One Piece TCG Starter Deck EX: Gear 5 (ST21) - 51 Cartas, Mangas, Paquete de bonificación",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/6183E7DpPeL._AC_UL320_.jpg",
-      "price": "90,58 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0DZ25YM9N?tag=enkairito-21",
-      "first_seen": "2026-09-03T14:54:32.874380+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Otros"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0CRY385YN",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -106,6 +88,24 @@
       "marketplace": "ES",
       "categories": [
         "Booster Box"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0DZ25YM9N",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "One Piece TCG Starter Deck EX: Gear 5 (ST21) - 51 Cartas, Mangas, Paquete de bonificación",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/6183E7DpPeL._AC_UL320_.jpg",
+      "price": "90,58 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0DZ25YM9N?tag=enkairito-21",
+      "first_seen": "2026-09-03T14:54:32.874380+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Otros"
       ],
       "game": "One Piece"
     },
@@ -182,24 +182,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0HC7Q9P41",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Juego de cartas de una pieza ST-35 rojo y negro Sabo | Baraja de inicio, ST-35, rojo y negro, Sabo, juego de cartas coleccionables",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61FYUZUbUoL._AC_UL320_.jpg",
-      "price": "26,00 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": "2",
-      "link": "https://www.amazon.es/dp/B0HC7Q9P41?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:08:37.714905+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Starter Deck"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0G2VKBZML",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -214,6 +196,24 @@
       "marketplace": "ES",
       "categories": [
         "Booster Box"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0HC7Q9P41",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Juego de cartas de una pieza ST-35 rojo y negro Sabo | Baraja de inicio, ST-35, rojo y negro, Sabo, juego de cartas coleccionables",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61FYUZUbUoL._AC_UL320_.jpg",
+      "price": "26,00 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": "2",
+      "link": "https://www.amazon.es/dp/B0HC7Q9P41?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:08:37.714905+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Starter Deck"
       ],
       "game": "One Piece"
     },
@@ -290,24 +290,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0CGR4P859",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Awakening of the New Era Booster Pack OP-05 - One Piece Juego de Cartas - JP",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81UaMJMtddL._AC_UL320_.jpg",
-      "price": "38,51 €",
-      "original_price": null,
-      "status": "compra_directa",
-      "stock": null,
-      "link": "https://www.amazon.es/dp/B0CGR4P859?tag=enkairito-21",
-      "first_seen": "2026-08-29T18:09:47.272890+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Sobre"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0HC79T34C",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -322,6 +304,24 @@
       "marketplace": "ES",
       "categories": [
         "Starter Deck"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0CGR4P859",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Awakening of the New Era Booster Pack OP-05 - One Piece Juego de Cartas - JP",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/81UaMJMtddL._AC_UL320_.jpg",
+      "price": "38,51 €",
+      "original_price": null,
+      "status": "compra_directa",
+      "stock": null,
+      "link": "https://www.amazon.es/dp/B0CGR4P859?tag=enkairito-21",
+      "first_seen": "2026-08-29T18:09:47.272890+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Sobre"
       ],
       "game": "One Piece"
     },
