@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T07:07:31.457228+00:00",
+  "updated_at": "2026-09-26T08:07:46.322273+00:00",
   "products": [
     {
       "asin": "B0F1SJY5S3",
@@ -7,7 +7,7 @@
       "flag": "🇪🇸",
       "name": "The Best Vol. 2 Premium Booster Box PRB-02 (10) – Juego de cartas de One Piece – JP",
       "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61q8z2yzGFL._AC_UL320_.jpg",
-      "price": "126,47 €",
+      "price": "127,07 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
@@ -200,24 +200,6 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0HC7DT1ZY",
-      "store_label": "Amazon ES",
-      "flag": "🇪🇸",
-      "name": "Juego de cartas de una pieza Starter Deck ST-36 amarillo Eustass Captain Kid",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61+m2OBn-EL._AC_UL320_.jpg",
-      "price": "27,00 €",
-      "original_price": "40,01 €",
-      "status": "compra_directa",
-      "stock": "4",
-      "link": "https://www.amazon.es/dp/B0HC7DT1ZY?tag=enkairito-21",
-      "first_seen": "2026-09-08T09:40:16.326555+00:00",
-      "marketplace": "ES",
-      "categories": [
-        "Starter Deck"
-      ],
-      "game": "One Piece"
-    },
-    {
       "asin": "B0G2VKBZML",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
@@ -232,6 +214,24 @@
       "marketplace": "ES",
       "categories": [
         "Booster Box"
+      ],
+      "game": "One Piece"
+    },
+    {
+      "asin": "B0HC7DT1ZY",
+      "store_label": "Amazon ES",
+      "flag": "🇪🇸",
+      "name": "Juego de cartas de una pieza Starter Deck ST-36 amarillo Eustass Captain Kid",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/61+m2OBn-EL._AC_UL320_.jpg",
+      "price": "27,00 €",
+      "original_price": "40,01 €",
+      "status": "compra_directa",
+      "stock": "4",
+      "link": "https://www.amazon.es/dp/B0HC7DT1ZY?tag=enkairito-21",
+      "first_seen": "2026-09-08T09:40:16.326555+00:00",
+      "marketplace": "ES",
+      "categories": [
+        "Starter Deck"
       ],
       "game": "One Piece"
     },
@@ -434,20 +434,20 @@
       "game": "One Piece"
     },
     {
-      "asin": "B0H6CBCB3B",
+      "asin": "B0G6J9VPN2",
       "store_label": "Amazon ES",
       "flag": "🇪🇸",
-      "name": "The Time of Battle OP-16 - Juego de cartas coleccionables de una sola pieza DP-11",
-      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/71VEwowWVoL._AC_UL320_.jpg",
-      "price": "166,72 €",
+      "name": "Banai One Piece Start Deck EX Luffy & Ace - Juego de cartas (ST-30)",
+      "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T3/images/I/91LyJj+6BZL._AC_UL320_.jpg",
+      "price": "113,63 €",
       "original_price": null,
       "status": "compra_directa",
       "stock": null,
-      "link": "https://www.amazon.es/dp/B0H6CBCB3B?tag=enkairito-21",
-      "first_seen": "2026-09-18T10:06:21.592603+00:00",
+      "link": "https://www.amazon.es/dp/B0G6J9VPN2?tag=enkairito-21",
+      "first_seen": "2026-09-18T07:06:05.028651+00:00",
       "marketplace": "ES",
       "categories": [
-        "Double Pack"
+        "Starter Deck"
       ],
       "game": "One Piece"
     }
